@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Liberation for Whom</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>These 6 talks give the true meaning of the word Liberation and tell us who can really seek and attain liberation.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Liberation For Whom 01</title>
+            <itunes:subtitle>Liberation For Whom 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/LiberationForWhom/LW_01_Liberation_For_whom.mp3" length="7182500" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:03 -0000</pubDate>
+            <itunes:duration>0:59:51</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Liberation For Whom 02</title>
+            <itunes:subtitle>Liberation For Whom 02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/LiberationForWhom/LW_02_Liberation_For_whom.mp3" length="7099432" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:03 -0000</pubDate>
+            <itunes:duration>0:59:09</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>Liberation For Whom 03</title>
+            <itunes:subtitle>Liberation For Whom 03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/LiberationForWhom/LW_03_Liberation_For_whom.mp3" length="6937264" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:03 -0000</pubDate>
+            <itunes:duration>0:57:48</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>Liberation For Whom 04</title>
+            <itunes:subtitle>Liberation For Whom 04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/LiberationForWhom/LW_04_Liberation_For_whom.mp3" length="6941233" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:03 -0000</pubDate>
+            <itunes:duration>0:57:50</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>Liberation For Whom 05</title>
+            <itunes:subtitle>Liberation For Whom 05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/LiberationForWhom/LW_05_Liberation_For_whom.mp3" length="6990867" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:03 -0000</pubDate>
+            <itunes:duration>0:58:15</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>Liberation For Whom 06</title>
+            <itunes:subtitle>Liberation For Whom 06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/LiberationForWhom/LW_06_Liberation_For_whom.mp3" length="7035693" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:03 -0000</pubDate>
+            <itunes:duration>0:58:37</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

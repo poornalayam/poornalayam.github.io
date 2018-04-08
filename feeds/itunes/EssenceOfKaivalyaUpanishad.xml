@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Essence of Kaivalya Upanishad</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>Essence of Kaivalya Upanishad</itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Essence_Of_Kaivalya_Upanishad_01</title>
+            <itunes:subtitle>Essence_Of_Kaivalya_Upanishad_01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKaivalyaUpanishad/Essence_Of_Kaivalya_Upanishad_01.mp3" length="6993432" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:46 -0000</pubDate>
+            <itunes:duration>0:58:16</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Essence_Of_Kaivalya_Upanishad_02</title>
+            <itunes:subtitle>Essence_Of_Kaivalya_Upanishad_02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKaivalyaUpanishad/Essence_Of_Kaivalya_Upanishad_02.mp3" length="7176186" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:46 -0000</pubDate>
+            <itunes:duration>0:59:48</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>Essence_Of_Kaivalya_Upanishad_03</title>
+            <itunes:subtitle>Essence_Of_Kaivalya_Upanishad_03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKaivalyaUpanishad/Essence_Of_Kaivalya_Upanishad_03.mp3" length="7133030" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:46 -0000</pubDate>
+            <itunes:duration>0:59:26</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>Essence_Of_Kaivalya_Upanishad_04</title>
+            <itunes:subtitle>Essence_Of_Kaivalya_Upanishad_04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKaivalyaUpanishad/Essence_Of_Kaivalya_Upanishad_04.mp3" length="6999911" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:46 -0000</pubDate>
+            <itunes:duration>0:58:19</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>Essence_Of_Kaivalya_Upanishad_05</title>
+            <itunes:subtitle>Essence_Of_Kaivalya_Upanishad_05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKaivalyaUpanishad/Essence_Of_Kaivalya_Upanishad_05.mp3" length="7093010" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:46 -0000</pubDate>
+            <itunes:duration>0:59:06</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>Essence_Of_Kaivalya_Upanishad_06</title>
+            <itunes:subtitle>Essence_Of_Kaivalya_Upanishad_06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKaivalyaUpanishad/Essence_Of_Kaivalya_Upanishad_06.mp3" length="6972220" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:46 -0000</pubDate>
+            <itunes:duration>0:58:06</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

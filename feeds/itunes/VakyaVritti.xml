@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Vakya Vritti</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>This text written by Shankaracharya explains the meaning of the Mahavakya "Tat tvam asi".  The 15 talks explain, in detail, the verses of this text.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Vakya Vritti 01</title>
+            <itunes:subtitle>Vakya Vritti 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_01_Vakya_Vrtti.mp3" length="6383131" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:53:11</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 02</title>
+            <itunes:subtitle>Vakya Vritti 02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_02_Vakya_Vrtti.mp3" length="6406745" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:53:23</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 03</title>
+            <itunes:subtitle>Vakya Vritti 03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_03_Vakya_Vrtti.mp3" length="6998262" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:58:19</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 04</title>
+            <itunes:subtitle>Vakya Vritti 04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_04_Vakya_Vrtti.mp3" length="6751248" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:56:15</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 05</title>
+            <itunes:subtitle>Vakya Vritti 05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_05_Vakya_Vrtti.mp3" length="6500264" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:54:10</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 06</title>
+            <itunes:subtitle>Vakya Vritti 06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_06_Vakya_Vrtti.mp3" length="6786879" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:56:33</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 07</title>
+            <itunes:subtitle>Vakya Vritti 07</itunes:subtitle>
+            <itunes:summary>Class 007</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_07_Vakya_Vrtti.mp3" length="6782177" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:56:31</itunes:duration>
+            <itunes:order>7</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 08</title>
+            <itunes:subtitle>Vakya Vritti 08</itunes:subtitle>
+            <itunes:summary>Class 008</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_08_Vakya_Vrtti.mp3" length="6736515" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:56:08</itunes:duration>
+            <itunes:order>8</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 09</title>
+            <itunes:subtitle>Vakya Vritti 09</itunes:subtitle>
+            <itunes:summary>Class 009</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_09_Vakya_Vrtti.mp3" length="6752084" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:56:16</itunes:duration>
+            <itunes:order>9</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 10</title>
+            <itunes:subtitle>Vakya Vritti 10</itunes:subtitle>
+            <itunes:summary>Class 010</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_10_Vakya_Vrtti.mp3" length="6860963" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:57:10</itunes:duration>
+            <itunes:order>10</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 11</title>
+            <itunes:subtitle>Vakya Vritti 11</itunes:subtitle>
+            <itunes:summary>Class 011</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_11_Vakya_Vrtti.mp3" length="6759921" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:56:19</itunes:duration>
+            <itunes:order>11</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 12</title>
+            <itunes:subtitle>Vakya Vritti 12</itunes:subtitle>
+            <itunes:summary>Class 012</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_12_Vakya_Vrtti.mp3" length="6676538" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:55:38</itunes:duration>
+            <itunes:order>12</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 13</title>
+            <itunes:subtitle>Vakya Vritti 13</itunes:subtitle>
+            <itunes:summary>Class 013</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_13_Vakya_Vrtti.mp3" length="6971826" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:58:05</itunes:duration>
+            <itunes:order>13</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 14</title>
+            <itunes:subtitle>Vakya Vritti 14</itunes:subtitle>
+            <itunes:summary>Class 014</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_14_Vakya_Vrtti.mp3" length="6864202" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:57:12</itunes:duration>
+            <itunes:order>14</itunes:order>
+        </item>
+        <item>
+            <title>Vakya Vritti 15</title>
+            <itunes:subtitle>Vakya Vritti 15</itunes:subtitle>
+            <itunes:summary>Class 015</itunes:summary>
+            <enclosure url="https://archive.org/download/VakyaVritti/VV_15_Vakya_Vrtti.mp3" length="6713736" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:55:56</itunes:duration>
+            <itunes:order>15</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

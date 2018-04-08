@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Jiva Yatra</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>This text is written by Swami Gnanananda Bharati of Sringeri Mutt.  The sadhanas necessary for a seeker are given step by step, in a simple form.  These 6 talks explain this text in detail.
+            
+            Accompanying text for Jiva Yatra is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Jivayatra 01</title>
+            <itunes:subtitle>Jivayatra 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/JivaYatra/JY_01_JivaYatra.mp3" length="6996584" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:58:18</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Jivayatra 02</title>
+            <itunes:subtitle>Jivayatra 02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/JivaYatra/JY_02_JivaYatra.mp3" length="7158439" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:59:39</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>Jivayatra 03</title>
+            <itunes:subtitle>Jivayatra 03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/JivaYatra/JY_03_JivaYatra.mp3" length="7063040" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:58:51</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>Jivayatra 04</title>
+            <itunes:subtitle>Jivayatra 04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/JivaYatra/JY_04_JivaYatra.mp3" length="7220297" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>1:00:10</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>Jivayatra 05</title>
+            <itunes:subtitle>Jivayatra 05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/JivaYatra/JY_05_JivaYatra.mp3" length="7034514" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:58:37</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>Jivayatra 06</title>
+            <itunes:subtitle>Jivayatra 06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/JivaYatra/JY_06_JivaYatra.mp3" length="7080385" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:55 -0000</pubDate>
+            <itunes:duration>0:59:00</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

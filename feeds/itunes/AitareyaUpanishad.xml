@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Aitareya Upanishad</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>In this Upanishad, in addition to imparting the fundamental oneness of the Lord and the Beings, the value of dispassion is also highlighted.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>AITAREYA_UPANISHAD_01</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_01_Aitareya_Upanishad.mp3" length="6307798" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:52:33</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_02</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_02_Aitareya_Upanishad.mp3" length="6706844" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:55:53</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_03</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_03_Aitareya_Upanishad.mp3" length="6503820" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:54:11</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_04</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_04_Aitareya_Upanishad.mp3" length="6383971" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:53:11</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_05</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_05_Aitareya_Upanishad.mp3" length="6340921" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:52:50</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_06</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_06_Aitareya_Upanishad.mp3" length="6738922" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:56:09</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_07</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_07</itunes:subtitle>
+            <itunes:summary>Class 007</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_07_Aitareya_Upanishad.mp3" length="6454919" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:53:47</itunes:duration>
+            <itunes:order>7</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_08</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_08</itunes:subtitle>
+            <itunes:summary>Class 008</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_08_Aitareya_Upanishad.mp3" length="6722831" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:56:01</itunes:duration>
+            <itunes:order>8</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_09</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_09</itunes:subtitle>
+            <itunes:summary>Class 009</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_09_Aitareya_Upanishad.mp3" length="6699739" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:55:49</itunes:duration>
+            <itunes:order>9</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_10</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_10</itunes:subtitle>
+            <itunes:summary>Class 010</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_10_Aitareya_Upanishad.mp3" length="6537571" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:54:28</itunes:duration>
+            <itunes:order>10</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_11</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_11</itunes:subtitle>
+            <itunes:summary>Class 011</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_11_Aitareya_Upanishad.mp3" length="6699634" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:55:49</itunes:duration>
+            <itunes:order>11</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_12</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_12</itunes:subtitle>
+            <itunes:summary>Class 012</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_12_Aitareya_Upanishad.mp3" length="6803393" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:56:41</itunes:duration>
+            <itunes:order>12</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_13</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_13</itunes:subtitle>
+            <itunes:summary>Class 013</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_13_Aitareya_Upanishad.mp3" length="6550109" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:54:35</itunes:duration>
+            <itunes:order>13</itunes:order>
+        </item>
+        <item>
+            <title>AITAREYA_UPANISHAD_14</title>
+            <itunes:subtitle>AITAREYA_UPANISHAD_14</itunes:subtitle>
+            <itunes:summary>Class 014</itunes:summary>
+            <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_14_Aitareya_Upanishad.mp3" length="6437365" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+            <itunes:duration>0:53:38</itunes:duration>
+            <itunes:order>14</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

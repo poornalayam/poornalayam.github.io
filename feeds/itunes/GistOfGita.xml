@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Gist of Gita</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>These are ongoing classes.  The first 9 chapters of the Bhagavad Gita have been covered, until now.  The main ideas of each chapter and the important verses in each chapter are explained in this series of talks.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Gist of Gita 01</title>
+            <itunes:subtitle>Gist of Gita 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_01_Gist_of_Gita_Chapter_I.mp3" length="6585738" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:54:52</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 02</title>
+            <itunes:subtitle>Gist of Gita 02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_02_Gist_of_Gita_Chapter_I.mp3" length="6657939" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:55:28</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 03</title>
+            <itunes:subtitle>Gist of Gita 03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_03_Gist_of_Gita_Chapter_II.mp3" length="6720008" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:56:00</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 04</title>
+            <itunes:subtitle>Gist of Gita 04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_04_Gist_of_Gita_Chapter_II.mp3" length="6709348" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:55:54</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 05</title>
+            <itunes:subtitle>Gist of Gita 05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_05_Gist_of_Gita_Chapter_II.mp3" length="6691794" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:55:45</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 06</title>
+            <itunes:subtitle>Gist of Gita 06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_06_Gist_of_Gita_Chapter_II.mp3" length="6664108" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:55:32</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 07</title>
+            <itunes:subtitle>Gist of Gita 07</itunes:subtitle>
+            <itunes:summary>Class 007</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_07_Gist_of_Gita_Chapter_II.mp3" length="6436943" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:53:38</itunes:duration>
+            <itunes:order>7</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 08</title>
+            <itunes:subtitle>Gist of Gita 08</itunes:subtitle>
+            <itunes:summary>Class 008</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_08_Gist_of_Gita_Chapter_II.mp3" length="6787193" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:56:33</itunes:duration>
+            <itunes:order>8</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 09</title>
+            <itunes:subtitle>Gist of Gita 09</itunes:subtitle>
+            <itunes:summary>Class 009</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_09_Gist_of_Gita_Chapter_II.mp3" length="6723141" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:56:01</itunes:duration>
+            <itunes:order>9</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 10</title>
+            <itunes:subtitle>Gist of Gita 10</itunes:subtitle>
+            <itunes:summary>Class 010</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_10_Gist_of_Gita_Chapter_II.mp3" length="6739131" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:56:09</itunes:duration>
+            <itunes:order>10</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 11</title>
+            <itunes:subtitle>Gist of Gita 11</itunes:subtitle>
+            <itunes:summary>Class 011</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_11_Gist_of_Gita_Chapter_II.mp3" length="6635058" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:55:17</itunes:duration>
+            <itunes:order>11</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 12</title>
+            <itunes:subtitle>Gist of Gita 12</itunes:subtitle>
+            <itunes:summary>Class 012</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_12_Gist_of_Gita_Chapter_II.mp3" length="6612277" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:55:06</itunes:duration>
+            <itunes:order>12</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 13</title>
+            <itunes:subtitle>Gist of Gita 13</itunes:subtitle>
+            <itunes:summary>Class 013</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_13_Gist_of_Gita_Chapter_III.mp3" length="6941629" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:50</itunes:duration>
+            <itunes:order>13</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 14</title>
+            <itunes:subtitle>Gist of Gita 14</itunes:subtitle>
+            <itunes:summary>Class 014</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_14_Gist_of_Gita_Chapter_III.mp3" length="6878728" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:19</itunes:duration>
+            <itunes:order>14</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 15</title>
+            <itunes:subtitle>Gist of Gita 15</itunes:subtitle>
+            <itunes:summary>Class 015</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_15_Gist_of_Gita_Chapter_III.mp3" length="6751775" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:56:15</itunes:duration>
+            <itunes:order>15</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 16</title>
+            <itunes:subtitle>Gist of Gita 16</itunes:subtitle>
+            <itunes:summary>Class 016</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_16_Gist_of_Gita_Chapter_III.mp3" length="6775701" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:56:27</itunes:duration>
+            <itunes:order>16</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 17</title>
+            <itunes:subtitle>Gist of Gita 17</itunes:subtitle>
+            <itunes:summary>Class 017</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_17_Gist_of_Gita_Chapter_III.mp3" length="6534641" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:54:27</itunes:duration>
+            <itunes:order>17</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 18</title>
+            <itunes:subtitle>Gist of Gita 18</itunes:subtitle>
+            <itunes:summary>Class 018</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_18_Gist_of_Gita_Chapter_III.mp3" length="6824391" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:56:52</itunes:duration>
+            <itunes:order>18</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 19</title>
+            <itunes:subtitle>Gist of Gita 19</itunes:subtitle>
+            <itunes:summary>Class 019</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_19_Gist_of_Gita_Chapter_IV.mp3" length="6302256" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:52:31</itunes:duration>
+            <itunes:order>19</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 20</title>
+            <itunes:subtitle>Gist of Gita 20</itunes:subtitle>
+            <itunes:summary>Class 020</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_20_Gist_of_Gita_Chapter_IV.mp3" length="6932749" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:46</itunes:duration>
+            <itunes:order>20</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 21</title>
+            <itunes:subtitle>Gist of Gita 21</itunes:subtitle>
+            <itunes:summary>Class 021</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_21_Gist_of_Gita_Chapter_IV.mp3" length="6920835" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:40</itunes:duration>
+            <itunes:order>21</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 22</title>
+            <itunes:subtitle>Gist of Gita 22</itunes:subtitle>
+            <itunes:summary>Class 022</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_22_Gist_of_Gita_Chapter_IV.mp3" length="6766086" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:56:23</itunes:duration>
+            <itunes:order>22</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 23</title>
+            <itunes:subtitle>Gist of Gita 23</itunes:subtitle>
+            <itunes:summary>Class 023</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_23_Gist_of_Gita_Chapter_IV.mp3" length="6867545" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:13</itunes:duration>
+            <itunes:order>23</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 24</title>
+            <itunes:subtitle>Gist of Gita 24</itunes:subtitle>
+            <itunes:summary>Class 024</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_24_Gist_of_Gita_Chapter_IV.mp3" length="6848844" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:04</itunes:duration>
+            <itunes:order>24</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 25</title>
+            <itunes:subtitle>Gist of Gita 25</itunes:subtitle>
+            <itunes:summary>Class 025</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_25_Gist_of_Gita_Chapter_V.mp3" length="6620114" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:55:10</itunes:duration>
+            <itunes:order>25</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 26</title>
+            <itunes:subtitle>Gist of Gita 26</itunes:subtitle>
+            <itunes:summary>Class 026</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_26_Gist_of_Gita_Chapter_V.mp3" length="6907149" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:33</itunes:duration>
+            <itunes:order>26</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 27</title>
+            <itunes:subtitle>Gist of Gita 27</itunes:subtitle>
+            <itunes:summary>Class 027</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_27_Gist_of_Gita_Chapter_V.mp3" length="6959810" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:59</itunes:duration>
+            <itunes:order>27</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 28</title>
+            <itunes:subtitle>Gist of Gita 28</itunes:subtitle>
+            <itunes:summary>Class 028</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_28_Gist_of_Gita_Chapter_V.mp3" length="7016966" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:28</itunes:duration>
+            <itunes:order>28</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 29</title>
+            <itunes:subtitle>Gist of Gita 29</itunes:subtitle>
+            <itunes:summary>Class 029</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_29_Gist_of_Gita_Chapter_V.mp3" length="6921884" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:40</itunes:duration>
+            <itunes:order>29</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 30</title>
+            <itunes:subtitle>Gist of Gita 30</itunes:subtitle>
+            <itunes:summary>Class 030</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_30_Gist_of_Gita_Chapter_V.mp3" length="7051447" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:45</itunes:duration>
+            <itunes:order>30</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 31</title>
+            <itunes:subtitle>Gist of Gita 31</itunes:subtitle>
+            <itunes:summary>Class 031</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_31_Gist_of_Gita_Chapter_VI.mp3" length="6262758" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:52:11</itunes:duration>
+            <itunes:order>31</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 32</title>
+            <itunes:subtitle>Gist of Gita 32</itunes:subtitle>
+            <itunes:summary>Class 032</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_32_Gist_of_Gita_Chapter_VI.mp3" length="6976008" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:08</itunes:duration>
+            <itunes:order>32</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 33</title>
+            <itunes:subtitle>Gist of Gita 33</itunes:subtitle>
+            <itunes:summary>Class 033</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_33_Gist_of_Gita_Chapter_VI.mp3" length="7022713" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:31</itunes:duration>
+            <itunes:order>33</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 34</title>
+            <itunes:subtitle>Gist of Gita 34</itunes:subtitle>
+            <itunes:summary>Class 034</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_34_Gist_of_Gita_Chapter_VI.mp3" length="7105784" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:12</itunes:duration>
+            <itunes:order>34</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 35</title>
+            <itunes:subtitle>Gist of Gita 35</itunes:subtitle>
+            <itunes:summary>Class 035</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_35_Gist_of_Gita_Chapter_VI.mp3" length="7051136" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:45</itunes:duration>
+            <itunes:order>35</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 36</title>
+            <itunes:subtitle>Gist of Gita 36</itunes:subtitle>
+            <itunes:summary>Class 036</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_36_Gist_of_Gita_Chapter_VI.mp3" length="7109126" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:14</itunes:duration>
+            <itunes:order>36</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 37</title>
+            <itunes:subtitle>Gist of Gita 37</itunes:subtitle>
+            <itunes:summary>Class 037</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_37_Gist_of_Gita_Chapter_VII.mp3" length="6322213" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:52:41</itunes:duration>
+            <itunes:order>37</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 38</title>
+            <itunes:subtitle>Gist of Gita 38</itunes:subtitle>
+            <itunes:summary>Class 038</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_38_Gist_of_Gita_Chapter_VII.mp3" length="7139741" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:29</itunes:duration>
+            <itunes:order>38</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 39</title>
+            <itunes:subtitle>Gist of Gita 39</itunes:subtitle>
+            <itunes:summary>Class 039</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_39_Gist_of_Gita_Chapter_VII.mp3" length="7031594" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:35</itunes:duration>
+            <itunes:order>39</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 40</title>
+            <itunes:subtitle>Gist of Gita 40</itunes:subtitle>
+            <itunes:summary>Class 040</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_40_Gist_of_Gita_Chapter_VII.mp3" length="7074749" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:57</itunes:duration>
+            <itunes:order>40</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 41</title>
+            <itunes:subtitle>Gist of Gita 41</itunes:subtitle>
+            <itunes:summary>Class 041</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_41_Gist_of_Gita_Chapter_VII.mp3" length="7013936" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:26</itunes:duration>
+            <itunes:order>41</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 42</title>
+            <itunes:subtitle>Gist of Gita 42</itunes:subtitle>
+            <itunes:summary>Class 042</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_42_Gist_of_Gita_Chapter_VII.mp3" length="7083839" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:01</itunes:duration>
+            <itunes:order>42</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 43</title>
+            <itunes:subtitle>Gist of Gita 43</itunes:subtitle>
+            <itunes:summary>Class 043</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_43_Gist_of_Gita_Chapter_VIII.mp3" length="6643833" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:55:21</itunes:duration>
+            <itunes:order>43</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 44</title>
+            <itunes:subtitle>Gist of Gita 44</itunes:subtitle>
+            <itunes:summary>Class 044</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_44_Gist_of_Gita_Chapter_VIII.mp3" length="7068793" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:54</itunes:duration>
+            <itunes:order>44</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 45</title>
+            <itunes:subtitle>Gist of Gita 45</itunes:subtitle>
+            <itunes:summary>Class 045</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_45_Gist_of_Gita_Chapter_VIII.mp3" length="7098259" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:09</itunes:duration>
+            <itunes:order>45</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 46</title>
+            <itunes:subtitle>Gist of Gita 46</itunes:subtitle>
+            <itunes:summary>Class 046</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_46_Gist_of_Gita_Chapter_IX.mp3" length="7285923" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>1:00:42</itunes:duration>
+            <itunes:order>46</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 47</title>
+            <itunes:subtitle>Gist of Gita 47</itunes:subtitle>
+            <itunes:summary>Class 047</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_47_Gist_of_Gita_Chapter_IX.mp3" length="7180910" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:50</itunes:duration>
+            <itunes:order>47</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 48</title>
+            <itunes:subtitle>Gist of Gita 48</itunes:subtitle>
+            <itunes:summary>Class 048</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_48_Gist_of_Gita_Chapter_IX.mp3" length="7002651" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:21</itunes:duration>
+            <itunes:order>48</itunes:order>
+        </item>
+        <item>
+            <title>Gist of Gita 49</title>
+            <itunes:subtitle>Gist of Gita 49</itunes:subtitle>
+            <itunes:summary>Class 049</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_49_Gist_of_Gita_Chapter_X.mp3" length="6887977" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:23</itunes:duration>
+            <itunes:order>49</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 50</title>
+            <itunes:subtitle>Gist Of Gita 50</itunes:subtitle>
+            <itunes:summary>Class 050</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_50_Gist_of_Gita_Chapter_XI.mp3" length="7282113" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>1:00:41</itunes:duration>
+            <itunes:order>50</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 51</title>
+            <itunes:subtitle>Gist Of Gita 51</itunes:subtitle>
+            <itunes:summary>Class 051</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_51_Gist_of_Gita_Chapter_XII.mp3" length="7050668" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:45</itunes:duration>
+            <itunes:order>51</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 52</title>
+            <itunes:subtitle>Gist Of Gita 52</itunes:subtitle>
+            <itunes:summary>Class 052</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_52_Gist_of_Gita_Chapter_XII.mp3" length="6894142" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:27</itunes:duration>
+            <itunes:order>52</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 53</title>
+            <itunes:subtitle>Gist Of Gita 53</itunes:subtitle>
+            <itunes:summary>Class 053</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_53_Gist_of_Gita_Chapter_XII.mp3" length="6890172" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:25</itunes:duration>
+            <itunes:order>53</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 54</title>
+            <itunes:subtitle>Gist Of Gita 54</itunes:subtitle>
+            <itunes:summary>Class 054</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_54_Gist_of_Gita_Chapter_XII.mp3" length="7019112" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:29</itunes:duration>
+            <itunes:order>54</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 55</title>
+            <itunes:subtitle>Gist Of Gita 55</itunes:subtitle>
+            <itunes:summary>Class 055</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_55_Gist_of_Gita_Chapter_XIII.mp3" length="6557836" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:54:38</itunes:duration>
+            <itunes:order>55</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 56</title>
+            <itunes:subtitle>Gist Of Gita 56</itunes:subtitle>
+            <itunes:summary>Class 056</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_56_Gist_of_Gita_Chapter_XIII.mp3" length="7101287" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:10</itunes:duration>
+            <itunes:order>56</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 57</title>
+            <itunes:subtitle>Gist Of Gita 57</itunes:subtitle>
+            <itunes:summary>Class 057</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_57_Gist_of_Gita_Chapter_XIII.mp3" length="7109542" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:14</itunes:duration>
+            <itunes:order>57</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 58</title>
+            <itunes:subtitle>Gist Of Gita 58</itunes:subtitle>
+            <itunes:summary>Class 058</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_58_Gist_of_Gita_Chapter_XIII.mp3" length="6918639" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:39</itunes:duration>
+            <itunes:order>58</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 59</title>
+            <itunes:subtitle>Gist Of Gita 59</itunes:subtitle>
+            <itunes:summary>Class 059</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_59_Gist_of_Gita_Chapter_XIII.mp3" length="7102645" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:11</itunes:duration>
+            <itunes:order>59</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 60</title>
+            <itunes:subtitle>Gist Of Gita 60</itunes:subtitle>
+            <itunes:summary>Class 060</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_60_Gist_of_Gita_Chapter_XIII.mp3" length="7008918" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:24</itunes:duration>
+            <itunes:order>60</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 61</title>
+            <itunes:subtitle>Gist Of Gita 61</itunes:subtitle>
+            <itunes:summary>Class 061</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_61_Gist_of_Gita_Chapter_XIII.mp3" length="6427934" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:53:33</itunes:duration>
+            <itunes:order>61</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 62</title>
+            <itunes:subtitle>Gist Of Gita 62</itunes:subtitle>
+            <itunes:summary>Class 062</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_62_Gist_of_Gita_Chapter_XIII.mp3" length="7061356" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:50</itunes:duration>
+            <itunes:order>62</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 63</title>
+            <itunes:subtitle>Gist Of Gita 63</itunes:subtitle>
+            <itunes:summary>Class 063</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_63_Gist_of_Gita_Chapter_XIII.mp3" length="7088903" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:59:04</itunes:duration>
+            <itunes:order>63</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 64</title>
+            <itunes:subtitle>Gist Of Gita 64</itunes:subtitle>
+            <itunes:summary>Class 064</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_64_Gist_of_Gita_Chapter_XIII.mp3" length="6928487" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:57:44</itunes:duration>
+            <itunes:order>64</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 65</title>
+            <itunes:subtitle>Gist Of Gita 65</itunes:subtitle>
+            <itunes:summary>Class 065</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_65_Gist_of_Gita_Chapter_XIII.mp3" length="7054606" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:47</itunes:duration>
+            <itunes:order>65</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 66</title>
+            <itunes:subtitle>Gist Of Gita 66</itunes:subtitle>
+            <itunes:summary>Class 066</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_66_Gist_of_Gita_Chapter_XIII.mp3" length="7020621" type="audio/mpeg" />
+            <pubDate>Sun, 23 December 2014 16:02:45 -0000</pubDate>
+            <itunes:duration>0:58:30</itunes:duration>
+            <itunes:order>66</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 67</title>
+            <itunes:subtitle>Gist Of Gita 67</itunes:subtitle>
+            <itunes:summary>Class 067</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_67_Gist_of_Gita_Chapter_XIV.mp3" length="6570374" type="audio/mpeg" />
+            <pubDate>Sun, 24 December 2014 19:00:00 -0000</pubDate>
+            <itunes:duration>0:54:33</itunes:duration>
+            <itunes:order>67</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 68</title>
+            <itunes:subtitle>Gist Of Gita 68</itunes:subtitle>
+            <itunes:summary>Class 068</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_68_Gist_of_Gita_Chapter_XIV.mp3" length="7060306" type="audio/mpeg" />
+            <pubDate>Sun, 25 December 2014 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:49</itunes:duration>
+            <itunes:order>68</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 69</title>
+            <itunes:subtitle>Gist Of Gita 69</itunes:subtitle>
+            <itunes:summary>Class 069</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_69_Gist_of_Gita_Chapter_XIV.mp3" length="7086031" type="audio/mpeg" />
+            <pubDate>Sun, 26 December 2014 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:50</itunes:duration>
+            <itunes:order>69</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 70</title>
+            <itunes:subtitle>Gist Of Gita 70</itunes:subtitle>
+            <itunes:summary>Class 070</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_70_Gist_of_Gita_Chapter_XIV.mp3" length="6947269" type="audio/mpeg" />
+            <pubDate>Sun, 27 December 2014 19:00:00 -0000</pubDate>
+            <itunes:duration>0:57:41</itunes:duration>
+            <itunes:order>70</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 71</title>
+            <itunes:subtitle>Gist Of Gita 71</itunes:subtitle>
+            <itunes:summary>Class 071</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_71_Gist_of_Gita_Chapter_XIV.mp3" length="7006057" type="audio/mpeg" />
+            <pubDate>Sun, 28 December 2014 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:10</itunes:duration>
+            <itunes:order>71</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 72</title>
+            <itunes:subtitle>Gist Of Gita 72</itunes:subtitle>
+            <itunes:summary>Class 072</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_72_Gist_of_Gita_Chapter_XIV.mp3" length="6925913" type="audio/mpeg" />
+            <pubDate>Sun, 29 December 2014 19:00:00 -0000</pubDate>
+            <itunes:duration>0:57:30</itunes:duration>
+            <itunes:order>72</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 73</title>
+            <itunes:subtitle>Gist Of Gita 73</itunes:subtitle>
+            <itunes:summary>Class 073</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_73_Gist_of_Gita_Chapter_XV.mp3" length="5655926" type="audio/mpeg" />
+            <pubDate>Fri, 25 December 2015 19:00:00 -0000</pubDate>
+            <itunes:duration>0:46:55</itunes:duration>
+            <itunes:order>73</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 74</title>
+            <itunes:subtitle>Gist Of Gita 74</itunes:subtitle>
+            <itunes:summary>Class 074</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_74_Gist_of_Gita_Chapter_XV.mp3" length="7102273" type="audio/mpeg" />
+            <pubDate>Sat, 26 December 2015 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:59</itunes:duration>
+            <itunes:order>74</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 75</title>
+            <itunes:subtitle>Gist Of Gita 75</itunes:subtitle>
+            <itunes:summary>Class 075</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_75_Gist_of_Gita_Chapter_XV.mp3" length="7068732" type="audio/mpeg" />
+            <pubDate>Sun, 27 December 2015 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:42</itunes:duration>
+            <itunes:order>75</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 76</title>
+            <itunes:subtitle>Gist Of Gita 76</itunes:subtitle>
+            <itunes:summary>Class 076</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_76_Gist_of_Gita_Chapter_XV.mp3" length="7091406" type="audio/mpeg" />
+            <pubDate>Mon, 28 December 2015 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:53</itunes:duration>
+            <itunes:order>76</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 77</title>
+            <itunes:subtitle>Gist Of Gita 77</itunes:subtitle>
+            <itunes:summary>Class 077</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_77_Gist_of_Gita_Chapter_XV.mp3" length="7129232" type="audio/mpeg" />
+            <pubDate>Tue, 29 December 2015 19:00:00 -0000</pubDate>
+            <itunes:duration>0:59:12</itunes:duration>
+            <itunes:order>77</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 78</title>
+            <itunes:subtitle>Gist Of Gita 78</itunes:subtitle>
+            <itunes:summary>Class 078</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_78_Gist_of_Gita_Chapter_XV.mp3" length="7049297" type="audio/mpeg" />
+            <pubDate>Wed, 30 December 2015 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:32</itunes:duration>
+            <itunes:order>78</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 79</title>
+            <itunes:subtitle>Gist Of Gita 79</itunes:subtitle>
+            <itunes:summary>Class 079</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_79_Gist_of_Gita_Chapter_XVI_XVII.mp3" length="6221283" type="audio/mpeg" />
+            <pubDate>Sat, 24 December 2016 19:00:00 -0000</pubDate>
+            <itunes:duration>0:51:39</itunes:duration>
+            <itunes:order>79</itunes:order>
+        </item>
+        <item>
+            <title>Gist Of Gita 80</title>
+            <itunes:subtitle>Gist Of Gita 80</itunes:subtitle>
+            <itunes:summary>Class 080</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_80_Gist_of_Gita_Chapter_XVI_XVII.mp3" length="7154690" type="audio/mpeg" />
+            <pubDate>Sun, 25 December 2016 19:00:00 -0000</pubDate>
+            <itunes:duration>0:59:25</itunes:duration>
+            <itunes:order>80</itunes:order>
+        </item>
+		<item>
+            <title>Gist Of Gita 81</title>
+            <itunes:subtitle>Gist Of Gita 81</itunes:subtitle>
+            <itunes:summary>Class 081</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_81_Gist_of_Gita_Chapter_XVI_XVII.mp3" length="7117701" type="audio/mpeg" />
+            <pubDate>Mon, 26 December 2016 19:00:00 -0000</pubDate>
+            <itunes:duration>0:59:07</itunes:duration>
+            <itunes:order>81</itunes:order>
+        </item>
+		<item>
+            <title>Gist Of Gita 82</title>
+            <itunes:subtitle>Gist Of Gita 82</itunes:subtitle>
+            <itunes:summary>Class 082</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_82_Gist_of_Gita_Chapter_XVI_XVII.mp3" length="7050305" type="audio/mpeg" />
+            <pubDate>Tue, 27 December 2016 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:33</itunes:duration>
+            <itunes:order>82</itunes:order>
+        </item>
+		<item>
+            <title>Gist Of Gita 83</title>
+            <itunes:subtitle>Gist Of Gita 83</itunes:subtitle>
+            <itunes:summary>Class 083</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_83_Gist_of_Gita_Chapter_XVI_XVII.mp3" length="7050514" type="audio/mpeg" />
+            <pubDate>Wed, 28 December 2016 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:33</itunes:duration>
+            <itunes:order>83</itunes:order>
+        </item>
+		<item>
+            <title>Gist Of Gita 84</title>
+            <itunes:subtitle>Gist Of Gita 84</itunes:subtitle>
+            <itunes:summary>Class 084</itunes:summary>
+            <enclosure url="https://archive.org/download/GistOfGita/GG_84_Gist_of_Gita_Chapter_XVI_XVII.mp3" length="7060754" type="audio/mpeg" />
+            <pubDate>Thu, 29 December 2016 19:00:00 -0000</pubDate>
+            <itunes:duration>0:58:38</itunes:duration>
+            <itunes:order>84</itunes:order>
+        </item>
+    </channel>
+</rss>

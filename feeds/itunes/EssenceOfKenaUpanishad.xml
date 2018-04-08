@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Essence of Kena Upanishad</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>The central theme of Kena Upanishad is given in these 6 talks without explaining each word of the Upanishad mantra.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Essence Of Kena 01</title>
+            <itunes:subtitle>Essence Of Kena 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKenaUpanishad/01_Essence_of_Kena_Upanishad.mp3" length="6640302" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:15 -0000</pubDate>
+            <itunes:duration>0:55:20</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Essence Of Kena 02</title>
+            <itunes:subtitle>Essence Of Kena 02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKenaUpanishad/02_Essence_of_Kena_Upanishad.mp3" length="6665902" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:15 -0000</pubDate>
+            <itunes:duration>0:55:32</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>Essence Of Kena 03</title>
+            <itunes:subtitle>Essence Of Kena 03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKenaUpanishad/03_Essence_of_Kena_Upanishad.mp3" length="6817207" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:15 -0000</pubDate>
+            <itunes:duration>0:56:48</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>Essence Of Kena 04</title>
+            <itunes:subtitle>Essence Of Kena 04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKenaUpanishad/04_Essence_of_Kena_Upanishad.mp3" length="6693489" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:15 -0000</pubDate>
+            <itunes:duration>0:55:46</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>Essence Of Kena 05</title>
+            <itunes:subtitle>Essence Of Kena 05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKenaUpanishad/05_Essence_of_Kena_Upanishad.mp3" length="6767677" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:15 -0000</pubDate>
+            <itunes:duration>0:56:23</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>Essence Of Kena 06</title>
+            <itunes:subtitle>Essence Of Kena 06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfKenaUpanishad/06_Essence_of_Kena_Upanishad.mp3" length="6752631" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:15 -0000</pubDate>
+            <itunes:duration>0:56:16</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

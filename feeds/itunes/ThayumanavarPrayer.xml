@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Thayumanavar Prayer</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>Thayumanavar has composed a number of Tamil verses praising the Lord and describing the nature of the Lord.  This talk explains one such prayer.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Thayumanavar Prayer 01</title>
+            <itunes:subtitle>Thayumanavar Prayer 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/ThayumanavarPrayer/TP_01_Thayumanavar_Prayer.mp3" length="7371733" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:16 -0000</pubDate>
+            <itunes:duration>1:01:25</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

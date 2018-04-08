@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Tattva Bodha</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>This is a small text written by Shankaracharya.  This text introduces the seeker to the technical terms used in Vedanta and gives a total vision of Vedanta.  Traditionally, this text is studied prior to beginning a systematic study of Vedanta.
+            
+            Accompanying text for Tattva Bodha is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Tattvabodha 01</title>
+            <itunes:subtitle>Tattvabodha 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_01_Tattva_Bodha.mp3" length="6842120" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:57:01</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 02</title>
+            <itunes:subtitle>Tattvabodha 02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_02_Tattva_Bodha.mp3" length="6773052" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:26</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 03</title>
+            <itunes:subtitle>Tattvabodha 03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_03_Tattva_Bodha.mp3" length="6738570" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:09</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 04</title>
+            <itunes:subtitle>Tattvabodha 04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_04_Tattva_Bodha.mp3" length="6914845" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:57:37</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 05</title>
+            <itunes:subtitle>Tattvabodha 05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_05_Tattva_Bodha.mp3" length="6747975" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:13</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 06</title>
+            <itunes:subtitle>Tattvabodha 06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_06_Tattva_Bodha.mp3" length="6748288" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:14</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 07</title>
+            <itunes:subtitle>Tattvabodha 07</itunes:subtitle>
+            <itunes:summary>Class 007</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_07_Tattva_Bodha.mp3" length="6729271" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:04</itunes:duration>
+            <itunes:order>7</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 08</title>
+            <itunes:subtitle>Tattvabodha 08</itunes:subtitle>
+            <itunes:summary>Class 008</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_08_Tattva_Bodha.mp3" length="6829790" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:54</itunes:duration>
+            <itunes:order>8</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 09</title>
+            <itunes:subtitle>Tattvabodha 09</itunes:subtitle>
+            <itunes:summary>Class 009</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_09_Tattva_Bodha.mp3" length="6870750" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:57:15</itunes:duration>
+            <itunes:order>9</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 10</title>
+            <itunes:subtitle>Tattvabodha 10</itunes:subtitle>
+            <itunes:summary>Class 010</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_10_Tattva_Bodha.mp3" length="6756961" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:18</itunes:duration>
+            <itunes:order>10</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 11</title>
+            <itunes:subtitle>Tattvabodha 11</itunes:subtitle>
+            <itunes:summary>Class 011</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_11_Tattva_Bodha.mp3" length="6991331" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:58:15</itunes:duration>
+            <itunes:order>11</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 12</title>
+            <itunes:subtitle>Tattvabodha 12</itunes:subtitle>
+            <itunes:summary>Class 012</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_12_Tattva_Bodha.mp3" length="6821222" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:50</itunes:duration>
+            <itunes:order>12</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 13</title>
+            <itunes:subtitle>Tattvabodha 13</itunes:subtitle>
+            <itunes:summary>Class 013</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_13_Tattva_Bodha.mp3" length="6815057" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:47</itunes:duration>
+            <itunes:order>13</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 14</title>
+            <itunes:subtitle>Tattvabodha 14</itunes:subtitle>
+            <itunes:summary>Class 014</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_14_Tattva_Bodha.mp3" length="6803459" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:41</itunes:duration>
+            <itunes:order>14</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 15</title>
+            <itunes:subtitle>Tattvabodha 15</itunes:subtitle>
+            <itunes:summary>Class 015</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_15_Tattva_Bodha.mp3" length="6546414" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:54:33</itunes:duration>
+            <itunes:order>15</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 16</title>
+            <itunes:subtitle>Tattvabodha 16</itunes:subtitle>
+            <itunes:summary>Class 016</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_16_Tattva_Bodha.mp3" length="6746198" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:13</itunes:duration>
+            <itunes:order>16</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 17</title>
+            <itunes:subtitle>Tattvabodha 17</itunes:subtitle>
+            <itunes:summary>Class 017</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_17_Tattva_Bodha.mp3" length="6736690" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:08</itunes:duration>
+            <itunes:order>17</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 18</title>
+            <itunes:subtitle>Tattvabodha 18</itunes:subtitle>
+            <itunes:summary>Class 018</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_18_Tattva_Bodha.mp3" length="6744422" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:12</itunes:duration>
+            <itunes:order>18</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 19</title>
+            <itunes:subtitle>Tattvabodha 19</itunes:subtitle>
+            <itunes:summary>Class 019</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_19_Tattva_Bodha.mp3" length="6827073" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:53</itunes:duration>
+            <itunes:order>19</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 20</title>
+            <itunes:subtitle>Tattvabodha 20</itunes:subtitle>
+            <itunes:summary>Class 020</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_20_Tattva_Bodha.mp3" length="6897186" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:57:28</itunes:duration>
+            <itunes:order>20</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 21</title>
+            <itunes:subtitle>Tattvabodha 21</itunes:subtitle>
+            <itunes:summary>Class 021</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_21_Tattva_Bodha.mp3" length="6864794" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:57:12</itunes:duration>
+            <itunes:order>21</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 22</title>
+            <itunes:subtitle>Tattvabodha 22</itunes:subtitle>
+            <itunes:summary>Class 022</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_22_Tattva_Bodha.mp3" length="6927592" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:57:43</itunes:duration>
+            <itunes:order>22</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 23</title>
+            <itunes:subtitle>Tattvabodha 23</itunes:subtitle>
+            <itunes:summary>Class 023</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_23_Tattva_Bodha.mp3" length="6802936" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:41</itunes:duration>
+            <itunes:order>23</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 24</title>
+            <itunes:subtitle>Tattvabodha 24</itunes:subtitle>
+            <itunes:summary>Class 024</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_24_Tattva_Bodha.mp3" length="6689983" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:55:44</itunes:duration>
+            <itunes:order>24</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 25</title>
+            <itunes:subtitle>Tattvabodha 25</itunes:subtitle>
+            <itunes:summary>Class 025</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_25_Tattva_Bodha.mp3" length="6618616" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:55:09</itunes:duration>
+            <itunes:order>25</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 26</title>
+            <itunes:subtitle>Tattvabodha 26</itunes:subtitle>
+            <itunes:summary>Class 026</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_26_Tattva_Bodha.mp3" length="6690610" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:55:45</itunes:duration>
+            <itunes:order>26</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 27</title>
+            <itunes:subtitle>Tattvabodha 27</itunes:subtitle>
+            <itunes:summary>Class 027</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_27_Tattva_Bodha.mp3" length="6768037" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:56:24</itunes:duration>
+            <itunes:order>27</itunes:order>
+        </item>
+        <item>
+            <title>Tattvabodha 28</title>
+            <itunes:subtitle>Tattvabodha 28</itunes:subtitle>
+            <itunes:summary>Class 028</itunes:summary>
+            <enclosure url="https://archive.org/download/TattvaBodha/TB_28_Tattva_Bodha.mp3" length="6647873" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:55:23</itunes:duration>
+            <itunes:order>28</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

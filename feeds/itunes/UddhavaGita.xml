@@ -1,0 +1,2403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Uddhava Gita</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>This is a teaching given by Lord Krishna to his disciple Uddhava. This forms a part of Srimad Bhagavata Purana.  In the Uddhava Gita, Lord Krishna imparts self-knowledge and the sadhanas needed for attaining this knowledge.  In these ongoing talks, the Uddhava Gita is being explained in detail.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Uddhava_Gita_01</title>
+            <itunes:subtitle>Uddhava_Gita_01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_01_Uddhava_Gita.mp3" length="6704332" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:52</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_02</title>
+            <itunes:subtitle>Uddhava_Gita_02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_02_Uddhava_Gita.mp3" length="6773191" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:26</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_03</title>
+            <itunes:subtitle>Uddhava_Gita_03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_03_Uddhava_Gita.mp3" length="6668179" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:34</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_04</title>
+            <itunes:subtitle>Uddhava_Gita_04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_04_Uddhava_Gita.mp3" length="6635578" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:17</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_05</title>
+            <itunes:subtitle>Uddhava_Gita_05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_05_Uddhava_Gita.mp3" length="6751039" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:15</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_06</title>
+            <itunes:subtitle>Uddhava_Gita_06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_06_Uddhava_Gita.mp3" length="6489815" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:04</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_07</title>
+            <itunes:subtitle>Uddhava_Gita_07</itunes:subtitle>
+            <itunes:summary>Class 007</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_07_Uddhava_Gita.mp3" length="6490651" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:05</itunes:duration>
+            <itunes:order>7</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_08</title>
+            <itunes:subtitle>Uddhava_Gita_08</itunes:subtitle>
+            <itunes:summary>Class 008</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_08_Uddhava_Gita.mp3" length="6431509" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:35</itunes:duration>
+            <itunes:order>8</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_09</title>
+            <itunes:subtitle>Uddhava_Gita_09</itunes:subtitle>
+            <itunes:summary>Class 009</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_09_Uddhava_Gita.mp3" length="6685838" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:42</itunes:duration>
+            <itunes:order>9</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_10</title>
+            <itunes:subtitle>Uddhava_Gita_10</itunes:subtitle>
+            <itunes:summary>Class 010</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_10_Uddhava_Gita.mp3" length="6431823" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:35</itunes:duration>
+            <itunes:order>10</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_11</title>
+            <itunes:subtitle>Uddhava_Gita_11</itunes:subtitle>
+            <itunes:summary>Class 011</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_11_Uddhava_Gita.mp3" length="6417090" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:28</itunes:duration>
+            <itunes:order>11</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_12</title>
+            <itunes:subtitle>Uddhava_Gita_12</itunes:subtitle>
+            <itunes:summary>Class 012</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_12_Uddhava_Gita.mp3" length="6561808" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:40</itunes:duration>
+            <itunes:order>12</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_13</title>
+            <itunes:subtitle>Uddhava_Gita_13</itunes:subtitle>
+            <itunes:summary>Class 013</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_13_Uddhava_Gita.mp3" length="6584065" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:52</itunes:duration>
+            <itunes:order>13</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_14</title>
+            <itunes:subtitle>Uddhava_Gita_14</itunes:subtitle>
+            <itunes:summary>Class 014</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_14_Uddhava_Gita.mp3" length="6490860" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:05</itunes:duration>
+            <itunes:order>14</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_15</title>
+            <itunes:subtitle>Uddhava_Gita_15</itunes:subtitle>
+            <itunes:summary>Class 015</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_15_Uddhava_Gita.mp3" length="6723245" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:01</itunes:duration>
+            <itunes:order>15</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_16</title>
+            <itunes:subtitle>Uddhava_Gita_16</itunes:subtitle>
+            <itunes:summary>Class 016</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_16_Uddhava_Gita.mp3" length="6638086" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:19</itunes:duration>
+            <itunes:order>16</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_17</title>
+            <itunes:subtitle>Uddhava_Gita_17</itunes:subtitle>
+            <itunes:summary>Class 017</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_17_Uddhava_Gita.mp3" length="6554285" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:37</itunes:duration>
+            <itunes:order>17</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_18</title>
+            <itunes:subtitle>Uddhava_Gita_18</itunes:subtitle>
+            <itunes:summary>Class 018</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_18_Uddhava_Gita.mp3" length="6723454" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:01</itunes:duration>
+            <itunes:order>18</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_19</title>
+            <itunes:subtitle>Uddhava_Gita_19</itunes:subtitle>
+            <itunes:summary>Class 019</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_19_Uddhava_Gita.mp3" length="6856783" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:08</itunes:duration>
+            <itunes:order>19</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_20</title>
+            <itunes:subtitle>Uddhava_Gita_20</itunes:subtitle>
+            <itunes:summary>Class 020</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_20_Uddhava_Gita.mp3" length="6683852" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:41</itunes:duration>
+            <itunes:order>20</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_GIta_21</title>
+            <itunes:subtitle>Uddhava_GIta_21</itunes:subtitle>
+            <itunes:summary>Class 021</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_21_Uddhava_Gita.mp3" length="6523043" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:21</itunes:duration>
+            <itunes:order>21</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_22</title>
+            <itunes:subtitle>Uddhava_Gita_22</itunes:subtitle>
+            <itunes:summary>Class 022</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_22_Uddhava_Gita.mp3" length="6624607" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:12</itunes:duration>
+            <itunes:order>22</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_23</title>
+            <itunes:subtitle>Uddhava_Gita_23</itunes:subtitle>
+            <itunes:summary>Class 023</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_23_Uddhava_Gita.mp3" length="6490651" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:05</itunes:duration>
+            <itunes:order>23</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_24</title>
+            <itunes:subtitle>Uddhava_Gita_24</itunes:subtitle>
+            <itunes:summary>Class 024</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_24_Uddhava_Gita.mp3" length="6615203" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:07</itunes:duration>
+            <itunes:order>24</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_25</title>
+            <itunes:subtitle>Uddhava_Gita_25</itunes:subtitle>
+            <itunes:summary>Class 025</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_25_Uddhava_Gita.mp3" length="6547493" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:33</itunes:duration>
+            <itunes:order>25</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_26</title>
+            <itunes:subtitle>Uddhava_Gita_26</itunes:subtitle>
+            <itunes:summary>Class 026</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_26_Uddhava_Gita.mp3" length="6649580" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:24</itunes:duration>
+            <itunes:order>26</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_27</title>
+            <itunes:subtitle>Uddhava_Gita_27</itunes:subtitle>
+            <itunes:summary>Class 027</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_27_Uddhava_Gita.mp3" length="6545508" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:32</itunes:duration>
+            <itunes:order>27</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_28</title>
+            <itunes:subtitle>Uddhava_Gita_28</itunes:subtitle>
+            <itunes:summary>Class 028</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_28_Uddhava_Gita.mp3" length="6704855" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:52</itunes:duration>
+            <itunes:order>28</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_29</title>
+            <itunes:subtitle>Uddhava_Gita_29</itunes:subtitle>
+            <itunes:summary>Class 029</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_29_Uddhava_Gita.mp3" length="6679986" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:39</itunes:duration>
+            <itunes:order>29</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_30</title>
+            <itunes:subtitle>Uddhava_Gita_30</itunes:subtitle>
+            <itunes:summary>Class 030</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_30_Uddhava_Gita.mp3" length="6565465" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:42</itunes:duration>
+            <itunes:order>30</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_31</title>
+            <itunes:subtitle>Uddhava_Gita_31</itunes:subtitle>
+            <itunes:summary>Class 031</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_31_Uddhava_Gita.mp3" length="6682389" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:41</itunes:duration>
+            <itunes:order>31</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_32</title>
+            <itunes:subtitle>Uddhava_Gita_32</itunes:subtitle>
+            <itunes:summary>Class 032</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_32_Uddhava_Gita.mp3" length="6749158" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:14</itunes:duration>
+            <itunes:order>32</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_33</title>
+            <itunes:subtitle>Uddhava_Gita_33</itunes:subtitle>
+            <itunes:summary>Class 033</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_33_Uddhava_Gita.mp3" length="6855634" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:07</itunes:duration>
+            <itunes:order>33</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_34</title>
+            <itunes:subtitle>Uddhava_Gita_34</itunes:subtitle>
+            <itunes:summary>Class 034</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_34_Uddhava_Gita.mp3" length="6847379" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:03</itunes:duration>
+            <itunes:order>34</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_35</title>
+            <itunes:subtitle>Uddhava_Gita_35</itunes:subtitle>
+            <itunes:summary>Class 035</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_35_Uddhava_Gita.mp3" length="6711124" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:55</itunes:duration>
+            <itunes:order>35</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_36</title>
+            <itunes:subtitle>Uddhava_Gita_36</itunes:subtitle>
+            <itunes:summary>Class 036</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_36_Uddhava_Gita.mp3" length="6638608" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:19</itunes:duration>
+            <itunes:order>36</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_37</title>
+            <itunes:subtitle>Uddhava_Gita_37</itunes:subtitle>
+            <itunes:summary>Class 037</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_37_Uddhava_Gita.mp3" length="6792835" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:36</itunes:duration>
+            <itunes:order>37</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_38</title>
+            <itunes:subtitle>Uddhava_Gita_38</itunes:subtitle>
+            <itunes:summary>Class 038</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_38_Uddhava_Gita.mp3" length="6614262" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:07</itunes:duration>
+            <itunes:order>38</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_39</title>
+            <itunes:subtitle>Uddhava_Gita_39</itunes:subtitle>
+            <itunes:summary>Class 039</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_39_Uddhava_Gita.mp3" length="6735157" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:07</itunes:duration>
+            <itunes:order>39</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_40</title>
+            <itunes:subtitle>Uddhava_Gita_40</itunes:subtitle>
+            <itunes:summary>Class 040</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_40_Uddhava_Gita.mp3" length="6658043" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:29</itunes:duration>
+            <itunes:order>40</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_41</title>
+            <itunes:subtitle>Uddhava_Gita_41</itunes:subtitle>
+            <itunes:summary>Class 041</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_41_Uddhava_Gita.mp3" length="6652714" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:26</itunes:duration>
+            <itunes:order>41</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_42</title>
+            <itunes:subtitle>Uddhava_Gita_42</itunes:subtitle>
+            <itunes:summary>Class 042</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_42_Uddhava_Gita.mp3" length="6623980" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:11</itunes:duration>
+            <itunes:order>42</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_43</title>
+            <itunes:subtitle>Uddhava_Gita_43</itunes:subtitle>
+            <itunes:summary>Class 043</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_43_Uddhava_Gita.mp3" length="6537358" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:28</itunes:duration>
+            <itunes:order>43</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_44</title>
+            <itunes:subtitle>Uddhava_Gita_44</itunes:subtitle>
+            <itunes:summary>Class 044</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_44_Uddhava_Gita.mp3" length="6749681" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:14</itunes:duration>
+            <itunes:order>44</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_45</title>
+            <itunes:subtitle>Uddhava_Gita_45</itunes:subtitle>
+            <itunes:summary>Class 045</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_45_Uddhava_Gita.mp3" length="6601619" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:00</itunes:duration>
+            <itunes:order>45</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_46</title>
+            <itunes:subtitle>Uddhava_Gita_46</itunes:subtitle>
+            <itunes:summary>Class 046</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_46_Uddhava_Gita.mp3" length="6694615" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:47</itunes:duration>
+            <itunes:order>46</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_47</title>
+            <itunes:subtitle>Uddhava_Gita_47</itunes:subtitle>
+            <itunes:summary>Class 047</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_47_Uddhava_Gita.mp3" length="6712065" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:56</itunes:duration>
+            <itunes:order>47</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_48</title>
+            <itunes:subtitle>Uddhava_Gita_48</itunes:subtitle>
+            <itunes:summary>Class 048</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_48_Uddhava_Gita.mp3" length="6788656" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:34</itunes:duration>
+            <itunes:order>48</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_49</title>
+            <itunes:subtitle>Uddhava_Gita_49</itunes:subtitle>
+            <itunes:summary>Class 049</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_49_Uddhava_Gita.mp3" length="6491487" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:05</itunes:duration>
+            <itunes:order>49</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_50</title>
+            <itunes:subtitle>Uddhava_Gita_50</itunes:subtitle>
+            <itunes:summary>Class 050</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_50_Uddhava_Gita.mp3" length="6738918" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:09</itunes:duration>
+            <itunes:order>50</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_51</title>
+            <itunes:subtitle>Uddhava_Gita_51</itunes:subtitle>
+            <itunes:summary>Class 051</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_51_Uddhava_Gita.mp3" length="6502354" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:11</itunes:duration>
+            <itunes:order>51</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_52</title>
+            <itunes:subtitle>Uddhava_Gita_52</itunes:subtitle>
+            <itunes:summary>Class 052</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_52_Uddhava_Gita.mp3" length="6632548" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:16</itunes:duration>
+            <itunes:order>52</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_53</title>
+            <itunes:subtitle>Uddhava_Gita_53</itunes:subtitle>
+            <itunes:summary>Class 053</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_53_Uddhava_Gita.mp3" length="6656685" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:28</itunes:duration>
+            <itunes:order>53</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_54</title>
+            <itunes:subtitle>Uddhava_Gita_54</itunes:subtitle>
+            <itunes:summary>Class 054</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_54_Uddhava_Gita.mp3" length="6814883" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:47</itunes:duration>
+            <itunes:order>54</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_55</title>
+            <itunes:subtitle>Uddhava_Gita_55</itunes:subtitle>
+            <itunes:summary>Class 055</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_55_Uddhava_Gita.mp3" length="6703183" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:51</itunes:duration>
+            <itunes:order>55</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_56</title>
+            <itunes:subtitle>Uddhava_Gita_56</itunes:subtitle>
+            <itunes:summary>Class 056</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_56_Uddhava_Gita.mp3" length="6770265" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:25</itunes:duration>
+            <itunes:order>56</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_57</title>
+            <itunes:subtitle>Uddhava_Gita_57</itunes:subtitle>
+            <itunes:summary>Class 057</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_57_Uddhava_Gita.mp3" length="6776639" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:28</itunes:duration>
+            <itunes:order>57</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_58</title>
+            <itunes:subtitle>Uddhava_Gita_58</itunes:subtitle>
+            <itunes:summary>Class 058</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_58_Uddhava_Gita.mp3" length="6876114" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:18</itunes:duration>
+            <itunes:order>58</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_59</title>
+            <itunes:subtitle>Uddhava_Gita_59</itunes:subtitle>
+            <itunes:summary>Class 059</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_59_Uddhava_Gita.mp3" length="6573302" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:46</itunes:duration>
+            <itunes:order>59</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_60</title>
+            <itunes:subtitle>Uddhava_Gita_60</itunes:subtitle>
+            <itunes:summary>Class 060</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_60_Uddhava_Gita.mp3" length="6697436" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:48</itunes:duration>
+            <itunes:order>60</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_61</title>
+            <itunes:subtitle>Uddhava_Gita_61</itunes:subtitle>
+            <itunes:summary>Class 061</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_61_Uddhava_Gita.mp3" length="6693256" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:46</itunes:duration>
+            <itunes:order>61</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_62</title>
+            <itunes:subtitle>Uddhava_Gita_62</itunes:subtitle>
+            <itunes:summary>Class 062</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_62_Uddhava_Gita.mp3" length="6822719" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:51</itunes:duration>
+            <itunes:order>62</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_63</title>
+            <itunes:subtitle>Uddhava_Gita_63</itunes:subtitle>
+            <itunes:summary>Class 063</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_63_Uddhava_Gita.mp3" length="6800254" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:40</itunes:duration>
+            <itunes:order>63</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_64</title>
+            <itunes:subtitle>Uddhava_Gita_64</itunes:subtitle>
+            <itunes:summary>Class 064</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_64_Uddhava_Gita.mp3" length="6742471" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:11</itunes:duration>
+            <itunes:order>64</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_65</title>
+            <itunes:subtitle>Uddhava_Gita_65</itunes:subtitle>
+            <itunes:summary>Class 065</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_65_Uddhava_Gita.mp3" length="6832123" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:56</itunes:duration>
+            <itunes:order>65</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_66</title>
+            <itunes:subtitle>Uddhava_Gita_66</itunes:subtitle>
+            <itunes:summary>Class 066</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_66_Uddhava_Gita.mp3" length="6608933" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:04</itunes:duration>
+            <itunes:order>66</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_67</title>
+            <itunes:subtitle>Uddhava_Gita_67</itunes:subtitle>
+            <itunes:summary>Class 067</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_67_Uddhava_Gita.mp3" length="6587408" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:53</itunes:duration>
+            <itunes:order>67</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_68</title>
+            <itunes:subtitle>Uddhava_Gita_68</itunes:subtitle>
+            <itunes:summary>Class 068</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_68_Uddhava_Gita.mp3" length="6490755" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:05</itunes:duration>
+            <itunes:order>68</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_69</title>
+            <itunes:subtitle>Uddhava_Gita_69</itunes:subtitle>
+            <itunes:summary>Class 069</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_69_Uddhava_Gita.mp3" length="6506115" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:13</itunes:duration>
+            <itunes:order>69</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_70</title>
+            <itunes:subtitle>Uddhava_Gita_70</itunes:subtitle>
+            <itunes:summary>Class 070</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_70_Uddhava_Gita.mp3" length="6816241" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:48</itunes:duration>
+            <itunes:order>70</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_71</title>
+            <itunes:subtitle>Uddhava_Gita_71</itunes:subtitle>
+            <itunes:summary>Class 071</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_71_Uddhava_Gita.mp3" length="6623205" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:11</itunes:duration>
+            <itunes:order>71</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_72</title>
+            <itunes:subtitle>Uddhava_Gita_72</itunes:subtitle>
+            <itunes:summary>Class 072</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_72_Uddhava_Gita.mp3" length="6759921" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:19</itunes:duration>
+            <itunes:order>72</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_73</title>
+            <itunes:subtitle>Uddhava_Gita_73</itunes:subtitle>
+            <itunes:summary>Class 073</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_73_Uddhava_Gita.mp3" length="6556118" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:38</itunes:duration>
+            <itunes:order>73</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_74</title>
+            <itunes:subtitle>Uddhava_Gita_74</itunes:subtitle>
+            <itunes:summary>Class 074</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_74_Uddhava_Gita.mp3" length="6810028" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:45</itunes:duration>
+            <itunes:order>74</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_75</title>
+            <itunes:subtitle>Uddhava_Gita_75</itunes:subtitle>
+            <itunes:summary>Class 075</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_75_Uddhava_Gita.mp3" length="6480515" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:00</itunes:duration>
+            <itunes:order>75</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_76</title>
+            <itunes:subtitle>Uddhava_Gita_76</itunes:subtitle>
+            <itunes:summary>Class 076</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_76_Uddhava_Gita.mp3" length="6437779" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:38</itunes:duration>
+            <itunes:order>76</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_77</title>
+            <itunes:subtitle>Uddhava_Gita_77</itunes:subtitle>
+            <itunes:summary>Class 077</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_77_Uddhava_Gita.mp3" length="6625443" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:12</itunes:duration>
+            <itunes:order>77</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_78</title>
+            <itunes:subtitle>Uddhava_Gita_78</itunes:subtitle>
+            <itunes:summary>Class 078</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_78_Uddhava_Gita.mp3" length="6577586" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:48</itunes:duration>
+            <itunes:order>78</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_79</title>
+            <itunes:subtitle>Uddhava_Gita_79</itunes:subtitle>
+            <itunes:summary>Class 079</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_79_Uddhava_Gita.mp3" length="6667447" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:33</itunes:duration>
+            <itunes:order>79</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_80</title>
+            <itunes:subtitle>Uddhava_Gita_80</itunes:subtitle>
+            <itunes:summary>Class 080</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_80_Uddhava_Gita.mp3" length="6348231" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:52:54</itunes:duration>
+            <itunes:order>80</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_81</title>
+            <itunes:subtitle>Uddhava_Gita_81</itunes:subtitle>
+            <itunes:summary>Class 081</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_81_Uddhava_Gita.mp3" length="6524855" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:22</itunes:duration>
+            <itunes:order>81</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_82</title>
+            <itunes:subtitle>Uddhava_Gita_82</itunes:subtitle>
+            <itunes:summary>Class 082</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_82_Uddhava_Gita.mp3" length="6719483" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:59</itunes:duration>
+            <itunes:order>82</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_83</title>
+            <itunes:subtitle>Uddhava_Gita_83</itunes:subtitle>
+            <itunes:summary>Class 083</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_83_Uddhava_Gita.mp3" length="6639549" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:19</itunes:duration>
+            <itunes:order>83</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_84</title>
+            <itunes:subtitle>Uddhava_Gita_84</itunes:subtitle>
+            <itunes:summary>Class 084</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_84_Uddhava_Gita.mp3" length="6762638" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:21</itunes:duration>
+            <itunes:order>84</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_85</title>
+            <itunes:subtitle>Uddhava_Gita_85</itunes:subtitle>
+            <itunes:summary>Class 085</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_85_Uddhava_Gita.mp3" length="6586007" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:53</itunes:duration>
+            <itunes:order>85</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_86</title>
+            <itunes:subtitle>Uddhava_Gita_86</itunes:subtitle>
+            <itunes:summary>Class 086</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_86_Uddhava_Gita.mp3" length="6671209" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:35</itunes:duration>
+            <itunes:order>86</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_87</title>
+            <itunes:subtitle>Uddhava_Gita_87</itunes:subtitle>
+            <itunes:summary>Class 087</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_87_Uddhava_Gita.mp3" length="6251996" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:52:05</itunes:duration>
+            <itunes:order>87</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_88</title>
+            <itunes:subtitle>Uddhava_Gita_88</itunes:subtitle>
+            <itunes:summary>Class 088</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_88_Uddhava_Gita.mp3" length="6814569" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:47</itunes:duration>
+            <itunes:order>88</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_89</title>
+            <itunes:subtitle>Uddhava_Gita_89</itunes:subtitle>
+            <itunes:summary>Class 089</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_89_Uddhava_Gita.mp3" length="6671627" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:35</itunes:duration>
+            <itunes:order>89</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_90</title>
+            <itunes:subtitle>Uddhava_Gita_90</itunes:subtitle>
+            <itunes:summary>Class 090</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_90_Uddhava_Gita.mp3" length="6854798" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:07</itunes:duration>
+            <itunes:order>90</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_91</title>
+            <itunes:subtitle>Uddhava_Gita_91</itunes:subtitle>
+            <itunes:summary>Class 091</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_91_Uddhava_Gita.mp3" length="6811804" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:45</itunes:duration>
+            <itunes:order>91</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_92</title>
+            <itunes:subtitle>Uddhava_Gita_92</itunes:subtitle>
+            <itunes:summary>Class 092</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_92_Uddhava_Gita.mp3" length="6849128" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:04</itunes:duration>
+            <itunes:order>92</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_93</title>
+            <itunes:subtitle>Uddhava_Gita_93</itunes:subtitle>
+            <itunes:summary>Class 093</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_93_Uddhava_Gita.mp3" length="6692791" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:46</itunes:duration>
+            <itunes:order>93</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_94</title>
+            <itunes:subtitle>Uddhava_Gita_94</itunes:subtitle>
+            <itunes:summary>Class 094</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_94_Uddhava_Gita.mp3" length="6708512" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:54</itunes:duration>
+            <itunes:order>94</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_95</title>
+            <itunes:subtitle>Uddhava_Gita_95</itunes:subtitle>
+            <itunes:summary>Class 095</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_95_Uddhava_Gita.mp3" length="6695242" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:47</itunes:duration>
+            <itunes:order>95</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_96</title>
+            <itunes:subtitle>Uddhava_Gita_96</itunes:subtitle>
+            <itunes:summary>Class 096</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_96_Uddhava_Gita.mp3" length="6512232" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:16</itunes:duration>
+            <itunes:order>96</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_97</title>
+            <itunes:subtitle>Uddhava_Gita_97</itunes:subtitle>
+            <itunes:summary>Class 097</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_97_Uddhava_Gita.mp3" length="6637981" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:18</itunes:duration>
+            <itunes:order>97</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_98</title>
+            <itunes:subtitle>Uddhava_Gita_98</itunes:subtitle>
+            <itunes:summary>Class 098</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_98_Uddhava_Gita.mp3" length="6527536" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:23</itunes:duration>
+            <itunes:order>98</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_99</title>
+            <itunes:subtitle>Uddhava_Gita_99</itunes:subtitle>
+            <itunes:summary>Class 099</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_99_Uddhava_Gita.mp3" length="6621994" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:10</itunes:duration>
+            <itunes:order>99</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_100</title>
+            <itunes:subtitle>Uddhava_Gita_100</itunes:subtitle>
+            <itunes:summary>Class 100</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_100_Uddhava_Gita.mp3" length="6449066" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:44</itunes:duration>
+            <itunes:order>100</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_101</title>
+            <itunes:subtitle>Uddhava_Gita_101</itunes:subtitle>
+            <itunes:summary>Class 101</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_101_Uddhava_Gita.mp3" length="6613797" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:06</itunes:duration>
+            <itunes:order>101</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_102</title>
+            <itunes:subtitle>Uddhava_Gita_102</itunes:subtitle>
+            <itunes:summary>Class 102</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_102_Uddhava_Gita.mp3" length="6245415" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:52:02</itunes:duration>
+            <itunes:order>102</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_103</title>
+            <itunes:subtitle>Uddhava_Gita_103</itunes:subtitle>
+            <itunes:summary>Class 103</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_103_Uddhava_Gita.mp3" length="6547495" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:33</itunes:duration>
+            <itunes:order>103</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_104</title>
+            <itunes:subtitle>Uddhava_Gita_104</itunes:subtitle>
+            <itunes:summary>Class 104</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_104_Uddhava_Gita.mp3" length="6823244" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:51</itunes:duration>
+            <itunes:order>104</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_105</title>
+            <itunes:subtitle>Uddhava_Gita_105</itunes:subtitle>
+            <itunes:summary>Class 105</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_105_Uddhava_Gita.mp3" length="6685735" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:42</itunes:duration>
+            <itunes:order>105</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_106</title>
+            <itunes:subtitle>Uddhava_Gita_106</itunes:subtitle>
+            <itunes:summary>Class 106</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_106_Uddhava_Gita.mp3" length="6514894" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:17</itunes:duration>
+            <itunes:order>106</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_107</title>
+            <itunes:subtitle>Uddhava_Gita_107</itunes:subtitle>
+            <itunes:summary>Class 107</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_107_Uddhava_Gita.mp3" length="6776746" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:28</itunes:duration>
+            <itunes:order>107</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_108</title>
+            <itunes:subtitle>Uddhava_Gita_108</itunes:subtitle>
+            <itunes:summary>Class 108</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_108_Uddhava_Gita.mp3" length="6485115" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:02</itunes:duration>
+            <itunes:order>108</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_109</title>
+            <itunes:subtitle>Uddhava_Gita_109</itunes:subtitle>
+            <itunes:summary>Class 109</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_109_Uddhava_Gita.mp3" length="6630878" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:15</itunes:duration>
+            <itunes:order>109</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_110</title>
+            <itunes:subtitle>Uddhava_Gita_110</itunes:subtitle>
+            <itunes:summary>Class 110</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_110_Uddhava_Gita.mp3" length="6464635" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:52</itunes:duration>
+            <itunes:order>110</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_111</title>
+            <itunes:subtitle>Uddhava_Gita_111</itunes:subtitle>
+            <itunes:summary>Class 111</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_111_Uddhava_Gita.mp3" length="6321902" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:52:40</itunes:duration>
+            <itunes:order>111</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_112</title>
+            <itunes:subtitle>Uddhava_Gita_112</itunes:subtitle>
+            <itunes:summary>Class 112</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_112_Uddhava_Gita.mp3" length="6504341" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:12</itunes:duration>
+            <itunes:order>112</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_113</title>
+            <itunes:subtitle>Uddhava_Gita_113</itunes:subtitle>
+            <itunes:summary>Class 113</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_113_Uddhava_Gita.mp3" length="6550525" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:35</itunes:duration>
+            <itunes:order>113</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_114</title>
+            <itunes:subtitle>Uddhava_Gita_114</itunes:subtitle>
+            <itunes:summary>Class 114</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_114_Uddhava_Gita.mp3" length="6591067" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:55</itunes:duration>
+            <itunes:order>114</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_115</title>
+            <itunes:subtitle>Uddhava_Gita_115</itunes:subtitle>
+            <itunes:summary>Class 115</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_115_Uddhava_Gita.mp3" length="6605278" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:02</itunes:duration>
+            <itunes:order>115</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_116</title>
+            <itunes:subtitle>Uddhava_Gita_116</itunes:subtitle>
+            <itunes:summary>Class 116</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_116_Uddhava_Gita.mp3" length="6194320" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:51:37</itunes:duration>
+            <itunes:order>116</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_117</title>
+            <itunes:subtitle>Uddhava_Gita_117</itunes:subtitle>
+            <itunes:summary>Class 117</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_117_Uddhava_Gita.mp3" length="6684690" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:42</itunes:duration>
+            <itunes:order>117</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_118</title>
+            <itunes:subtitle>Uddhava_Gita_118</itunes:subtitle>
+            <itunes:summary>Class 118</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_118_Uddhava_Gita.mp3" length="6719381" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:59</itunes:duration>
+            <itunes:order>118</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_119</title>
+            <itunes:subtitle>Uddhava_Gita_119</itunes:subtitle>
+            <itunes:summary>Class 119</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_119_Uddhava_Gita.mp3" length="6180631" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:51:30</itunes:duration>
+            <itunes:order>119</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_120</title>
+            <itunes:subtitle>Uddhava_Gita_120</itunes:subtitle>
+            <itunes:summary>Class 120</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_120_Uddhava_Gita.mp3" length="6256073" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:52:08</itunes:duration>
+            <itunes:order>120</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_121</title>
+            <itunes:subtitle>Uddhava_Gita_121</itunes:subtitle>
+            <itunes:summary>Class 121</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_121_Uddhava_Gita.mp3" length="6172063" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:51:26</itunes:duration>
+            <itunes:order>121</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_122</title>
+            <itunes:subtitle>Uddhava_Gita_122</itunes:subtitle>
+            <itunes:summary>Class 122</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_122_Uddhava_Gita.mp3" length="6754489" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:17</itunes:duration>
+            <itunes:order>122</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_123</title>
+            <itunes:subtitle>Uddhava_Gita_123</itunes:subtitle>
+            <itunes:summary>Class 123</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_123_Uddhava_Gita.mp3" length="6683645" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:41</itunes:duration>
+            <itunes:order>123</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_124</title>
+            <itunes:subtitle>Uddhava_Gita_124</itunes:subtitle>
+            <itunes:summary>Class 124</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_124_Uddhava_Gita.mp3" length="6519910" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:19</itunes:duration>
+            <itunes:order>124</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_125</title>
+            <itunes:subtitle>Uddhava_Gita_125</itunes:subtitle>
+            <itunes:summary>Class 125</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_125_Uddhava_Gita.mp3" length="6516671" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:18</itunes:duration>
+            <itunes:order>125</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_126</title>
+            <itunes:subtitle>Uddhava_Gita_126</itunes:subtitle>
+            <itunes:summary>Class 126</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_126_Uddhava_Gita.mp3" length="6447498" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:43</itunes:duration>
+            <itunes:order>126</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_127</title>
+            <itunes:subtitle>Uddhava_Gita_127</itunes:subtitle>
+            <itunes:summary>Class 127</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_127_Uddhava_Gita.mp3" length="6524298" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:22</itunes:duration>
+            <itunes:order>127</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_128</title>
+            <itunes:subtitle>Uddhava_Gita_128</itunes:subtitle>
+            <itunes:summary>Class 128</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_128_Uddhava_Gita.mp3" length="6654597" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:27</itunes:duration>
+            <itunes:order>128</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_129</title>
+            <itunes:subtitle>Uddhava_Gita_129</itunes:subtitle>
+            <itunes:summary>Class 129</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_129_Uddhava_Gita.mp3" length="6630878" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:15</itunes:duration>
+            <itunes:order>129</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_130</title>
+            <itunes:subtitle>Uddhava_Gita_130</itunes:subtitle>
+            <itunes:summary>Class 130</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_130_Uddhava_Gita.mp3" length="6562437" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:41</itunes:duration>
+            <itunes:order>130</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_131</title>
+            <itunes:subtitle>Uddhava_Gita_131</itunes:subtitle>
+            <itunes:summary>Class 131</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_131_Uddhava_Gita.mp3" length="6556377" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:38</itunes:duration>
+            <itunes:order>131</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_132</title>
+            <itunes:subtitle>Uddhava_Gita_132</itunes:subtitle>
+            <itunes:summary>Class 132</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_132_Uddhava_Gita.mp3" length="6454917" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:47</itunes:duration>
+            <itunes:order>132</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_133</title>
+            <itunes:subtitle>Uddhava_Gita_133</itunes:subtitle>
+            <itunes:summary>Class 133</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_133_Uddhava_Gita.mp3" length="6640212" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:20</itunes:duration>
+            <itunes:order>133</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_134</title>
+            <itunes:subtitle>Uddhava_Gita_134</itunes:subtitle>
+            <itunes:summary>Class 134</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_134_Uddhava_Gita.mp3" length="6455788" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:47</itunes:duration>
+            <itunes:order>134</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_135</title>
+            <itunes:subtitle>Uddhava_Gita_135</itunes:subtitle>
+            <itunes:summary>Class 135</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_135_Uddhava_Gita.mp3" length="6553558" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:36</itunes:duration>
+            <itunes:order>135</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_136</title>
+            <itunes:subtitle>Uddhava_Gita_136</itunes:subtitle>
+            <itunes:summary>Class 136</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_136_Uddhava_Gita.mp3" length="6842992" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:01</itunes:duration>
+            <itunes:order>136</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_137</title>
+            <itunes:subtitle>Uddhava_Gita_137</itunes:subtitle>
+            <itunes:summary>Class 137</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_137_Uddhava_Gita.mp3" length="6539742" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:29</itunes:duration>
+            <itunes:order>137</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_138</title>
+            <itunes:subtitle>Uddhava_Gita_138</itunes:subtitle>
+            <itunes:summary>Class 138</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_138_Uddhava_Gita.mp3" length="6614661" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:07</itunes:duration>
+            <itunes:order>138</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_139</title>
+            <itunes:subtitle>Uddhava_Gita_139</itunes:subtitle>
+            <itunes:summary>Class 139</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_139_Uddhava_Gita.mp3" length="6644545" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:22</itunes:duration>
+            <itunes:order>139</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_140</title>
+            <itunes:subtitle>Uddhava_Gita_140</itunes:subtitle>
+            <itunes:summary>Class 140</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_140_Uddhava_Gita.mp3" length="6691779" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:45</itunes:duration>
+            <itunes:order>140</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_141</title>
+            <itunes:subtitle>Uddhava_Gita_141</itunes:subtitle>
+            <itunes:summary>Class 141</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_141_Uddhava_Gita.mp3" length="6581016" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:50</itunes:duration>
+            <itunes:order>141</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_142</title>
+            <itunes:subtitle>Uddhava_Gita_142</itunes:subtitle>
+            <itunes:summary>Class 142</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_142_Uddhava_Gita.mp3" length="6904203" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:32</itunes:duration>
+            <itunes:order>142</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_143</title>
+            <itunes:subtitle>Uddhava_Gita_143</itunes:subtitle>
+            <itunes:summary>Class 143</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_143_Uddhava_Gita.mp3" length="6694178" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:47</itunes:duration>
+            <itunes:order>143</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_144</title>
+            <itunes:subtitle>Uddhava_Gita_144</itunes:subtitle>
+            <itunes:summary>Class 144</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_144_Uddhava_Gita.mp3" length="6942973" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:51</itunes:duration>
+            <itunes:order>144</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_145</title>
+            <itunes:subtitle>Uddhava_Gita_145</itunes:subtitle>
+            <itunes:summary>Class 145</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_145_Uddhava_Gita.mp3" length="6833510" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:56</itunes:duration>
+            <itunes:order>145</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_146</title>
+            <itunes:subtitle>Uddhava_Gita_146</itunes:subtitle>
+            <itunes:summary>Class 146</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_146_Uddhava_Gita.mp3" length="6998604" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:58:19</itunes:duration>
+            <itunes:order>146</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_147</title>
+            <itunes:subtitle>Uddhava_Gita_147</itunes:subtitle>
+            <itunes:summary>Class 147</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_147_Uddhava_Gita.mp3" length="6899521" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:29</itunes:duration>
+            <itunes:order>147</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_148</title>
+            <itunes:subtitle>Uddhava_Gita_148</itunes:subtitle>
+            <itunes:summary>Class 148</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_148_Uddhava_Gita.mp3" length="6751942" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:15</itunes:duration>
+            <itunes:order>148</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_149</title>
+            <itunes:subtitle>Uddhava_Gita_149</itunes:subtitle>
+            <itunes:summary>Class 149</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_149_Uddhava_Gita.mp3" length="6853137" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:06</itunes:duration>
+            <itunes:order>149</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_150</title>
+            <itunes:subtitle>Uddhava_Gita_150</itunes:subtitle>
+            <itunes:summary>Class 150</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_150_Uddhava_Gita.mp3" length="6770172" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:25</itunes:duration>
+            <itunes:order>150</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_151</title>
+            <itunes:subtitle>Uddhava_Gita_151</itunes:subtitle>
+            <itunes:summary>Class 151</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_151_Uddhava_Gita.mp3" length="6662209" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:31</itunes:duration>
+            <itunes:order>151</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_152</title>
+            <itunes:subtitle>Uddhava_Gita_152</itunes:subtitle>
+            <itunes:summary>Class 152</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_152_Uddhava_Gita.mp3" length="6599197" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:59</itunes:duration>
+            <itunes:order>152</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_153</title>
+            <itunes:subtitle>Uddhava_Gita_153</itunes:subtitle>
+            <itunes:summary>Class 153</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_153_Uddhava_Gita.mp3" length="6755205" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:17</itunes:duration>
+            <itunes:order>153</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_154</title>
+            <itunes:subtitle>Uddhava_Gita_154</itunes:subtitle>
+            <itunes:summary>Class 154</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_154_Uddhava_Gita.mp3" length="6750082" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:15</itunes:duration>
+            <itunes:order>154</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_155</title>
+            <itunes:subtitle>Uddhava_Gita_155</itunes:subtitle>
+            <itunes:summary>Class 155</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_155_Uddhava_Gita.mp3" length="6861513" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:10</itunes:duration>
+            <itunes:order>155</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_156</title>
+            <itunes:subtitle>Uddhava_Gita_156</itunes:subtitle>
+            <itunes:summary>Class 156</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_156_Uddhava_Gita.mp3" length="6741350" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:10</itunes:duration>
+            <itunes:order>156</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_157</title>
+            <itunes:subtitle>Uddhava_Gita_157</itunes:subtitle>
+            <itunes:summary>Class 157</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_157_Uddhava_Gita.mp3" length="6714183" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:57</itunes:duration>
+            <itunes:order>157</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_158</title>
+            <itunes:subtitle>Uddhava_Gita_158</itunes:subtitle>
+            <itunes:summary>Class 158</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_158_Uddhava_Gita.mp3" length="6953856" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:56</itunes:duration>
+            <itunes:order>158</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_159</title>
+            <itunes:subtitle>Uddhava_Gita_159</itunes:subtitle>
+            <itunes:summary>Class 159</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_159_Uddhava_Gita.mp3" length="6930410" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:45</itunes:duration>
+            <itunes:order>159</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_160</title>
+            <itunes:subtitle>Uddhava_Gita_160</itunes:subtitle>
+            <itunes:summary>Class 160</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_160_Uddhava_Gita.mp3" length="6956219" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:58</itunes:duration>
+            <itunes:order>160</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_161</title>
+            <itunes:subtitle>Uddhava_Gita_161</itunes:subtitle>
+            <itunes:summary>Class 161</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_161_Uddhava_Gita.mp3" length="6787058" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:33</itunes:duration>
+            <itunes:order>161</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_162</title>
+            <itunes:subtitle>Uddhava_Gita_162</itunes:subtitle>
+            <itunes:summary>Class 162</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_162_Uddhava_Gita.mp3" length="7005378" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:58:22</itunes:duration>
+            <itunes:order>162</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_163</title>
+            <itunes:subtitle>Uddhava_Gita_163</itunes:subtitle>
+            <itunes:summary>Class 163</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_163_Uddhava_Gita.mp3" length="6871936" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:15</itunes:duration>
+            <itunes:order>163</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_164</title>
+            <itunes:subtitle>Uddhava_Gita_164</itunes:subtitle>
+            <itunes:summary>Class 164</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_164_Uddhava_Gita.mp3" length="6841618" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:00</itunes:duration>
+            <itunes:order>164</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_165</title>
+            <itunes:subtitle>Uddhava_Gita_165</itunes:subtitle>
+            <itunes:summary>Class 165</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_165_Uddhava_Gita.mp3" length="6922323" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:41</itunes:duration>
+            <itunes:order>165</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_166</title>
+            <itunes:subtitle>Uddhava_Gita_166</itunes:subtitle>
+            <itunes:summary>Class 166</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_166_Uddhava_Gita.mp3" length="6915545" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:37</itunes:duration>
+            <itunes:order>166</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_167</title>
+            <itunes:subtitle>Uddhava_Gita_167</itunes:subtitle>
+            <itunes:summary>Class 167</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_167_Uddhava_Gita.mp3" length="6892708" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:26</itunes:duration>
+            <itunes:order>167</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_168</title>
+            <itunes:subtitle>Uddhava_Gita_168</itunes:subtitle>
+            <itunes:summary>Class 168</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_168_Uddhava_Gita.mp3" length="6853905" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:06</itunes:duration>
+            <itunes:order>168</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_169</title>
+            <itunes:subtitle>Uddhava_Gita_169</itunes:subtitle>
+            <itunes:summary>Class 169</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_169_Uddhava_Gita.mp3" length="6902661" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:31</itunes:duration>
+            <itunes:order>169</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_170</title>
+            <itunes:subtitle>Uddhava_Gita_170</itunes:subtitle>
+            <itunes:summary>Class 170</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_170_Uddhava_Gita.mp3" length="6910059" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:35</itunes:duration>
+            <itunes:order>170</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_171</title>
+            <itunes:subtitle>Uddhava_Gita_171</itunes:subtitle>
+            <itunes:summary>Class 171</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_171_Uddhava_Gita.mp3" length="6896883" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:28</itunes:duration>
+            <itunes:order>171</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_172</title>
+            <itunes:subtitle>Uddhava_Gita_172</itunes:subtitle>
+            <itunes:summary>Class 172</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_172_Uddhava_Gita.mp3" length="6949546" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:54</itunes:duration>
+            <itunes:order>172</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_173</title>
+            <itunes:subtitle>Uddhava_Gita_173</itunes:subtitle>
+            <itunes:summary>Class 173</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_173_Uddhava_Gita.mp3" length="6894914" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:27</itunes:duration>
+            <itunes:order>173</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_174</title>
+            <itunes:subtitle>Uddhava_Gita_174</itunes:subtitle>
+            <itunes:summary>Class 174</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_174_Uddhava_Gita.mp3" length="6829184" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:54</itunes:duration>
+            <itunes:order>174</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_175</title>
+            <itunes:subtitle>Uddhava_Gita_175</itunes:subtitle>
+            <itunes:summary>Class 175</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_175_Uddhava_Gita.mp3" length="6956352" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:58</itunes:duration>
+            <itunes:order>175</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_176</title>
+            <itunes:subtitle>Uddhava_Gita_176</itunes:subtitle>
+            <itunes:summary>Class 176</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_176_Uddhava_Gita.mp3" length="6883607" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:21</itunes:duration>
+            <itunes:order>176</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_177</title>
+            <itunes:subtitle>Uddhava_Gita_177</itunes:subtitle>
+            <itunes:summary>Class 177</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_177_Uddhava_Gita.mp3" length="6814797" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:47</itunes:duration>
+            <itunes:order>177</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_178</title>
+            <itunes:subtitle>Uddhava_Gita_178</itunes:subtitle>
+            <itunes:summary>Class 178</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_178_Uddhava_Gita.mp3" length="6571186" type="audio/mpeg" />
+            <pubDate>Sun, 06 July 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:33</itunes:duration>
+            <itunes:order>178</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_179</title>
+            <itunes:subtitle>Uddhava_Gita_179</itunes:subtitle>
+            <itunes:summary>Class 179</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_179_Uddhava_Gita.mp3" length="6561657" type="audio/mpeg" />
+            <pubDate>Sun, 13 July 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:28</itunes:duration>
+            <itunes:order>179</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_180</title>
+            <itunes:subtitle>Uddhava_Gita_180</itunes:subtitle>
+            <itunes:summary>Class 180</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_180_Uddhava_Gita.mp3" length="6965543" type="audio/mpeg" />
+            <pubDate>Sun, 20 July 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:50</itunes:duration>
+            <itunes:order>180</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_181</title>
+            <itunes:subtitle>Uddhava_Gita_181</itunes:subtitle>
+            <itunes:summary>Class 181</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_181_Uddhava_Gita.mp3" length="6961401" type="audio/mpeg" />
+            <pubDate>Sun, 27 July 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:48</itunes:duration>
+            <itunes:order>181</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_182</title>
+            <itunes:subtitle>Uddhava_Gita_182</itunes:subtitle>
+            <itunes:summary>Class 182</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_182_Uddhava_Gita.mp3" length="6480503" type="audio/mpeg" />
+            <pubDate>Sun, 03 August 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:48</itunes:duration>
+            <itunes:order>182</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_183</title>
+            <itunes:subtitle>Uddhava_Gita_183</itunes:subtitle>
+            <itunes:summary>Class 183</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_183_Uddhava_Gita.mp3" length="6755362" type="audio/mpeg" />
+            <pubDate>Sun, 10 August 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:05</itunes:duration>
+            <itunes:order>183</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_184</title>
+            <itunes:subtitle>Uddhava_Gita_184</itunes:subtitle>
+            <itunes:summary>Class 184</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_184_Uddhava_Gita.mp3" length="6995245" type="audio/mpeg" />
+            <pubDate>Sun, 25 August 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:58:05</itunes:duration>
+            <itunes:order>184</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_185</title>
+            <itunes:subtitle>Uddhava_Gita_185</itunes:subtitle>
+            <itunes:summary>Class 185</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_185_Uddhava_Gita.mp3" length="6686173" type="audio/mpeg" />
+            <pubDate>Sun, 31 August 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:30</itunes:duration>
+            <itunes:order>185</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_186</title>
+            <itunes:subtitle>Uddhava_Gita_186</itunes:subtitle>
+            <itunes:summary>Class 186</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_186_Uddhava_Gita.mp3" length="6233966" type="audio/mpeg" />
+            <pubDate>Sun, 07 September 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:51:44</itunes:duration>
+            <itunes:order>186</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_187</title>
+            <itunes:subtitle>Uddhava_Gita_187</itunes:subtitle>
+            <itunes:summary>Class 187</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_187_Uddhava_Gita.mp3" length="6205808" type="audio/mpeg" />
+            <pubDate>Sun, 14 September 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:51:43</itunes:duration>
+            <itunes:order>187</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_188</title>
+            <itunes:subtitle>Uddhava_Gita_188</itunes:subtitle>
+            <itunes:summary>Class 188</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_188_Uddhava_Gita.mp3" length="6483318" type="audio/mpeg" />
+            <pubDate>Sun, 21 September 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:53:49</itunes:duration>
+            <itunes:order>188</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_189</title>
+            <itunes:subtitle>Uddhava_Gita_189</itunes:subtitle>
+            <itunes:summary>Class 189</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_189_Uddhava_Gita.mp3" length="6633348" type="audio/mpeg" />
+            <pubDate>Sun, 05 October 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:04</itunes:duration>
+            <itunes:order>189</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_190</title>
+            <itunes:subtitle>Uddhava_Gita_190</itunes:subtitle>
+            <itunes:summary>Class 190</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_190_Uddhava_Gita.mp3" length="6669842" type="audio/mpeg" />
+            <pubDate>Sun, 12 October 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:22</itunes:duration>
+            <itunes:order>190</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_191</title>
+            <itunes:subtitle>Uddhava_Gita_191</itunes:subtitle>
+            <itunes:summary>Class 191</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_191_Uddhava_Gita.mp3" length="6613303" type="audio/mpeg" />
+            <pubDate>Sun, 26 October 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:06</itunes:duration>
+            <itunes:order>191</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_192</title>
+            <itunes:subtitle>Uddhava_Gita_192</itunes:subtitle>
+            <itunes:summary>Class 192</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_192_Uddhava_Gita.mp3" length="6573492" type="audio/mpeg" />
+            <pubDate>Sun, 02 November 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:34</itunes:duration>
+            <itunes:order>192</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_193</title>
+            <itunes:subtitle>Uddhava_Gita_193</itunes:subtitle>
+            <itunes:summary>Class 193</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_193_Uddhava_Gita.mp3" length="6831595" type="audio/mpeg" />
+            <pubDate>Sun, 09 November 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:43</itunes:duration>
+            <itunes:order>193</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_194</title>
+            <itunes:subtitle>Uddhava_Gita_194</itunes:subtitle>
+            <itunes:summary>Class 194</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_194_Uddhava_Gita.mp3" length="6620446" type="audio/mpeg" />
+            <pubDate>Sun, 16 November 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:58</itunes:duration>
+            <itunes:order>194</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_195</title>
+            <itunes:subtitle>Uddhava_Gita_195</itunes:subtitle>
+            <itunes:summary>Class 195</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_195_Uddhava_Gita.mp3" length="6653147" type="audio/mpeg" />
+            <pubDate>Sun, 23 November 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:14</itunes:duration>
+            <itunes:order>195</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_196</title>
+            <itunes:subtitle>Uddhava_Gita_196</itunes:subtitle>
+            <itunes:summary>Class 196</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_196_Uddhava_Gita.mp3" length="6716879" type="audio/mpeg" />
+            <pubDate>Sun, 30 November 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:46</itunes:duration>
+            <itunes:order>196</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_197</title>
+            <itunes:subtitle>Uddhava_Gita_197</itunes:subtitle>
+            <itunes:summary>Class 197</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_197_Uddhava_Gita.mp3" length="6609351" type="audio/mpeg" />
+            <pubDate>Sun, 7 December 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:54:52</itunes:duration>
+            <itunes:order>197</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_198</title>
+            <itunes:subtitle>Uddhava_Gita_198</itunes:subtitle>
+            <itunes:summary>Class 198</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_198_Uddhava_Gita.mp3" length="6958634" type="audio/mpeg" />
+            <pubDate>Sun, 14 December 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:47</itunes:duration>
+            <itunes:order>198</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_199</title>
+            <itunes:subtitle>Uddhava_Gita_199</itunes:subtitle>
+            <itunes:summary>Class 199</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_199_Uddhava_Gita.mp3" length="6923131" type="audio/mpeg" />
+            <pubDate>Sun, 21 December 2014 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:29</itunes:duration>
+            <itunes:order>199</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_200</title>
+            <itunes:subtitle>Uddhava_Gita_200</itunes:subtitle>
+            <itunes:summary>Class 200</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_200_Uddhava_Gita.mp3" length="6784400" type="audio/mpeg" />
+            <pubDate>Sun, 04 January 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:32</itunes:duration>
+            <itunes:order>200</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_201</title>
+            <itunes:subtitle>Uddhava_Gita_201</itunes:subtitle>
+            <itunes:summary>Class 201</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_201_Uddhava_Gita.mp3" length="6827841" type="audio/mpeg" />
+            <pubDate>Sun, 11 January 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:41</itunes:duration>
+            <itunes:order>201</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_202</title>
+            <itunes:subtitle>Uddhava_Gita_202</itunes:subtitle>
+            <itunes:summary>Class 202</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_202_Uddhava_Gita.mp3" length="6867925" type="audio/mpeg" />
+            <pubDate>Sun, 18 January 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:01</itunes:duration>
+            <itunes:order>202</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_203</title>
+            <itunes:subtitle>Uddhava_Gita_203</itunes:subtitle>
+            <itunes:summary>Class 203</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_203_Uddhava_Gita.mp3" length="6808687" type="audio/mpeg" />
+            <pubDate>Sun, 25 January 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:32</itunes:duration>
+            <itunes:order>203</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_204</title>
+            <itunes:subtitle>Uddhava_Gita_204</itunes:subtitle>
+            <itunes:summary>Class 204</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_204_Uddhava_Gita.mp3" length="6886051" type="audio/mpeg" />
+            <pubDate>Sun, 01 February 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:10</itunes:duration>
+            <itunes:order>204</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_205</title>
+            <itunes:subtitle>Uddhava_Gita_205</itunes:subtitle>
+            <itunes:summary>Class 205</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_205_Uddhava_Gita.mp3" length="7046209" type="audio/mpeg" />
+            <pubDate>Sun, 08 February 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:58:30</itunes:duration>
+            <itunes:order>205</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_206</title>
+            <itunes:subtitle>Uddhava_Gita_206</itunes:subtitle>
+            <itunes:summary>Class 206</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_206_Uddhava_Gita.mp3" length="6697252" type="audio/mpeg" />
+            <pubDate>Sun, 15 February 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:36</itunes:duration>
+            <itunes:order>206</itunes:order>
+        </item>
+       <item>
+            <title>Uddhava_Gita_207</title>
+            <itunes:subtitle>Uddhava_Gita_207</itunes:subtitle>
+            <itunes:summary>Class 207</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_207_Uddhava_Gita.mp3" length="6879078" type="audio/mpeg" />
+            <pubDate>Sun, 22 February 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:07</itunes:duration>
+            <itunes:order>207</itunes:order>
+        </item>
+ 
+        <item>
+            <title>Uddhava_Gita_208</title>
+            <itunes:subtitle>Uddhava_Gita_208</itunes:subtitle>
+            <itunes:summary>Class 208</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_208_Uddhava_Gita.mp3" length="6772336" type="audio/mpeg" />
+            <pubDate>Sun, 01 March 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:13</itunes:duration>
+            <itunes:order>208</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_209</title>
+            <itunes:subtitle>Uddhava_Gita_209</itunes:subtitle>
+            <itunes:summary>Class 209</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_209_Uddhava_Gita.mp3" length="6763835" type="audio/mpeg" />
+            <pubDate>Sun, 08 March 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:09</itunes:duration>
+            <itunes:order>209</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_210</title>
+            <itunes:subtitle>Uddhava_Gita_210</itunes:subtitle>
+            <itunes:summary>Class 210</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_210_Uddhava_Gita.mp3" length="6782393" type="audio/mpeg" />
+            <pubDate>Sun, 15 March 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:18</itunes:duration>
+            <itunes:order>210</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_211</title>
+            <itunes:subtitle>Uddhava_Gita_211</itunes:subtitle>
+            <itunes:summary>Class 211</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_211_Uddhava_Gita.mp3" length="6875786" type="audio/mpeg" />
+            <pubDate>Sun, 22 March 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:05</itunes:duration>
+            <itunes:order>211</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_212</title>
+            <itunes:subtitle>Uddhava_Gita_212</itunes:subtitle>
+            <itunes:summary>Class 212</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_212_Uddhava_Gita.mp3" length="6663035" type="audio/mpeg" />
+            <pubDate>Sun, 29 March 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:19</itunes:duration>
+            <itunes:order>212</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_213</title>
+            <itunes:subtitle>Uddhava_Gita_213</itunes:subtitle>
+            <itunes:summary>Class 213</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_213_Uddhava_Gita.mp3" length="6637853" type="audio/mpeg" />
+            <pubDate>Sun, 05 April 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:06</itunes:duration>
+            <itunes:order>213</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_214</title>
+            <itunes:subtitle>Uddhava_Gita_214</itunes:subtitle>
+            <itunes:summary>Class 214</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_214_Uddhava_Gita.mp3" length="6283439" type="audio/mpeg" />
+            <pubDate>Sun, 05 July 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:52:09</itunes:duration>
+            <itunes:order>214</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_215</title>
+            <itunes:subtitle>Uddhava_Gita_215</itunes:subtitle>
+            <itunes:summary>Class 215</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_215_Uddhava_Gita.mp3" length="6745384" type="audio/mpeg" />
+            <pubDate>Sun, 12 July 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:00</itunes:duration>
+            <itunes:order>215</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_216</title>
+            <itunes:subtitle>Uddhava_Gita_216</itunes:subtitle>
+            <itunes:summary>Class 216</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_216_Uddhava_Gita.mp3" length="6767434" type="audio/mpeg" />
+            <pubDate>Sun, 19 July 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:11</itunes:duration>
+            <itunes:order>216</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_217</title>
+            <itunes:subtitle>Uddhava_Gita_217</itunes:subtitle>
+            <itunes:summary>Class 217</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_217_Uddhava_Gita.mp3" length="6756129" type="audio/mpeg" />
+            <pubDate>Sun, 26 July 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:05</itunes:duration>
+            <itunes:order>217</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_218</title>
+            <itunes:subtitle>Uddhava_Gita_218</itunes:subtitle>
+            <itunes:summary>Class 218</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_218_Uddhava_Gita.mp3" length="6812449" type="audio/mpeg" />
+            <pubDate>Sun, 02 August 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:34</itunes:duration>
+            <itunes:order>218</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_219</title>
+            <itunes:subtitle>Uddhava_Gita_219</itunes:subtitle>
+            <itunes:summary>Class 219</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_219_Uddhava_Gita.mp3" length="6796407" type="audio/mpeg" />
+            <pubDate>Sun, 09 August 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:25</itunes:duration>
+            <itunes:order>219</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_220</title>
+            <itunes:subtitle>Uddhava_Gita_220</itunes:subtitle>
+            <itunes:summary>Class 220</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_220_Uddhava_Gita.mp3" length="6705083" type="audio/mpeg" />
+            <pubDate>Sun, 16 August 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:40</itunes:duration>
+            <itunes:order>220</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_221</title>
+            <itunes:subtitle>Uddhava_Gita_221</itunes:subtitle>
+            <itunes:summary>Class 221</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_221_Uddhava_Gita.mp3" length="6935497" type="audio/mpeg" />
+            <pubDate>Sun, 23 August 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:35</itunes:duration>
+            <itunes:order>221</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_222</title>
+            <itunes:subtitle>Uddhava_Gita_222</itunes:subtitle>
+            <itunes:summary>Class 222</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_222_Uddhava_Gita.mp3" length="6841352" type="audio/mpeg" />
+            <pubDate>Sun, 13 September 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:48</itunes:duration>
+            <itunes:order>222</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_223</title>
+            <itunes:subtitle>Uddhava_Gita_223</itunes:subtitle>
+            <itunes:summary>Class 223</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_223_Uddhava_Gita.mp3" length="6978362" type="audio/mpeg" />
+            <pubDate>Sun, 20 September 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:57</itunes:duration>
+            <itunes:order>223</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_224</title>
+            <itunes:subtitle>Uddhava_Gita_224</itunes:subtitle>
+            <itunes:summary>Class 224</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_224_Uddhava_Gita.mp3" length="6895698" type="audio/mpeg" />
+            <pubDate>Sun, 11 October 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:15</itunes:duration>
+            <itunes:order>224</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_225</title>
+            <itunes:subtitle>Uddhava_Gita_225</itunes:subtitle>
+            <itunes:summary>Class 225</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_225_Uddhava_Gita.mp3" length="7001965" type="audio/mpeg" />
+            <pubDate>Sun, 18 October 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:58:08</itunes:duration>
+            <itunes:order>225</itunes:order>
+        </item>
+		<item>
+            <title>Uddhava_Gita_226</title>
+            <itunes:subtitle>Uddhava_Gita_226</itunes:subtitle>
+            <itunes:summary>Class 226</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_226_Uddhava_Gita.mp3" length="7001965" type="audio/mpeg" />
+            <pubDate>Sun, 25 October 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:15</itunes:duration>
+            <itunes:order>226</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_227</title>
+            <itunes:subtitle>Uddhava_Gita_227</itunes:subtitle>
+            <itunes:summary>Class 227</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_227_Uddhava_Gita.mp3" length="6976990" type="audio/mpeg" />
+            <pubDate>Sun, 01 November 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:56</itunes:duration>
+            <itunes:order>227</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_228</title>
+            <itunes:subtitle>Uddhava_Gita_228</itunes:subtitle>
+            <itunes:summary>Class 228</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_228_Uddhava_Gita.mp3" length="6990156" type="audio/mpeg" />
+            <pubDate>Sun, 22 November 2015 16:02:58 -0000</pubDate>
+            <itunes:duration>0:58:02</itunes:duration>
+            <itunes:order>228</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_229</title>
+            <itunes:subtitle>Uddhava_Gita_229</itunes:subtitle>
+            <itunes:summary>Class 229</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_229_Uddhava_Gita.mp3" length="6797895" type="audio/mpeg" />
+            <pubDate>Sun, 03 January 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:26</itunes:duration>
+            <itunes:order>229</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_230</title>
+            <itunes:subtitle>Uddhava_Gita_230</itunes:subtitle>
+            <itunes:summary>Class 230</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_230_Uddhava_Gita.mp3" length="6818583" type="audio/mpeg" />
+            <pubDate>Sun, 10 January 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:37</itunes:duration>
+            <itunes:order>230</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_231</title>
+            <itunes:subtitle>Uddhava_Gita_231</itunes:subtitle>
+            <itunes:summary>Class 231</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_231_Uddhava_Gita.mp3" length="6743318" type="audio/mpeg" />
+            <pubDate>Sun, 17 January 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:59</itunes:duration>
+            <itunes:order>231</itunes:order>
+        </item>
+		<item>
+            <title>Uddhava_Gita_232</title>
+            <itunes:subtitle>Uddhava_Gita_232</itunes:subtitle>
+            <itunes:summary>Class 232</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_232_Uddhava_Gita.mp3" length="6837111" type="audio/mpeg" />
+            <pubDate>Sun, 21 January 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:46</itunes:duration>
+            <itunes:order>232</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_233</title>
+            <itunes:subtitle>Uddhava_Gita_233</itunes:subtitle>
+            <itunes:summary>Class 233</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_233_Uddhava_Gita.mp3" length="6757072" type="audio/mpeg" />
+            <pubDate>Sun, 31 January 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:06</itunes:duration>
+            <itunes:order>233</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_234</title>
+            <itunes:subtitle>Uddhava_Gita_234</itunes:subtitle>
+            <itunes:summary>Class 234</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_234_Uddhava_Gita.mp3" length="6814973" type="audio/mpeg" />
+            <pubDate>Sun, 07 February 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:35</itunes:duration>
+            <itunes:order>234</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_235</title>
+            <itunes:subtitle>Uddhava_Gita_235</itunes:subtitle>
+            <itunes:summary>Class 235</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_235_Uddhava_Gita.mp3" length="6839423" type="audio/mpeg" />
+            <pubDate>Sun, 14 February 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:47</itunes:duration>
+            <itunes:order>235</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_236</title>
+            <itunes:subtitle>Uddhava_Gita_236</itunes:subtitle>
+            <itunes:summary>Class 236</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_236_Uddhava_Gita.mp3" length="6738068" type="audio/mpeg" />
+            <pubDate>Sun, 21 February 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:55:56</itunes:duration>
+            <itunes:order>236</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_237</title>
+            <itunes:subtitle>Uddhava_Gita_237</itunes:subtitle>
+            <itunes:summary>Class 237</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_237_Uddhava_Gita.mp3" length="6895469" type="audio/mpeg" />
+            <pubDate>Sun, 28 February 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:15</itunes:duration>
+            <itunes:order>237</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_238</title>
+            <itunes:subtitle>Uddhava_Gita_238</itunes:subtitle>
+            <itunes:summary>Class 238</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_238_Uddhava_Gita.mp3" length="6753377" type="audio/mpeg" />
+            <pubDate>Sun, 06 March 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:56:04</itunes:duration>
+            <itunes:order>238</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_239</title>
+            <itunes:subtitle>Uddhava_Gita_239</itunes:subtitle>
+            <itunes:summary>Class 239</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_239_Uddhava_Gita.mp3" length="6953997" type="audio/mpeg" />
+            <pubDate>Sun, 13 March 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:44</itunes:duration>
+            <itunes:order>239</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_240</title>
+            <itunes:subtitle>Uddhava_Gita_240</itunes:subtitle>
+            <itunes:summary>Class 240</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_240_Uddhava_Gita.mp3" length="6902948" type="audio/mpeg" />
+            <pubDate>Sun, 20 March 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>0:57:19</itunes:duration>
+            <itunes:order>240</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_241</title>
+            <itunes:subtitle>Uddhava_Gita_241</itunes:subtitle>
+            <itunes:summary>Class 241</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_241_Uddhava_Gita.mp3" length="6888073" type="audio/mpeg"/>
+            <pubDate>Sunday, 27 March 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:11</itunes:duration>
+            <itunes:order>241</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_242</title>
+            <itunes:subtitle>Uddhava_Gita_242</itunes:subtitle>
+            <itunes:summary>Class 242</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_242_Uddhava_Gita.mp3" length="6853143" type="audio/mpeg"/>
+            <pubDate>Sunday, 03 April 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:56:54</itunes:duration>
+            <itunes:order>242</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_243</title>
+            <itunes:subtitle>Uddhava_Gita_243</itunes:subtitle>
+            <itunes:summary>Class 243</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_243_Uddhava_Gita.mp3" length="6807262" type="audio/mpeg"/>
+            <pubDate>Sunday, 10 April 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:56:31</itunes:duration>
+            <itunes:order>243</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_244</title>
+            <itunes:subtitle>Uddhava_Gita_244</itunes:subtitle>
+            <itunes:summary>Class 244</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_244_Uddhava_Gita.mp3" length="6928762" type="audio/mpeg"/>
+            <pubDate>Sunday, 12 June 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:32</itunes:duration>
+            <itunes:order>244</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_245</title>
+            <itunes:subtitle>Uddhava_Gita_245</itunes:subtitle>
+            <itunes:summary>Class 245</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_245_Uddhava_Gita.mp3" length="6805245" type="audio/mpeg"/>
+            <pubDate>Sunday, 19 June 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:56:30</itunes:duration>
+            <itunes:order>245</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_246</title>
+            <itunes:subtitle>Uddhava_Gita_246</itunes:subtitle>
+            <itunes:summary>Class 246</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_246_Uddhava_Gita.mp3" length="6922169" type="audio/mpeg"/>
+            <pubDate>Sunday, 26 June 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:28</itunes:duration>
+            <itunes:order>246</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_247</title>
+            <itunes:subtitle>Uddhava_Gita_247</itunes:subtitle>
+            <itunes:summary>Class 247</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_247_Uddhava_Gita.mp3" length="6862192" type="audio/mpeg"/>
+            <pubDate>Sunday, 03 July 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:56:58</itunes:duration>
+            <itunes:order>247</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_248</title>
+            <itunes:subtitle>Uddhava_Gita_248</itunes:subtitle>
+            <itunes:summary>Class 248</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_248_Uddhava_Gita.mp3" length="6865536" type="audio/mpeg"/>
+            <pubDate>Sunday, 10 July 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:00</itunes:duration>
+            <itunes:order>248</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_249</title>
+            <itunes:subtitle>Uddhava_Gita_249</itunes:subtitle>
+            <itunes:summary>Class 249</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_249_Uddhava_Gita.mp3" length="6853327" type="audio/mpeg"/>
+            <pubDate>Sunday, 17 July 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:56:54</itunes:duration>
+            <itunes:order>249</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_250</title>
+            <itunes:subtitle>Uddhava_Gita_250</itunes:subtitle>
+            <itunes:summary>Class 250</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_250_Uddhava_Gita.mp3" length="6752807" type="audio/mpeg"/>
+            <pubDate>Sunday, 24 July 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:56:04</itunes:duration>
+            <itunes:order>250</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_251</title>
+            <itunes:subtitle>Uddhava_Gita_251</itunes:subtitle>
+            <itunes:summary>Class 251</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_251_Uddhava_Gita.mp3" length="6881325" type="audio/mpeg"/>
+            <pubDate>Sunday, 31 July 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:08</itunes:duration>
+            <itunes:order>251</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_252</title>
+            <itunes:subtitle>Uddhava_Gita_252</itunes:subtitle>
+            <itunes:summary>Class 252</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_252_Uddhava_Gita.mp3" length="7000760" type="audio/mpeg"/>
+            <pubDate>Sunday, 07 August 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:58:08</itunes:duration>
+            <itunes:order>252</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_253</title>
+            <itunes:subtitle>Uddhava_Gita_253</itunes:subtitle>
+            <itunes:summary>Class 253</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_253_Uddhava_Gita.mp3" length="6821455" type="audio/mpeg"/>
+            <pubDate>Sunday, 14 August 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:56:38</itunes:duration>
+            <itunes:order>253</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_254</title>
+            <itunes:subtitle>Uddhava_Gita_254</itunes:subtitle>
+            <itunes:summary>Class 254</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_254_Uddhava_Gita.mp3" length="6818927" type="audio/mpeg"/>
+            <pubDate>Sun, 21 March 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:56:37</itunes:duration>
+            <itunes:order>254</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_255</title>
+            <itunes:subtitle>Uddhava_Gita_255</itunes:subtitle>
+            <itunes:summary>Class 255</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_255_Uddhava_Gita.mp3" length="6744684" type="audio/mpeg"/>
+            <pubDate>Sun, 28 March 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:56:00</itunes:duration>
+            <itunes:order>255</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_256</title>
+            <itunes:subtitle>Uddhava_Gita_256</itunes:subtitle>
+            <itunes:summary>Class 256</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_256_Uddhava_Gita.mp3" length="6901165" type="audio/mpeg"/>
+            <pubDate>Sun, 04 September 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:18</itunes:duration>
+            <itunes:order>256</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_257</title>
+            <itunes:subtitle>Uddhava_Gita_257</itunes:subtitle>
+            <itunes:summary>Class 257</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_257_Uddhava_Gita.mp3" length="6938133" type="audio/mpeg"/>
+            <pubDate>Sun, 18 September 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:36</itunes:duration>
+            <itunes:order>257</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_258</title>
+            <itunes:subtitle>Uddhava_Gita_258</itunes:subtitle>
+            <itunes:summary>Class 258</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_258_Uddhava_Gita.mp3" length="6992606" type="audio/mpeg"/>
+            <pubDate>Sun, 25 September 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:58:04</itunes:duration>
+            <itunes:order>258</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_259</title>
+            <itunes:subtitle>Uddhava_Gita_259</itunes:subtitle>
+            <itunes:summary>Class 259</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_259_Uddhava_Gita.mp3" length="6868196" type="audio/mpeg"/>
+            <pubDate>Sun, 02 October 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:01</itunes:duration>
+            <itunes:order>259</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_260</title>
+            <itunes:subtitle>Uddhava_Gita_260</itunes:subtitle>
+            <itunes:summary>Class 260</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_260_Uddhava_Gita.mp3" length="6928905" type="audio/mpeg"/>
+            <pubDate>Sun, 09 October 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:32</itunes:duration>
+            <itunes:order>260</itunes:order>
+        </item>
+
+        <item>
+            <title>Uddhava_Gita_261</title>
+            <itunes:subtitle>Uddhava_Gita_261</itunes:subtitle>
+            <itunes:summary>Class 261</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_261_Uddhava_Gita.mp3" length="6913404" type="audio/mpeg"/>
+            <pubDate>Sun, 16 October 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:24</itunes:duration>
+            <itunes:order>261</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_262</title>
+            <itunes:subtitle>Uddhava_Gita_262</itunes:subtitle>
+            <itunes:summary>Class 262</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_262_Uddhava_Gita.mp3" length="6962096" type="audio/mpeg"/>
+            <pubDate>Sun, 23 October 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:57:48</itunes:duration>
+            <itunes:order>262</itunes:order>
+        </item>
+        <item>
+            <title>Uddhava_Gita_263</title>
+            <itunes:subtitle>Uddhava_Gita_263</itunes:subtitle>
+            <itunes:summary>Class 263</itunes:summary>
+            <enclosure url="https://archive.org/download/UddhavaGita/UG_263_Uddhava_Gita.mp3" length="6987643" type="audio/mpeg"/>
+            <pubDate>Sun, 30 October 2016 16:02:58 -0000</pubDate>
+            <itunes:duration>00:58:01</itunes:duration>
+            <itunes:order>263</itunes:order>
+        </item>
+	<item>
+	    <title>Uddhava_Gita_264</title>
+	    <itunes:subtitle>Uddhava_Gita_264</itunes:subtitle>
+	    <itunes:summary>Class 264</itunes:summary>
+	    <enclosure url="https://archive.org/download/UddhavaGita/UG_264_Uddhava_Gita.mp3" length="7097122" type="audio/mpeg"/>
+	    <pubDate>Sun, 06 November 2016 16:02:58 -0000</pubDate>
+	    <itunes:duration>00:58:56</itunes:duration>
+	    <itunes:order>264</itunes:order>
+	</item>
+    </channel>
+</rss>

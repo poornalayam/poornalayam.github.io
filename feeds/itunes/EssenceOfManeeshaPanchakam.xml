@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Essence of Maneesha Panchakam</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>Maneesha Panchakam consisting of five slokas was written by Shankaracharya.  The essence of these slokas is given in this talk.
+            
+            Accompanying text for Maneesha Panchakam is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>EssenceOfManeeshaPanchakam01</title>
+            <itunes:subtitle>EssenceOfManeeshaPanchakam01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfManeeshaPanchakam/EM_01_Essence_Of_Maneesha_Panchakam.mp3" length="6893276" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:03:01 -0000</pubDate>
+            <itunes:duration>0:57:26</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

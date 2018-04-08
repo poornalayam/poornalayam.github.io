@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Mundaka with Bashyam</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>The commentaries written by Shankaracharya are called Bhashyam.  Word by word explanation of the Mundaka Upanishad Bhashyam is given in these classes.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>MUNDAKA_BASHYAM_01</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_01_Mundaka_with_Bashyam.mp3" length="7000036" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:20</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_02</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_02_Mundaka_with_Bashyam.mp3" length="7178505" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:59:49</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_03</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_03_Mundaka_with_Bashyam.mp3" length="6834734" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:56:57</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_04</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_04_Mundaka_with_Bashyam.mp3" length="7065134" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:52</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_05</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_05</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_05_Mundaka_with_Bashyam.mp3" length="7136396" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:59:28</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_06</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_06</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_06_Mundaka_with_Bashyam.mp3" length="6955315" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:57:57</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_07</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_07</itunes:subtitle>
+            <itunes:summary>Class 007</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_07_Mundaka_with_Bashyam.mp3" length="6699628" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:55:49</itunes:duration>
+            <itunes:order>7</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_08</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_08</itunes:subtitle>
+            <itunes:summary>Class 008</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_08_Mundaka_with_Bashyam.mp3" length="6914355" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:57:37</itunes:duration>
+            <itunes:order>8</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_09</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_09</itunes:subtitle>
+            <itunes:summary>Class 009</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_09_Mundaka_with_Bashyam.mp3" length="6880500" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:57:20</itunes:duration>
+            <itunes:order>9</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_10</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_10</itunes:subtitle>
+            <itunes:summary>Class 010</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_10_Mundaka_with_Bashyam.mp3" length="7177567" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:59:48</itunes:duration>
+            <itunes:order>10</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_11</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_11</itunes:subtitle>
+            <itunes:summary>Class 011</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_11_Mundaka_with_Bashyam.mp3" length="7139739" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:59:29</itunes:duration>
+            <itunes:order>11</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_12</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_12</itunes:subtitle>
+            <itunes:summary>Class 012</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_12_Mundaka_with_Bashyam.mp3" length="7051236" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:45</itunes:duration>
+            <itunes:order>12</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_13</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_13</itunes:subtitle>
+            <itunes:summary>Class 013</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_13_Mundaka_with_Bashyam.mp3" length="7030547" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:35</itunes:duration>
+            <itunes:order>13</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_14</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_14</itunes:subtitle>
+            <itunes:summary>Class 014</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_14_Mundaka_with_Bashyam.mp3" length="7134515" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:59:27</itunes:duration>
+            <itunes:order>14</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_15</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_15</itunes:subtitle>
+            <itunes:summary>Class 015</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_15_Mundaka_with_Bashyam.mp3" length="6067361" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:50:33</itunes:duration>
+            <itunes:order>15</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_16</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_16</itunes:subtitle>
+            <itunes:summary>Class 016</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_16_Mundaka_with_Bashyam.mp3" length="7018322" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:29</itunes:duration>
+            <itunes:order>16</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_17</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_17</itunes:subtitle>
+            <itunes:summary>Class 017</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_17_Mundaka_with_Bashyam.mp3" length="6882590" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:57:21</itunes:duration>
+            <itunes:order>17</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_18</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_18</itunes:subtitle>
+            <itunes:summary>Class 018</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_18_Mundaka_with_Bashyam.mp3" length="6959285" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:57:59</itunes:duration>
+            <itunes:order>18</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_19</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_19</itunes:subtitle>
+            <itunes:summary>Class 019</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_19_Mundaka_with_Bashyam.mp3" length="7052595" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:46</itunes:duration>
+            <itunes:order>19</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_20</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_20</itunes:subtitle>
+            <itunes:summary>Class 020</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_20_Mundaka_with_Bashyam.mp3" length="7057297" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:48</itunes:duration>
+            <itunes:order>20</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_21</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_21</itunes:subtitle>
+            <itunes:summary>Class 021</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_21_Mundaka_with_Bashyam.mp3" length="6856050" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:57:08</itunes:duration>
+            <itunes:order>21</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_22</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_22</itunes:subtitle>
+            <itunes:summary>Class 022</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_22_Mundaka_with_Bashyam.mp3" length="7101078" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:59:10</itunes:duration>
+            <itunes:order>22</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_23</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_23</itunes:subtitle>
+            <itunes:summary>Class 023</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_23_Mundaka_with_Bashyam.mp3" length="7041623" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:40</itunes:duration>
+            <itunes:order>23</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_24</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_24</itunes:subtitle>
+            <itunes:summary>Class 024</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_24_Mundaka_with_Bashyam.mp3" length="6298805" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:52:29</itunes:duration>
+            <itunes:order>24</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_25</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_25</itunes:subtitle>
+            <itunes:summary>Class 025</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_25_Mundaka_with_Bashyam.mp3" length="7209539" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>1:00:04</itunes:duration>
+            <itunes:order>25</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_26</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_26</itunes:subtitle>
+            <itunes:summary>Class 026</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_26_Mundaka_with_Bashyam.mp3" length="7060327" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:50</itunes:duration>
+            <itunes:order>26</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_27</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_27</itunes:subtitle>
+            <itunes:summary>Class 027</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_27_Mundaka_with_Bashyam.mp3" length="7021561" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:58:30</itunes:duration>
+            <itunes:order>27</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_28</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_28</itunes:subtitle>
+            <itunes:summary>Class 028</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_28_Mundaka_with_Bashyam.mp3" length="7165757" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:59:42</itunes:duration>
+            <itunes:order>28</itunes:order>
+        </item>
+        <item>
+            <title>MUNDAKA_BASHYAM_29</title>
+            <itunes:subtitle>MUNDAKA_BASHYAM_29</itunes:subtitle>
+            <itunes:summary>Class 029</itunes:summary>
+            <enclosure url="https://archive.org/download/MundakaWithBashyam/MB_29_Mundaka_with_Bashyam.mp3" length="6310573" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:52:35</itunes:duration>
+            <itunes:order>29</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

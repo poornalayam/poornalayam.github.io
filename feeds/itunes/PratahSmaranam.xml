@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Pratah Smaranam</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>This text is attributed to Shankaracharya.  It explains the Central theme of Upanishads.  These 4 talks explain this text in detail.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Pratah Smaranam 01</title>
+            <itunes:subtitle>Pratah Smaranam 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/PratahSmaranam/PS_01_Pratah_Smaranam.mp3" length="6874134" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:57:17</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Pratah Smaranam 02</title>
+            <itunes:subtitle>Pratah Smaranam 02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/PratahSmaranam/PS_02_Pratah_Smaranam.mp3" length="6868910" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:57:14</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>Pratah Smaranam 03</title>
+            <itunes:subtitle>Pratah Smaranam 03</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/PratahSmaranam/PS_03_Pratah_Smaranam.mp3" length="6881762" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:57:20</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>Pratah Smaranam 04</title>
+            <itunes:subtitle>Pratah Smaranam 04</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/PratahSmaranam/PS_04_Pratah_Smaranam.mp3" length="6754075" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:49 -0000</pubDate>
+            <itunes:duration>0:56:17</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        
+    </channel>
+</rss>
