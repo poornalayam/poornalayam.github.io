@@ -393,7 +393,25 @@
   </url>
   
   <url>
+    <loc>https://new.poornalayam.org/classes-recorded/vedantic-texts/uddhava-gita/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://new.poornalayam.org/classes-recorded/upanishads/brhadaranyaka-upanishad/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://new.poornalayam.org/classes-recorded/vedantic-texts/kasi-panchakam/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://new.poornalayam.org/classes-recorded/vedantic-texts/advaita-pancharatnam/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -412,6 +430,18 @@
   
   <url>
     <loc>https://new.poornalayam.org/classes-recorded/bhagavad-gita/gist-of-gita/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://new.poornalayam.org/classes-recorded/vedantic-texts/nava-yogi-samvadham/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://new.poornalayam.org/classes-recorded/vedantic-texts/yati-panchakam/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
