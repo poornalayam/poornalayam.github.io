@@ -495,6 +495,12 @@
   </url>
   
   <url>
+    <loc>https://new.poornalayam.org/classes-recorded/general-talks/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://new.poornalayam.org/classes-recorded/guided-meditation/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
