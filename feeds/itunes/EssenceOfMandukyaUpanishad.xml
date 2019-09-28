@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Essence of Mandukya Upanishad</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>The essence of Mandukya Upanishad is given in these talks. Each word of the mantra is not explained. Only the essential ideas are explained.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>no</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>01_Essence_of_Mandukya_Upanishad</title>
+            <itunes:subtitle>01_Essence_of_Mandukya_Upanishad</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/01_Essence_of_Mandukya_Upanishad.mp3" length="7125187" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:59:11</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>02_Essence_of_Mandukya_Upanishad</title>
+            <itunes:subtitle>02_Essence_of_Mandukya_Upanishad</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/02_Essence_of_Mandukya_Upanishad.mp3" length="7089289" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:58:53</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        <item>
+            <title>03_Essence_of_Mandukya_Upanishad</title>
+            <itunes:subtitle>03_Essence_of_Mandukya_Upanishad</itunes:subtitle>
+            <itunes:summary>Class 003</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/03_Essence_of_Mandukya_Upanishad.mp3" length="6984694" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:58:01</itunes:duration>
+            <itunes:order>3</itunes:order>
+        </item>
+        <item>
+            <title>04_Essence_of_Mandukya_Upanishad</title>
+            <itunes:subtitle>04_Essence_of_Mandukya_Upanishad</itunes:subtitle>
+            <itunes:summary>Class 004</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/04_Essence_of_Mandukya_Upanishad.mp3" length="7024296" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:58:20</itunes:duration>
+            <itunes:order>4</itunes:order>
+        </item>
+        <item>
+            <title>05_Essence_of_Mandukya_Upanishad</title>
+            <itunes:subtitle>05_Essence_of_Mandukya_Upanishad</itunes:subtitle>
+            <itunes:summary>Class 005</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/05_Essence_of_Mandukya_Upanishad.mp3" length="6992009" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:58:04</itunes:duration>
+            <itunes:order>5</itunes:order>
+        </item>
+        <item>
+            <title>06_Essence_of_Mandukya_Upanishad</title>
+            <itunes:subtitle>06_Essence_of_Mandukya_Upanishad</itunes:subtitle>
+            <itunes:summary>Class 006</itunes:summary>
+            <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/06_Essence_of_Mandukya_Upanishad.mp3" length="7101200" type="audio/mpeg" />
+            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+            <itunes:duration>0:58:59</itunes:duration>
+            <itunes:order>6</itunes:order>
+        </item>
+       
+    </channel>
+</rss>
