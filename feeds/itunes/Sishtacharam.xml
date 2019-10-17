@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Sishtacharam</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>Sishtachara means conduct of a wise man, which is a means for knowledge about morality. This talk explains briefly about Sishtacharam.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>yes</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Sishtacharam Class 01</title>
+            <itunes:subtitle>Sishtacharam Class 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/Sishtacharam/SYS_01_Sishtacharam.mp3" length="5024914" type="audio/mpeg" />
+            <pubDate>Thu, 17 Aug 2017 10:00:00 -000</pubDate>
+            <itunes:duration>00:41:52</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        
+    </channel>
+</rss>

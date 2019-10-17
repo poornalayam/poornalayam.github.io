@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Ontology</title>
+        <itunes:author>Swami Guruparananda</itunes:author>
+        <link>https://www.poornalayam.org</link>
+        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+        <itunes:summary>Epistemology is a subject deals with all aspects of knowledge. This subject is called science of knowledge and comes as a part of philosophy.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </itunes:summary>
+        <language>ta</language>
+        <copyright>&#xA9; 2014 by Poornalayam</copyright>
+        <itunes:owner>
+            <itunes:name>Swami Guruparananda</itunes:name>
+            <itunes:email>poornalayam@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
+        <itunes:category text="Religion &amp; Spirituality">
+            <itunes:category text="Hinduism"/>
+        </itunes:category>
+        <itunes:complete>yes</itunes:complete>
+        <itunes:explicit>no</itunes:explicit>
+        <item>
+            <title>Ontology Class 01</title>
+            <itunes:subtitle>Ontology Class 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/OntologyClasses/ONT_01_Ontology.mp3" length="8332506" type="audio/mpeg" />
+            <pubDate>Sun, 21 Apr 2019 10:00:00 -000</pubDate>
+            <itunes:duration>01:09:14</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
+            <title>Ontology Class 02</title>
+            <itunes:subtitle>Ontology Class 02</itunes:subtitle>
+            <itunes:summary>Class 002</itunes:summary>
+            <enclosure url="https://archive.org/download/OntologyClasses/ONT_02_Ontology.mp3" length="8645662" type="audio/mpeg" />
+            <pubDate>Sun, 21 Apr 2019 14:00:00 -000</pubDate>
+            <itunes:duration>01:11:50</itunes:duration>
+            <itunes:order>2</itunes:order>
+        </item>
+        
+    </channel>
+</rss>
