@@ -6,9 +6,9 @@
     <xsl:template match="rss/channel">
         <html lang="en-us">
             <head>
-                <meta charset="utf-8">
-                <meta name="viewport" content="width=device-width,initial-scale=1">
-                <meta name="theme-color" content="#ff8000">
+                <meta charset="utf-8"/>
+                <meta name="viewport" content="width=device-width,initial-scale=1"/>
+                <meta name="theme-color" content="#ff8000"/>
                 <title><xsl:value-of select="title"/></title>
                 <link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans" />
                 <link rel="stylesheet" type="text/css" media="all" href="/css/style.min.css" />
