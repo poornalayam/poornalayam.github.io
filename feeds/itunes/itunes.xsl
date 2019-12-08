@@ -24,7 +24,7 @@
                         <table>
                             <tr><th>Class Name</th><th>Download Audio</th><th>Duration</th></tr>
                             <xsl:for-each select="item">
-                            <xsl:sort selec="order"/>
+                            <xsl:sort select="itunes:order" data-type="number"/>
                                 <tr>
                                 <td align="left"><xsl:value-of select="itunes:summary"/></td>
                                 <td align="center"><a><xsl:attribute name="href"><xsl:value-of select="enclosure/@url"/></xsl:attribute>Download</a></td>
