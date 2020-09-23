@@ -25,6 +25,15 @@
         <itunes:complete>yes</itunes:complete>
         <itunes:explicit>no</itunes:explicit>
         <item>
+            <title>Panchadasi Chap 15 Class 01</title>
+            <itunes:subtitle>Panchadasi Chap 15 Class 01</itunes:subtitle>
+            <itunes:summary>Class 001</itunes:summary>
+            <enclosure url="https://archive.org/download/PanchadasiChapter15/PD_01_Panchadasi_Chap_XV.mp3" length="6583696" type="audio/mpeg" />
+            <pubDate>Sun, 09 Jun 2019 11:00:00 -000</pubDate>
+            <itunes:duration>00:54:39</itunes:duration>
+            <itunes:order>1</itunes:order>
+        </item>
+        <item>
             <title>Panchadasi Chap 15 Class 02</title>
             <itunes:subtitle>Panchadasi Chap 15 Class 02</itunes:subtitle>
             <itunes:summary>Class 002</itunes:summary>
