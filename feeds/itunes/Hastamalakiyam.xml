@@ -1,74 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Hastamalakiyam</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This text is written by Hastamalaka, a disciple of Shankaracharya and explains the central theme of the Upanishads, in twelve verses.   The 5 talks explain all the 12 verses of this text.
+  <channel>
+    <title>Hastamalakiyam</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This text is written by Hastamalaka, a disciple of Shankaracharya and explains the central theme of the Upanishads, in twelve verses.   The 5 talks explain all the 12 verses of this text.
             
             Accompanying text for Hastamalakiyam is available for download.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Hastamalakiyam 01</title>
-            <itunes:subtitle>Hastamalakiyam 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/Hastamalakiyam/HM_01_Hastamalakiyam.mp3" length="6919794" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
-            <itunes:duration>0:57:39</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Hastamalakiyam 02</title>
-            <itunes:subtitle>Hastamalakiyam 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/Hastamalakiyam/HM_02_Hastamalakiyam.mp3" length="7048108" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
-            <itunes:duration>0:58:44</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Hastamalakiyam 03</title>
-            <itunes:subtitle>Hastamalakiyam 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/Hastamalakiyam/HM_03_Hastamalakiyam.mp3" length="7129923" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
-            <itunes:duration>0:59:24</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Hastamalakiyam 04</title>
-            <itunes:subtitle>Hastamalakiyam 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/Hastamalakiyam/HM_04_Hastamalakiyam.mp3" length="7286031" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
-            <itunes:duration>1:00:43</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Hastamalakiyam 05</title>
-            <itunes:subtitle>Hastamalakiyam 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/Hastamalakiyam/HM_05_Hastamalakiyam.mp3" length="7094606" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
-            <itunes:duration>0:59:07</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Hastamalakiyam 01</title>
+      <itunes:subtitle>Hastamalakiyam 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/Hastamalakiyam/HM_01_Hastamalakiyam.mp3" length="6919794" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
+      <itunes:duration>0:57:39</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/Hastamalakiyam/HM_01_Hastamalakiyam-b68242cb</guid>
+    </item>
+    <item>
+      <title>Hastamalakiyam 02</title>
+      <itunes:subtitle>Hastamalakiyam 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/Hastamalakiyam/HM_02_Hastamalakiyam.mp3" length="7048108" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
+      <itunes:duration>0:58:44</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/Hastamalakiyam/HM_02_Hastamalakiyam-c2dd8300</guid>
+    </item>
+    <item>
+      <title>Hastamalakiyam 03</title>
+      <itunes:subtitle>Hastamalakiyam 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/Hastamalakiyam/HM_03_Hastamalakiyam.mp3" length="7129923" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
+      <itunes:duration>0:59:24</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/Hastamalakiyam/HM_03_Hastamalakiyam-a69f4814</guid>
+    </item>
+    <item>
+      <title>Hastamalakiyam 04</title>
+      <itunes:subtitle>Hastamalakiyam 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/Hastamalakiyam/HM_04_Hastamalakiyam.mp3" length="7286031" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
+      <itunes:duration>1:00:43</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/Hastamalakiyam/HM_04_Hastamalakiyam-012d6a3d</guid>
+    </item>
+    <item>
+      <title>Hastamalakiyam 05</title>
+      <itunes:subtitle>Hastamalakiyam 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/Hastamalakiyam/HM_05_Hastamalakiyam.mp3" length="7094606" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:44 -0000</pubDate>
+      <itunes:duration>0:59:07</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/Hastamalakiyam/HM_05_Hastamalakiyam-d47e0ebf</guid>
+    </item>
+    <description>This text is written by Hastamalaka, a disciple of Shankaracharya and explains the central theme of the Upanishads, in twelve verses.   The 5 talks explain all the 12 verses of this text.
+            
+            Accompanying text for Hastamalakiyam is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

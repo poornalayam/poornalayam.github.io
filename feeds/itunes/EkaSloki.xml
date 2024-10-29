@@ -1,47 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Eka Sloki</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This sloka, composed by Shankaracharya, explains how atma, the absolute consciousness, alone enlightens everything.  It also conveys the essential oneness of the Lord and beings.  In these 2 talks, the sloka is explained in detail and guidance is given to students who have completed a course in Vedanta.
+  <channel>
+    <title>Eka Sloki</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This sloka, composed by Shankaracharya, explains how atma, the absolute consciousness, alone enlightens everything.  It also conveys the essential oneness of the Lord and beings.  In these 2 talks, the sloka is explained in detail and guidance is given to students who have completed a course in Vedanta.
             
             Accompanying text for Eka Sloki is available for download.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Eaka Sloki 01</title>
-            <itunes:subtitle>Eaka Sloki 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/EkaSloki/EK_01_Eaka_Sloki.mp3" length="7023022" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:58:31</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Eaka sloki 02</title>
-            <itunes:subtitle>Eaka sloki 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/EkaSloki/EK_02_Eaka_Sloki.mp3" length="7054265" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:58:47</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Eaka Sloki 01</title>
+      <itunes:subtitle>Eaka Sloki 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/EkaSloki/EK_01_Eaka_Sloki.mp3" length="7023022" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:58:31</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EkaSloki/EK_01_Eaka_Sloki-35f4fa8b</guid>
+    </item>
+    <item>
+      <title>Eaka sloki 02</title>
+      <itunes:subtitle>Eaka sloki 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/EkaSloki/EK_02_Eaka_Sloki.mp3" length="7054265" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:58:47</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EkaSloki/EK_02_Eaka_Sloki-39734d96</guid>
+    </item>
+    <description>This sloka, composed by Shankaracharya, explains how atma, the absolute consciousness, alone enlightens everything.  It also conveys the essential oneness of the Lord and beings.  In these 2 talks, the sloka is explained in detail and guidance is given to students who have completed a course in Vedanta.
+            
+            Accompanying text for Eka Sloki is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

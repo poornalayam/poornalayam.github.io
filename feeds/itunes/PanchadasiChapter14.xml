@@ -1,92 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Panchadasi Chapter 14</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>Panchadasi is a text written by Swami Vidyaranya of Sringeri mutt. The uniqueness of this text is that in each chapter, one Vedantic idea is taken up and explained in detail. In these talks, all the verses have been explained elaborately.
+  <channel>
+    <title>Panchadasi Chapter 14</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>Panchadasi is a text written by Swami Vidyaranya of Sringeri mutt. The uniqueness of this text is that in each chapter, one Vedantic idea is taken up and explained in detail. In these talks, all the verses have been explained elaborately.
             
             Accompanying text for Panchadasi Chapter 14 is available for download.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Panchadasi Chap 14 Class 01</title>
-            <itunes:subtitle>Panchadasi Chap 14 Class 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_01_Panchadasi_Chap_XIV.mp3" length="6786407" type="audio/mpeg" />
-            <pubDate>Sun, 10 Feb 2019 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:21</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 14 Class 02</title>
-            <itunes:subtitle>Panchadasi Chap 14 Class 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_02_Panchadasi_Chap_XIV.mp3" length="6648272" type="audio/mpeg" />
-            <pubDate>Sun, 17 Feb 2019 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:12</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 14 Class 03</title>
-            <itunes:subtitle>Panchadasi Chap 14 Class 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_03_Panchadasi_Chap_XIV.mp3" length="6575729" type="audio/mpeg" />
-            <pubDate>Sun, 24 Feb 2019 11:00:00 -000</pubDate>
-            <itunes:duration>00:54:35</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 14 Class 04</title>
-            <itunes:subtitle>Panchadasi Chap 14 Class 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_04_Panchadasi_Chap_XIV.mp3" length="6788744" type="audio/mpeg" />
-            <pubDate>Sun, 03 Mar 2019 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:22</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 14 Class 05</title>
-            <itunes:subtitle>Panchadasi Chap 14 Class 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_05_Panchadasi_Chap_XIV.mp3" length="6799201" type="audio/mpeg" />
-            <pubDate>Sun, 10 Mar 2019 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:27</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 14 Class 06</title>
-            <itunes:subtitle>Panchadasi Chap 14 Class 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_06_Panchadasi_Chap_XIV.mp3" length="6652618" type="audio/mpeg" />
-            <pubDate>Sun, 17 Mar 2019 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:14</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 14 Class 07</title>
-            <itunes:subtitle>Panchadasi Chap 14 Class 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_07_Panchadasi_Chap_XIV.mp3" length="6683651" type="audio/mpeg" />
-            <pubDate>Sun, 24 Mar 2019 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:29</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Panchadasi Chap 14 Class 01</title>
+      <itunes:subtitle>Panchadasi Chap 14 Class 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_01_Panchadasi_Chap_XIV.mp3" length="6786407" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Feb 2019 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:21</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter14/PD_01_Panchadasi_Chap_XIV-a60fe52f</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 14 Class 02</title>
+      <itunes:subtitle>Panchadasi Chap 14 Class 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_02_Panchadasi_Chap_XIV.mp3" length="6648272" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Feb 2019 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:12</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter14/PD_02_Panchadasi_Chap_XIV-43d25198</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 14 Class 03</title>
+      <itunes:subtitle>Panchadasi Chap 14 Class 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_03_Panchadasi_Chap_XIV.mp3" length="6575729" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Feb 2019 11:00:00 -000</pubDate>
+      <itunes:duration>00:54:35</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter14/PD_03_Panchadasi_Chap_XIV-8113fe13</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 14 Class 04</title>
+      <itunes:subtitle>Panchadasi Chap 14 Class 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_04_Panchadasi_Chap_XIV.mp3" length="6788744" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Mar 2019 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:22</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter14/PD_04_Panchadasi_Chap_XIV-50537daa</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 14 Class 05</title>
+      <itunes:subtitle>Panchadasi Chap 14 Class 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_05_Panchadasi_Chap_XIV.mp3" length="6799201" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Mar 2019 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:27</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter14/PD_05_Panchadasi_Chap_XIV-87b35f8c</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 14 Class 06</title>
+      <itunes:subtitle>Panchadasi Chap 14 Class 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_06_Panchadasi_Chap_XIV.mp3" length="6652618" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Mar 2019 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:14</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter14/PD_06_Panchadasi_Chap_XIV-5537746c</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 14 Class 07</title>
+      <itunes:subtitle>Panchadasi Chap 14 Class 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter14/PD_07_Panchadasi_Chap_XIV.mp3" length="6683651" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Mar 2019 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:29</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter14/PD_07_Panchadasi_Chap_XIV-ae4b0e63</guid>
+    </item>
+    <description>Panchadasi is a text written by Swami Vidyaranya of Sringeri mutt. The uniqueness of this text is that in each chapter, one Vedantic idea is taken up and explained in detail. In these talks, all the verses have been explained elaborately.
+            
+            Accompanying text for Panchadasi Chapter 14 is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

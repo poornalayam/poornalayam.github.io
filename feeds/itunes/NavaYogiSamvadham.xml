@@ -1,371 +1,415 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Nava Yogi Samvadham</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This text is based on the conversation between the king Nimi and the Nine Sages. This text comes under Bagavathapuranam.
+  <channel>
+    <title>Nava Yogi Samvadham</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This text is based on the conversation between the king Nimi and the Nine Sages. This text comes under Bagavathapuranam.
             
             Accompanying text can be found at Nava Yogi Samvadham.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Nava Yogi Samvadham Class 01</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_01_Nava_Yogi_Samvadham.mp3" length="7021303" type="audio/mpeg" />
-            <pubDate>Sun, 13 Nov 2016 11:00:00 -000</pubDate>
-            <itunes:duration>00:58:12</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 02</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_02_Nava_Yogi_Samvadham.mp3" length="6810259" type="audio/mpeg" />
-            <pubDate>Sun, 20 Nov 2016 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:33</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 03</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_03_Nava_Yogi_Samvadham.mp3" length="6794795" type="audio/mpeg" />
-            <pubDate>Sun, 27 Nov 2016 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:26</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 04</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_04_Nava_Yogi_Samvadham.mp3" length="6660276" type="audio/mpeg" />
-            <pubDate>Sun, 04 Dec 2016 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:18</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 05</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_05_Nava_Yogi_Samvadham.mp3" length="6739212" type="audio/mpeg" />
-            <pubDate>Sun, 11 Dec 2016 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:57</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 06</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_06_Nava_Yogi_Samvadham.mp3" length="6779440" type="audio/mpeg" />
-            <pubDate>Sun, 18 Dec 2016 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:17</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 07</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_07_Nava_Yogi_Samvadham.mp3" length="6721448" type="audio/mpeg" />
-            <pubDate>Sun, 01 Jan 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:48</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 08</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_08_Nava_Yogi_Samvadham.mp3" length="6701653" type="audio/mpeg" />
-            <pubDate>Sun, 08 Jan 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:38</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 09</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_09_Nava_Yogi_Samvadham.mp3" length="6815586" type="audio/mpeg" />
-            <pubDate>Sun, 15 Jan 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:35</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 10</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_10_Nava_Yogi_Samvadham.mp3" length="6837529" type="audio/mpeg" />
-            <pubDate>Sun, 22 Jan 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:46</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 11</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_11_Nava_Yogi_Samvadham.mp3" length="6823955" type="audio/mpeg" />
-            <pubDate>Sun, 29 Jan 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:40</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 12</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_12_Nava_Yogi_Samvadham.mp3" length="6774560" type="audio/mpeg" />
-            <pubDate>Sun, 05 Feb 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:15</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 13</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_13_Nava_Yogi_Samvadham.mp3" length="6704106" type="audio/mpeg" />
-            <pubDate>Sun, 12 Feb 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:40</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 14</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_14_Nava_Yogi_Samvadham.mp3" length="6619056" type="audio/mpeg" />
-            <pubDate>Sun, 19 Feb 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:54:57</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 15</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_15_Nava_Yogi_Samvadham.mp3" length="6545943" type="audio/mpeg" />
-            <pubDate>Sun, 26 Feb 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:54:21</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 16</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_16_Nava_Yogi_Samvadham.mp3" length="6683734" type="audio/mpeg" />
-            <pubDate>Sun, 05 Mar 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:29</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 17</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_17_Nava_Yogi_Samvadham.mp3" length="6546040" type="audio/mpeg" />
-            <pubDate>Sun, 12 Mar 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:54:21</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 18</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_18_Nava_Yogi_Samvadham.mp3" length="6763951" type="audio/mpeg" />
-            <pubDate>Sun, 19 Mar 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:10</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 19</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_19_Nava_Yogi_Samvadham.mp3" length="6588851" type="audio/mpeg" />
-            <pubDate>Sun, 26 Mar 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:54:42</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 20</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 20</itunes:subtitle>
-            <itunes:summary>Class 020</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_20_Nava_Yogi_Samvadham.mp3" length="6578915" type="audio/mpeg" />
-            <pubDate>Sun, 02 Apr 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:54:37</itunes:duration>
-            <itunes:order>20</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 21</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 21</itunes:subtitle>
-            <itunes:summary>Class 021</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_21_Nava_Yogi_Samvadham.mp3" length="6734808" type="audio/mpeg" />
-            <pubDate>Sun, 09 Apr 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:55</itunes:duration>
-            <itunes:order>21</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 22</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 22</itunes:subtitle>
-            <itunes:summary>Class 022</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_22_Nava_Yogi_Samvadham.mp3" length="6583714" type="audio/mpeg" />
-            <pubDate>Sun, 11 Jun 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:54:39</itunes:duration>
-            <itunes:order>22</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 23</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 23</itunes:subtitle>
-            <itunes:summary>Class 023</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_23_Nava_Yogi_Samvadham.mp3" length="6453110" type="audio/mpeg" />
-            <pubDate>Sun, 18 Jun 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:53:34</itunes:duration>
-            <itunes:order>23</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 24</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 24</itunes:subtitle>
-            <itunes:summary>Class 024</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_24_Nava_Yogi_Samvadham.mp3" length="6915369" type="audio/mpeg" />
-            <pubDate>Sun, 25 Jun 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:25</itunes:duration>
-            <itunes:order>24</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 25</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 25</itunes:subtitle>
-            <itunes:summary>Class 025</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_25_Nava_Yogi_Samvadham.mp3" length="6650832" type="audio/mpeg" />
-            <pubDate>Sun, 02 Jul 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:13</itunes:duration>
-            <itunes:order>25</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 26</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 26</itunes:subtitle>
-            <itunes:summary>Class 026</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_26_Nava_Yogi_Samvadham.mp3" length="6904951" type="audio/mpeg" />
-            <pubDate>Sun, 09 Jul 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:20</itunes:duration>
-            <itunes:order>26</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 27</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 27</itunes:subtitle>
-            <itunes:summary>Class 027</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_27_Nava_Yogi_Samvadham.mp3" length="6845590" type="audio/mpeg" />
-            <pubDate>Sun, 16 Jul 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:50</itunes:duration>
-            <itunes:order>27</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 28</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 28</itunes:subtitle>
-            <itunes:summary>Class 028</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_28_Nava_Yogi_Samvadham.mp3" length="6855771" type="audio/mpeg" />
-            <pubDate>Sun, 23 Jul 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:56</itunes:duration>
-            <itunes:order>28</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 29</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 29</itunes:subtitle>
-            <itunes:summary>Class 029</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_29_Nava_Yogi_Samvadham.mp3" length="6851957" type="audio/mpeg" />
-            <pubDate>Sun, 30 Jul 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:54</itunes:duration>
-            <itunes:order>29</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 30</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 30</itunes:subtitle>
-            <itunes:summary>Class 030</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_30_Nava_Yogi_Samvadham.mp3" length="6674451" type="audio/mpeg" />
-            <pubDate>Sun, 06 Aug 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:25</itunes:duration>
-            <itunes:order>30</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 31</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 31</itunes:subtitle>
-            <itunes:summary>Class 031</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_31_Nava_Yogi_Samvadham.mp3" length="6832824" type="audio/mpeg" />
-            <pubDate>Sun, 13 Aug 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:44</itunes:duration>
-            <itunes:order>31</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 32</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 32</itunes:subtitle>
-            <itunes:summary>Class 032</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_32_Nava_Yogi_Samvadham.mp3" length="7007635" type="audio/mpeg" />
-            <pubDate>Sun, 20 Aug 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:58:11</itunes:duration>
-            <itunes:order>32</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 33</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 33</itunes:subtitle>
-            <itunes:summary>Class 033</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_33_Nava_Yogi_Samvadham.mp3" length="6817559" type="audio/mpeg" />
-            <pubDate>Sun, 27 Aug 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:36</itunes:duration>
-            <itunes:order>33</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 34</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 34</itunes:subtitle>
-            <itunes:summary>Class 034</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_34_Nava_Yogi_Samvadham.mp3" length="6857683" type="audio/mpeg" />
-            <pubDate>Sun, 03 Sep 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:56</itunes:duration>
-            <itunes:order>34</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 35</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 35</itunes:subtitle>
-            <itunes:summary>Class 035</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_35_Nava_Yogi_Samvadham.mp3" length="6974400" type="audio/mpeg" />
-            <pubDate>Sun, 10 Sep 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:55</itunes:duration>
-            <itunes:order>35</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 36</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 36</itunes:subtitle>
-            <itunes:summary>Class 036</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_36_Nava_Yogi_Samvadham.mp3" length="6887673" type="audio/mpeg" />
-            <pubDate>Sun, 17 Sep 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:11</itunes:duration>
-            <itunes:order>36</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 37</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 37</itunes:subtitle>
-            <itunes:summary>Class 037</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_37_Nava_Yogi_Samvadham.mp3" length="6850752" type="audio/mpeg" />
-            <pubDate>Sun, 24 Sep 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:53</itunes:duration>
-            <itunes:order>37</itunes:order>
-        </item>
-        <item>
-            <title>Nava Yogi Samvadham Class 38</title>
-            <itunes:subtitle>Nava Yogi Samvadham Class 38</itunes:subtitle>
-            <itunes:summary>Class 038</itunes:summary>
-            <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_38_Nava_Yogi_Samvadham.mp3" length="6781580" type="audio/mpeg" />
-            <pubDate>Sun, 01 Oct 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:19</itunes:duration>
-            <itunes:order>38</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Nava Yogi Samvadham Class 01</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_01_Nava_Yogi_Samvadham.mp3" length="7021303" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Nov 2016 11:00:00 -000</pubDate>
+      <itunes:duration>00:58:12</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_01_Nava_Yogi_Samvadham-bf10f252</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 02</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_02_Nava_Yogi_Samvadham.mp3" length="6810259" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Nov 2016 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:33</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_02_Nava_Yogi_Samvadham-fecc0299</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 03</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_03_Nava_Yogi_Samvadham.mp3" length="6794795" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Nov 2016 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:26</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_03_Nava_Yogi_Samvadham-59b75cb6</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 04</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_04_Nava_Yogi_Samvadham.mp3" length="6660276" type="audio/mpeg"/>
+      <pubDate>Sun, 04 Dec 2016 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:18</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_04_Nava_Yogi_Samvadham-9dd1788f</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 05</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_05_Nava_Yogi_Samvadham.mp3" length="6739212" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Dec 2016 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:57</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_05_Nava_Yogi_Samvadham-1c5be159</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 06</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_06_Nava_Yogi_Samvadham.mp3" length="6779440" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Dec 2016 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:17</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_06_Nava_Yogi_Samvadham-8b5210be</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 07</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_07_Nava_Yogi_Samvadham.mp3" length="6721448" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Jan 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:48</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_07_Nava_Yogi_Samvadham-233d8292</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 08</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_08_Nava_Yogi_Samvadham.mp3" length="6701653" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Jan 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:38</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_08_Nava_Yogi_Samvadham-2381abea</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 09</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_09_Nava_Yogi_Samvadham.mp3" length="6815586" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Jan 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:35</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_09_Nava_Yogi_Samvadham-585e8462</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 10</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_10_Nava_Yogi_Samvadham.mp3" length="6837529" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Jan 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:46</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_10_Nava_Yogi_Samvadham-156b0d60</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 11</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_11_Nava_Yogi_Samvadham.mp3" length="6823955" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Jan 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:40</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_11_Nava_Yogi_Samvadham-bc1a2b8e</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 12</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_12_Nava_Yogi_Samvadham.mp3" length="6774560" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Feb 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:15</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_12_Nava_Yogi_Samvadham-1163361e</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 13</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_13_Nava_Yogi_Samvadham.mp3" length="6704106" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Feb 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:40</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_13_Nava_Yogi_Samvadham-ba2143a0</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 14</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_14_Nava_Yogi_Samvadham.mp3" length="6619056" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Feb 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:54:57</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_14_Nava_Yogi_Samvadham-cccd1b34</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 15</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_15_Nava_Yogi_Samvadham.mp3" length="6545943" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Feb 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:54:21</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_15_Nava_Yogi_Samvadham-cc1668c6</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 16</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_16_Nava_Yogi_Samvadham.mp3" length="6683734" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Mar 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:29</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_16_Nava_Yogi_Samvadham-6887f379</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 17</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_17_Nava_Yogi_Samvadham.mp3" length="6546040" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Mar 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:54:21</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_17_Nava_Yogi_Samvadham-57303662</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 18</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_18_Nava_Yogi_Samvadham.mp3" length="6763951" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Mar 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:10</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_18_Nava_Yogi_Samvadham-bcaa2e60</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 19</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_19_Nava_Yogi_Samvadham.mp3" length="6588851" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Mar 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_19_Nava_Yogi_Samvadham-cfdb15c7</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 20</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 20</itunes:subtitle>
+      <itunes:summary>Class 020</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_20_Nava_Yogi_Samvadham.mp3" length="6578915" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Apr 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:54:37</itunes:duration>
+      <itunes:order>20</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_20_Nava_Yogi_Samvadham-60aed13c</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 21</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 21</itunes:subtitle>
+      <itunes:summary>Class 021</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_21_Nava_Yogi_Samvadham.mp3" length="6734808" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Apr 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:55</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_21_Nava_Yogi_Samvadham-105e7c5c</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 22</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 22</itunes:subtitle>
+      <itunes:summary>Class 022</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_22_Nava_Yogi_Samvadham.mp3" length="6583714" type="audio/mpeg"/>
+      <pubDate>Sun, 11 Jun 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:54:39</itunes:duration>
+      <itunes:order>22</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_22_Nava_Yogi_Samvadham-accc2a09</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 23</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 23</itunes:subtitle>
+      <itunes:summary>Class 023</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_23_Nava_Yogi_Samvadham.mp3" length="6453110" type="audio/mpeg"/>
+      <pubDate>Sun, 18 Jun 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:53:34</itunes:duration>
+      <itunes:order>23</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_23_Nava_Yogi_Samvadham-2c28f51a</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 24</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 24</itunes:subtitle>
+      <itunes:summary>Class 024</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_24_Nava_Yogi_Samvadham.mp3" length="6915369" type="audio/mpeg"/>
+      <pubDate>Sun, 25 Jun 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:25</itunes:duration>
+      <itunes:order>24</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_24_Nava_Yogi_Samvadham-fa7c851b</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 25</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 25</itunes:subtitle>
+      <itunes:summary>Class 025</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_25_Nava_Yogi_Samvadham.mp3" length="6650832" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Jul 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:13</itunes:duration>
+      <itunes:order>25</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_25_Nava_Yogi_Samvadham-30c872ed</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 26</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 26</itunes:subtitle>
+      <itunes:summary>Class 026</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_26_Nava_Yogi_Samvadham.mp3" length="6904951" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Jul 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:20</itunes:duration>
+      <itunes:order>26</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_26_Nava_Yogi_Samvadham-e6485d16</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 27</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 27</itunes:subtitle>
+      <itunes:summary>Class 027</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_27_Nava_Yogi_Samvadham.mp3" length="6845590" type="audio/mpeg"/>
+      <pubDate>Sun, 16 Jul 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:50</itunes:duration>
+      <itunes:order>27</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_27_Nava_Yogi_Samvadham-25dc0482</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 28</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 28</itunes:subtitle>
+      <itunes:summary>Class 028</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_28_Nava_Yogi_Samvadham.mp3" length="6855771" type="audio/mpeg"/>
+      <pubDate>Sun, 23 Jul 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:56</itunes:duration>
+      <itunes:order>28</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_28_Nava_Yogi_Samvadham-833bfd39</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 29</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 29</itunes:subtitle>
+      <itunes:summary>Class 029</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_29_Nava_Yogi_Samvadham.mp3" length="6851957" type="audio/mpeg"/>
+      <pubDate>Sun, 30 Jul 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:54</itunes:duration>
+      <itunes:order>29</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_29_Nava_Yogi_Samvadham-fb93b52c</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 30</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 30</itunes:subtitle>
+      <itunes:summary>Class 030</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_30_Nava_Yogi_Samvadham.mp3" length="6674451" type="audio/mpeg"/>
+      <pubDate>Sun, 06 Aug 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:25</itunes:duration>
+      <itunes:order>30</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_30_Nava_Yogi_Samvadham-2c6036c2</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 31</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 31</itunes:subtitle>
+      <itunes:summary>Class 031</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_31_Nava_Yogi_Samvadham.mp3" length="6832824" type="audio/mpeg"/>
+      <pubDate>Sun, 13 Aug 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:44</itunes:duration>
+      <itunes:order>31</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_31_Nava_Yogi_Samvadham-b8de3604</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 32</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 32</itunes:subtitle>
+      <itunes:summary>Class 032</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_32_Nava_Yogi_Samvadham.mp3" length="7007635" type="audio/mpeg"/>
+      <pubDate>Sun, 20 Aug 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:58:11</itunes:duration>
+      <itunes:order>32</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_32_Nava_Yogi_Samvadham-15853ae7</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 33</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 33</itunes:subtitle>
+      <itunes:summary>Class 033</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_33_Nava_Yogi_Samvadham.mp3" length="6817559" type="audio/mpeg"/>
+      <pubDate>Sun, 27 Aug 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:36</itunes:duration>
+      <itunes:order>33</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_33_Nava_Yogi_Samvadham-553967ce</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 34</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 34</itunes:subtitle>
+      <itunes:summary>Class 034</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_34_Nava_Yogi_Samvadham.mp3" length="6857683" type="audio/mpeg"/>
+      <pubDate>Sun, 03 Sep 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:56</itunes:duration>
+      <itunes:order>34</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_34_Nava_Yogi_Samvadham-b706bc01</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 35</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 35</itunes:subtitle>
+      <itunes:summary>Class 035</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_35_Nava_Yogi_Samvadham.mp3" length="6974400" type="audio/mpeg"/>
+      <pubDate>Sun, 10 Sep 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:55</itunes:duration>
+      <itunes:order>35</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_35_Nava_Yogi_Samvadham-9989cbd7</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 36</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 36</itunes:subtitle>
+      <itunes:summary>Class 036</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_36_Nava_Yogi_Samvadham.mp3" length="6887673" type="audio/mpeg"/>
+      <pubDate>Sun, 17 Sep 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:11</itunes:duration>
+      <itunes:order>36</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_36_Nava_Yogi_Samvadham-c1fb3693</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 37</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 37</itunes:subtitle>
+      <itunes:summary>Class 037</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_37_Nava_Yogi_Samvadham.mp3" length="6850752" type="audio/mpeg"/>
+      <pubDate>Sun, 24 Sep 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:53</itunes:duration>
+      <itunes:order>37</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_37_Nava_Yogi_Samvadham-8ecdb3a1</guid>
+    </item>
+    <item>
+      <title>Nava Yogi Samvadham Class 38</title>
+      <itunes:subtitle>Nava Yogi Samvadham Class 38</itunes:subtitle>
+      <itunes:summary>Class 038</itunes:summary>
+      <enclosure url="https://archive.org/download/NavaYogiSamvadham/NYS_38_Nava_Yogi_Samvadham.mp3" length="6781580" type="audio/mpeg"/>
+      <pubDate>Sun, 01 Oct 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:19</itunes:duration>
+      <itunes:order>38</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/NavaYogiSamvadham/NYS_38_Nava_Yogi_Samvadham-b2fc0095</guid>
+    </item>
+    <description>This text is based on the conversation between the king Nimi and the Nine Sages. This text comes under Bagavathapuranam.
+            
+            Accompanying text can be found at Nava Yogi Samvadham.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

@@ -1,189 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Essence of Mundaka Upanishad</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>The essence of Mundaka Upanishad is given in these 18 talks.  Each word of the mantra is not explained.  Only the essential ideas are explained.
+  <channel>
+    <title>Essence of Mundaka Upanishad</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>The essence of Mundaka Upanishad is given in these 18 talks.  Each word of the mantra is not explained.  Only the essential ideas are explained.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Essence Of Mundaka 01</title>
-            <itunes:subtitle>Essence Of Mundaka 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/01_Essence_of_Mundaka_Upanishad.mp3" length="6528924" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:54:24</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 02</title>
-            <itunes:subtitle>Essence Of Mundaka 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/02_Essence_of_Mundaka_Upanishad.mp3" length="6606351" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:55:03</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 03</title>
-            <itunes:subtitle>Essence Of Mundaka 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/03_Essence_of_Mundaka_Upanishad.mp3" length="6694854" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:55:47</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 04</title>
-            <itunes:subtitle>Essence Of Mundaka 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/04_Essence_of_Mundaka_Upanishad.mp3" length="6621084" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:55:10</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 05</title>
-            <itunes:subtitle>Essence Of Mundaka 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/05_Essence_of_Mundaka_Upanishad.mp3" length="6646369" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:55:23</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 06</title>
-            <itunes:subtitle>Essence Of Mundaka 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/06_Essence_of_Mundaka_Upanishad.mp3" length="6519309" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:54:19</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 07</title>
-            <itunes:subtitle>Essence Of Mundaka 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/07_Essence_of_Mundaka_Upanishad.mp3" length="6925252" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:57:42</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 08</title>
-            <itunes:subtitle>Essence Of Mundaka 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/08_Essence_of_Mundaka_Upanishad.mp3" length="6913760" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:57:36</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 09</title>
-            <itunes:subtitle>Essence Of Mundaka 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/09_Essence_of_Mundaka_Upanishad.mp3" length="6845424" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:57:02</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 10</title>
-            <itunes:subtitle>Essence Of Mundaka 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/10_Essence_of_Mundaka_Upanishad.mp3" length="6542506" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:54:31</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 11</title>
-            <itunes:subtitle>Essence Of Mundaka 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/11_Essence_of_Mundaka_Upanishad.mp3" length="6742919" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:56:11</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 12</title>
-            <itunes:subtitle>Essence Of Mundaka 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/12_Essence_of_Mundaka_Upanishad.mp3" length="6563719" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:54:41</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 13</title>
-            <itunes:subtitle>Essence Of Mundaka 13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/13_Essence_of_Mundaka_Upanishad.mp3" length="6863918" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:57:11</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 14</title>
-            <itunes:subtitle>Essence Of Mundaka 14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/14_Essence_of_Mundaka_Upanishad.mp3" length="6628085" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:55:14</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 15</title>
-            <itunes:subtitle>Essence Of Mundaka 15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/15_Essence_of_Mundaka_Upanishad.mp3" length="6558077" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:54:39</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 16</title>
-            <itunes:subtitle>Essence Of Mundaka 16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/16_Essence_of_Mundaka_Upanishad.mp3" length="6756398" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:56:18</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 17</title>
-            <itunes:subtitle>Essence Of Mundaka 17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/17_Essence_of_Mundaka_Upanishad.mp3" length="6678133" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:55:39</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Essence Of Mundaka 18</title>
-            <itunes:subtitle>Essence Of Mundaka 18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/18_Essence_of_Mundaka_Upanishad.mp3" length="6335929" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
-            <itunes:duration>0:52:47</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Essence Of Mundaka 01</title>
+      <itunes:subtitle>Essence Of Mundaka 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/01_Essence_of_Mundaka_Upanishad.mp3" length="6528924" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:54:24</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/01_Essence_of_Mundaka_Upanishad-67daa4ad</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 02</title>
+      <itunes:subtitle>Essence Of Mundaka 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/02_Essence_of_Mundaka_Upanishad.mp3" length="6606351" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:55:03</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/02_Essence_of_Mundaka_Upanishad-b3fd7e05</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 03</title>
+      <itunes:subtitle>Essence Of Mundaka 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/03_Essence_of_Mundaka_Upanishad.mp3" length="6694854" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:55:47</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/03_Essence_of_Mundaka_Upanishad-f3913a2f</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 04</title>
+      <itunes:subtitle>Essence Of Mundaka 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/04_Essence_of_Mundaka_Upanishad.mp3" length="6621084" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:55:10</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/04_Essence_of_Mundaka_Upanishad-1305b34a</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 05</title>
+      <itunes:subtitle>Essence Of Mundaka 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/05_Essence_of_Mundaka_Upanishad.mp3" length="6646369" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:55:23</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/05_Essence_of_Mundaka_Upanishad-7342d6e4</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 06</title>
+      <itunes:subtitle>Essence Of Mundaka 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/06_Essence_of_Mundaka_Upanishad.mp3" length="6519309" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:54:19</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/06_Essence_of_Mundaka_Upanishad-36a6840e</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 07</title>
+      <itunes:subtitle>Essence Of Mundaka 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/07_Essence_of_Mundaka_Upanishad.mp3" length="6925252" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:57:42</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/07_Essence_of_Mundaka_Upanishad-610f876c</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 08</title>
+      <itunes:subtitle>Essence Of Mundaka 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/08_Essence_of_Mundaka_Upanishad.mp3" length="6913760" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:57:36</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/08_Essence_of_Mundaka_Upanishad-407e6c94</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 09</title>
+      <itunes:subtitle>Essence Of Mundaka 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/09_Essence_of_Mundaka_Upanishad.mp3" length="6845424" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:57:02</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/09_Essence_of_Mundaka_Upanishad-0581482d</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 10</title>
+      <itunes:subtitle>Essence Of Mundaka 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/10_Essence_of_Mundaka_Upanishad.mp3" length="6542506" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:54:31</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/10_Essence_of_Mundaka_Upanishad-4437c41c</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 11</title>
+      <itunes:subtitle>Essence Of Mundaka 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/11_Essence_of_Mundaka_Upanishad.mp3" length="6742919" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:56:11</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/11_Essence_of_Mundaka_Upanishad-4c606e02</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 12</title>
+      <itunes:subtitle>Essence Of Mundaka 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/12_Essence_of_Mundaka_Upanishad.mp3" length="6563719" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:54:41</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/12_Essence_of_Mundaka_Upanishad-1ccc0b1d</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 13</title>
+      <itunes:subtitle>Essence Of Mundaka 13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/13_Essence_of_Mundaka_Upanishad.mp3" length="6863918" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:57:11</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/13_Essence_of_Mundaka_Upanishad-1922f445</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 14</title>
+      <itunes:subtitle>Essence Of Mundaka 14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/14_Essence_of_Mundaka_Upanishad.mp3" length="6628085" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:55:14</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/14_Essence_of_Mundaka_Upanishad-33b5f431</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 15</title>
+      <itunes:subtitle>Essence Of Mundaka 15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/15_Essence_of_Mundaka_Upanishad.mp3" length="6558077" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:54:39</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/15_Essence_of_Mundaka_Upanishad-b9972553</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 16</title>
+      <itunes:subtitle>Essence Of Mundaka 16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/16_Essence_of_Mundaka_Upanishad.mp3" length="6756398" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:56:18</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/16_Essence_of_Mundaka_Upanishad-71f8f8d0</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 17</title>
+      <itunes:subtitle>Essence Of Mundaka 17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/17_Essence_of_Mundaka_Upanishad.mp3" length="6678133" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:55:39</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/17_Essence_of_Mundaka_Upanishad-94de07d1</guid>
+    </item>
+    <item>
+      <title>Essence Of Mundaka 18</title>
+      <itunes:subtitle>Essence Of Mundaka 18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfMundakaUpanishad/18_Essence_of_Mundaka_Upanishad.mp3" length="6335929" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:12 -0000</pubDate>
+      <itunes:duration>0:52:47</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfMundakaUpanishad/18_Essence_of_Mundaka_Upanishad-f757d1e1</guid>
+    </item>
+    <description>The essence of Mundaka Upanishad is given in these 18 talks.  Each word of the mantra is not explained.  Only the essential ideas are explained.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

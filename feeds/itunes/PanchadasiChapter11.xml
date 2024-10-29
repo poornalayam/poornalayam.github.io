@@ -1,299 +1,332 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Panchadasi Chapter 11</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>Panchadasi is a text written by Swami Vidyaranya of Sringeri mutt. The uniqueness of this text is that in each chapter, one Vedantic idea is taken up and explained in detail. In these talks, all the verses have been explained elaborately.
+  <channel>
+    <title>Panchadasi Chapter 11</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>Panchadasi is a text written by Swami Vidyaranya of Sringeri mutt. The uniqueness of this text is that in each chapter, one Vedantic idea is taken up and explained in detail. In these talks, all the verses have been explained elaborately.
             
             Accompanying text for Panchadasi Chapter 11 is available for download.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Panchadasi Chap 11 Class 01</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_01_Panchadasi_Chap_XI.mp3" length="7160532" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 08 Oct 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:59:28</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 02</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_02_Panchadasi_Chap_XI.mp3" length="7139534" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 15 Oct 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:59:17</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 03</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_03_Panchadasi_Chap_XI.mp3" length="6956406" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 22 Oct 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:46</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 04</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_04_Panchadasi_Chap_XI.mp3" length="6882538" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 29 Oct 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:09</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 05</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_05_Panchadasi_Chap_XI.mp3" length="6979791" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 05 Nov 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:57</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 06</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_06_Panchadasi_Chap_XI.mp3" length="6895115" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 12 Nov 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:15</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 07</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_07_Panchadasi_Chap_XI.mp3" length="6783736" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 19 Nov 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:19</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 08</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_08_Panchadasi_Chap_XI.mp3" length="6971337" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 26 Nov 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:53</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 09</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_09_Panchadasi_Chap_XI.mp3" length="6919380" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 03 Dec 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:27</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 10</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_10_Panchadasi_Chap_XI.mp3" length="6908657" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 10 Dec 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:22</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 11</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_11_Panchadasi_Chap_XI.mp3" length="6862068" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 17 Dec 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:58</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 12</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_12_Panchadasi_Chap_XI.mp3" length="6680929" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 24 Dec 2017 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:28</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 13</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_13_Panchadasi_Chap_XI.mp3" length="6879005" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 07 Jan 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:07</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 14</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_14_Panchadasi_Chap_XI.mp3" length="7037161" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Mon, 22 Jan 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:58:26</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 15</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_15_Panchadasi_Chap_XI.mp3" length="6991896" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 28 Jan 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:58:03</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 16</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_16_Panchadasi_Chap_XI.mp3" length="6988438" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 04 Feb 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:58:02</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 17</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_17_Panchadasi_Chap_XI.mp3" length="6795654" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 11 Feb 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:25</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 18</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_18_Panchadasi_Chap_XI.mp3" length="6947070" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 18 Feb 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:41</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 19</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_19_Panchadasi_Chap_XI.mp3" length="6656897" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 04 Mar 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:55:16</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 20</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 20</itunes:subtitle>
-            <itunes:summary>Class 020</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_20_Panchadasi_Chap_XI.mp3" length="6840070" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 11 Mar 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:47</itunes:duration>
-            <itunes:order>20</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 21</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 21</itunes:subtitle>
-            <itunes:summary>Class 021</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_21_Panchadasi_Chap_XI.mp3" length="6839841" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 18 Mar 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:56:47</itunes:duration>
-            <itunes:order>21</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 22</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 22</itunes:subtitle>
-            <itunes:summary>Class 022</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_22_Panchadasi_Chap_XI.mp3" length="6906241" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 25 Mar 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:20</itunes:duration>
-            <itunes:order>22</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 23</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 23</itunes:subtitle>
-            <itunes:summary>Class 023</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_23_Panchadasi_Chap_XI.mp3" length="6885403" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 01 Apr 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:10</itunes:duration>
-            <itunes:order>23</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 24</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 24</itunes:subtitle>
-            <itunes:summary>Class 024</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_24_Panchadasi_Chap_XI.mp3" length="6908265" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 08 Apr 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:22</itunes:duration>
-            <itunes:order>24</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 25</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 25</itunes:subtitle>
-            <itunes:summary>Class 025</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_25_Panchadasi_Chap_XI.mp3" length="6954065" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 15 Apr 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:57:44</itunes:duration>
-            <itunes:order>25</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 26</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 26</itunes:subtitle>
-            <itunes:summary>Class 026</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_26_Panchadasi_Chap_XI.mp3" length="6580238" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 17 Jun 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:54:37</itunes:duration>
-            <itunes:order>26</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 11 Class 27</title>
-            <itunes:subtitle>Panchadasi Chap 11 Class 27</itunes:subtitle>
-            <itunes:summary>Class 027</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_27_Panchadasi_Chap_XI.mp3" length="6596189" type="audio/mpeg" />
-			<!-- TODO pubDate format date/time from PHP -->
-            <pubDate>Sun, 24 Jun 2018 11:00:00 -000</pubDate>
-            <itunes:duration>00:54:45</itunes:duration>
-            <itunes:order>27</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Panchadasi Chap 11 Class 01</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_01_Panchadasi_Chap_XI.mp3" length="7160532" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 08 Oct 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:59:28</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_01_Panchadasi_Chap_XI-b11a819d</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 02</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_02_Panchadasi_Chap_XI.mp3" length="7139534" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 15 Oct 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:59:17</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_02_Panchadasi_Chap_XI-d4ae3e6d</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 03</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_03_Panchadasi_Chap_XI.mp3" length="6956406" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 22 Oct 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:46</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_03_Panchadasi_Chap_XI-69ed4adc</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 04</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_04_Panchadasi_Chap_XI.mp3" length="6882538" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 29 Oct 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:09</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_04_Panchadasi_Chap_XI-8ef27467</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 05</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_05_Panchadasi_Chap_XI.mp3" length="6979791" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 05 Nov 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:57</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_05_Panchadasi_Chap_XI-ca149751</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 06</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_06_Panchadasi_Chap_XI.mp3" length="6895115" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 12 Nov 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:15</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_06_Panchadasi_Chap_XI-0957942b</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 07</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_07_Panchadasi_Chap_XI.mp3" length="6783736" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 19 Nov 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:19</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_07_Panchadasi_Chap_XI-46388310</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 08</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_08_Panchadasi_Chap_XI.mp3" length="6971337" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 26 Nov 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:53</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_08_Panchadasi_Chap_XI-2d451346</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 09</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_09_Panchadasi_Chap_XI.mp3" length="6919380" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 03 Dec 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:27</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_09_Panchadasi_Chap_XI-16ab48c7</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 10</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_10_Panchadasi_Chap_XI.mp3" length="6908657" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 10 Dec 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:22</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_10_Panchadasi_Chap_XI-7828e925</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 11</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_11_Panchadasi_Chap_XI.mp3" length="6862068" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 17 Dec 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:58</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_11_Panchadasi_Chap_XI-129849c3</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 12</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_12_Panchadasi_Chap_XI.mp3" length="6680929" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 24 Dec 2017 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:28</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_12_Panchadasi_Chap_XI-39951e59</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 13</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_13_Panchadasi_Chap_XI.mp3" length="6879005" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 07 Jan 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:07</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_13_Panchadasi_Chap_XI-d6696f23</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 14</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_14_Panchadasi_Chap_XI.mp3" length="7037161" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Mon, 22 Jan 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:58:26</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_14_Panchadasi_Chap_XI-94fe614f</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 15</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_15_Panchadasi_Chap_XI.mp3" length="6991896" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 28 Jan 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:58:03</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_15_Panchadasi_Chap_XI-f90921c1</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 16</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_16_Panchadasi_Chap_XI.mp3" length="6988438" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 04 Feb 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:58:02</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_16_Panchadasi_Chap_XI-ca01059e</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 17</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_17_Panchadasi_Chap_XI.mp3" length="6795654" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 11 Feb 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:25</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_17_Panchadasi_Chap_XI-8c7960d1</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 18</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_18_Panchadasi_Chap_XI.mp3" length="6947070" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 18 Feb 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:41</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_18_Panchadasi_Chap_XI-921bdabd</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 19</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_19_Panchadasi_Chap_XI.mp3" length="6656897" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 04 Mar 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:55:16</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_19_Panchadasi_Chap_XI-a2c13794</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 20</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 20</itunes:subtitle>
+      <itunes:summary>Class 020</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_20_Panchadasi_Chap_XI.mp3" length="6840070" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 11 Mar 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:47</itunes:duration>
+      <itunes:order>20</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_20_Panchadasi_Chap_XI-5e5ed407</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 21</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 21</itunes:subtitle>
+      <itunes:summary>Class 021</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_21_Panchadasi_Chap_XI.mp3" length="6839841" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 18 Mar 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:56:47</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_21_Panchadasi_Chap_XI-c9858acf</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 22</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 22</itunes:subtitle>
+      <itunes:summary>Class 022</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_22_Panchadasi_Chap_XI.mp3" length="6906241" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 25 Mar 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:20</itunes:duration>
+      <itunes:order>22</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_22_Panchadasi_Chap_XI-f9fe1b5d</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 23</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 23</itunes:subtitle>
+      <itunes:summary>Class 023</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_23_Panchadasi_Chap_XI.mp3" length="6885403" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 01 Apr 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:10</itunes:duration>
+      <itunes:order>23</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_23_Panchadasi_Chap_XI-575287a0</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 24</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 24</itunes:subtitle>
+      <itunes:summary>Class 024</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_24_Panchadasi_Chap_XI.mp3" length="6908265" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 08 Apr 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:22</itunes:duration>
+      <itunes:order>24</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_24_Panchadasi_Chap_XI-e61b3a7e</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 25</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 25</itunes:subtitle>
+      <itunes:summary>Class 025</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_25_Panchadasi_Chap_XI.mp3" length="6954065" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 15 Apr 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:57:44</itunes:duration>
+      <itunes:order>25</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_25_Panchadasi_Chap_XI-10010733</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 26</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 26</itunes:subtitle>
+      <itunes:summary>Class 026</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_26_Panchadasi_Chap_XI.mp3" length="6580238" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 17 Jun 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:54:37</itunes:duration>
+      <itunes:order>26</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_26_Panchadasi_Chap_XI-f7784958</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 11 Class 27</title>
+      <itunes:subtitle>Panchadasi Chap 11 Class 27</itunes:subtitle>
+      <itunes:summary>Class 027</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter11/PD_27_Panchadasi_Chap_XI.mp3" length="6596189" type="audio/mpeg"/>
+      <!-- TODO pubDate format date/time from PHP -->
+      <pubDate>Sun, 24 Jun 2018 11:00:00 -000</pubDate>
+      <itunes:duration>00:54:45</itunes:duration>
+      <itunes:order>27</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter11/PD_27_Panchadasi_Chap_XI-da6231fa</guid>
+    </item>
+    <description>Panchadasi is a text written by Swami Vidyaranya of Sringeri mutt. The uniqueness of this text is that in each chapter, one Vedantic idea is taken up and explained in detail. In these talks, all the verses have been explained elaborately.
+            
+            Accompanying text for Panchadasi Chapter 11 is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

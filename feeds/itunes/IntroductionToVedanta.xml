@@ -1,149 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Introduction to Vedanta</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>The final portion of the Vedas is called Vedanta. Veda is a body of knowledge and is the primary means for knowing the true nature of oneself.  Vedanta points out the human goal and shows the path that leads to the goal. The first portion of the Veda deals mainly with ethics and rituals, while Vedanta imparts knowledge about the true nature of God, World and Beings. Vedanta reveals to us the imperishable nature of God, perishable nature of the world, and the essential oneness of God and Beings.
+  <channel>
+    <title>Introduction to Vedanta</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>The final portion of the Vedas is called Vedanta. Veda is a body of knowledge and is the primary means for knowing the true nature of oneself.  Vedanta points out the human goal and shows the path that leads to the goal. The first portion of the Veda deals mainly with ethics and rituals, while Vedanta imparts knowledge about the true nature of God, World and Beings. Vedanta reveals to us the imperishable nature of God, perishable nature of the world, and the essential oneness of God and Beings.
             
             The 12 talks under this heading explain the main topics discussed in Vedanta and help the listener pursue a systematic study of Vedanta.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Introduction To Vedanta 01</title>
-            <itunes:subtitle>Introduction To Vedanta 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_01_Introduction_to_Vedanta.mp3" length="7037488" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:58:38</itunes:duration>
-            <itunes:order>1</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_01_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 02</title>
-            <itunes:subtitle>Introduction To Vedanta 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_02_Introduction_to_Vedanta.mp3" length="7025787" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:58:32</itunes:duration>
-            <itunes:order>2</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_02_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 03</title>
-            <itunes:subtitle>Introduction To Vedanta 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_03_Introduction_to_Vedanta.mp3" length="7019620" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:58:29</itunes:duration>
-            <itunes:order>3</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_03_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 04</title>
-            <itunes:subtitle>Introduction To Vedanta 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_04_Introduction_to_Vedanta.mp3" length="6974484" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:58:07</itunes:duration>
-            <itunes:order>4</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_04_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 05</title>
-            <itunes:subtitle>Introduction To Vedanta 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_05_Introduction_to_Vedanta.mp3" length="6783582" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:56:31</itunes:duration>
-            <itunes:order>5</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_05_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 06</title>
-            <itunes:subtitle>Introduction To Vedanta 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_06_Introduction_to_Vedanta.mp3" length="7029340" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:58:34</itunes:duration>
-            <itunes:order>6</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_06_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 07</title>
-            <itunes:subtitle>Introduction To Vedanta 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_07_Introduction_to_Vedanta.mp3" length="7166014" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:59:43</itunes:duration>
-            <itunes:order>7</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_07_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 08</title>
-            <itunes:subtitle>Introduction To Vedanta 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_08_Introduction_to_Vedanta.mp3" length="6862783" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:57:11</itunes:duration>
-            <itunes:order>8</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_08_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 09</title>
-            <itunes:subtitle>Introduction To Vedanta 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_09_Introduction_to_Vedanta.mp3" length="6940316" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:57:50</itunes:duration>
-            <itunes:order>9</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_09_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 10</title>
-            <itunes:subtitle>Introduction To Vedanta 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_10_Introduction_to_Vedanta.mp3" length="6859855" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:57:09</itunes:duration>
-            <itunes:order>10</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_10_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 11</title>
-            <itunes:subtitle>Introduction To Vedanta 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_11_Introduction_to_Vedanta.mp3" length="7053688" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:58:46</itunes:duration>
-            <itunes:order>11</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_11_Introduction_to_Vedanta</guid>
-        </item>
-        <item>
-            <title>Introduction To Vedanta 12</title>
-            <itunes:subtitle>Introduction To Vedanta 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_12_Introduction_to_Vedanta.mp3" length="7004262" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
-            <itunes:duration>0:58:22</itunes:duration>
-            <itunes:order>12</itunes:order>
-			<guid isPermaLink="false">Poornalayam-IV_12_Introduction_to_Vedanta</guid>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Introduction To Vedanta 01</title>
+      <itunes:subtitle>Introduction To Vedanta 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_01_Introduction_to_Vedanta.mp3" length="7037488" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:58:38</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_01_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_01_Introduction_to_Vedanta-be600dd8</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 02</title>
+      <itunes:subtitle>Introduction To Vedanta 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_02_Introduction_to_Vedanta.mp3" length="7025787" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:58:32</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_02_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_02_Introduction_to_Vedanta-f5e928c3</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 03</title>
+      <itunes:subtitle>Introduction To Vedanta 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_03_Introduction_to_Vedanta.mp3" length="7019620" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:58:29</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_03_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_03_Introduction_to_Vedanta-83a8a0dc</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 04</title>
+      <itunes:subtitle>Introduction To Vedanta 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_04_Introduction_to_Vedanta.mp3" length="6974484" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:58:07</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_04_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_04_Introduction_to_Vedanta-f5eedcb2</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 05</title>
+      <itunes:subtitle>Introduction To Vedanta 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_05_Introduction_to_Vedanta.mp3" length="6783582" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:56:31</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_05_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_05_Introduction_to_Vedanta-ed3e9cd7</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 06</title>
+      <itunes:subtitle>Introduction To Vedanta 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_06_Introduction_to_Vedanta.mp3" length="7029340" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:58:34</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_06_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_06_Introduction_to_Vedanta-85e80907</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 07</title>
+      <itunes:subtitle>Introduction To Vedanta 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_07_Introduction_to_Vedanta.mp3" length="7166014" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:59:43</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_07_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_07_Introduction_to_Vedanta-16754002</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 08</title>
+      <itunes:subtitle>Introduction To Vedanta 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_08_Introduction_to_Vedanta.mp3" length="6862783" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:57:11</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_08_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_08_Introduction_to_Vedanta-219a72dc</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 09</title>
+      <itunes:subtitle>Introduction To Vedanta 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_09_Introduction_to_Vedanta.mp3" length="6940316" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:57:50</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_09_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_09_Introduction_to_Vedanta-8b81e274</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 10</title>
+      <itunes:subtitle>Introduction To Vedanta 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_10_Introduction_to_Vedanta.mp3" length="6859855" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:57:09</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_10_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_10_Introduction_to_Vedanta-18d7b39f</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 11</title>
+      <itunes:subtitle>Introduction To Vedanta 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_11_Introduction_to_Vedanta.mp3" length="7053688" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:58:46</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_11_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_11_Introduction_to_Vedanta-3166211c</guid>
+    </item>
+    <item>
+      <title>Introduction To Vedanta 12</title>
+      <itunes:subtitle>Introduction To Vedanta 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToVedanta/IV_12_Introduction_to_Vedanta.mp3" length="7004262" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:57 -0000</pubDate>
+      <itunes:duration>0:58:22</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">Poornalayam-IV_12_Introduction_to_Vedanta</guid>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToVedanta/IV_12_Introduction_to_Vedanta-14601415</guid>
+    </item>
+    <description>The final portion of the Vedas is called Vedanta. Veda is a body of knowledge and is the primary means for knowing the true nature of oneself.  Vedanta points out the human goal and shows the path that leads to the goal. The first portion of the Veda deals mainly with ethics and rituals, while Vedanta imparts knowledge about the true nature of God, World and Beings. Vedanta reveals to us the imperishable nature of God, perishable nature of the world, and the essential oneness of God and Beings.
+            
+            The 12 talks under this heading explain the main topics discussed in Vedanta and help the listener pursue a systematic study of Vedanta.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

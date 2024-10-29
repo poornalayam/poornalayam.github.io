@@ -1,405 +1,451 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Vivekachudamani</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This is a text written by Shankaracharya. 108 selected verses from the text are explained in these 42 talks.  All the vedantic ideas are explained in this text.
+  <channel>
+    <title>Vivekachudamani</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This is a text written by Shankaracharya. 108 selected verses from the text are explained in these 42 talks.  All the vedantic ideas are explained in this text.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Vivekachudamani 01</title>
-            <itunes:subtitle>Vivekachudamani 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_01_Vivekachudamani.mp3" length="6818546" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:56:49</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 02</title>
-            <itunes:subtitle>Vivekachudamani 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_02_Vivekachudamani.mp3" length="6998895" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:19</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 03</title>
-            <itunes:subtitle>Vivekachudamani 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_03_Vivekachudamani.mp3" length="6956995" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:58</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 04</title>
-            <itunes:subtitle>Vivekachudamani 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_04_Vivekachudamani.mp3" length="6744880" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:56:12</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 05</title>
-            <itunes:subtitle>Vivekachudamani 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_05_Vivekachudamani.mp3" length="6928469" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:44</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 06</title>
-            <itunes:subtitle>Vivekachudamani 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_06_Vivekachudamani.mp3" length="6948531" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:54</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 07</title>
-            <itunes:subtitle>Vivekachudamani 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_07_Vivekachudamani.mp3" length="7004329" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:22</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 08</title>
-            <itunes:subtitle>Vivekachudamani 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_08_Vivekachudamani.mp3" length="6890644" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:25</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 09</title>
-            <itunes:subtitle>Vivekachudamani 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_09_Vivekachudamani.mp3" length="6787721" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:56:33</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 10</title>
-            <itunes:subtitle>Vivekachudamani 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_10_Vivekachudamani.mp3" length="7054797" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:47</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 11</title>
-            <itunes:subtitle>Vivekachudamani 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_11_Vivekachudamani.mp3" length="6679261" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:55:39</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 12</title>
-            <itunes:subtitle>Vivekachudamani 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_12_Vivekachudamani.mp3" length="7004224" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:22</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 13</title>
-            <itunes:subtitle>Vivekachudamani 13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_13_Vivekachudamani.mp3" length="7028048" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:34</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 14</title>
-            <itunes:subtitle>Vivekachudamani 14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_14_Vivekachudamani.mp3" length="6964622" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:02</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 15</title>
-            <itunes:subtitle>Vivekachudamani 15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_15_Vivekachudamani.mp3" length="5956818" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:49:38</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 16</title>
-            <itunes:subtitle>Vivekachudamani 16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_16_Vivekachudamani.mp3" length="7227519" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>1:00:13</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 17</title>
-            <itunes:subtitle>Vivekachudamani 17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_17_Vivekachudamani.mp3" length="7069426" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:54</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 18</title>
-            <itunes:subtitle>Vivekachudamani 18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_18_Vivekachudamani.mp3" length="7072978" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:56</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 19</title>
-            <itunes:subtitle>Vivekachudamani 19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_19_Vivekachudamani.mp3" length="6952502" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:56</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 20</title>
-            <itunes:subtitle>Vivekachudamani 20</itunes:subtitle>
-            <itunes:summary>Class 020</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_20_Vivekachudamani.mp3" length="6928887" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:44</itunes:duration>
-            <itunes:order>20</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 21</title>
-            <itunes:subtitle>Vivekachudamani 21</itunes:subtitle>
-            <itunes:summary>Class 021</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_21_Vivekachudamani.mp3" length="7061798" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:50</itunes:duration>
-            <itunes:order>21</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 22</title>
-            <itunes:subtitle>Vivekachudamani 22</itunes:subtitle>
-            <itunes:summary>Class 022</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_22_Vivekachudamani.mp3" length="6599222" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:54:59</itunes:duration>
-            <itunes:order>22</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 23</title>
-            <itunes:subtitle>Vivekachudamani 23</itunes:subtitle>
-            <itunes:summary>Class 023</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_23_Vivekachudamani.mp3" length="6951979" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:55</itunes:duration>
-            <itunes:order>23</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 24</title>
-            <itunes:subtitle>Vivekachudamani 24</itunes:subtitle>
-            <itunes:summary>Class 024</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_24_Vivekachudamani.mp3" length="6640286" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:55:20</itunes:duration>
-            <itunes:order>24</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 25</title>
-            <itunes:subtitle>Vivekachudamani 25</itunes:subtitle>
-            <itunes:summary>Class 025</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_25_Vivekachudamani.mp3" length="6920632" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:40</itunes:duration>
-            <itunes:order>25</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 26</title>
-            <itunes:subtitle>Vivekachudamani 26</itunes:subtitle>
-            <itunes:summary>Class 026</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_26_Vivekachudamani.mp3" length="6743940" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:56:11</itunes:duration>
-            <itunes:order>26</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 27</title>
-            <itunes:subtitle>Vivekachudamani 27</itunes:subtitle>
-            <itunes:summary>Class 027</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_27_Vivekachudamani.mp3" length="6874866" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:17</itunes:duration>
-            <itunes:order>27</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 28</title>
-            <itunes:subtitle>Vivekachudamani 28</itunes:subtitle>
-            <itunes:summary>Class 028</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_28_Vivekachudamani.mp3" length="6613850" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:55:06</itunes:duration>
-            <itunes:order>28</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 29</title>
-            <itunes:subtitle>Vivekachudamani 29</itunes:subtitle>
-            <itunes:summary>Class 029</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_29_Vivekachudamani.mp3" length="6883956" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:21</itunes:duration>
-            <itunes:order>29</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 30</title>
-            <itunes:subtitle>Vivekachudamani 30</itunes:subtitle>
-            <itunes:summary>Class 030</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_30_Vivekachudamani.mp3" length="6863581" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:11</itunes:duration>
-            <itunes:order>30</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 31</title>
-            <itunes:subtitle>Vivekachudamani 31</itunes:subtitle>
-            <itunes:summary>Class 031</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_31_Vivekachudamani.mp3" length="6929514" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:44</itunes:duration>
-            <itunes:order>31</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 32</title>
-            <itunes:subtitle>Vivekachudamani 32</itunes:subtitle>
-            <itunes:summary>Class 032</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_32_Vivekachudamani.mp3" length="6726386" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:56:03</itunes:duration>
-            <itunes:order>32</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 33</title>
-            <itunes:subtitle>Vivekachudamani 33</itunes:subtitle>
-            <itunes:summary>Class 033</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_33_Vivekachudamani.mp3" length="6987401" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:13</itunes:duration>
-            <itunes:order>33</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 34</title>
-            <itunes:subtitle>Vivekachudamani 34</itunes:subtitle>
-            <itunes:summary>Class 034</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_34_Vivekachudamani.mp3" length="6589504" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:54:54</itunes:duration>
-            <itunes:order>34</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 35</title>
-            <itunes:subtitle>Vivekachudamani 35</itunes:subtitle>
-            <itunes:summary>Class 035</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_35_Vivekachudamani.mp3" length="6854177" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:07</itunes:duration>
-            <itunes:order>35</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 36</title>
-            <itunes:subtitle>Vivekachudamani 36</itunes:subtitle>
-            <itunes:summary>Class 036</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_36_Vivekachudamani.mp3" length="6927215" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:43</itunes:duration>
-            <itunes:order>36</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 37</title>
-            <itunes:subtitle>Vivekachudamani 37</itunes:subtitle>
-            <itunes:summary>Class 037</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_37_Vivekachudamani.mp3" length="6958771" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:59</itunes:duration>
-            <itunes:order>37</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 38</title>
-            <itunes:subtitle>Vivekachudamani 38</itunes:subtitle>
-            <itunes:summary>Class 038</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_38_Vivekachudamani.mp3" length="7005164" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:58:22</itunes:duration>
-            <itunes:order>38</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 39</title>
-            <itunes:subtitle>Vivekachudamani 39</itunes:subtitle>
-            <itunes:summary>Class 039</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_39_Vivekachudamani.mp3" length="7174960" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:59:47</itunes:duration>
-            <itunes:order>39</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 40</title>
-            <itunes:subtitle>Vivekachudamani 40</itunes:subtitle>
-            <itunes:summary>Class 040</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_40_Vivekachudamani.mp3" length="6934007" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:47</itunes:duration>
-            <itunes:order>40</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 41</title>
-            <itunes:subtitle>Vivekachudamani 41</itunes:subtitle>
-            <itunes:summary>Class 041</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_41_Vivekachudamani.mp3" length="6920528" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:40</itunes:duration>
-            <itunes:order>41</itunes:order>
-        </item>
-        <item>
-            <title>Vivekachudamani 42</title>
-            <itunes:subtitle>Vivekachudamani 42</itunes:subtitle>
-            <itunes:summary>Class 042</itunes:summary>
-            <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_42_Vivekachudamani.mp3" length="6899839" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
-            <itunes:duration>0:57:29</itunes:duration>
-            <itunes:order>42</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Vivekachudamani 01</title>
+      <itunes:subtitle>Vivekachudamani 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_01_Vivekachudamani.mp3" length="6818546" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:56:49</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_01_Vivekachudamani-a22976c5</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 02</title>
+      <itunes:subtitle>Vivekachudamani 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_02_Vivekachudamani.mp3" length="6998895" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:19</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_02_Vivekachudamani-ab730b63</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 03</title>
+      <itunes:subtitle>Vivekachudamani 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_03_Vivekachudamani.mp3" length="6956995" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:58</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_03_Vivekachudamani-5dd88618</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 04</title>
+      <itunes:subtitle>Vivekachudamani 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_04_Vivekachudamani.mp3" length="6744880" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:56:12</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_04_Vivekachudamani-61b8c4ca</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 05</title>
+      <itunes:subtitle>Vivekachudamani 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_05_Vivekachudamani.mp3" length="6928469" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:44</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_05_Vivekachudamani-e48395fe</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 06</title>
+      <itunes:subtitle>Vivekachudamani 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_06_Vivekachudamani.mp3" length="6948531" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:54</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_06_Vivekachudamani-125f32e1</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 07</title>
+      <itunes:subtitle>Vivekachudamani 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_07_Vivekachudamani.mp3" length="7004329" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:22</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_07_Vivekachudamani-1a46d7e7</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 08</title>
+      <itunes:subtitle>Vivekachudamani 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_08_Vivekachudamani.mp3" length="6890644" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:25</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_08_Vivekachudamani-091963f6</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 09</title>
+      <itunes:subtitle>Vivekachudamani 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_09_Vivekachudamani.mp3" length="6787721" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:56:33</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_09_Vivekachudamani-47a8829c</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 10</title>
+      <itunes:subtitle>Vivekachudamani 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_10_Vivekachudamani.mp3" length="7054797" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:47</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_10_Vivekachudamani-47e2e226</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 11</title>
+      <itunes:subtitle>Vivekachudamani 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_11_Vivekachudamani.mp3" length="6679261" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:55:39</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_11_Vivekachudamani-a65d075a</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 12</title>
+      <itunes:subtitle>Vivekachudamani 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_12_Vivekachudamani.mp3" length="7004224" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:22</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_12_Vivekachudamani-0427dcf3</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 13</title>
+      <itunes:subtitle>Vivekachudamani 13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_13_Vivekachudamani.mp3" length="7028048" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:34</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_13_Vivekachudamani-1c721f3a</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 14</title>
+      <itunes:subtitle>Vivekachudamani 14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_14_Vivekachudamani.mp3" length="6964622" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:02</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_14_Vivekachudamani-1bcf5b46</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 15</title>
+      <itunes:subtitle>Vivekachudamani 15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_15_Vivekachudamani.mp3" length="5956818" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:49:38</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_15_Vivekachudamani-4c0b2a85</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 16</title>
+      <itunes:subtitle>Vivekachudamani 16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_16_Vivekachudamani.mp3" length="7227519" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>1:00:13</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_16_Vivekachudamani-c27ca929</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 17</title>
+      <itunes:subtitle>Vivekachudamani 17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_17_Vivekachudamani.mp3" length="7069426" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:54</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_17_Vivekachudamani-5eb5713f</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 18</title>
+      <itunes:subtitle>Vivekachudamani 18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_18_Vivekachudamani.mp3" length="7072978" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:56</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_18_Vivekachudamani-08968c0a</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 19</title>
+      <itunes:subtitle>Vivekachudamani 19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_19_Vivekachudamani.mp3" length="6952502" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:56</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_19_Vivekachudamani-28c60b84</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 20</title>
+      <itunes:subtitle>Vivekachudamani 20</itunes:subtitle>
+      <itunes:summary>Class 020</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_20_Vivekachudamani.mp3" length="6928887" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:44</itunes:duration>
+      <itunes:order>20</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_20_Vivekachudamani-94845c2b</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 21</title>
+      <itunes:subtitle>Vivekachudamani 21</itunes:subtitle>
+      <itunes:summary>Class 021</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_21_Vivekachudamani.mp3" length="7061798" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:50</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_21_Vivekachudamani-99b4e88b</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 22</title>
+      <itunes:subtitle>Vivekachudamani 22</itunes:subtitle>
+      <itunes:summary>Class 022</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_22_Vivekachudamani.mp3" length="6599222" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:54:59</itunes:duration>
+      <itunes:order>22</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_22_Vivekachudamani-6d542fee</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 23</title>
+      <itunes:subtitle>Vivekachudamani 23</itunes:subtitle>
+      <itunes:summary>Class 023</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_23_Vivekachudamani.mp3" length="6951979" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:55</itunes:duration>
+      <itunes:order>23</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_23_Vivekachudamani-e639928a</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 24</title>
+      <itunes:subtitle>Vivekachudamani 24</itunes:subtitle>
+      <itunes:summary>Class 024</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_24_Vivekachudamani.mp3" length="6640286" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:55:20</itunes:duration>
+      <itunes:order>24</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_24_Vivekachudamani-fb661995</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 25</title>
+      <itunes:subtitle>Vivekachudamani 25</itunes:subtitle>
+      <itunes:summary>Class 025</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_25_Vivekachudamani.mp3" length="6920632" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:40</itunes:duration>
+      <itunes:order>25</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_25_Vivekachudamani-4d3f0826</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 26</title>
+      <itunes:subtitle>Vivekachudamani 26</itunes:subtitle>
+      <itunes:summary>Class 026</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_26_Vivekachudamani.mp3" length="6743940" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:56:11</itunes:duration>
+      <itunes:order>26</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_26_Vivekachudamani-357433d9</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 27</title>
+      <itunes:subtitle>Vivekachudamani 27</itunes:subtitle>
+      <itunes:summary>Class 027</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_27_Vivekachudamani.mp3" length="6874866" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:17</itunes:duration>
+      <itunes:order>27</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_27_Vivekachudamani-a9272b5b</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 28</title>
+      <itunes:subtitle>Vivekachudamani 28</itunes:subtitle>
+      <itunes:summary>Class 028</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_28_Vivekachudamani.mp3" length="6613850" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:55:06</itunes:duration>
+      <itunes:order>28</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_28_Vivekachudamani-03e81cf1</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 29</title>
+      <itunes:subtitle>Vivekachudamani 29</itunes:subtitle>
+      <itunes:summary>Class 029</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_29_Vivekachudamani.mp3" length="6883956" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:21</itunes:duration>
+      <itunes:order>29</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_29_Vivekachudamani-78ae9f44</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 30</title>
+      <itunes:subtitle>Vivekachudamani 30</itunes:subtitle>
+      <itunes:summary>Class 030</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_30_Vivekachudamani.mp3" length="6863581" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:11</itunes:duration>
+      <itunes:order>30</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_30_Vivekachudamani-2b21b321</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 31</title>
+      <itunes:subtitle>Vivekachudamani 31</itunes:subtitle>
+      <itunes:summary>Class 031</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_31_Vivekachudamani.mp3" length="6929514" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:44</itunes:duration>
+      <itunes:order>31</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_31_Vivekachudamani-c73863e6</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 32</title>
+      <itunes:subtitle>Vivekachudamani 32</itunes:subtitle>
+      <itunes:summary>Class 032</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_32_Vivekachudamani.mp3" length="6726386" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:56:03</itunes:duration>
+      <itunes:order>32</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_32_Vivekachudamani-63f169bc</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 33</title>
+      <itunes:subtitle>Vivekachudamani 33</itunes:subtitle>
+      <itunes:summary>Class 033</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_33_Vivekachudamani.mp3" length="6987401" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:13</itunes:duration>
+      <itunes:order>33</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_33_Vivekachudamani-ce4b2e60</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 34</title>
+      <itunes:subtitle>Vivekachudamani 34</itunes:subtitle>
+      <itunes:summary>Class 034</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_34_Vivekachudamani.mp3" length="6589504" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:54:54</itunes:duration>
+      <itunes:order>34</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_34_Vivekachudamani-6b2306b7</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 35</title>
+      <itunes:subtitle>Vivekachudamani 35</itunes:subtitle>
+      <itunes:summary>Class 035</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_35_Vivekachudamani.mp3" length="6854177" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:07</itunes:duration>
+      <itunes:order>35</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_35_Vivekachudamani-b8fd1086</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 36</title>
+      <itunes:subtitle>Vivekachudamani 36</itunes:subtitle>
+      <itunes:summary>Class 036</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_36_Vivekachudamani.mp3" length="6927215" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:43</itunes:duration>
+      <itunes:order>36</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_36_Vivekachudamani-7e2d0016</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 37</title>
+      <itunes:subtitle>Vivekachudamani 37</itunes:subtitle>
+      <itunes:summary>Class 037</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_37_Vivekachudamani.mp3" length="6958771" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:59</itunes:duration>
+      <itunes:order>37</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_37_Vivekachudamani-b1c49410</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 38</title>
+      <itunes:subtitle>Vivekachudamani 38</itunes:subtitle>
+      <itunes:summary>Class 038</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_38_Vivekachudamani.mp3" length="7005164" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:58:22</itunes:duration>
+      <itunes:order>38</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_38_Vivekachudamani-2e6751fb</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 39</title>
+      <itunes:subtitle>Vivekachudamani 39</itunes:subtitle>
+      <itunes:summary>Class 039</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_39_Vivekachudamani.mp3" length="7174960" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:59:47</itunes:duration>
+      <itunes:order>39</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_39_Vivekachudamani-64d05cdb</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 40</title>
+      <itunes:subtitle>Vivekachudamani 40</itunes:subtitle>
+      <itunes:summary>Class 040</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_40_Vivekachudamani.mp3" length="6934007" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:47</itunes:duration>
+      <itunes:order>40</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_40_Vivekachudamani-d29a2588</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 41</title>
+      <itunes:subtitle>Vivekachudamani 41</itunes:subtitle>
+      <itunes:summary>Class 041</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_41_Vivekachudamani.mp3" length="6920528" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:40</itunes:duration>
+      <itunes:order>41</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_41_Vivekachudamani-59edea7c</guid>
+    </item>
+    <item>
+      <title>Vivekachudamani 42</title>
+      <itunes:subtitle>Vivekachudamani 42</itunes:subtitle>
+      <itunes:summary>Class 042</itunes:summary>
+      <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_42_Vivekachudamani.mp3" length="6899839" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:47 -0000</pubDate>
+      <itunes:duration>0:57:29</itunes:duration>
+      <itunes:order>42</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_42_Vivekachudamani-87cb9745</guid>
+    </item>
+    <description>This is a text written by Shankaracharya. 108 selected verses from the text are explained in these 42 talks.  All the vedantic ideas are explained in this text.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

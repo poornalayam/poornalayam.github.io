@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Bhagavad Gita Chapter 18</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
+  <channel>
+    <title>Bhagavad Gita Chapter 18</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
             
             In these 322 classes, all the 700 verses of the Bhagavad Gita are explained word by word, in keeping with Shankaracharya's commentary. These classes will help the listener in gaining a thorough knowledge of the Bhagavad Gita.
             
@@ -14,279 +14,316 @@
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 01</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_01_Gita_Chapter_XVIII.mp3" length="7059210" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:49</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 02</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_02_Gita_Chapter_XVIII.mp3" length="7015846" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:27</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 03</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_03_Gita_Chapter_XVIII.mp3" length="7034028" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:37</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 04</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_04_Gita_Chapter_XVIII.mp3" length="7031102" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:35</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 05</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_05_Gita_Chapter_XVIII.mp3" length="6967154" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:03</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 06</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_06_Gita_Chapter_XVIII.mp3" length="7025982" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:32</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 07</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_07_Gita_Chapter_XVIII.mp3" length="6960467" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:00</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 08</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_08_Gita_Chapter_XVIII.mp3" length="6950645" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:57:55</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 09</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_09_Gita_Chapter_XVIII.mp3" length="7068091" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:54</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 10</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_10_Gita_Chapter_XVIII.mp3" length="6941972" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:57:50</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 11</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_11_Gita_Chapter_XVIII.mp3" length="7087108" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:59:03</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 12</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_12_Gita_Chapter_XVIII.mp3" length="7081362" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:59:00</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 13</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_13_Gita_Chapter_XVIII.mp3" length="7162446" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:59:41</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 14</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_14_Gita_Chapter_XVIII.mp3" length="7208317" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>1:00:04</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 15</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_15_Gita_Chapter_XVIII.mp3" length="7165894" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:59:42</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 16</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_16_Gita_Chapter_XVIII.mp3" length="7138622" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:59:29</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 17</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_17_Gita_Chapter_XVIII.mp3" length="7057433" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:48</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 18</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_18_Gita_Chapter_XVIII.mp3" length="7047193" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:43</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 19</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_19_Gita_Chapter_XVIII.mp3" length="7045731" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:42</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 20</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 20</itunes:subtitle>
-            <itunes:summary>Class 020</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_20_Gita_Chapter_XVIII.mp3" length="6948973" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:57:54</itunes:duration>
-            <itunes:order>20</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 21</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 21</itunes:subtitle>
-            <itunes:summary>Class 021</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_21_Gita_Chapter_XVIII.mp3" length="7027027" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:33</itunes:duration>
-            <itunes:order>21</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 22</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 22</itunes:subtitle>
-            <itunes:summary>Class 022</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_22_Gita_Chapter_XVIII.mp3" length="7126919" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:59:23</itunes:duration>
-            <itunes:order>22</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 23</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 23</itunes:subtitle>
-            <itunes:summary>Class 023</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_23_Gita_Chapter_XVIII.mp3" length="7033923" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:36</itunes:duration>
-            <itunes:order>23</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 24</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 24</itunes:subtitle>
-            <itunes:summary>Class 024</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_24_Gita_Chapter_XVIII.mp3" length="7041655" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:40</itunes:duration>
-            <itunes:order>24</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap18 class 25</title>
-            <itunes:subtitle>Bhagavad Gita Chap18 class 25</itunes:subtitle>
-            <itunes:summary>Class 025</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_25_Gita_Chapter_XVIII.mp3" length="7200689" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>1:00:00</itunes:duration>
-            <itunes:order>25</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 26</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 26</itunes:subtitle>
-            <itunes:summary>Class 026</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_26_Gita_Chapter_XVIII.mp3" length="7218975" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>1:00:09</itunes:duration>
-            <itunes:order>26</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap18 Class 27</title>
-            <itunes:subtitle>Bhagavad Gita Chap18 Class 27</itunes:subtitle>
-            <itunes:summary>Class 027</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_27_Gita_Chapter_XVIII.mp3" length="6953675" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:57:56</itunes:duration>
-            <itunes:order>27</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 18 Class 28</title>
-            <itunes:subtitle>Bhagavad Gita Chap 18 Class 28</itunes:subtitle>
-            <itunes:summary>Class 028</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_28_Gita_Chapter_XVIII.mp3" length="7053567" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:58:46</itunes:duration>
-            <itunes:order>28</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap18 Class 29</title>
-            <itunes:subtitle>Bhagavad Gita Chap18 Class 29</itunes:subtitle>
-            <itunes:summary>Class 029</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_29_Gita_Chapter_XVIII.mp3" length="4633373" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
-            <itunes:duration>0:38:36</itunes:duration>
-            <itunes:order>29</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 01</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_01_Gita_Chapter_XVIII.mp3" length="7059210" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:49</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_01_Gita_Chapter_XVIII-5ac86680</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 02</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_02_Gita_Chapter_XVIII.mp3" length="7015846" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:27</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_02_Gita_Chapter_XVIII-655cf309</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 03</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_03_Gita_Chapter_XVIII.mp3" length="7034028" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:37</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_03_Gita_Chapter_XVIII-19e48270</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 04</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_04_Gita_Chapter_XVIII.mp3" length="7031102" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:35</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_04_Gita_Chapter_XVIII-9d961e0a</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 05</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_05_Gita_Chapter_XVIII.mp3" length="6967154" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:03</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_05_Gita_Chapter_XVIII-f17780f8</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 06</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_06_Gita_Chapter_XVIII.mp3" length="7025982" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:32</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_06_Gita_Chapter_XVIII-f01e1185</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 07</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_07_Gita_Chapter_XVIII.mp3" length="6960467" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:00</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_07_Gita_Chapter_XVIII-db5c27d1</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 08</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_08_Gita_Chapter_XVIII.mp3" length="6950645" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:57:55</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_08_Gita_Chapter_XVIII-4b3efc8d</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 09</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_09_Gita_Chapter_XVIII.mp3" length="7068091" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:54</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_09_Gita_Chapter_XVIII-4d9585d4</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 10</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_10_Gita_Chapter_XVIII.mp3" length="6941972" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:57:50</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_10_Gita_Chapter_XVIII-e9698715</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 11</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_11_Gita_Chapter_XVIII.mp3" length="7087108" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:59:03</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_11_Gita_Chapter_XVIII-fb6f29ca</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 12</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_12_Gita_Chapter_XVIII.mp3" length="7081362" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:59:00</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_12_Gita_Chapter_XVIII-749264fb</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 13</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_13_Gita_Chapter_XVIII.mp3" length="7162446" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:59:41</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_13_Gita_Chapter_XVIII-37b981bb</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 14</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_14_Gita_Chapter_XVIII.mp3" length="7208317" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>1:00:04</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_14_Gita_Chapter_XVIII-5205a82c</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 15</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_15_Gita_Chapter_XVIII.mp3" length="7165894" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:59:42</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_15_Gita_Chapter_XVIII-cff7ec77</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 16</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_16_Gita_Chapter_XVIII.mp3" length="7138622" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:59:29</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_16_Gita_Chapter_XVIII-d0fb5c87</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 17</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_17_Gita_Chapter_XVIII.mp3" length="7057433" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:48</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_17_Gita_Chapter_XVIII-86bfbf78</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 18</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_18_Gita_Chapter_XVIII.mp3" length="7047193" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:43</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_18_Gita_Chapter_XVIII-43de32de</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 19</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_19_Gita_Chapter_XVIII.mp3" length="7045731" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:42</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_19_Gita_Chapter_XVIII-8fdd6fec</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 20</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 20</itunes:subtitle>
+      <itunes:summary>Class 020</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_20_Gita_Chapter_XVIII.mp3" length="6948973" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:57:54</itunes:duration>
+      <itunes:order>20</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_20_Gita_Chapter_XVIII-53ea441e</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 21</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 21</itunes:subtitle>
+      <itunes:summary>Class 021</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_21_Gita_Chapter_XVIII.mp3" length="7027027" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:33</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_21_Gita_Chapter_XVIII-35566601</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 22</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 22</itunes:subtitle>
+      <itunes:summary>Class 022</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_22_Gita_Chapter_XVIII.mp3" length="7126919" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:59:23</itunes:duration>
+      <itunes:order>22</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_22_Gita_Chapter_XVIII-7881f97b</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 23</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 23</itunes:subtitle>
+      <itunes:summary>Class 023</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_23_Gita_Chapter_XVIII.mp3" length="7033923" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:36</itunes:duration>
+      <itunes:order>23</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_23_Gita_Chapter_XVIII-5cf2a2d8</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 24</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 24</itunes:subtitle>
+      <itunes:summary>Class 024</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_24_Gita_Chapter_XVIII.mp3" length="7041655" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:40</itunes:duration>
+      <itunes:order>24</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_24_Gita_Chapter_XVIII-d5dcf040</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap18 class 25</title>
+      <itunes:subtitle>Bhagavad Gita Chap18 class 25</itunes:subtitle>
+      <itunes:summary>Class 025</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_25_Gita_Chapter_XVIII.mp3" length="7200689" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:order>25</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_25_Gita_Chapter_XVIII-a0d6528d</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 26</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 26</itunes:subtitle>
+      <itunes:summary>Class 026</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_26_Gita_Chapter_XVIII.mp3" length="7218975" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>1:00:09</itunes:duration>
+      <itunes:order>26</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_26_Gita_Chapter_XVIII-5cf5bb27</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap18 Class 27</title>
+      <itunes:subtitle>Bhagavad Gita Chap18 Class 27</itunes:subtitle>
+      <itunes:summary>Class 027</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_27_Gita_Chapter_XVIII.mp3" length="6953675" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:57:56</itunes:duration>
+      <itunes:order>27</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_27_Gita_Chapter_XVIII-6c0c90fe</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 18 Class 28</title>
+      <itunes:subtitle>Bhagavad Gita Chap 18 Class 28</itunes:subtitle>
+      <itunes:summary>Class 028</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_28_Gita_Chapter_XVIII.mp3" length="7053567" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:58:46</itunes:duration>
+      <itunes:order>28</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_28_Gita_Chapter_XVIII-4c0a812d</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap18 Class 29</title>
+      <itunes:subtitle>Bhagavad Gita Chap18 Class 29</itunes:subtitle>
+      <itunes:summary>Class 029</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh18/BG_29_Gita_Chapter_XVIII.mp3" length="4633373" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:07 -0000</pubDate>
+      <itunes:duration>0:38:36</itunes:duration>
+      <itunes:order>29</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh18/BG_29_Gita_Chapter_XVIII-eb073804</guid>
+    </item>
+    <description>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
+            
+            In these 322 classes, all the 700 verses of the Bhagavad Gita are explained word by word, in keeping with Shankaracharya's commentary. These classes will help the listener in gaining a thorough knowledge of the Bhagavad Gita.
+            
+            The summary of Bhagavad Gita - Chapter 18, given by Swami Paramarthananda, is available for download.  This is the last chapter of the Bhagavad Gita and is called Mokshasannyasa-yoga, as it begins with Sannyasa, which is the means of liberation. This chapter also contains the concluding remarks of Lord Krishna.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

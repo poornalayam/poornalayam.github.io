@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Bhagavad Gita Chapter 03</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
+  <channel>
+    <title>Bhagavad Gita Chapter 03</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
             
             In these 322 classes, all the 700 verses of the Bhagavad Gita are explained word by word, in keeping with Shankaracharya's commentary. These classes will help the listener in gaining a thorough knowledge of the Bhagavad Gita.
             
@@ -14,189 +14,216 @@
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 01</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_01_Gita_Chapter_III.mp3" length="7200375" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>1:00:00</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 02</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_02_Gita_Chapter_III.mp3" length="7156072" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:59:38</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 03</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_03_Gita_Chapter_III.mp3" length="7080003" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:59:00</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 04</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_04_Gita_Chapter_III.mp3" length="6994217" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:17</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 05</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_05_Gita_Chapter_III.mp3" length="7129009" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:59:24</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 06</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_06_Gita_Chapter_III.mp3" length="6988470" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:14</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 07</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_07_Gita_Chapter_III.mp3" length="7011562" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:25</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 08</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_08_Gita_Chapter_III.mp3" length="7273518" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>1:00:36</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 09</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_09_Gita_Chapter_III.mp3" length="6903729" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:57:31</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 10</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_10_Gita_Chapter_III.mp3" length="6967154" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:03</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 11</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_11_Gita_Chapter_III.mp3" length="6896519" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:57:28</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 12</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_12_Gita_Chapter_III.mp3" length="7177806" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:59:48</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 13</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_13_Gita_Chapter_III.mp3" length="7150952" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:59:35</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 14</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_14_Gita_Chapter_III.mp3" length="7286475" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>1:00:43</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 15</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_15_Gita_Chapter_III.mp3" length="7036535" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:38</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 16</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_16_Gita_Chapter_III.mp3" length="7196823" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:59:58</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 17</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_17_Gita_Chapter_III.mp3" length="7155340" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:59:37</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 18</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_18_Gita_Chapter_III.mp3" length="7027967" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:33</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 03 Class 19</title>
-            <itunes:subtitle>Bhagavad Gita Chap 03 Class 19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_19_Gita_Chapter_III.mp3" length="7146459" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:59:33</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 01</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_01_Gita_Chapter_III.mp3" length="7200375" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>1:00:00</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_01_Gita_Chapter_III-d3dccdda</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 02</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_02_Gita_Chapter_III.mp3" length="7156072" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:59:38</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_02_Gita_Chapter_III-04254b83</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 03</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_03_Gita_Chapter_III.mp3" length="7080003" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:59:00</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_03_Gita_Chapter_III-d76000f3</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 04</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_04_Gita_Chapter_III.mp3" length="6994217" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:17</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_04_Gita_Chapter_III-b6701a89</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 05</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_05_Gita_Chapter_III.mp3" length="7129009" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:59:24</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_05_Gita_Chapter_III-217354f2</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 06</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_06_Gita_Chapter_III.mp3" length="6988470" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:14</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_06_Gita_Chapter_III-fe39642a</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 07</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_07_Gita_Chapter_III.mp3" length="7011562" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:25</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_07_Gita_Chapter_III-38399356</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 08</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_08_Gita_Chapter_III.mp3" length="7273518" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>1:00:36</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_08_Gita_Chapter_III-5f36e8a9</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 09</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_09_Gita_Chapter_III.mp3" length="6903729" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:57:31</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_09_Gita_Chapter_III-9783682f</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 10</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_10_Gita_Chapter_III.mp3" length="6967154" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:03</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_10_Gita_Chapter_III-7e1df878</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 11</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_11_Gita_Chapter_III.mp3" length="6896519" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:57:28</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_11_Gita_Chapter_III-9e1a3df9</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 12</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_12_Gita_Chapter_III.mp3" length="7177806" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:59:48</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_12_Gita_Chapter_III-e06fb4dd</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 13</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_13_Gita_Chapter_III.mp3" length="7150952" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:59:35</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_13_Gita_Chapter_III-1006d409</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 14</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_14_Gita_Chapter_III.mp3" length="7286475" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>1:00:43</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_14_Gita_Chapter_III-6e420288</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 15</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_15_Gita_Chapter_III.mp3" length="7036535" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:38</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_15_Gita_Chapter_III-f9da4fd5</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 16</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_16_Gita_Chapter_III.mp3" length="7196823" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:59:58</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_16_Gita_Chapter_III-1574db03</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 17</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_17_Gita_Chapter_III.mp3" length="7155340" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:59:37</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_17_Gita_Chapter_III-8297190c</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 18</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_18_Gita_Chapter_III.mp3" length="7027967" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:33</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_18_Gita_Chapter_III-98e07647</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 03 Class 19</title>
+      <itunes:subtitle>Bhagavad Gita Chap 03 Class 19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh03/BG_19_Gita_Chapter_III.mp3" length="7146459" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:59:33</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh03/BG_19_Gita_Chapter_III-727e2ac8</guid>
+    </item>
+    <description>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
+            
+            In these 322 classes, all the 700 verses of the Bhagavad Gita are explained word by word, in keeping with Shankaracharya's commentary. These classes will help the listener in gaining a thorough knowledge of the Bhagavad Gita.
+            
+            The summary of Bhagavad Gita - Chapter 3, given by Swami Paramarthananda, is available for download.  Karma-yoga being the main topic, this chapter is called Karma-yoga.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

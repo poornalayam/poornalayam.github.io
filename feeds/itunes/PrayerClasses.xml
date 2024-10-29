@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Prayer</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>These two talks give the meaning of Prayer, the various stages in Prayer, the benefits of prayer and finally explain a few Upanishadic prayers.
+  <channel>
+    <title>Prayer</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>These two talks give the meaning of Prayer, the various stages in Prayer, the benefits of prayer and finally explain a few Upanishadic prayers.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Prayer 01</title>
-            <itunes:subtitle>Prayer 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/PrayerClasses/PR_01_Prayer.mp3" length="7007662" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:51 -0000</pubDate>
-            <itunes:duration>0:58:23</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Prayer 02</title>
-            <itunes:subtitle>Prayer 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/PrayerClasses/PR_02_Prayer.mp3" length="6986348" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:51 -0000</pubDate>
-            <itunes:duration>0:58:13</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Prayer 01</title>
+      <itunes:subtitle>Prayer 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/PrayerClasses/PR_01_Prayer.mp3" length="7007662" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:51 -0000</pubDate>
+      <itunes:duration>0:58:23</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PrayerClasses/PR_01_Prayer-45c04fc0</guid>
+    </item>
+    <item>
+      <title>Prayer 02</title>
+      <itunes:subtitle>Prayer 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/PrayerClasses/PR_02_Prayer.mp3" length="6986348" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:51 -0000</pubDate>
+      <itunes:duration>0:58:13</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PrayerClasses/PR_02_Prayer-69a9f958</guid>
+    </item>
+    <description>These two talks give the meaning of Prayer, the various stages in Prayer, the benefits of prayer and finally explain a few Upanishadic prayers.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

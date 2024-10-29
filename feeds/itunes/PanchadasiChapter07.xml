@@ -1,542 +1,605 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Panchadasi Chapter 07</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This is a text written by Swami Vidyaranya of Sringeri mutt.  Out of the 15 chapters, 10 chapters have been explained in these talks.  The uniqueness of this text is that, in each chapter, one Vedantic idea is taken up and explained in detail.  In these talks, all the verses of these 10 chapters have been explained elaborately.
+  <channel>
+    <title>Panchadasi Chapter 07</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This is a text written by Swami Vidyaranya of Sringeri mutt.  Out of the 15 chapters, 10 chapters have been explained in these talks.  The uniqueness of this text is that, in each chapter, one Vedantic idea is taken up and explained in detail.  In these talks, all the verses of these 10 chapters have been explained elaborately.
             
             Accompanying text for Panchadasi Chapter 7 is available for download.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Panchadasi Chap 07 Class 01</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_01_Panchadasi_Chap_VII.mp3" length="6641134" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:20</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 02</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_02_Panchadasi_Chap_VII.mp3" length="6711247" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:55</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 03</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_03_Panchadasi_Chap_VII.mp3" length="6638208" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:19</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 04</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_04_Panchadasi_Chap_VII.mp3" length="6748654" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:14</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 05</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_05_Panchadasi_Chap_VII.mp3" length="6767253" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:23</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 06</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_06_Panchadasi_Chap_VII.mp3" length="6711978" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:55</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 07</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_07_Panchadasi_Chap_VII.mp3" length="6644791" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:22</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 08</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_08_Panchadasi_Chap_VII.mp3" length="6725457" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:02</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 09</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_09_Panchadasi_Chap_VII.mp3" length="6580321" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:54:50</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 10</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_10_Panchadasi_Chap_VII.mp3" length="6773523" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:26</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 11</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_11_Panchadasi_Chap_VII.mp3" length="7001415" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:58:20</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 12</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_12_Panchadasi_Chap_VII.mp3" length="6517209" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:54:18</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 13</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_13_Panchadasi_Chap_VII.mp3" length="6617415" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:08</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 14</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_14_Panchadasi_Chap_VII.mp3" length="6792017" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:36</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 15</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_15_Panchadasi_Chap_VII.mp3" length="6804661" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:42</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 16</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_16_Panchadasi_Chap_VII.mp3" length="6646672" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:23</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 17</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_17_Panchadasi_Chap_VII.mp3" length="6621803" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:10</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 18</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_18_Panchadasi_Chap_VII.mp3" length="6731727" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:05</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 19</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_19_Panchadasi_Chap_VII.mp3" length="6681781" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:40</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 20</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 20</itunes:subtitle>
-            <itunes:summary>Class 020</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_20_Panchadasi_Chap_VII.mp3" length="6846456" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:57:03</itunes:duration>
-            <itunes:order>20</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 21</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 21</itunes:subtitle>
-            <itunes:summary>Class 021</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_21_Panchadasi_Chap_VII.mp3" length="6796197" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:38</itunes:duration>
-            <itunes:order>21</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 22</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 22</itunes:subtitle>
-            <itunes:summary>Class 022</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_22_Panchadasi_Chap_VII.mp3" length="6693588" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:46</itunes:duration>
-            <itunes:order>22</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 23</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 23</itunes:subtitle>
-            <itunes:summary>Class 023</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_23_Panchadasi_Chap_VII.mp3" length="6691289" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:45</itunes:duration>
-            <itunes:order>23</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 24</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 24</itunes:subtitle>
-            <itunes:summary>Class 024</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_24_Panchadasi_Chap_VII.mp3" length="6864011" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:57:12</itunes:duration>
-            <itunes:order>24</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 25</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 25</itunes:subtitle>
-            <itunes:summary>Class 025</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_25_Panchadasi_Chap_VII.mp3" length="6914899" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:57:37</itunes:duration>
-            <itunes:order>25</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 26</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 26</itunes:subtitle>
-            <itunes:summary>Class 026</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_26_Panchadasi_Chap_VII.mp3" length="6711874" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:55</itunes:duration>
-            <itunes:order>26</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 27</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 27</itunes:subtitle>
-            <itunes:summary>Class 027</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_27_Panchadasi_Chap_VII.mp3" length="6830470" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:55</itunes:duration>
-            <itunes:order>27</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 28</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 28</itunes:subtitle>
-            <itunes:summary>Class 028</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_28_Panchadasi_Chap_VII.mp3" length="6710620" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:55</itunes:duration>
-            <itunes:order>28</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 29</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 29</itunes:subtitle>
-            <itunes:summary>Class 029</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_29_Panchadasi_Chap_VII.mp3" length="6675302" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:37</itunes:duration>
-            <itunes:order>29</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 30</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 30</itunes:subtitle>
-            <itunes:summary>Class 030</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_30_Panchadasi_Chap_VII.mp3" length="6697245" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:48</itunes:duration>
-            <itunes:order>30</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 31</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 31</itunes:subtitle>
-            <itunes:summary>Class 031</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_31_Panchadasi_Chap_VII.mp3" length="6735802" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:07</itunes:duration>
-            <itunes:order>31</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 32</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 32</itunes:subtitle>
-            <itunes:summary>Class 032</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_32_Panchadasi_Chap_VII.mp3" length="6860354" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:57:10</itunes:duration>
-            <itunes:order>32</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 33</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 33</itunes:subtitle>
-            <itunes:summary>Class 033</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_33_Panchadasi_Chap_VII.mp3" length="6723681" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:01</itunes:duration>
-            <itunes:order>33</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 34</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 34</itunes:subtitle>
-            <itunes:summary>Class 034</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_34_Panchadasi_Chap_VII.mp3" length="6710515" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:55</itunes:duration>
-            <itunes:order>34</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 35</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 35</itunes:subtitle>
-            <itunes:summary>Class 035</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_35_Panchadasi_Chap_VII.mp3" length="6708634" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:54</itunes:duration>
-            <itunes:order>35</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 36</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 36</itunes:subtitle>
-            <itunes:summary>Class 036</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_36_Panchadasi_Chap_VII.mp3" length="6693588" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:46</itunes:duration>
-            <itunes:order>36</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 37</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 37</itunes:subtitle>
-            <itunes:summary>Class 037</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_37_Panchadasi_Chap_VII.mp3" length="6770388" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:25</itunes:duration>
-            <itunes:order>37</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 38</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 38</itunes:subtitle>
-            <itunes:summary>Class 038</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_38_Panchadasi_Chap_VII.mp3" length="6172915" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:51:26</itunes:duration>
-            <itunes:order>38</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 39</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 39</itunes:subtitle>
-            <itunes:summary>Class 039</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_39_Panchadasi_Chap_VII.mp3" length="6811139" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:45</itunes:duration>
-            <itunes:order>39</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 40</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 40</itunes:subtitle>
-            <itunes:summary>Class 040</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_40_Panchadasi_Chap_VII.mp3" length="6644687" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:22</itunes:duration>
-            <itunes:order>40</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 41</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 41</itunes:subtitle>
-            <itunes:summary>Class 041</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_41_Panchadasi_Chap_VII.mp3" length="6524210" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:54:22</itunes:duration>
-            <itunes:order>41</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 42</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 42</itunes:subtitle>
-            <itunes:summary>Class 042</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_42_Panchadasi_Chap_VII.mp3" length="6673108" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:36</itunes:duration>
-            <itunes:order>42</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 43</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 43</itunes:subtitle>
-            <itunes:summary>Class 043</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_43_Panchadasi_Chap_VII.mp3" length="5290708" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:44:05</itunes:duration>
-            <itunes:order>43</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 44</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 44</itunes:subtitle>
-            <itunes:summary>Class 044</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_44_Panchadasi_Chap_VII.mp3" length="6745101" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:12</itunes:duration>
-            <itunes:order>44</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 45</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 45</itunes:subtitle>
-            <itunes:summary>Class 045</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_45_Panchadasi_Chap_VII.mp3" length="6477399" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:53:58</itunes:duration>
-            <itunes:order>45</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 46</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 46</itunes:subtitle>
-            <itunes:summary>Class 046</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_46_Panchadasi_Chap_VII.mp3" length="6824200" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:52</itunes:duration>
-            <itunes:order>46</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 47</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 47</itunes:subtitle>
-            <itunes:summary>Class 047</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_47_Panchadasi_Chap_VII.mp3" length="6778538" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:29</itunes:duration>
-            <itunes:order>47</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 48</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 48</itunes:subtitle>
-            <itunes:summary>Class 048</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_48_Panchadasi_Chap_VII.mp3" length="6787420" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:33</itunes:duration>
-            <itunes:order>48</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 49</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 49</itunes:subtitle>
-            <itunes:summary>Class 049</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_49_Panchadasi_Chap_VII.mp3" length="6989294" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:58:14</itunes:duration>
-            <itunes:order>49</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 50</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 50</itunes:subtitle>
-            <itunes:summary>Class 050</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_50_Panchadasi_Chap_VII.mp3" length="6694110" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:47</itunes:duration>
-            <itunes:order>50</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 51</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 51</itunes:subtitle>
-            <itunes:summary>Class 051</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_51_Panchadasi_Chap_VII.mp3" length="6792331" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:36</itunes:duration>
-            <itunes:order>51</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 52</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 52</itunes:subtitle>
-            <itunes:summary>Class 052</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_52_Panchadasi_Chap_VII.mp3" length="4277261" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:35:38</itunes:duration>
-            <itunes:order>52</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 53</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 53</itunes:subtitle>
-            <itunes:summary>Class 053</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_53_Panchadasi_Chap_VII.mp3" length="6742594" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:11</itunes:duration>
-            <itunes:order>53</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 54</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 54</itunes:subtitle>
-            <itunes:summary>Class 054</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_54_Panchadasi_Chap_VII.mp3" length="6783136" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:31</itunes:duration>
-            <itunes:order>54</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 55</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 55</itunes:subtitle>
-            <itunes:summary>Class 055</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_55_Panchadasi_Chap_VII.mp3" length="6643955" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:55:21</itunes:duration>
-            <itunes:order>55</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 56</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 56</itunes:subtitle>
-            <itunes:summary>Class 056</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_56_Panchadasi_Chap_VII.mp3" length="6827439" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:56:53</itunes:duration>
-            <itunes:order>56</itunes:order>
-        </item>
-        <item>
-            <title>Panchadasi Chap 07 Class 57</title>
-            <itunes:subtitle>Panchadasi Chap 07 Class 57</itunes:subtitle>
-            <itunes:summary>Class 057</itunes:summary>
-            <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_57_Panchadasi_Chap_VII.mp3" length="6453157" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
-            <itunes:duration>0:53:46</itunes:duration>
-            <itunes:order>57</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Panchadasi Chap 07 Class 01</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_01_Panchadasi_Chap_VII.mp3" length="6641134" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:20</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_01_Panchadasi_Chap_VII-174a271f</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 02</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_02_Panchadasi_Chap_VII.mp3" length="6711247" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:55</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_02_Panchadasi_Chap_VII-e0042f46</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 03</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_03_Panchadasi_Chap_VII.mp3" length="6638208" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:19</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_03_Panchadasi_Chap_VII-9dd675c9</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 04</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_04_Panchadasi_Chap_VII.mp3" length="6748654" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:14</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_04_Panchadasi_Chap_VII-229f5cfc</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 05</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_05_Panchadasi_Chap_VII.mp3" length="6767253" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:23</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_05_Panchadasi_Chap_VII-d1a325b6</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 06</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_06_Panchadasi_Chap_VII.mp3" length="6711978" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:55</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_06_Panchadasi_Chap_VII-d6ebf095</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 07</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_07_Panchadasi_Chap_VII.mp3" length="6644791" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:22</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_07_Panchadasi_Chap_VII-d7622a83</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 08</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_08_Panchadasi_Chap_VII.mp3" length="6725457" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:02</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_08_Panchadasi_Chap_VII-0a6e03f0</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 09</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_09_Panchadasi_Chap_VII.mp3" length="6580321" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:54:50</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_09_Panchadasi_Chap_VII-2aebfe3e</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 10</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_10_Panchadasi_Chap_VII.mp3" length="6773523" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:26</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_10_Panchadasi_Chap_VII-ca17300f</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 11</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_11_Panchadasi_Chap_VII.mp3" length="7001415" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:58:20</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_11_Panchadasi_Chap_VII-96f990ef</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 12</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_12_Panchadasi_Chap_VII.mp3" length="6517209" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:54:18</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_12_Panchadasi_Chap_VII-6fbd9d93</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 13</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_13_Panchadasi_Chap_VII.mp3" length="6617415" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:08</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_13_Panchadasi_Chap_VII-65878e14</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 14</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_14_Panchadasi_Chap_VII.mp3" length="6792017" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:36</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_14_Panchadasi_Chap_VII-efaf8505</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 15</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_15_Panchadasi_Chap_VII.mp3" length="6804661" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:42</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_15_Panchadasi_Chap_VII-534d1d2f</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 16</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_16_Panchadasi_Chap_VII.mp3" length="6646672" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:23</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_16_Panchadasi_Chap_VII-53abc611</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 17</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_17_Panchadasi_Chap_VII.mp3" length="6621803" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:10</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_17_Panchadasi_Chap_VII-9f6183ce</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 18</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_18_Panchadasi_Chap_VII.mp3" length="6731727" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:05</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_18_Panchadasi_Chap_VII-118a4b2b</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 19</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_19_Panchadasi_Chap_VII.mp3" length="6681781" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:40</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_19_Panchadasi_Chap_VII-9f16a7e1</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 20</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 20</itunes:subtitle>
+      <itunes:summary>Class 020</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_20_Panchadasi_Chap_VII.mp3" length="6846456" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:57:03</itunes:duration>
+      <itunes:order>20</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_20_Panchadasi_Chap_VII-b78eb9cd</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 21</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 21</itunes:subtitle>
+      <itunes:summary>Class 021</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_21_Panchadasi_Chap_VII.mp3" length="6796197" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:38</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_21_Panchadasi_Chap_VII-8b7358d8</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 22</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 22</itunes:subtitle>
+      <itunes:summary>Class 022</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_22_Panchadasi_Chap_VII.mp3" length="6693588" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:46</itunes:duration>
+      <itunes:order>22</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_22_Panchadasi_Chap_VII-61f59936</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 23</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 23</itunes:subtitle>
+      <itunes:summary>Class 023</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_23_Panchadasi_Chap_VII.mp3" length="6691289" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:45</itunes:duration>
+      <itunes:order>23</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_23_Panchadasi_Chap_VII-e0cdbe31</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 24</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 24</itunes:subtitle>
+      <itunes:summary>Class 024</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_24_Panchadasi_Chap_VII.mp3" length="6864011" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:57:12</itunes:duration>
+      <itunes:order>24</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_24_Panchadasi_Chap_VII-e8495b0e</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 25</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 25</itunes:subtitle>
+      <itunes:summary>Class 025</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_25_Panchadasi_Chap_VII.mp3" length="6914899" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:57:37</itunes:duration>
+      <itunes:order>25</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_25_Panchadasi_Chap_VII-df119bb6</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 26</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 26</itunes:subtitle>
+      <itunes:summary>Class 026</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_26_Panchadasi_Chap_VII.mp3" length="6711874" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:55</itunes:duration>
+      <itunes:order>26</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_26_Panchadasi_Chap_VII-d7a0c5f1</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 27</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 27</itunes:subtitle>
+      <itunes:summary>Class 027</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_27_Panchadasi_Chap_VII.mp3" length="6830470" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:55</itunes:duration>
+      <itunes:order>27</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_27_Panchadasi_Chap_VII-931fe1c0</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 28</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 28</itunes:subtitle>
+      <itunes:summary>Class 028</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_28_Panchadasi_Chap_VII.mp3" length="6710620" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:55</itunes:duration>
+      <itunes:order>28</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_28_Panchadasi_Chap_VII-21544b60</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 29</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 29</itunes:subtitle>
+      <itunes:summary>Class 029</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_29_Panchadasi_Chap_VII.mp3" length="6675302" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:37</itunes:duration>
+      <itunes:order>29</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_29_Panchadasi_Chap_VII-7ec807b2</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 30</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 30</itunes:subtitle>
+      <itunes:summary>Class 030</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_30_Panchadasi_Chap_VII.mp3" length="6697245" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:48</itunes:duration>
+      <itunes:order>30</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_30_Panchadasi_Chap_VII-87237992</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 31</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 31</itunes:subtitle>
+      <itunes:summary>Class 031</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_31_Panchadasi_Chap_VII.mp3" length="6735802" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:07</itunes:duration>
+      <itunes:order>31</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_31_Panchadasi_Chap_VII-9fd119b9</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 32</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 32</itunes:subtitle>
+      <itunes:summary>Class 032</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_32_Panchadasi_Chap_VII.mp3" length="6860354" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:57:10</itunes:duration>
+      <itunes:order>32</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_32_Panchadasi_Chap_VII-33860b55</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 33</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 33</itunes:subtitle>
+      <itunes:summary>Class 033</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_33_Panchadasi_Chap_VII.mp3" length="6723681" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:01</itunes:duration>
+      <itunes:order>33</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_33_Panchadasi_Chap_VII-9527f203</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 34</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 34</itunes:subtitle>
+      <itunes:summary>Class 034</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_34_Panchadasi_Chap_VII.mp3" length="6710515" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:55</itunes:duration>
+      <itunes:order>34</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_34_Panchadasi_Chap_VII-684ec7eb</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 35</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 35</itunes:subtitle>
+      <itunes:summary>Class 035</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_35_Panchadasi_Chap_VII.mp3" length="6708634" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:54</itunes:duration>
+      <itunes:order>35</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_35_Panchadasi_Chap_VII-edd29d37</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 36</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 36</itunes:subtitle>
+      <itunes:summary>Class 036</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_36_Panchadasi_Chap_VII.mp3" length="6693588" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:46</itunes:duration>
+      <itunes:order>36</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_36_Panchadasi_Chap_VII-cdb49e26</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 37</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 37</itunes:subtitle>
+      <itunes:summary>Class 037</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_37_Panchadasi_Chap_VII.mp3" length="6770388" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:25</itunes:duration>
+      <itunes:order>37</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_37_Panchadasi_Chap_VII-65074914</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 38</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 38</itunes:subtitle>
+      <itunes:summary>Class 038</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_38_Panchadasi_Chap_VII.mp3" length="6172915" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:51:26</itunes:duration>
+      <itunes:order>38</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_38_Panchadasi_Chap_VII-b29404ae</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 39</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 39</itunes:subtitle>
+      <itunes:summary>Class 039</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_39_Panchadasi_Chap_VII.mp3" length="6811139" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:45</itunes:duration>
+      <itunes:order>39</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_39_Panchadasi_Chap_VII-1b362329</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 40</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 40</itunes:subtitle>
+      <itunes:summary>Class 040</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_40_Panchadasi_Chap_VII.mp3" length="6644687" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:22</itunes:duration>
+      <itunes:order>40</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_40_Panchadasi_Chap_VII-3ccca585</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 41</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 41</itunes:subtitle>
+      <itunes:summary>Class 041</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_41_Panchadasi_Chap_VII.mp3" length="6524210" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:54:22</itunes:duration>
+      <itunes:order>41</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_41_Panchadasi_Chap_VII-8937fa21</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 42</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 42</itunes:subtitle>
+      <itunes:summary>Class 042</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_42_Panchadasi_Chap_VII.mp3" length="6673108" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:36</itunes:duration>
+      <itunes:order>42</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_42_Panchadasi_Chap_VII-f0ad4201</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 43</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 43</itunes:subtitle>
+      <itunes:summary>Class 043</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_43_Panchadasi_Chap_VII.mp3" length="5290708" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:44:05</itunes:duration>
+      <itunes:order>43</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_43_Panchadasi_Chap_VII-f4034873</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 44</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 44</itunes:subtitle>
+      <itunes:summary>Class 044</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_44_Panchadasi_Chap_VII.mp3" length="6745101" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:12</itunes:duration>
+      <itunes:order>44</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_44_Panchadasi_Chap_VII-fd5a1782</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 45</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 45</itunes:subtitle>
+      <itunes:summary>Class 045</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_45_Panchadasi_Chap_VII.mp3" length="6477399" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:53:58</itunes:duration>
+      <itunes:order>45</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_45_Panchadasi_Chap_VII-69624937</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 46</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 46</itunes:subtitle>
+      <itunes:summary>Class 046</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_46_Panchadasi_Chap_VII.mp3" length="6824200" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:52</itunes:duration>
+      <itunes:order>46</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_46_Panchadasi_Chap_VII-a57d148d</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 47</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 47</itunes:subtitle>
+      <itunes:summary>Class 047</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_47_Panchadasi_Chap_VII.mp3" length="6778538" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:29</itunes:duration>
+      <itunes:order>47</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_47_Panchadasi_Chap_VII-1bbd83f0</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 48</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 48</itunes:subtitle>
+      <itunes:summary>Class 048</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_48_Panchadasi_Chap_VII.mp3" length="6787420" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:33</itunes:duration>
+      <itunes:order>48</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_48_Panchadasi_Chap_VII-f2c023df</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 49</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 49</itunes:subtitle>
+      <itunes:summary>Class 049</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_49_Panchadasi_Chap_VII.mp3" length="6989294" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:58:14</itunes:duration>
+      <itunes:order>49</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_49_Panchadasi_Chap_VII-e481daab</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 50</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 50</itunes:subtitle>
+      <itunes:summary>Class 050</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_50_Panchadasi_Chap_VII.mp3" length="6694110" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:47</itunes:duration>
+      <itunes:order>50</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_50_Panchadasi_Chap_VII-045349fd</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 51</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 51</itunes:subtitle>
+      <itunes:summary>Class 051</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_51_Panchadasi_Chap_VII.mp3" length="6792331" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:36</itunes:duration>
+      <itunes:order>51</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_51_Panchadasi_Chap_VII-26c2623f</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 52</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 52</itunes:subtitle>
+      <itunes:summary>Class 052</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_52_Panchadasi_Chap_VII.mp3" length="4277261" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:35:38</itunes:duration>
+      <itunes:order>52</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_52_Panchadasi_Chap_VII-b2ab76fb</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 53</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 53</itunes:subtitle>
+      <itunes:summary>Class 053</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_53_Panchadasi_Chap_VII.mp3" length="6742594" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:11</itunes:duration>
+      <itunes:order>53</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_53_Panchadasi_Chap_VII-418af6f6</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 54</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 54</itunes:subtitle>
+      <itunes:summary>Class 054</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_54_Panchadasi_Chap_VII.mp3" length="6783136" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:31</itunes:duration>
+      <itunes:order>54</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_54_Panchadasi_Chap_VII-a04acd46</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 55</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 55</itunes:subtitle>
+      <itunes:summary>Class 055</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_55_Panchadasi_Chap_VII.mp3" length="6643955" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:55:21</itunes:duration>
+      <itunes:order>55</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_55_Panchadasi_Chap_VII-2561c293</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 56</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 56</itunes:subtitle>
+      <itunes:summary>Class 056</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_56_Panchadasi_Chap_VII.mp3" length="6827439" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:56:53</itunes:duration>
+      <itunes:order>56</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_56_Panchadasi_Chap_VII-58d45091</guid>
+    </item>
+    <item>
+      <title>Panchadasi Chap 07 Class 57</title>
+      <itunes:subtitle>Panchadasi Chap 07 Class 57</itunes:subtitle>
+      <itunes:summary>Class 057</itunes:summary>
+      <enclosure url="https://archive.org/download/PanchadasiChapter07/PD_57_Panchadasi_Chap_VII.mp3" length="6453157" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:13 -0000</pubDate>
+      <itunes:duration>0:53:46</itunes:duration>
+      <itunes:order>57</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/PanchadasiChapter07/PD_57_Panchadasi_Chap_VII-092b0995</guid>
+    </item>
+    <description>This is a text written by Swami Vidyaranya of Sringeri mutt.  Out of the 15 chapters, 10 chapters have been explained in these talks.  The uniqueness of this text is that, in each chapter, one Vedantic idea is taken up and explained in detail.  In these talks, all the verses of these 10 chapters have been explained elaborately.
+            
+            Accompanying text for Panchadasi Chapter 7 is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

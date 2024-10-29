@@ -1,45 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Introduction To SanyasaYoga</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This is an introduction speech given by Swamiji based on Chapter 5 of Bhagavad Gita. In this speech, Swamiji has clearly stated about the types and nature of Sanyasa.
+  <channel>
+    <title>Introduction To SanyasaYoga</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This is an introduction speech given by Swamiji based on Chapter 5 of Bhagavad Gita. In this speech, Swamiji has clearly stated about the types and nature of Sanyasa.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Introduction_To_Sanyasa_Yoga_1</title>
-            <itunes:subtitle>Introduction_To_Sanyasa_Yoga_1</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_1.mp3" length="6310793" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:16 -0000</pubDate>
-            <itunes:duration>0:52:35</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Introduction_To_Sanyasa_Yoga_2</title>
-            <itunes:subtitle>Introduction_To_Sanyasa_Yoga_2</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_2.mp3" length="6514443" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:16 -0000</pubDate>
-            <itunes:duration>0:54:17</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Introduction_To_Sanyasa_Yoga_1</title>
+      <itunes:subtitle>Introduction_To_Sanyasa_Yoga_1</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_1.mp3" length="6310793" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:16 -0000</pubDate>
+      <itunes:duration>0:52:35</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_1-79581b45</guid>
+    </item>
+    <item>
+      <title>Introduction_To_Sanyasa_Yoga_2</title>
+      <itunes:subtitle>Introduction_To_Sanyasa_Yoga_2</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_2.mp3" length="6514443" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:16 -0000</pubDate>
+      <itunes:duration>0:54:17</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_2-8f0ecfc4</guid>
+    </item>
+    <description>This is an introduction speech given by Swamiji based on Chapter 5 of Bhagavad Gita. In this speech, Swamiji has clearly stated about the types and nature of Sanyasa.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

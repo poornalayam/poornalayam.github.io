@@ -1,189 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Essence of Karika</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>These talks give the summary of Gaudapadacharya's Karika.
+  <channel>
+    <title>Essence of Karika</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>These talks give the summary of Gaudapadacharya's Karika.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Essence of Karika_01</title>
-            <itunes:subtitle>Essence of Karika_01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_01_Essence_of_Vaitathyaprakaranam.mp3" length="6838284" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:56:59</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_02</title>
-            <itunes:subtitle>Essence of Karika_02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_02_Essence_of_Vaitathyaprakaranam.mp3" length="6745288" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:56:12</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_03</title>
-            <itunes:subtitle>Essence of Karika_03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_03_Essence_of_Vaitathyaprakaranam.mp3" length="6889902" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:57:24</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_04</title>
-            <itunes:subtitle>Essence of Karika_04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_04_Essence_of_Vaitathyaprakaranam.mp3" length="6994497" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:58:17</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_05</title>
-            <itunes:subtitle>Essence of Karika_05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_05_Essence_of_Advaitaprakaranam.mp3" length="6945386" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:57:52</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_06</title>
-            <itunes:subtitle>Essence of Karika_06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_06_Essence_of_Advaitaprakaranam.mp3" length="6898679" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:57:29</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_07</title>
-            <itunes:subtitle>Essence of Karika_07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_07_Essence_of_Advaitaprakaranam.mp3" length="6884364" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:57:22</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_08</title>
-            <itunes:subtitle>Essence of Karika_08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_08_Essence_of_Advaitaprakaranam.mp3" length="6638395" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:55:19</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_09</title>
-            <itunes:subtitle>Essence of Karika_09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_09_Essence_of_Advaitaprakaranam.mp3" length="6757200" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:56:18</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_10</title>
-            <itunes:subtitle>Essence of Karika_10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_10_Essence_of_Advaitaprakaranam.mp3" length="6653128" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:55:26</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_11</title>
-            <itunes:subtitle>Essence of Karika_11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_11_Essence_of_Advaitaprakaranam.mp3" length="6998676" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:58:19</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_12</title>
-            <itunes:subtitle>Essence of Karika_12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_12_Essence_of_Advaitaprakaranam.mp3" length="6561386" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:54:40</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_13</title>
-            <itunes:subtitle>Essence of Karika_13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_13_Essence_of_Alatasantiprakaranam.mp3" length="7069729" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:58:54</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_14</title>
-            <itunes:subtitle>Essence of Karika_14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_14_Essence_of_Alatasantiprakaranam.mp3" length="6829507" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:56:54</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_15</title>
-            <itunes:subtitle>Essence of Karika_15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_15_Essence_of_Alatasantiprakaranam.mp3" length="6913412" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:57:36</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_16</title>
-            <itunes:subtitle>Essence of Karika_16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_16_Essence_of_Alatasantiprakaranam.mp3" length="6884991" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:57:22</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_17</title>
-            <itunes:subtitle>Essence of Karika_17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_17_Essence_of_Alatasantiprakaranam.mp3" length="7043084" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:58:41</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Karika_18</title>
-            <itunes:subtitle>Essence of Karika_18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfKarika/EK_18_Essence_of_Alatasantiprakaranam.mp3" length="7119884" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
-            <itunes:duration>0:59:19</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Essence of Karika_01</title>
+      <itunes:subtitle>Essence of Karika_01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_01_Essence_of_Vaitathyaprakaranam.mp3" length="6838284" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:56:59</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_01_Essence_of_Vaitathyaprakaranam-9af0e402</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_02</title>
+      <itunes:subtitle>Essence of Karika_02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_02_Essence_of_Vaitathyaprakaranam.mp3" length="6745288" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:56:12</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_02_Essence_of_Vaitathyaprakaranam-8a085e20</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_03</title>
+      <itunes:subtitle>Essence of Karika_03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_03_Essence_of_Vaitathyaprakaranam.mp3" length="6889902" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:57:24</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_03_Essence_of_Vaitathyaprakaranam-8e1ed3f6</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_04</title>
+      <itunes:subtitle>Essence of Karika_04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_04_Essence_of_Vaitathyaprakaranam.mp3" length="6994497" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:58:17</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_04_Essence_of_Vaitathyaprakaranam-f0db1343</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_05</title>
+      <itunes:subtitle>Essence of Karika_05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_05_Essence_of_Advaitaprakaranam.mp3" length="6945386" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:57:52</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_05_Essence_of_Advaitaprakaranam-d91d574c</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_06</title>
+      <itunes:subtitle>Essence of Karika_06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_06_Essence_of_Advaitaprakaranam.mp3" length="6898679" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:57:29</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_06_Essence_of_Advaitaprakaranam-53ca01a1</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_07</title>
+      <itunes:subtitle>Essence of Karika_07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_07_Essence_of_Advaitaprakaranam.mp3" length="6884364" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:57:22</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_07_Essence_of_Advaitaprakaranam-119b3798</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_08</title>
+      <itunes:subtitle>Essence of Karika_08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_08_Essence_of_Advaitaprakaranam.mp3" length="6638395" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:55:19</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_08_Essence_of_Advaitaprakaranam-1db6041e</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_09</title>
+      <itunes:subtitle>Essence of Karika_09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_09_Essence_of_Advaitaprakaranam.mp3" length="6757200" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:56:18</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_09_Essence_of_Advaitaprakaranam-e8c2bdff</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_10</title>
+      <itunes:subtitle>Essence of Karika_10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_10_Essence_of_Advaitaprakaranam.mp3" length="6653128" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:55:26</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_10_Essence_of_Advaitaprakaranam-54c6bb74</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_11</title>
+      <itunes:subtitle>Essence of Karika_11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_11_Essence_of_Advaitaprakaranam.mp3" length="6998676" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:58:19</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_11_Essence_of_Advaitaprakaranam-0af5212e</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_12</title>
+      <itunes:subtitle>Essence of Karika_12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_12_Essence_of_Advaitaprakaranam.mp3" length="6561386" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:54:40</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_12_Essence_of_Advaitaprakaranam-e6569475</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_13</title>
+      <itunes:subtitle>Essence of Karika_13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_13_Essence_of_Alatasantiprakaranam.mp3" length="7069729" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:58:54</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_13_Essence_of_Alatasantiprakaranam-b1b493bd</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_14</title>
+      <itunes:subtitle>Essence of Karika_14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_14_Essence_of_Alatasantiprakaranam.mp3" length="6829507" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:56:54</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_14_Essence_of_Alatasantiprakaranam-8fdda223</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_15</title>
+      <itunes:subtitle>Essence of Karika_15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_15_Essence_of_Alatasantiprakaranam.mp3" length="6913412" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:57:36</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_15_Essence_of_Alatasantiprakaranam-7596fba8</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_16</title>
+      <itunes:subtitle>Essence of Karika_16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_16_Essence_of_Alatasantiprakaranam.mp3" length="6884991" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:57:22</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_16_Essence_of_Alatasantiprakaranam-11bbd541</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_17</title>
+      <itunes:subtitle>Essence of Karika_17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_17_Essence_of_Alatasantiprakaranam.mp3" length="7043084" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:58:41</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_17_Essence_of_Alatasantiprakaranam-36605874</guid>
+    </item>
+    <item>
+      <title>Essence of Karika_18</title>
+      <itunes:subtitle>Essence of Karika_18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfKarika/EK_18_Essence_of_Alatasantiprakaranam.mp3" length="7119884" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:52 -0000</pubDate>
+      <itunes:duration>0:59:19</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfKarika/EK_18_Essence_of_Alatasantiprakaranam-e24ed157</guid>
+    </item>
+    <description>These talks give the summary of Gaudapadacharya's Karika.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

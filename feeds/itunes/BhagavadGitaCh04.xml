@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Bhagavad Gita Chapter 04</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
+  <channel>
+    <title>Bhagavad Gita Chapter 04</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
             
             In these 322 classes, all the 700 verses of the Bhagavad Gita are explained word by word, in keeping with Shankaracharya's commentary. These classes will help the listener in gaining a thorough knowledge of the Bhagavad Gita.
             
@@ -14,189 +14,216 @@
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 01</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_01_Gita_Chapter_IV.mp3" length="7247082" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>1:00:23</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 02</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_02_Gita_Chapter_IV.mp3" length="7115216" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:59:17</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 03</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_03_Gita_Chapter_IV.mp3" length="7217198" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>1:00:08</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 04</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_04_Gita_Chapter_IV.mp3" length="7331092" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>1:01:05</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 05</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_05_Gita_Chapter_IV.mp3" length="7388353" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>1:01:34</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 06</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_06_Gita_Chapter_IV.mp3" length="7024728" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:58:32</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 07</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_07_Gita_Chapter_IV.mp3" length="7210511" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>1:00:05</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 08</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_08_Gita_Chapter_IV.mp3" length="7326181" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>1:01:03</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 09</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_09_Gita_Chapter_IV.mp3" length="7264010" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>1:00:32</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 10</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_10_Gita_Chapter_IV.mp3" length="7168611" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:59:44</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 11</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_11_Gita_Chapter_IV.mp3" length="7199644" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:59:59</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 12</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_12_Gita_Chapter_IV.mp3" length="7091706" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:59:05</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 13</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_13_Gita_Chapter_IV.mp3" length="7160147" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:59:40</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 14</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_14_Gita_Chapter_IV.mp3" length="7325868" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>1:01:02</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 15</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_15_Gita_Chapter_IV.mp3" length="7175402" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:59:47</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 16</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_16_Gita_Chapter_IV.mp3" length="7076242" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:58:58</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 17</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_17_Gita_Chapter_IV.mp3" length="6983873" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:58:11</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class18</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_18_Gita_Chapter_IV.mp3" length="6990976" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:58:15</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 04 Class 19</title>
-            <itunes:subtitle>Bhagavad Gita Chap 04 Class 19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_19_Gita_Chapter_IV.mp3" length="6887428" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
-            <itunes:duration>0:57:23</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 01</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_01_Gita_Chapter_IV.mp3" length="7247082" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>1:00:23</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_01_Gita_Chapter_IV-b4cc3f1d</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 02</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_02_Gita_Chapter_IV.mp3" length="7115216" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:59:17</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_02_Gita_Chapter_IV-8122964c</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 03</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_03_Gita_Chapter_IV.mp3" length="7217198" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>1:00:08</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_03_Gita_Chapter_IV-5a88a4bd</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 04</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_04_Gita_Chapter_IV.mp3" length="7331092" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>1:01:05</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_04_Gita_Chapter_IV-7864aedf</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 05</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_05_Gita_Chapter_IV.mp3" length="7388353" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>1:01:34</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_05_Gita_Chapter_IV-925851c8</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 06</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_06_Gita_Chapter_IV.mp3" length="7024728" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:58:32</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_06_Gita_Chapter_IV-20977571</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 07</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_07_Gita_Chapter_IV.mp3" length="7210511" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>1:00:05</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_07_Gita_Chapter_IV-9d76c4b7</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 08</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_08_Gita_Chapter_IV.mp3" length="7326181" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>1:01:03</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_08_Gita_Chapter_IV-be3aaf82</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 09</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_09_Gita_Chapter_IV.mp3" length="7264010" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>1:00:32</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_09_Gita_Chapter_IV-5ab13bf8</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 10</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_10_Gita_Chapter_IV.mp3" length="7168611" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:59:44</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_10_Gita_Chapter_IV-2e6210fd</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 11</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_11_Gita_Chapter_IV.mp3" length="7199644" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:59:59</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_11_Gita_Chapter_IV-1b2ffa7f</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 12</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_12_Gita_Chapter_IV.mp3" length="7091706" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:59:05</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_12_Gita_Chapter_IV-3210e526</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 13</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_13_Gita_Chapter_IV.mp3" length="7160147" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:59:40</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_13_Gita_Chapter_IV-e64f87d9</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 14</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_14_Gita_Chapter_IV.mp3" length="7325868" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>1:01:02</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_14_Gita_Chapter_IV-2ab68d96</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 15</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_15_Gita_Chapter_IV.mp3" length="7175402" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:59:47</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_15_Gita_Chapter_IV-884cac22</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 16</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_16_Gita_Chapter_IV.mp3" length="7076242" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:58:58</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_16_Gita_Chapter_IV-4dc6782d</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 17</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_17_Gita_Chapter_IV.mp3" length="6983873" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:58:11</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_17_Gita_Chapter_IV-26fa526d</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class18</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_18_Gita_Chapter_IV.mp3" length="6990976" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:58:15</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_18_Gita_Chapter_IV-4cb544e7</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 04 Class 19</title>
+      <itunes:subtitle>Bhagavad Gita Chap 04 Class 19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh04/BG_19_Gita_Chapter_IV.mp3" length="6887428" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:14 -0000</pubDate>
+      <itunes:duration>0:57:23</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh04/BG_19_Gita_Chapter_IV-abbaf6ac</guid>
+    </item>
+    <description>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
+            
+            In these 322 classes, all the 700 verses of the Bhagavad Gita are explained word by word, in keeping with Shankaracharya's commentary. These classes will help the listener in gaining a thorough knowledge of the Bhagavad Gita.
+            
+            The summary of Bhagavad Gita - Chapter 4, given by Swami Paramarthananda, is available for download.  The renunciation of all activities through the knowledge of the actionless 'I' amidst the activities of the body is the main topic of this chapter known by the name Jnanakarmasannyasa-yoga.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

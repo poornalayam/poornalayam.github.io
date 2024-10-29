@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Mandukya Upanishad</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This is a small Upanishad. With the help of the syllable Om, this Upanishad explains the nature of the individual being and God and their underlying oneness.  Gaudapadacharya, the guru of Shankaracharya's guru Govinda Bhagavadpada, has written a commentary, explaining the 12 mantras, in 225 verses.  His explanatory verses are called Karika.
+  <channel>
+    <title>Mandukya Upanishad</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This is a small Upanishad. With the help of the syllable Om, this Upanishad explains the nature of the individual being and God and their underlying oneness.  Gaudapadacharya, the guru of Shankaracharya's guru Govinda Bhagavadpada, has written a commentary, explaining the 12 mantras, in 225 verses.  His explanatory verses are called Karika.
             
             These 110 talks explain, in detail, the Upanishad and the Karika.
             
@@ -15,1008 +15,1127 @@
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Mandukya_Upanishad_01</title>
-            <itunes:subtitle>Mandukya_Upanishad_01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_001_Mandukya_Upanishad.mp3" length="7149881" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:34</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_02</title>
-            <itunes:subtitle>Mandukya_Upanishad_02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_002_Mandukya_Upanishad.mp3" length="7231696" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:15</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_03</title>
-            <itunes:subtitle>Mandukya_Upanishad_03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_003_Mandukya_Upanishad.mp3" length="7171719" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:45</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_04</title>
-            <itunes:subtitle>Mandukya_Upanishad_04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_004_Mandukya_Upanishad.mp3" length="7238802" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:19</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_05</title>
-            <itunes:subtitle>Mandukya_Upanishad_05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_005_Mandukya_Upanishad.mp3" length="7148940" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:34</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_06</title>
-            <itunes:subtitle>Mandukya_Upanishad_06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_006_Mandukya_Upanishad.mp3" length="7183736" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:51</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_07</title>
-            <itunes:subtitle>Mandukya_Upanishad_07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_007_Mandukya_Upanishad.mp3" length="7146224" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:33</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_08</title>
-            <itunes:subtitle>Mandukya_Upanishad_08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_008_Mandukya_Upanishad.mp3" length="6973293" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:06</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_09</title>
-            <itunes:subtitle>Mandukya_Upanishad_09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_009_Mandukya_Upanishad.mp3" length="6959605" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:59</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_10</title>
-            <itunes:subtitle>Mandukya_Upanishad_10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_010_Mandukya_Upanishad.mp3" length="6922511" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:41</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_11</title>
-            <itunes:subtitle>Mandukya_Upanishad_11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_011_Mandukya_Upanishad.mp3" length="7143507" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:31</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_12</title>
-            <itunes:subtitle>Mandukya_Upanishad_12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_012_Mandukya_Upanishad.mp3" length="6826067" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:53</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_13</title>
-            <itunes:subtitle>Mandukya_Upanishad_13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_013_Mandukya_Upanishad.mp3" length="6907882" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:33</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_14</title>
-            <itunes:subtitle>Mandukya_Upanishad_14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_014_Mandukya_Upanishad.mp3" length="6883745" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:21</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_15</title>
-            <itunes:subtitle>Mandukya_Upanishad_15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_015_Mandukya_Upanishad.mp3" length="6857309" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:08</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_16</title>
-            <itunes:subtitle>Mandukya_Upanishad_16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_016_Mandukya_Upanishad.mp3" length="7137969" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:28</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_17</title>
-            <itunes:subtitle>Mandukya_Upanishad_17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_017_Mandukya_Upanishad.mp3" length="7202544" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:01</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_18</title>
-            <itunes:subtitle>Mandukya_Upanishad_18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_018_Mandukya_Upanishad.mp3" length="7020000" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:30</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_19</title>
-            <itunes:subtitle>Mandukya_Upanishad_19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_019_Mandukya_Upanishad.mp3" length="6962217" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:01</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_20</title>
-            <itunes:subtitle>Mandukya_Upanishad_20</itunes:subtitle>
-            <itunes:summary>Class 020</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_020_Mandukya_Upanishad.mp3" length="7015298" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:27</itunes:duration>
-            <itunes:order>20</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_21</title>
-            <itunes:subtitle>Mandukya_Upanishad_21</itunes:subtitle>
-            <itunes:summary>Class 021</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_021_Mandukya_Upanishad.mp3" length="6974651" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:07</itunes:duration>
-            <itunes:order>21</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_22</title>
-            <itunes:subtitle>Mandukya_Upanishad_22</itunes:subtitle>
-            <itunes:summary>Class 022</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_022_Mandukya_Upanishad.mp3" length="6698694" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:55:49</itunes:duration>
-            <itunes:order>22</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_23</title>
-            <itunes:subtitle>Mandukya_Upanishad_23</itunes:subtitle>
-            <itunes:summary>Class 023</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_023_Mandukya_Upanishad.mp3" length="6942991" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:51</itunes:duration>
-            <itunes:order>23</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_24</title>
-            <itunes:subtitle>Mandukya_Upanishad_24</itunes:subtitle>
-            <itunes:summary>Class 024</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_024_Mandukya_Upanishad.mp3" length="6862638" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:11</itunes:duration>
-            <itunes:order>24</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_25</title>
-            <itunes:subtitle>Mandukya_Upanishad_25</itunes:subtitle>
-            <itunes:summary>Class 025</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_025_Mandukya_Upanishad.mp3" length="6972248" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:06</itunes:duration>
-            <itunes:order>25</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_26</title>
-            <itunes:subtitle>Mandukya_Upanishad_26</itunes:subtitle>
-            <itunes:summary>Class 026</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_026_Mandukya_Upanishad.mp3" length="6936826" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:48</itunes:duration>
-            <itunes:order>26</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_27</title>
-            <itunes:subtitle>Mandukya_Upanishad_27</itunes:subtitle>
-            <itunes:summary>Class 027</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_027_Mandukya_Upanishad.mp3" length="7003282" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:21</itunes:duration>
-            <itunes:order>27</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_28</title>
-            <itunes:subtitle>Mandukya_Upanishad_28</itunes:subtitle>
-            <itunes:summary>Class 028</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_028_Mandukya_Upanishad.mp3" length="6974756" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:07</itunes:duration>
-            <itunes:order>28</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_29</title>
-            <itunes:subtitle>Mandukya_Upanishad_29</itunes:subtitle>
-            <itunes:summary>Class 029</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_029_Mandukya_Upanishad.mp3" length="7158971" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:39</itunes:duration>
-            <itunes:order>29</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_30</title>
-            <itunes:subtitle>Mandukya_Upanishad_30</itunes:subtitle>
-            <itunes:summary>Class 030</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_030_Mandukya_Upanishad.mp3" length="6984787" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:12</itunes:duration>
-            <itunes:order>30</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_31</title>
-            <itunes:subtitle>Mandukya_Upanishad_31</itunes:subtitle>
-            <itunes:summary>Class 031</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_031_Mandukya_Upanishad.mp3" length="7086560" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:03</itunes:duration>
-            <itunes:order>31</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_32</title>
-            <itunes:subtitle>Mandukya_Upanishad_32</itunes:subtitle>
-            <itunes:summary>Class 032</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_032_Mandukya_Upanishad.mp3" length="6962531" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:01</itunes:duration>
-            <itunes:order>32</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_33</title>
-            <itunes:subtitle>Mandukya_Upanishad_33</itunes:subtitle>
-            <itunes:summary>Class 033</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_033_Mandukya_Upanishad.mp3" length="7017806" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:28</itunes:duration>
-            <itunes:order>33</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_34</title>
-            <itunes:subtitle>Mandukya_Upanishad_34</itunes:subtitle>
-            <itunes:summary>Class 034</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_034_Mandukya_Upanishad.mp3" length="7314139" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:57</itunes:duration>
-            <itunes:order>34</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_35</title>
-            <itunes:subtitle>Mandukya_Upanishad_35</itunes:subtitle>
-            <itunes:summary>Class 035</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_035_Mandukya_Upanishad.mp3" length="7146433" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:33</itunes:duration>
-            <itunes:order>35</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_36</title>
-            <itunes:subtitle>Mandukya_Upanishad_36</itunes:subtitle>
-            <itunes:summary>Class 036</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_036_Mandukya_Upanishad.mp3" length="7202335" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:01</itunes:duration>
-            <itunes:order>36</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_37</title>
-            <itunes:subtitle>Mandukya_Upanishad_37</itunes:subtitle>
-            <itunes:summary>Class 037</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_037_Mandukya_Upanishad.mp3" length="7082798" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:01</itunes:duration>
-            <itunes:order>37</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_38</title>
-            <itunes:subtitle>Mandukya_Upanishad_38</itunes:subtitle>
-            <itunes:summary>Class 038</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_038_Mandukya_Upanishad.mp3" length="7103383" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:11</itunes:duration>
-            <itunes:order>38</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_39</title>
-            <itunes:subtitle>Mandukya_Upanishad_39</itunes:subtitle>
-            <itunes:summary>Class 039</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_039_Mandukya_Upanishad.mp3" length="7217799" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:08</itunes:duration>
-            <itunes:order>39</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_40</title>
-            <itunes:subtitle>Mandukya_Upanishad_40</itunes:subtitle>
-            <itunes:summary>Class 040</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_040_Mandukya_Upanishad.mp3" length="7204007" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:02</itunes:duration>
-            <itunes:order>40</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_41</title>
-            <itunes:subtitle>Mandukya_Upanishad_41</itunes:subtitle>
-            <itunes:summary>Class 041</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_041_Mandukya_Upanishad.mp3" length="6975696" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:07</itunes:duration>
-            <itunes:order>41</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_42</title>
-            <itunes:subtitle>Mandukya_Upanishad_42</itunes:subtitle>
-            <itunes:summary>Class 042</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_042_Mandukya_Upanishad.mp3" length="7023239" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:31</itunes:duration>
-            <itunes:order>42</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_43</title>
-            <itunes:subtitle>Mandukya_Upanishad_43</itunes:subtitle>
-            <itunes:summary>Class 043</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_043_Mandukya_Upanishad.mp3" length="7264611" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:32</itunes:duration>
-            <itunes:order>43</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_44</title>
-            <itunes:subtitle>Mandukya_Upanishad_44</itunes:subtitle>
-            <itunes:summary>Class 044</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_044_Mandukya_Upanishad.mp3" length="7094292" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:07</itunes:duration>
-            <itunes:order>44</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_45</title>
-            <itunes:subtitle>Mandukya_Upanishad_45</itunes:subtitle>
-            <itunes:summary>Class 045</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_045_Mandukya_Upanishad.mp3" length="7218217" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:09</itunes:duration>
-            <itunes:order>45</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_46</title>
-            <itunes:subtitle>Mandukya_Upanishad_46</itunes:subtitle>
-            <itunes:summary>Class 046</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_046_Mandukya_Upanishad.mp3" length="7110697" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:15</itunes:duration>
-            <itunes:order>46</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_47</title>
-            <itunes:subtitle>Mandukya_Upanishad_47</itunes:subtitle>
-            <itunes:summary>Class 047</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_047_Mandukya_Upanishad.mp3" length="6812692" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:46</itunes:duration>
-            <itunes:order>47</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_48</title>
-            <itunes:subtitle>Mandukya_Upanishad_48</itunes:subtitle>
-            <itunes:summary>Class 048</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_048_Mandukya_Upanishad.mp3" length="6913629" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:36</itunes:duration>
-            <itunes:order>48</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_49</title>
-            <itunes:subtitle>Mandukya_Upanishad_49</itunes:subtitle>
-            <itunes:summary>Class 049</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_049_Mandukya_Upanishad.mp3" length="6664944" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:55:32</itunes:duration>
-            <itunes:order>49</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_50</title>
-            <itunes:subtitle>Mandukya_Upanishad_50</itunes:subtitle>
-            <itunes:summary>Class 050</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_050_Mandukya_Upanishad.mp3" length="6943200" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:51</itunes:duration>
-            <itunes:order>50</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_51</title>
-            <itunes:subtitle>Mandukya_Upanishad_51</itunes:subtitle>
-            <itunes:summary>Class 051</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_051_Mandukya_Upanishad.mp3" length="7012686" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:26</itunes:duration>
-            <itunes:order>51</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_52</title>
-            <itunes:subtitle>Mandukya_Upanishad_52</itunes:subtitle>
-            <itunes:summary>Class 052</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_052_Mandukya_Upanishad.mp3" length="6954798" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:57</itunes:duration>
-            <itunes:order>52</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_53</title>
-            <itunes:subtitle>Mandukya_Upanishad_53</itunes:subtitle>
-            <itunes:summary>Class 053</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_053_Mandukya_Upanishad.mp3" length="6924914" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:42</itunes:duration>
-            <itunes:order>53</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_54</title>
-            <itunes:subtitle>Mandukya_Upanishad_54</itunes:subtitle>
-            <itunes:summary>Class 054</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_054_Mandukya_Upanishad.mp3" length="6930766" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:45</itunes:duration>
-            <itunes:order>54</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_55</title>
-            <itunes:subtitle>Mandukya_Upanishad_55</itunes:subtitle>
-            <itunes:summary>Class 055</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_055_Mandukya_Upanishad.mp3" length="6948842" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:54</itunes:duration>
-            <itunes:order>55</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_56</title>
-            <itunes:subtitle>Mandukya_Upanishad_56</itunes:subtitle>
-            <itunes:summary>Class 056</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_056_Mandukya_Upanishad.mp3" length="7262625" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:31</itunes:duration>
-            <itunes:order>56</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_57</title>
-            <itunes:subtitle>Mandukya_Upanishad_57</itunes:subtitle>
-            <itunes:summary>Class 057</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_057_Mandukya_Upanishad.mp3" length="6838919" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:59</itunes:duration>
-            <itunes:order>57</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_58</title>
-            <itunes:subtitle>Mandukya_Upanishad_58</itunes:subtitle>
-            <itunes:summary>Class 058</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_058_Mandukya_Upanishad.mp3" length="7039331" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:39</itunes:duration>
-            <itunes:order>58</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_59</title>
-            <itunes:subtitle>Mandukya_Upanishad_59</itunes:subtitle>
-            <itunes:summary>Class 059</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_059_Mandukya_Upanishad.mp3" length="7154792" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:37</itunes:duration>
-            <itunes:order>59</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_60</title>
-            <itunes:subtitle>Mandukya_Upanishad_60</itunes:subtitle>
-            <itunes:summary>Class 060</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_060_Mandukya_Upanishad.mp3" length="7055840" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:47</itunes:duration>
-            <itunes:order>60</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_61</title>
-            <itunes:subtitle>Mandukya_Upanishad_61</itunes:subtitle>
-            <itunes:summary>Class 061</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_061_Mandukya_Upanishad.mp3" length="6923347" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:41</itunes:duration>
-            <itunes:order>61</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_62</title>
-            <itunes:subtitle>Mandukya_Upanishad_62</itunes:subtitle>
-            <itunes:summary>Class 062</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_062_Mandukya_Upanishad.mp3" length="7021254" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:30</itunes:duration>
-            <itunes:order>62</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_63</title>
-            <itunes:subtitle>Mandukya_Upanishad_63</itunes:subtitle>
-            <itunes:summary>Class 063</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_063_Mandukya_Upanishad.mp3" length="6963576" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:01</itunes:duration>
-            <itunes:order>63</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_64</title>
-            <itunes:subtitle>Mandukya_Upanishad_64</itunes:subtitle>
-            <itunes:summary>Class 064</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_064_Mandukya_Upanishad.mp3" length="6987608" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:13</itunes:duration>
-            <itunes:order>64</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_65</title>
-            <itunes:subtitle>Mandukya_Upanishad_65</itunes:subtitle>
-            <itunes:summary>Class 065</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_065_Mandukya_Upanishad.mp3" length="7080291" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:00</itunes:duration>
-            <itunes:order>65</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_66</title>
-            <itunes:subtitle>Mandukya_Upanishad_66</itunes:subtitle>
-            <itunes:summary>Class 066</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_066_Mandukya_Upanishad.mp3" length="7121146" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:20</itunes:duration>
-            <itunes:order>66</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_67</title>
-            <itunes:subtitle>Mandukya_Upanishad_67</itunes:subtitle>
-            <itunes:summary>Class 067</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_067_Mandukya_Upanishad.mp3" length="7288016" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:44</itunes:duration>
-            <itunes:order>67</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_68</title>
-            <itunes:subtitle>Mandukya_Upanishad_68</itunes:subtitle>
-            <itunes:summary>Class 068</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_068_Mandukya_Upanishad.mp3" length="7083530" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:01</itunes:duration>
-            <itunes:order>68</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_69</title>
-            <itunes:subtitle>Mandukya_Upanishad_69</itunes:subtitle>
-            <itunes:summary>Class 069</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_069_Mandukya_Upanishad.mp3" length="7079455" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:59</itunes:duration>
-            <itunes:order>69</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_70</title>
-            <itunes:subtitle>Mandukya_Upanishad_70</itunes:subtitle>
-            <itunes:summary>Class 070</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_070_Mandukya_Upanishad.mp3" length="7139014" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:29</itunes:duration>
-            <itunes:order>70</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_71</title>
-            <itunes:subtitle>Mandukya_Upanishad_71</itunes:subtitle>
-            <itunes:summary>Class 071</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_071_Mandukya_Upanishad.mp3" length="6951664" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:55</itunes:duration>
-            <itunes:order>71</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_72</title>
-            <itunes:subtitle>Mandukya_Upanishad_72</itunes:subtitle>
-            <itunes:summary>Class 072</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_072_Mandukya_Upanishad.mp3" length="7075171" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:57</itunes:duration>
-            <itunes:order>72</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_73</title>
-            <itunes:subtitle>Mandukya_Upanishad_73</itunes:subtitle>
-            <itunes:summary>Class 073</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_073_Mandukya_Upanishad.mp3" length="7016029" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:28</itunes:duration>
-            <itunes:order>73</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_74</title>
-            <itunes:subtitle>Mandukya_Upanishad_74</itunes:subtitle>
-            <itunes:summary>Class 074</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_074_Mandukya_Upanishad.mp3" length="7116758" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:18</itunes:duration>
-            <itunes:order>74</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_75</title>
-            <itunes:subtitle>Mandukya_Upanishad_75</itunes:subtitle>
-            <itunes:summary>Class 075</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_075_Mandukya_Upanishad.mp3" length="7084888" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:02</itunes:duration>
-            <itunes:order>75</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_76</title>
-            <itunes:subtitle>Mandukya_Upanishad_76</itunes:subtitle>
-            <itunes:summary>Class 076</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_076_Mandukya_Upanishad.mp3" length="6847905" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:03</itunes:duration>
-            <itunes:order>76</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_77</title>
-            <itunes:subtitle>Mandukya_Upanishad_77</itunes:subtitle>
-            <itunes:summary>Class 077</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_077_Mandukya_Upanishad.mp3" length="7060229" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:50</itunes:duration>
-            <itunes:order>77</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_78</title>
-            <itunes:subtitle>Mandukya_Upanishad_78</itunes:subtitle>
-            <itunes:summary>Class 078</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_078_Mandukya_Upanishad.mp3" length="7194707" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:57</itunes:duration>
-            <itunes:order>78</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_79</title>
-            <itunes:subtitle>Mandukya_Upanishad_79</itunes:subtitle>
-            <itunes:summary>Class 079</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_079_Mandukya_Upanishad.mp3" length="7266282" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:33</itunes:duration>
-            <itunes:order>79</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_80</title>
-            <itunes:subtitle>Mandukya_Upanishad_80</itunes:subtitle>
-            <itunes:summary>Class 080</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_080_Mandukya_Upanishad.mp3" length="7231383" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>1:00:15</itunes:duration>
-            <itunes:order>80</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_81</title>
-            <itunes:subtitle>Mandukya_Upanishad_81</itunes:subtitle>
-            <itunes:summary>Class 081</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_081_Mandukya_Upanishad.mp3" length="7160121" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:40</itunes:duration>
-            <itunes:order>81</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_82</title>
-            <itunes:subtitle>Mandukya_Upanishad_82</itunes:subtitle>
-            <itunes:summary>Class 082</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_082_Mandukya_Upanishad.mp3" length="7058139" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:49</itunes:duration>
-            <itunes:order>82</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_83</title>
-            <itunes:subtitle>Mandukya_Upanishad_83</itunes:subtitle>
-            <itunes:summary>Class 083</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_083_Mandukya_Upanishad.mp3" length="7081231" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:00</itunes:duration>
-            <itunes:order>83</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_84</title>
-            <itunes:subtitle>Mandukya_Upanishad_84</itunes:subtitle>
-            <itunes:summary>Class 084</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_084_Mandukya_Upanishad.mp3" length="6974860" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:07</itunes:duration>
-            <itunes:order>84</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_85</title>
-            <itunes:subtitle>Mandukya_Upanishad_85</itunes:subtitle>
-            <itunes:summary>Class 085</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_085_Mandukya_Upanishad.mp3" length="7199200" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:59</itunes:duration>
-            <itunes:order>85</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_86</title>
-            <itunes:subtitle>Mandukya_Upanishad_86</itunes:subtitle>
-            <itunes:summary>Class 086</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_086_Mandukya_Upanishad.mp3" length="7194916" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:57</itunes:duration>
-            <itunes:order>86</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_87</title>
-            <itunes:subtitle>Mandukya_Upanishad_87</itunes:subtitle>
-            <itunes:summary>Class 087</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_087_Mandukya_Upanishad.mp3" length="6905793" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:32</itunes:duration>
-            <itunes:order>87</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_88</title>
-            <itunes:subtitle>Mandukya_Upanishad_88</itunes:subtitle>
-            <itunes:summary>Class 088</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_088_Mandukya_Upanishad.mp3" length="6933065" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:46</itunes:duration>
-            <itunes:order>88</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_89</title>
-            <itunes:subtitle>Mandukya_Upanishad_89</itunes:subtitle>
-            <itunes:summary>Class 089</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_089_Mandukya_Upanishad.mp3" length="6966710" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:03</itunes:duration>
-            <itunes:order>89</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_90</title>
-            <itunes:subtitle>Mandukya_Upanishad_90</itunes:subtitle>
-            <itunes:summary>Class 090</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_090_Mandukya_Upanishad.mp3" length="7056258" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:48</itunes:duration>
-            <itunes:order>90</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_91</title>
-            <itunes:subtitle>Mandukya_Upanishad_91</itunes:subtitle>
-            <itunes:summary>Class 091</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_091_Mandukya_Upanishad.mp3" length="6842785" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:01</itunes:duration>
-            <itunes:order>91</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_92</title>
-            <itunes:subtitle>Mandukya_Upanishad_92</itunes:subtitle>
-            <itunes:summary>Class 092</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_092_Mandukya_Upanishad.mp3" length="6892000" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:26</itunes:duration>
-            <itunes:order>92</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_93</title>
-            <itunes:subtitle>Mandukya_Upanishad_93</itunes:subtitle>
-            <itunes:summary>Class 093</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_093_Mandukya_Upanishad.mp3" length="6972875" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:58:06</itunes:duration>
-            <itunes:order>93</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_94</title>
-            <itunes:subtitle>Mandukya_Upanishad_94</itunes:subtitle>
-            <itunes:summary>Class 094</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_094_Mandukya_Upanishad.mp3" length="6879879" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:19</itunes:duration>
-            <itunes:order>94</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_95</title>
-            <itunes:subtitle>Mandukya_Upanishad_95</itunes:subtitle>
-            <itunes:summary>Class 095</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_095_Mandukya_Upanishad.mp3" length="6891269" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:25</itunes:duration>
-            <itunes:order>95</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_96</title>
-            <itunes:subtitle>Mandukya_Upanishad_96</itunes:subtitle>
-            <itunes:summary>Class 096</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_096_Mandukya_Upanishad.mp3" length="6743729" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:11</itunes:duration>
-            <itunes:order>96</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_97</title>
-            <itunes:subtitle>Mandukya_Upanishad_97</itunes:subtitle>
-            <itunes:summary>Class 097</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_097_Mandukya_Upanishad.mp3" length="6716353" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:55:58</itunes:duration>
-            <itunes:order>97</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_98</title>
-            <itunes:subtitle>Mandukya_Upanishad_98</itunes:subtitle>
-            <itunes:summary>Class 098</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_098_Mandukya_Upanishad.mp3" length="6743833" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:11</itunes:duration>
-            <itunes:order>98</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_99</title>
-            <itunes:subtitle>Mandukya_Upanishad_99</itunes:subtitle>
-            <itunes:summary>Class 099</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_099_Mandukya_Upanishad.mp3" length="6786570" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:33</itunes:duration>
-            <itunes:order>99</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_100</title>
-            <itunes:subtitle>Mandukya_Upanishad_100</itunes:subtitle>
-            <itunes:summary>Class 100</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_100_Mandukya_Upanishad.mp3" length="6830667" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:55</itunes:duration>
-            <itunes:order>100</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_101</title>
-            <itunes:subtitle>Mandukya_Upanishad_101</itunes:subtitle>
-            <itunes:summary>Class 101</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_101_Mandukya_Upanishad.mp3" length="6692635" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:55:46</itunes:duration>
-            <itunes:order>101</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_102</title>
-            <itunes:subtitle>Mandukya_Upanishad_102</itunes:subtitle>
-            <itunes:summary>Class 102</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_102_Mandukya_Upanishad.mp3" length="7124074" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:59:22</itunes:duration>
-            <itunes:order>102</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_103</title>
-            <itunes:subtitle>Mandukya_Upanishad_103</itunes:subtitle>
-            <itunes:summary>Class 103</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_103_Mandukya_Upanishad.mp3" length="6879777" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:19</itunes:duration>
-            <itunes:order>103</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_104</title>
-            <itunes:subtitle>Mandukya_Upanishad_104</itunes:subtitle>
-            <itunes:summary>Class 104</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_104_Mandukya_Upanishad.mp3" length="6889808" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:24</itunes:duration>
-            <itunes:order>104</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_105</title>
-            <itunes:subtitle>Mandukya_Upanishad_105</itunes:subtitle>
-            <itunes:summary>Class 105</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_105_Mandukya_Upanishad.mp3" length="6768809" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:24</itunes:duration>
-            <itunes:order>105</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_106</title>
-            <itunes:subtitle>Mandukya_Upanishad_106</itunes:subtitle>
-            <itunes:summary>Class 106</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_106_Mandukya_Upanishad.mp3" length="6739133" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:09</itunes:duration>
-            <itunes:order>106</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_107</title>
-            <itunes:subtitle>Mandukya_Upanishad_107</itunes:subtitle>
-            <itunes:summary>Class 107</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_107_Mandukya_Upanishad.mp3" length="6878314" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:19</itunes:duration>
-            <itunes:order>107</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_108</title>
-            <itunes:subtitle>Mandukya_Upanishad_108</itunes:subtitle>
-            <itunes:summary>Class 108</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_108_Mandukya_Upanishad.mp3" length="6746866" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:56:13</itunes:duration>
-            <itunes:order>108</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_109</title>
-            <itunes:subtitle>Mandukya_Upanishad_109</itunes:subtitle>
-            <itunes:summary>Class 109</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_109_Mandukya_Upanishad.mp3" length="6571741" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:54:45</itunes:duration>
-            <itunes:order>109</itunes:order>
-        </item>
-        <item>
-            <title>Mandukya_Upanishad_110</title>
-            <itunes:subtitle>Mandukya_Upanishad_110</itunes:subtitle>
-            <itunes:summary>Class 110</itunes:summary>
-            <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_110_Mandukya_Upanishad.mp3" length="6901406" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
-            <itunes:duration>0:57:30</itunes:duration>
-            <itunes:order>110</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Mandukya_Upanishad_01</title>
+      <itunes:subtitle>Mandukya_Upanishad_01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_001_Mandukya_Upanishad.mp3" length="7149881" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:34</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_001_Mandukya_Upanishad-0c285845</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_02</title>
+      <itunes:subtitle>Mandukya_Upanishad_02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_002_Mandukya_Upanishad.mp3" length="7231696" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:15</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_002_Mandukya_Upanishad-e8b3dfb9</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_03</title>
+      <itunes:subtitle>Mandukya_Upanishad_03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_003_Mandukya_Upanishad.mp3" length="7171719" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:45</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_003_Mandukya_Upanishad-bae0ce0c</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_04</title>
+      <itunes:subtitle>Mandukya_Upanishad_04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_004_Mandukya_Upanishad.mp3" length="7238802" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:19</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_004_Mandukya_Upanishad-6411d146</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_05</title>
+      <itunes:subtitle>Mandukya_Upanishad_05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_005_Mandukya_Upanishad.mp3" length="7148940" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:34</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_005_Mandukya_Upanishad-863371b8</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_06</title>
+      <itunes:subtitle>Mandukya_Upanishad_06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_006_Mandukya_Upanishad.mp3" length="7183736" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:51</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_006_Mandukya_Upanishad-a8deccc7</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_07</title>
+      <itunes:subtitle>Mandukya_Upanishad_07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_007_Mandukya_Upanishad.mp3" length="7146224" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:33</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_007_Mandukya_Upanishad-8ca59d39</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_08</title>
+      <itunes:subtitle>Mandukya_Upanishad_08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_008_Mandukya_Upanishad.mp3" length="6973293" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:06</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_008_Mandukya_Upanishad-f7c00b35</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_09</title>
+      <itunes:subtitle>Mandukya_Upanishad_09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_009_Mandukya_Upanishad.mp3" length="6959605" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:59</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_009_Mandukya_Upanishad-0c368b7a</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_10</title>
+      <itunes:subtitle>Mandukya_Upanishad_10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_010_Mandukya_Upanishad.mp3" length="6922511" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:41</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_010_Mandukya_Upanishad-132d37e1</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_11</title>
+      <itunes:subtitle>Mandukya_Upanishad_11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_011_Mandukya_Upanishad.mp3" length="7143507" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:31</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_011_Mandukya_Upanishad-556cd06c</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_12</title>
+      <itunes:subtitle>Mandukya_Upanishad_12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_012_Mandukya_Upanishad.mp3" length="6826067" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:53</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_012_Mandukya_Upanishad-f279fd72</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_13</title>
+      <itunes:subtitle>Mandukya_Upanishad_13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_013_Mandukya_Upanishad.mp3" length="6907882" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:33</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_013_Mandukya_Upanishad-c1d0fffb</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_14</title>
+      <itunes:subtitle>Mandukya_Upanishad_14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_014_Mandukya_Upanishad.mp3" length="6883745" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:21</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_014_Mandukya_Upanishad-dbc189c6</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_15</title>
+      <itunes:subtitle>Mandukya_Upanishad_15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_015_Mandukya_Upanishad.mp3" length="6857309" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:08</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_015_Mandukya_Upanishad-960ffda8</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_16</title>
+      <itunes:subtitle>Mandukya_Upanishad_16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_016_Mandukya_Upanishad.mp3" length="7137969" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:28</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_016_Mandukya_Upanishad-f864a674</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_17</title>
+      <itunes:subtitle>Mandukya_Upanishad_17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_017_Mandukya_Upanishad.mp3" length="7202544" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:01</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_017_Mandukya_Upanishad-da768841</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_18</title>
+      <itunes:subtitle>Mandukya_Upanishad_18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_018_Mandukya_Upanishad.mp3" length="7020000" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:30</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_018_Mandukya_Upanishad-f2b23a57</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_19</title>
+      <itunes:subtitle>Mandukya_Upanishad_19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_019_Mandukya_Upanishad.mp3" length="6962217" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:01</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_019_Mandukya_Upanishad-23348c11</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_20</title>
+      <itunes:subtitle>Mandukya_Upanishad_20</itunes:subtitle>
+      <itunes:summary>Class 020</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_020_Mandukya_Upanishad.mp3" length="7015298" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:27</itunes:duration>
+      <itunes:order>20</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_020_Mandukya_Upanishad-c61b3d0c</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_21</title>
+      <itunes:subtitle>Mandukya_Upanishad_21</itunes:subtitle>
+      <itunes:summary>Class 021</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_021_Mandukya_Upanishad.mp3" length="6974651" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:07</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_021_Mandukya_Upanishad-462cb1fb</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_22</title>
+      <itunes:subtitle>Mandukya_Upanishad_22</itunes:subtitle>
+      <itunes:summary>Class 022</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_022_Mandukya_Upanishad.mp3" length="6698694" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:55:49</itunes:duration>
+      <itunes:order>22</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_022_Mandukya_Upanishad-7dbb6cb8</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_23</title>
+      <itunes:subtitle>Mandukya_Upanishad_23</itunes:subtitle>
+      <itunes:summary>Class 023</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_023_Mandukya_Upanishad.mp3" length="6942991" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:51</itunes:duration>
+      <itunes:order>23</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_023_Mandukya_Upanishad-b3d0fb2a</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_24</title>
+      <itunes:subtitle>Mandukya_Upanishad_24</itunes:subtitle>
+      <itunes:summary>Class 024</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_024_Mandukya_Upanishad.mp3" length="6862638" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:11</itunes:duration>
+      <itunes:order>24</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_024_Mandukya_Upanishad-42f37d4d</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_25</title>
+      <itunes:subtitle>Mandukya_Upanishad_25</itunes:subtitle>
+      <itunes:summary>Class 025</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_025_Mandukya_Upanishad.mp3" length="6972248" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:06</itunes:duration>
+      <itunes:order>25</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_025_Mandukya_Upanishad-a046702e</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_26</title>
+      <itunes:subtitle>Mandukya_Upanishad_26</itunes:subtitle>
+      <itunes:summary>Class 026</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_026_Mandukya_Upanishad.mp3" length="6936826" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:48</itunes:duration>
+      <itunes:order>26</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_026_Mandukya_Upanishad-3e63909a</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_27</title>
+      <itunes:subtitle>Mandukya_Upanishad_27</itunes:subtitle>
+      <itunes:summary>Class 027</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_027_Mandukya_Upanishad.mp3" length="7003282" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:21</itunes:duration>
+      <itunes:order>27</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_027_Mandukya_Upanishad-6f7690f5</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_28</title>
+      <itunes:subtitle>Mandukya_Upanishad_28</itunes:subtitle>
+      <itunes:summary>Class 028</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_028_Mandukya_Upanishad.mp3" length="6974756" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:07</itunes:duration>
+      <itunes:order>28</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_028_Mandukya_Upanishad-af94c76b</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_29</title>
+      <itunes:subtitle>Mandukya_Upanishad_29</itunes:subtitle>
+      <itunes:summary>Class 029</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_029_Mandukya_Upanishad.mp3" length="7158971" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:39</itunes:duration>
+      <itunes:order>29</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_029_Mandukya_Upanishad-0c52c4ba</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_30</title>
+      <itunes:subtitle>Mandukya_Upanishad_30</itunes:subtitle>
+      <itunes:summary>Class 030</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_030_Mandukya_Upanishad.mp3" length="6984787" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:12</itunes:duration>
+      <itunes:order>30</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_030_Mandukya_Upanishad-90e062ca</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_31</title>
+      <itunes:subtitle>Mandukya_Upanishad_31</itunes:subtitle>
+      <itunes:summary>Class 031</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_031_Mandukya_Upanishad.mp3" length="7086560" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:03</itunes:duration>
+      <itunes:order>31</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_031_Mandukya_Upanishad-9eac4939</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_32</title>
+      <itunes:subtitle>Mandukya_Upanishad_32</itunes:subtitle>
+      <itunes:summary>Class 032</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_032_Mandukya_Upanishad.mp3" length="6962531" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:01</itunes:duration>
+      <itunes:order>32</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_032_Mandukya_Upanishad-19837b62</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_33</title>
+      <itunes:subtitle>Mandukya_Upanishad_33</itunes:subtitle>
+      <itunes:summary>Class 033</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_033_Mandukya_Upanishad.mp3" length="7017806" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:28</itunes:duration>
+      <itunes:order>33</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_033_Mandukya_Upanishad-ce029840</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_34</title>
+      <itunes:subtitle>Mandukya_Upanishad_34</itunes:subtitle>
+      <itunes:summary>Class 034</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_034_Mandukya_Upanishad.mp3" length="7314139" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:57</itunes:duration>
+      <itunes:order>34</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_034_Mandukya_Upanishad-7d4728ce</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_35</title>
+      <itunes:subtitle>Mandukya_Upanishad_35</itunes:subtitle>
+      <itunes:summary>Class 035</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_035_Mandukya_Upanishad.mp3" length="7146433" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:33</itunes:duration>
+      <itunes:order>35</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_035_Mandukya_Upanishad-486b0496</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_36</title>
+      <itunes:subtitle>Mandukya_Upanishad_36</itunes:subtitle>
+      <itunes:summary>Class 036</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_036_Mandukya_Upanishad.mp3" length="7202335" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:01</itunes:duration>
+      <itunes:order>36</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_036_Mandukya_Upanishad-371cd13c</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_37</title>
+      <itunes:subtitle>Mandukya_Upanishad_37</itunes:subtitle>
+      <itunes:summary>Class 037</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_037_Mandukya_Upanishad.mp3" length="7082798" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:01</itunes:duration>
+      <itunes:order>37</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_037_Mandukya_Upanishad-de9a2d65</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_38</title>
+      <itunes:subtitle>Mandukya_Upanishad_38</itunes:subtitle>
+      <itunes:summary>Class 038</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_038_Mandukya_Upanishad.mp3" length="7103383" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:11</itunes:duration>
+      <itunes:order>38</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_038_Mandukya_Upanishad-890bf7b0</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_39</title>
+      <itunes:subtitle>Mandukya_Upanishad_39</itunes:subtitle>
+      <itunes:summary>Class 039</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_039_Mandukya_Upanishad.mp3" length="7217799" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:08</itunes:duration>
+      <itunes:order>39</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_039_Mandukya_Upanishad-021e95a6</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_40</title>
+      <itunes:subtitle>Mandukya_Upanishad_40</itunes:subtitle>
+      <itunes:summary>Class 040</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_040_Mandukya_Upanishad.mp3" length="7204007" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:02</itunes:duration>
+      <itunes:order>40</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_040_Mandukya_Upanishad-bf1c2198</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_41</title>
+      <itunes:subtitle>Mandukya_Upanishad_41</itunes:subtitle>
+      <itunes:summary>Class 041</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_041_Mandukya_Upanishad.mp3" length="6975696" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:07</itunes:duration>
+      <itunes:order>41</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_041_Mandukya_Upanishad-2b05b472</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_42</title>
+      <itunes:subtitle>Mandukya_Upanishad_42</itunes:subtitle>
+      <itunes:summary>Class 042</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_042_Mandukya_Upanishad.mp3" length="7023239" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:31</itunes:duration>
+      <itunes:order>42</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_042_Mandukya_Upanishad-7bde781c</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_43</title>
+      <itunes:subtitle>Mandukya_Upanishad_43</itunes:subtitle>
+      <itunes:summary>Class 043</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_043_Mandukya_Upanishad.mp3" length="7264611" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:32</itunes:duration>
+      <itunes:order>43</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_043_Mandukya_Upanishad-c91a8d58</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_44</title>
+      <itunes:subtitle>Mandukya_Upanishad_44</itunes:subtitle>
+      <itunes:summary>Class 044</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_044_Mandukya_Upanishad.mp3" length="7094292" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:07</itunes:duration>
+      <itunes:order>44</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_044_Mandukya_Upanishad-234efe19</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_45</title>
+      <itunes:subtitle>Mandukya_Upanishad_45</itunes:subtitle>
+      <itunes:summary>Class 045</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_045_Mandukya_Upanishad.mp3" length="7218217" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:09</itunes:duration>
+      <itunes:order>45</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_045_Mandukya_Upanishad-472903bc</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_46</title>
+      <itunes:subtitle>Mandukya_Upanishad_46</itunes:subtitle>
+      <itunes:summary>Class 046</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_046_Mandukya_Upanishad.mp3" length="7110697" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:15</itunes:duration>
+      <itunes:order>46</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_046_Mandukya_Upanishad-9d98d696</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_47</title>
+      <itunes:subtitle>Mandukya_Upanishad_47</itunes:subtitle>
+      <itunes:summary>Class 047</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_047_Mandukya_Upanishad.mp3" length="6812692" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:46</itunes:duration>
+      <itunes:order>47</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_047_Mandukya_Upanishad-3bd91463</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_48</title>
+      <itunes:subtitle>Mandukya_Upanishad_48</itunes:subtitle>
+      <itunes:summary>Class 048</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_048_Mandukya_Upanishad.mp3" length="6913629" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:36</itunes:duration>
+      <itunes:order>48</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_048_Mandukya_Upanishad-4442fed4</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_49</title>
+      <itunes:subtitle>Mandukya_Upanishad_49</itunes:subtitle>
+      <itunes:summary>Class 049</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_049_Mandukya_Upanishad.mp3" length="6664944" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:55:32</itunes:duration>
+      <itunes:order>49</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_049_Mandukya_Upanishad-b380b8eb</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_50</title>
+      <itunes:subtitle>Mandukya_Upanishad_50</itunes:subtitle>
+      <itunes:summary>Class 050</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_050_Mandukya_Upanishad.mp3" length="6943200" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:51</itunes:duration>
+      <itunes:order>50</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_050_Mandukya_Upanishad-1ba14c12</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_51</title>
+      <itunes:subtitle>Mandukya_Upanishad_51</itunes:subtitle>
+      <itunes:summary>Class 051</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_051_Mandukya_Upanishad.mp3" length="7012686" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:26</itunes:duration>
+      <itunes:order>51</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_051_Mandukya_Upanishad-9fcc465e</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_52</title>
+      <itunes:subtitle>Mandukya_Upanishad_52</itunes:subtitle>
+      <itunes:summary>Class 052</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_052_Mandukya_Upanishad.mp3" length="6954798" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:57</itunes:duration>
+      <itunes:order>52</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_052_Mandukya_Upanishad-291f0134</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_53</title>
+      <itunes:subtitle>Mandukya_Upanishad_53</itunes:subtitle>
+      <itunes:summary>Class 053</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_053_Mandukya_Upanishad.mp3" length="6924914" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:42</itunes:duration>
+      <itunes:order>53</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_053_Mandukya_Upanishad-8c5c256a</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_54</title>
+      <itunes:subtitle>Mandukya_Upanishad_54</itunes:subtitle>
+      <itunes:summary>Class 054</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_054_Mandukya_Upanishad.mp3" length="6930766" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:45</itunes:duration>
+      <itunes:order>54</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_054_Mandukya_Upanishad-27e0b591</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_55</title>
+      <itunes:subtitle>Mandukya_Upanishad_55</itunes:subtitle>
+      <itunes:summary>Class 055</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_055_Mandukya_Upanishad.mp3" length="6948842" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:54</itunes:duration>
+      <itunes:order>55</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_055_Mandukya_Upanishad-cd9faba1</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_56</title>
+      <itunes:subtitle>Mandukya_Upanishad_56</itunes:subtitle>
+      <itunes:summary>Class 056</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_056_Mandukya_Upanishad.mp3" length="7262625" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:31</itunes:duration>
+      <itunes:order>56</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_056_Mandukya_Upanishad-96de73c3</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_57</title>
+      <itunes:subtitle>Mandukya_Upanishad_57</itunes:subtitle>
+      <itunes:summary>Class 057</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_057_Mandukya_Upanishad.mp3" length="6838919" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:59</itunes:duration>
+      <itunes:order>57</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_057_Mandukya_Upanishad-654e9540</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_58</title>
+      <itunes:subtitle>Mandukya_Upanishad_58</itunes:subtitle>
+      <itunes:summary>Class 058</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_058_Mandukya_Upanishad.mp3" length="7039331" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:39</itunes:duration>
+      <itunes:order>58</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_058_Mandukya_Upanishad-11c7a90f</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_59</title>
+      <itunes:subtitle>Mandukya_Upanishad_59</itunes:subtitle>
+      <itunes:summary>Class 059</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_059_Mandukya_Upanishad.mp3" length="7154792" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:37</itunes:duration>
+      <itunes:order>59</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_059_Mandukya_Upanishad-9962437b</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_60</title>
+      <itunes:subtitle>Mandukya_Upanishad_60</itunes:subtitle>
+      <itunes:summary>Class 060</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_060_Mandukya_Upanishad.mp3" length="7055840" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:47</itunes:duration>
+      <itunes:order>60</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_060_Mandukya_Upanishad-ae4e2a94</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_61</title>
+      <itunes:subtitle>Mandukya_Upanishad_61</itunes:subtitle>
+      <itunes:summary>Class 061</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_061_Mandukya_Upanishad.mp3" length="6923347" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:41</itunes:duration>
+      <itunes:order>61</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_061_Mandukya_Upanishad-c45265f0</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_62</title>
+      <itunes:subtitle>Mandukya_Upanishad_62</itunes:subtitle>
+      <itunes:summary>Class 062</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_062_Mandukya_Upanishad.mp3" length="7021254" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:30</itunes:duration>
+      <itunes:order>62</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_062_Mandukya_Upanishad-12dcba0b</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_63</title>
+      <itunes:subtitle>Mandukya_Upanishad_63</itunes:subtitle>
+      <itunes:summary>Class 063</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_063_Mandukya_Upanishad.mp3" length="6963576" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:01</itunes:duration>
+      <itunes:order>63</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_063_Mandukya_Upanishad-2218dc3d</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_64</title>
+      <itunes:subtitle>Mandukya_Upanishad_64</itunes:subtitle>
+      <itunes:summary>Class 064</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_064_Mandukya_Upanishad.mp3" length="6987608" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:13</itunes:duration>
+      <itunes:order>64</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_064_Mandukya_Upanishad-952eaefd</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_65</title>
+      <itunes:subtitle>Mandukya_Upanishad_65</itunes:subtitle>
+      <itunes:summary>Class 065</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_065_Mandukya_Upanishad.mp3" length="7080291" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:00</itunes:duration>
+      <itunes:order>65</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_065_Mandukya_Upanishad-f8ab5dac</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_66</title>
+      <itunes:subtitle>Mandukya_Upanishad_66</itunes:subtitle>
+      <itunes:summary>Class 066</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_066_Mandukya_Upanishad.mp3" length="7121146" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:20</itunes:duration>
+      <itunes:order>66</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_066_Mandukya_Upanishad-a582b067</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_67</title>
+      <itunes:subtitle>Mandukya_Upanishad_67</itunes:subtitle>
+      <itunes:summary>Class 067</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_067_Mandukya_Upanishad.mp3" length="7288016" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:44</itunes:duration>
+      <itunes:order>67</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_067_Mandukya_Upanishad-862dc5e8</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_68</title>
+      <itunes:subtitle>Mandukya_Upanishad_68</itunes:subtitle>
+      <itunes:summary>Class 068</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_068_Mandukya_Upanishad.mp3" length="7083530" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:01</itunes:duration>
+      <itunes:order>68</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_068_Mandukya_Upanishad-9454b7e1</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_69</title>
+      <itunes:subtitle>Mandukya_Upanishad_69</itunes:subtitle>
+      <itunes:summary>Class 069</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_069_Mandukya_Upanishad.mp3" length="7079455" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:59</itunes:duration>
+      <itunes:order>69</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_069_Mandukya_Upanishad-50d1cf7a</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_70</title>
+      <itunes:subtitle>Mandukya_Upanishad_70</itunes:subtitle>
+      <itunes:summary>Class 070</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_070_Mandukya_Upanishad.mp3" length="7139014" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:29</itunes:duration>
+      <itunes:order>70</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_070_Mandukya_Upanishad-d5a55ff3</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_71</title>
+      <itunes:subtitle>Mandukya_Upanishad_71</itunes:subtitle>
+      <itunes:summary>Class 071</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_071_Mandukya_Upanishad.mp3" length="6951664" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:55</itunes:duration>
+      <itunes:order>71</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_071_Mandukya_Upanishad-4b010f2f</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_72</title>
+      <itunes:subtitle>Mandukya_Upanishad_72</itunes:subtitle>
+      <itunes:summary>Class 072</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_072_Mandukya_Upanishad.mp3" length="7075171" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:57</itunes:duration>
+      <itunes:order>72</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_072_Mandukya_Upanishad-0d03369d</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_73</title>
+      <itunes:subtitle>Mandukya_Upanishad_73</itunes:subtitle>
+      <itunes:summary>Class 073</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_073_Mandukya_Upanishad.mp3" length="7016029" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:28</itunes:duration>
+      <itunes:order>73</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_073_Mandukya_Upanishad-c61dea98</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_74</title>
+      <itunes:subtitle>Mandukya_Upanishad_74</itunes:subtitle>
+      <itunes:summary>Class 074</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_074_Mandukya_Upanishad.mp3" length="7116758" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:18</itunes:duration>
+      <itunes:order>74</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_074_Mandukya_Upanishad-dcfcc8e9</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_75</title>
+      <itunes:subtitle>Mandukya_Upanishad_75</itunes:subtitle>
+      <itunes:summary>Class 075</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_075_Mandukya_Upanishad.mp3" length="7084888" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:02</itunes:duration>
+      <itunes:order>75</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_075_Mandukya_Upanishad-05d16056</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_76</title>
+      <itunes:subtitle>Mandukya_Upanishad_76</itunes:subtitle>
+      <itunes:summary>Class 076</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_076_Mandukya_Upanishad.mp3" length="6847905" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:03</itunes:duration>
+      <itunes:order>76</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_076_Mandukya_Upanishad-562c3469</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_77</title>
+      <itunes:subtitle>Mandukya_Upanishad_77</itunes:subtitle>
+      <itunes:summary>Class 077</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_077_Mandukya_Upanishad.mp3" length="7060229" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:50</itunes:duration>
+      <itunes:order>77</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_077_Mandukya_Upanishad-4f5d3e85</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_78</title>
+      <itunes:subtitle>Mandukya_Upanishad_78</itunes:subtitle>
+      <itunes:summary>Class 078</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_078_Mandukya_Upanishad.mp3" length="7194707" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:57</itunes:duration>
+      <itunes:order>78</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_078_Mandukya_Upanishad-648892b5</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_79</title>
+      <itunes:subtitle>Mandukya_Upanishad_79</itunes:subtitle>
+      <itunes:summary>Class 079</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_079_Mandukya_Upanishad.mp3" length="7266282" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:33</itunes:duration>
+      <itunes:order>79</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_079_Mandukya_Upanishad-02e11fae</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_80</title>
+      <itunes:subtitle>Mandukya_Upanishad_80</itunes:subtitle>
+      <itunes:summary>Class 080</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_080_Mandukya_Upanishad.mp3" length="7231383" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>1:00:15</itunes:duration>
+      <itunes:order>80</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_080_Mandukya_Upanishad-735f6734</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_81</title>
+      <itunes:subtitle>Mandukya_Upanishad_81</itunes:subtitle>
+      <itunes:summary>Class 081</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_081_Mandukya_Upanishad.mp3" length="7160121" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:40</itunes:duration>
+      <itunes:order>81</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_081_Mandukya_Upanishad-0c18dba8</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_82</title>
+      <itunes:subtitle>Mandukya_Upanishad_82</itunes:subtitle>
+      <itunes:summary>Class 082</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_082_Mandukya_Upanishad.mp3" length="7058139" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:49</itunes:duration>
+      <itunes:order>82</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_082_Mandukya_Upanishad-21bc4356</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_83</title>
+      <itunes:subtitle>Mandukya_Upanishad_83</itunes:subtitle>
+      <itunes:summary>Class 083</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_083_Mandukya_Upanishad.mp3" length="7081231" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:00</itunes:duration>
+      <itunes:order>83</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_083_Mandukya_Upanishad-91469016</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_84</title>
+      <itunes:subtitle>Mandukya_Upanishad_84</itunes:subtitle>
+      <itunes:summary>Class 084</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_084_Mandukya_Upanishad.mp3" length="6974860" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:07</itunes:duration>
+      <itunes:order>84</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_084_Mandukya_Upanishad-0de9801f</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_85</title>
+      <itunes:subtitle>Mandukya_Upanishad_85</itunes:subtitle>
+      <itunes:summary>Class 085</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_085_Mandukya_Upanishad.mp3" length="7199200" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:59</itunes:duration>
+      <itunes:order>85</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_085_Mandukya_Upanishad-570dc16a</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_86</title>
+      <itunes:subtitle>Mandukya_Upanishad_86</itunes:subtitle>
+      <itunes:summary>Class 086</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_086_Mandukya_Upanishad.mp3" length="7194916" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:57</itunes:duration>
+      <itunes:order>86</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_086_Mandukya_Upanishad-1d53f0ff</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_87</title>
+      <itunes:subtitle>Mandukya_Upanishad_87</itunes:subtitle>
+      <itunes:summary>Class 087</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_087_Mandukya_Upanishad.mp3" length="6905793" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:32</itunes:duration>
+      <itunes:order>87</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_087_Mandukya_Upanishad-499ee7b1</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_88</title>
+      <itunes:subtitle>Mandukya_Upanishad_88</itunes:subtitle>
+      <itunes:summary>Class 088</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_088_Mandukya_Upanishad.mp3" length="6933065" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:46</itunes:duration>
+      <itunes:order>88</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_088_Mandukya_Upanishad-f9a307a0</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_89</title>
+      <itunes:subtitle>Mandukya_Upanishad_89</itunes:subtitle>
+      <itunes:summary>Class 089</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_089_Mandukya_Upanishad.mp3" length="6966710" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:03</itunes:duration>
+      <itunes:order>89</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_089_Mandukya_Upanishad-0e8b90ff</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_90</title>
+      <itunes:subtitle>Mandukya_Upanishad_90</itunes:subtitle>
+      <itunes:summary>Class 090</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_090_Mandukya_Upanishad.mp3" length="7056258" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:48</itunes:duration>
+      <itunes:order>90</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_090_Mandukya_Upanishad-22561e9c</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_91</title>
+      <itunes:subtitle>Mandukya_Upanishad_91</itunes:subtitle>
+      <itunes:summary>Class 091</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_091_Mandukya_Upanishad.mp3" length="6842785" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:01</itunes:duration>
+      <itunes:order>91</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_091_Mandukya_Upanishad-fbc3e451</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_92</title>
+      <itunes:subtitle>Mandukya_Upanishad_92</itunes:subtitle>
+      <itunes:summary>Class 092</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_092_Mandukya_Upanishad.mp3" length="6892000" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:26</itunes:duration>
+      <itunes:order>92</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_092_Mandukya_Upanishad-548f8d79</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_93</title>
+      <itunes:subtitle>Mandukya_Upanishad_93</itunes:subtitle>
+      <itunes:summary>Class 093</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_093_Mandukya_Upanishad.mp3" length="6972875" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:58:06</itunes:duration>
+      <itunes:order>93</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_093_Mandukya_Upanishad-e0b00efb</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_94</title>
+      <itunes:subtitle>Mandukya_Upanishad_94</itunes:subtitle>
+      <itunes:summary>Class 094</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_094_Mandukya_Upanishad.mp3" length="6879879" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:19</itunes:duration>
+      <itunes:order>94</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_094_Mandukya_Upanishad-063149fd</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_95</title>
+      <itunes:subtitle>Mandukya_Upanishad_95</itunes:subtitle>
+      <itunes:summary>Class 095</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_095_Mandukya_Upanishad.mp3" length="6891269" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:25</itunes:duration>
+      <itunes:order>95</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_095_Mandukya_Upanishad-cc159263</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_96</title>
+      <itunes:subtitle>Mandukya_Upanishad_96</itunes:subtitle>
+      <itunes:summary>Class 096</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_096_Mandukya_Upanishad.mp3" length="6743729" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:11</itunes:duration>
+      <itunes:order>96</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_096_Mandukya_Upanishad-b43c6a4c</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_97</title>
+      <itunes:subtitle>Mandukya_Upanishad_97</itunes:subtitle>
+      <itunes:summary>Class 097</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_097_Mandukya_Upanishad.mp3" length="6716353" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:55:58</itunes:duration>
+      <itunes:order>97</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_097_Mandukya_Upanishad-d5e30785</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_98</title>
+      <itunes:subtitle>Mandukya_Upanishad_98</itunes:subtitle>
+      <itunes:summary>Class 098</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_098_Mandukya_Upanishad.mp3" length="6743833" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:11</itunes:duration>
+      <itunes:order>98</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_098_Mandukya_Upanishad-fe3a542d</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_99</title>
+      <itunes:subtitle>Mandukya_Upanishad_99</itunes:subtitle>
+      <itunes:summary>Class 099</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_099_Mandukya_Upanishad.mp3" length="6786570" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:33</itunes:duration>
+      <itunes:order>99</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_099_Mandukya_Upanishad-95912f0c</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_100</title>
+      <itunes:subtitle>Mandukya_Upanishad_100</itunes:subtitle>
+      <itunes:summary>Class 100</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_100_Mandukya_Upanishad.mp3" length="6830667" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:55</itunes:duration>
+      <itunes:order>100</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_100_Mandukya_Upanishad-9e239852</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_101</title>
+      <itunes:subtitle>Mandukya_Upanishad_101</itunes:subtitle>
+      <itunes:summary>Class 101</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_101_Mandukya_Upanishad.mp3" length="6692635" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:55:46</itunes:duration>
+      <itunes:order>101</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_101_Mandukya_Upanishad-5c09dbec</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_102</title>
+      <itunes:subtitle>Mandukya_Upanishad_102</itunes:subtitle>
+      <itunes:summary>Class 102</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_102_Mandukya_Upanishad.mp3" length="7124074" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:59:22</itunes:duration>
+      <itunes:order>102</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_102_Mandukya_Upanishad-6adbd769</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_103</title>
+      <itunes:subtitle>Mandukya_Upanishad_103</itunes:subtitle>
+      <itunes:summary>Class 103</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_103_Mandukya_Upanishad.mp3" length="6879777" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:19</itunes:duration>
+      <itunes:order>103</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_103_Mandukya_Upanishad-b0b16f98</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_104</title>
+      <itunes:subtitle>Mandukya_Upanishad_104</itunes:subtitle>
+      <itunes:summary>Class 104</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_104_Mandukya_Upanishad.mp3" length="6889808" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:24</itunes:duration>
+      <itunes:order>104</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_104_Mandukya_Upanishad-56c57261</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_105</title>
+      <itunes:subtitle>Mandukya_Upanishad_105</itunes:subtitle>
+      <itunes:summary>Class 105</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_105_Mandukya_Upanishad.mp3" length="6768809" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:24</itunes:duration>
+      <itunes:order>105</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_105_Mandukya_Upanishad-c7ad8c5c</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_106</title>
+      <itunes:subtitle>Mandukya_Upanishad_106</itunes:subtitle>
+      <itunes:summary>Class 106</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_106_Mandukya_Upanishad.mp3" length="6739133" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:09</itunes:duration>
+      <itunes:order>106</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_106_Mandukya_Upanishad-f9f698db</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_107</title>
+      <itunes:subtitle>Mandukya_Upanishad_107</itunes:subtitle>
+      <itunes:summary>Class 107</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_107_Mandukya_Upanishad.mp3" length="6878314" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:19</itunes:duration>
+      <itunes:order>107</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_107_Mandukya_Upanishad-bf2bc381</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_108</title>
+      <itunes:subtitle>Mandukya_Upanishad_108</itunes:subtitle>
+      <itunes:summary>Class 108</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_108_Mandukya_Upanishad.mp3" length="6746866" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:56:13</itunes:duration>
+      <itunes:order>108</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_108_Mandukya_Upanishad-779a1c0d</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_109</title>
+      <itunes:subtitle>Mandukya_Upanishad_109</itunes:subtitle>
+      <itunes:summary>Class 109</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_109_Mandukya_Upanishad.mp3" length="6571741" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:54:45</itunes:duration>
+      <itunes:order>109</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_109_Mandukya_Upanishad-f74e053b</guid>
+    </item>
+    <item>
+      <title>Mandukya_Upanishad_110</title>
+      <itunes:subtitle>Mandukya_Upanishad_110</itunes:subtitle>
+      <itunes:summary>Class 110</itunes:summary>
+      <enclosure url="https://archive.org/download/MandukyaUpanishad/MA_110_Mandukya_Upanishad.mp3" length="6901406" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:43 -0000</pubDate>
+      <itunes:duration>0:57:30</itunes:duration>
+      <itunes:order>110</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/MandukyaUpanishad/MA_110_Mandukya_Upanishad-b9a5852d</guid>
+    </item>
+    <description>This is a small Upanishad. With the help of the syllable Om, this Upanishad explains the nature of the individual being and God and their underlying oneness.  Gaudapadacharya, the guru of Shankaracharya's guru Govinda Bhagavadpada, has written a commentary, explaining the 12 mantras, in 225 verses.  His explanatory verses are called Karika.
+            
+            These 110 talks explain, in detail, the Upanishad and the Karika.
+            
+            
+            Accompanying text for Mandukya Upanishad is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

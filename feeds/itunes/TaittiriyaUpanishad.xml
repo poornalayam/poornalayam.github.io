@@ -1,551 +1,615 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Taittiriya Upanishad</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This Upanishad contains 3 chapters.  The first chapter deals with various forms of Meditation and some values.  The second chapter reveals the true nature of God, World and the individual and their underlying oneness.  The value of dispassion is stressed here.  The third chapter consists of meditation, some values and finally the conclusion.
+  <channel>
+    <title>Taittiriya Upanishad</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This Upanishad contains 3 chapters.  The first chapter deals with various forms of Meditation and some values.  The second chapter reveals the true nature of God, World and the individual and their underlying oneness.  The value of dispassion is stressed here.  The third chapter consists of meditation, some values and finally the conclusion.
             
             Accompanying text for Taittiriya Upanishad is available for download.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Taittiriya_Upanishad_01</title>
-            <itunes:subtitle>Taittiriya_Upanishad_01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_01_Taittiriya_Upanishad.mp3" length="6884794" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:22</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_02</title>
-            <itunes:subtitle>Taittiriya_Upanishad_02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_02_Taittiriya_Upanishad.mp3" length="6927426" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:43</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_03</title>
-            <itunes:subtitle>Taittiriya_Upanishad_03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_03_Taittiriya_Upanishad.mp3" length="7176843" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:48</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_04</title>
-            <itunes:subtitle>Taittiriya_Upanishad_04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_04_Taittiriya_Upanishad.mp3" length="7061382" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:50</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_05</title>
-            <itunes:subtitle>Taittiriya_Upanishad_05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_05_Taittiriya_Upanishad.mp3" length="7296797" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>1:00:48</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_06</title>
-            <itunes:subtitle>Taittiriya_Upanishad_06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_06_Taittiriya_Upanishad.mp3" length="7286871" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>1:00:43</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_07</title>
-            <itunes:subtitle>Taittiriya_Upanishad_07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_07_Taittiriya_Upanishad.mp3" length="7028990" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:34</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_08</title>
-            <itunes:subtitle>Taittiriya_Upanishad_08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_08_Taittiriya_Upanishad.mp3" length="6976247" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:08</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_09</title>
-            <itunes:subtitle>Taittiriya_Upanishad_09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_09_Taittiriya_Upanishad.mp3" length="7123762" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:21</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_10</title>
-            <itunes:subtitle>Taittiriya_Upanishad_10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_10_Taittiriya_Upanishad.mp3" length="7041320" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:40</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_11</title>
-            <itunes:subtitle>Taittiriya_Upanishad_11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_11_Taittiriya_Upanishad.mp3" length="7132644" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:26</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_12</title>
-            <itunes:subtitle>Taittiriya_Upanishad_12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_12_Taittiriya_Upanishad.mp3" length="6924605" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:42</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_13</title>
-            <itunes:subtitle>Taittiriya_Upanishad_13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_13_Taittiriya_Upanishad.mp3" length="7094192" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:07</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_14</title>
-            <itunes:subtitle>Taittiriya_Upanishad_14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_14_Taittiriya_Upanishad.mp3" length="7111642" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:15</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_15</title>
-            <itunes:subtitle>Taittiriya_Upanishad_15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_15_Taittiriya_Upanishad.mp3" length="6465372" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:53:52</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_16</title>
-            <itunes:subtitle>Taittiriya_Upanishad_16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_16_Taittiriya_Upanishad.mp3" length="7100252" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:10</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_17</title>
-            <itunes:subtitle>Taittiriya_Upanishad_17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_17_Taittiriya_Upanishad.mp3" length="7121464" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:20</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_18</title>
-            <itunes:subtitle>Taittiriya_Upanishad_18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_18_Taittiriya_Upanishad.mp3" length="7025124" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:32</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_19</title>
-            <itunes:subtitle>Taittiriya_Upanishad_19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_19_Taittiriya_Upanishad.mp3" length="6984060" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:12</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_20</title>
-            <itunes:subtitle>Taittiriya_Upanishad_20</itunes:subtitle>
-            <itunes:summary>Class 020</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_20_Taittiriya_Upanishad.mp3" length="7092415" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:06</itunes:duration>
-            <itunes:order>20</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_21</title>
-            <itunes:subtitle>Taittiriya_Upanishad_21</itunes:subtitle>
-            <itunes:summary>Class 021</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_21_Taittiriya_Upanishad.mp3" length="7131599" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:25</itunes:duration>
-            <itunes:order>21</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_22</title>
-            <itunes:subtitle>Taittiriya_Upanishad_22</itunes:subtitle>
-            <itunes:summary>Class 022</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_22_Taittiriya_Upanishad.mp3" length="6984895" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:12</itunes:duration>
-            <itunes:order>22</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_23</title>
-            <itunes:subtitle>Taittiriya_Upanishad_23</itunes:subtitle>
-            <itunes:summary>Class 023</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_23_Taittiriya_Upanishad.mp3" length="6982910" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:11</itunes:duration>
-            <itunes:order>23</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_24</title>
-            <itunes:subtitle>Taittiriya_Upanishad_24</itunes:subtitle>
-            <itunes:summary>Class 024</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_24_Taittiriya_Upanishad.mp3" length="6862851" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:11</itunes:duration>
-            <itunes:order>24</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_25</title>
-            <itunes:subtitle>Taittiriya_Upanishad_25</itunes:subtitle>
-            <itunes:summary>Class 025</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_25_Taittiriya_Upanishad.mp3" length="7113104" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:16</itunes:duration>
-            <itunes:order>25</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_26</title>
-            <itunes:subtitle>Taittiriya_Upanishad_26</itunes:subtitle>
-            <itunes:summary>Class 026</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_26_Taittiriya_Upanishad.mp3" length="6972984" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:06</itunes:duration>
-            <itunes:order>26</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_27</title>
-            <itunes:subtitle>Taittiriya_Upanishad_27</itunes:subtitle>
-            <itunes:summary>Class 027</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_27_Taittiriya_Upanishad.mp3" length="7075384" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:57</itunes:duration>
-            <itunes:order>27</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_28</title>
-            <itunes:subtitle>Taittiriya_Upanishad_28</itunes:subtitle>
-            <itunes:summary>Class 028</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_28_Taittiriya_Upanishad.mp3" length="6959191" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:59</itunes:duration>
-            <itunes:order>28</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_29</title>
-            <itunes:subtitle>Taittiriya_Upanishad_29</itunes:subtitle>
-            <itunes:summary>Class 029</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_29_Taittiriya_Upanishad.mp3" length="7118538" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:19</itunes:duration>
-            <itunes:order>29</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_30</title>
-            <itunes:subtitle>Taittiriya_Upanishad_30</itunes:subtitle>
-            <itunes:summary>Class 030</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_30_Taittiriya_Upanishad.mp3" length="7165558" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:42</itunes:duration>
-            <itunes:order>30</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_31</title>
-            <itunes:subtitle>Taittiriya_Upanishad_31</itunes:subtitle>
-            <itunes:summary>Class 031</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_31_Taittiriya_Upanishad.mp3" length="6971939" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:05</itunes:duration>
-            <itunes:order>31</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_32</title>
-            <itunes:subtitle>Taittiriya_Upanishad_32</itunes:subtitle>
-            <itunes:summary>Class 032</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_32_Taittiriya_Upanishad.mp3" length="7091371" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:05</itunes:duration>
-            <itunes:order>32</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_33</title>
-            <itunes:subtitle>Taittiriya_Upanishad_33</itunes:subtitle>
-            <itunes:summary>Class 033</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_33_Taittiriya_Upanishad.mp3" length="7132957" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:26</itunes:duration>
-            <itunes:order>33</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_34</title>
-            <itunes:subtitle>Taittiriya_Upanishad_34</itunes:subtitle>
-            <itunes:summary>Class 034</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_34_Taittiriya_Upanishad.mp3" length="6917709" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:38</itunes:duration>
-            <itunes:order>34</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_35</title>
-            <itunes:subtitle>Taittiriya_Upanishad_35</itunes:subtitle>
-            <itunes:summary>Class 035</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_35_Taittiriya_Upanishad.mp3" length="7145601" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:32</itunes:duration>
-            <itunes:order>35</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_36</title>
-            <itunes:subtitle>Taittiriya_Upanishad_36</itunes:subtitle>
-            <itunes:summary>Class 036</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_36_Taittiriya_Upanishad.mp3" length="6963266" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:01</itunes:duration>
-            <itunes:order>36</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_37</title>
-            <itunes:subtitle>Taittiriya_Upanishad_37</itunes:subtitle>
-            <itunes:summary>Class 037</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_37_Taittiriya_Upanishad.mp3" length="7094087" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:07</itunes:duration>
-            <itunes:order>37</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_38</title>
-            <itunes:subtitle>Taittiriya_Upanishad_38</itunes:subtitle>
-            <itunes:summary>Class 038</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_38_Taittiriya_Upanishad.mp3" length="7021258" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:30</itunes:duration>
-            <itunes:order>38</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_39</title>
-            <itunes:subtitle>Taittiriya_Upanishad_39</itunes:subtitle>
-            <itunes:summary>Class 039</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_39_Taittiriya_Upanishad.mp3" length="6903498" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:31</itunes:duration>
-            <itunes:order>39</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_40</title>
-            <itunes:subtitle>Taittiriya_Upanishad_40</itunes:subtitle>
-            <itunes:summary>Class 040</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_40_Taittiriya_Upanishad.mp3" length="6861806" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:10</itunes:duration>
-            <itunes:order>40</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_41</title>
-            <itunes:subtitle>Taittiriya_Upanishad_41</itunes:subtitle>
-            <itunes:summary>Class 041</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_41_Taittiriya_Upanishad.mp3" length="6955534" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:57</itunes:duration>
-            <itunes:order>41</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_42</title>
-            <itunes:subtitle>Taittiriya_Upanishad_42</itunes:subtitle>
-            <itunes:summary>Class 042</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_42_Taittiriya_Upanishad.mp3" length="7139540" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:29</itunes:duration>
-            <itunes:order>42</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_43</title>
-            <itunes:subtitle>Taittiriya_Upanishad_43</itunes:subtitle>
-            <itunes:summary>Class 043</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_43_Taittiriya_Upanishad.mp3" length="7062218" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:51</itunes:duration>
-            <itunes:order>43</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_44</title>
-            <itunes:subtitle>Taittiriya_Upanishad_44</itunes:subtitle>
-            <itunes:summary>Class 044</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_44_Taittiriya_Upanishad.mp3" length="6922933" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:41</itunes:duration>
-            <itunes:order>44</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_45</title>
-            <itunes:subtitle>Taittiriya_Upanishad_45</itunes:subtitle>
-            <itunes:summary>Class 045</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_45_Taittiriya_Upanishad.mp3" length="6780409" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:56:30</itunes:duration>
-            <itunes:order>45</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_46</title>
-            <itunes:subtitle>Taittiriya_Upanishad_46</itunes:subtitle>
-            <itunes:summary>Class 046</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_46_Taittiriya_Upanishad.mp3" length="6989597" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:14</itunes:duration>
-            <itunes:order>46</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_47</title>
-            <itunes:subtitle>Taittiriya_Upanishad_47</itunes:subtitle>
-            <itunes:summary>Class 047</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_47_Taittiriya_Upanishad.mp3" length="6953340" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:57:56</itunes:duration>
-            <itunes:order>47</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_48</title>
-            <itunes:subtitle>Taittiriya_Upanishad_48</itunes:subtitle>
-            <itunes:summary>Class 048</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_48_Taittiriya_Upanishad.mp3" length="7188337" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:54</itunes:duration>
-            <itunes:order>48</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_49</title>
-            <itunes:subtitle>Taittiriya_Upanishad_49</itunes:subtitle>
-            <itunes:summary>Class 049</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_49_Taittiriya_Upanishad.mp3" length="7032647" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:36</itunes:duration>
-            <itunes:order>49</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_50</title>
-            <itunes:subtitle>Taittiriya_Upanishad_50</itunes:subtitle>
-            <itunes:summary>Class 050</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_50_Taittiriya_Upanishad.mp3" length="7018541" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:29</itunes:duration>
-            <itunes:order>50</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_51</title>
-            <itunes:subtitle>Taittiriya_Upanishad_51</itunes:subtitle>
-            <itunes:summary>Class 051</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_51_Taittiriya_Upanishad.mp3" length="7157931" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:38</itunes:duration>
-            <itunes:order>51</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_52</title>
-            <itunes:subtitle>Taittiriya_Upanishad_52</itunes:subtitle>
-            <itunes:summary>Class 052</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_52_Taittiriya_Upanishad.mp3" length="6983746" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:11</itunes:duration>
-            <itunes:order>52</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_53</title>
-            <itunes:subtitle>Taittiriya_Upanishad_53</itunes:subtitle>
-            <itunes:summary>Class 053</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_53_Taittiriya_Upanishad.mp3" length="7134734" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:27</itunes:duration>
-            <itunes:order>53</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_54</title>
-            <itunes:subtitle>Taittiriya_Upanishad_54</itunes:subtitle>
-            <itunes:summary>Class 054</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_54_Taittiriya_Upanishad.mp3" length="7128882" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:24</itunes:duration>
-            <itunes:order>54</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_55</title>
-            <itunes:subtitle>Taittiriya_Upanishad_55</itunes:subtitle>
-            <itunes:summary>Class 055</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_55_Taittiriya_Upanishad.mp3" length="6985627" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:12</itunes:duration>
-            <itunes:order>55</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_56</title>
-            <itunes:subtitle>Taittiriya_Upanishad_56</itunes:subtitle>
-            <itunes:summary>Class 056</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_56_Taittiriya_Upanishad.mp3" length="7040380" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:40</itunes:duration>
-            <itunes:order>56</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_57</title>
-            <itunes:subtitle>Taittiriya_Upanishad_57</itunes:subtitle>
-            <itunes:summary>Class 057</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_57_Taittiriya_Upanishad.mp3" length="7045813" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:58:42</itunes:duration>
-            <itunes:order>57</itunes:order>
-        </item>
-        <item>
-            <title>Taittiriya_Upanishad_58</title>
-            <itunes:subtitle>Taittiriya_Upanishad_58</itunes:subtitle>
-            <itunes:summary>Class 058</itunes:summary>
-            <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_58_Taittiriya_Upanishad.mp3" length="7119269" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
-            <itunes:duration>0:59:19</itunes:duration>
-            <itunes:order>58</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Taittiriya_Upanishad_01</title>
+      <itunes:subtitle>Taittiriya_Upanishad_01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_01_Taittiriya_Upanishad.mp3" length="6884794" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:22</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_01_Taittiriya_Upanishad-166e503a</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_02</title>
+      <itunes:subtitle>Taittiriya_Upanishad_02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_02_Taittiriya_Upanishad.mp3" length="6927426" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:43</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_02_Taittiriya_Upanishad-8a768a0c</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_03</title>
+      <itunes:subtitle>Taittiriya_Upanishad_03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_03_Taittiriya_Upanishad.mp3" length="7176843" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:48</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_03_Taittiriya_Upanishad-71891916</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_04</title>
+      <itunes:subtitle>Taittiriya_Upanishad_04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_04_Taittiriya_Upanishad.mp3" length="7061382" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:50</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_04_Taittiriya_Upanishad-10993879</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_05</title>
+      <itunes:subtitle>Taittiriya_Upanishad_05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_05_Taittiriya_Upanishad.mp3" length="7296797" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>1:00:48</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_05_Taittiriya_Upanishad-0c3ceceb</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_06</title>
+      <itunes:subtitle>Taittiriya_Upanishad_06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_06_Taittiriya_Upanishad.mp3" length="7286871" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>1:00:43</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_06_Taittiriya_Upanishad-201cc5cd</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_07</title>
+      <itunes:subtitle>Taittiriya_Upanishad_07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_07_Taittiriya_Upanishad.mp3" length="7028990" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:34</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_07_Taittiriya_Upanishad-5a66d5a8</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_08</title>
+      <itunes:subtitle>Taittiriya_Upanishad_08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_08_Taittiriya_Upanishad.mp3" length="6976247" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:08</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_08_Taittiriya_Upanishad-ebddc8e9</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_09</title>
+      <itunes:subtitle>Taittiriya_Upanishad_09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_09_Taittiriya_Upanishad.mp3" length="7123762" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:21</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_09_Taittiriya_Upanishad-4e6997cb</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_10</title>
+      <itunes:subtitle>Taittiriya_Upanishad_10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_10_Taittiriya_Upanishad.mp3" length="7041320" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:40</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_10_Taittiriya_Upanishad-489a42f2</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_11</title>
+      <itunes:subtitle>Taittiriya_Upanishad_11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_11_Taittiriya_Upanishad.mp3" length="7132644" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:26</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_11_Taittiriya_Upanishad-1055c4f3</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_12</title>
+      <itunes:subtitle>Taittiriya_Upanishad_12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_12_Taittiriya_Upanishad.mp3" length="6924605" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:42</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_12_Taittiriya_Upanishad-a600560f</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_13</title>
+      <itunes:subtitle>Taittiriya_Upanishad_13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_13_Taittiriya_Upanishad.mp3" length="7094192" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:07</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_13_Taittiriya_Upanishad-8d6e6117</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_14</title>
+      <itunes:subtitle>Taittiriya_Upanishad_14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_14_Taittiriya_Upanishad.mp3" length="7111642" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:15</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_14_Taittiriya_Upanishad-325de1af</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_15</title>
+      <itunes:subtitle>Taittiriya_Upanishad_15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_15_Taittiriya_Upanishad.mp3" length="6465372" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:53:52</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_15_Taittiriya_Upanishad-76d902aa</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_16</title>
+      <itunes:subtitle>Taittiriya_Upanishad_16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_16_Taittiriya_Upanishad.mp3" length="7100252" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:10</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_16_Taittiriya_Upanishad-48fbbd2f</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_17</title>
+      <itunes:subtitle>Taittiriya_Upanishad_17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_17_Taittiriya_Upanishad.mp3" length="7121464" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:20</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_17_Taittiriya_Upanishad-4f2eacf9</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_18</title>
+      <itunes:subtitle>Taittiriya_Upanishad_18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_18_Taittiriya_Upanishad.mp3" length="7025124" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:32</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_18_Taittiriya_Upanishad-706a9f35</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_19</title>
+      <itunes:subtitle>Taittiriya_Upanishad_19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_19_Taittiriya_Upanishad.mp3" length="6984060" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:12</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_19_Taittiriya_Upanishad-a6f1c8c1</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_20</title>
+      <itunes:subtitle>Taittiriya_Upanishad_20</itunes:subtitle>
+      <itunes:summary>Class 020</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_20_Taittiriya_Upanishad.mp3" length="7092415" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:06</itunes:duration>
+      <itunes:order>20</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_20_Taittiriya_Upanishad-4ce1fba0</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_21</title>
+      <itunes:subtitle>Taittiriya_Upanishad_21</itunes:subtitle>
+      <itunes:summary>Class 021</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_21_Taittiriya_Upanishad.mp3" length="7131599" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:25</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_21_Taittiriya_Upanishad-30299c4e</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_22</title>
+      <itunes:subtitle>Taittiriya_Upanishad_22</itunes:subtitle>
+      <itunes:summary>Class 022</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_22_Taittiriya_Upanishad.mp3" length="6984895" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:12</itunes:duration>
+      <itunes:order>22</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_22_Taittiriya_Upanishad-a67965b2</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_23</title>
+      <itunes:subtitle>Taittiriya_Upanishad_23</itunes:subtitle>
+      <itunes:summary>Class 023</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_23_Taittiriya_Upanishad.mp3" length="6982910" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:11</itunes:duration>
+      <itunes:order>23</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_23_Taittiriya_Upanishad-69c1c689</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_24</title>
+      <itunes:subtitle>Taittiriya_Upanishad_24</itunes:subtitle>
+      <itunes:summary>Class 024</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_24_Taittiriya_Upanishad.mp3" length="6862851" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:11</itunes:duration>
+      <itunes:order>24</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_24_Taittiriya_Upanishad-afb1d361</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_25</title>
+      <itunes:subtitle>Taittiriya_Upanishad_25</itunes:subtitle>
+      <itunes:summary>Class 025</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_25_Taittiriya_Upanishad.mp3" length="7113104" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:16</itunes:duration>
+      <itunes:order>25</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_25_Taittiriya_Upanishad-dad32a7a</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_26</title>
+      <itunes:subtitle>Taittiriya_Upanishad_26</itunes:subtitle>
+      <itunes:summary>Class 026</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_26_Taittiriya_Upanishad.mp3" length="6972984" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:06</itunes:duration>
+      <itunes:order>26</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_26_Taittiriya_Upanishad-857fe393</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_27</title>
+      <itunes:subtitle>Taittiriya_Upanishad_27</itunes:subtitle>
+      <itunes:summary>Class 027</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_27_Taittiriya_Upanishad.mp3" length="7075384" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:57</itunes:duration>
+      <itunes:order>27</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_27_Taittiriya_Upanishad-4eeecd47</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_28</title>
+      <itunes:subtitle>Taittiriya_Upanishad_28</itunes:subtitle>
+      <itunes:summary>Class 028</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_28_Taittiriya_Upanishad.mp3" length="6959191" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:59</itunes:duration>
+      <itunes:order>28</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_28_Taittiriya_Upanishad-4aed2f35</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_29</title>
+      <itunes:subtitle>Taittiriya_Upanishad_29</itunes:subtitle>
+      <itunes:summary>Class 029</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_29_Taittiriya_Upanishad.mp3" length="7118538" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:19</itunes:duration>
+      <itunes:order>29</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_29_Taittiriya_Upanishad-0ae1dd3e</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_30</title>
+      <itunes:subtitle>Taittiriya_Upanishad_30</itunes:subtitle>
+      <itunes:summary>Class 030</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_30_Taittiriya_Upanishad.mp3" length="7165558" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:42</itunes:duration>
+      <itunes:order>30</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_30_Taittiriya_Upanishad-ff04415d</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_31</title>
+      <itunes:subtitle>Taittiriya_Upanishad_31</itunes:subtitle>
+      <itunes:summary>Class 031</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_31_Taittiriya_Upanishad.mp3" length="6971939" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:05</itunes:duration>
+      <itunes:order>31</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_31_Taittiriya_Upanishad-dcc6c366</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_32</title>
+      <itunes:subtitle>Taittiriya_Upanishad_32</itunes:subtitle>
+      <itunes:summary>Class 032</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_32_Taittiriya_Upanishad.mp3" length="7091371" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:05</itunes:duration>
+      <itunes:order>32</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_32_Taittiriya_Upanishad-86bba0d7</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_33</title>
+      <itunes:subtitle>Taittiriya_Upanishad_33</itunes:subtitle>
+      <itunes:summary>Class 033</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_33_Taittiriya_Upanishad.mp3" length="7132957" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:26</itunes:duration>
+      <itunes:order>33</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_33_Taittiriya_Upanishad-9e0aab49</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_34</title>
+      <itunes:subtitle>Taittiriya_Upanishad_34</itunes:subtitle>
+      <itunes:summary>Class 034</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_34_Taittiriya_Upanishad.mp3" length="6917709" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:38</itunes:duration>
+      <itunes:order>34</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_34_Taittiriya_Upanishad-c9e7b730</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_35</title>
+      <itunes:subtitle>Taittiriya_Upanishad_35</itunes:subtitle>
+      <itunes:summary>Class 035</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_35_Taittiriya_Upanishad.mp3" length="7145601" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:32</itunes:duration>
+      <itunes:order>35</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_35_Taittiriya_Upanishad-e81af0f4</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_36</title>
+      <itunes:subtitle>Taittiriya_Upanishad_36</itunes:subtitle>
+      <itunes:summary>Class 036</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_36_Taittiriya_Upanishad.mp3" length="6963266" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:01</itunes:duration>
+      <itunes:order>36</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_36_Taittiriya_Upanishad-babd02f7</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_37</title>
+      <itunes:subtitle>Taittiriya_Upanishad_37</itunes:subtitle>
+      <itunes:summary>Class 037</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_37_Taittiriya_Upanishad.mp3" length="7094087" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:07</itunes:duration>
+      <itunes:order>37</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_37_Taittiriya_Upanishad-2337c684</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_38</title>
+      <itunes:subtitle>Taittiriya_Upanishad_38</itunes:subtitle>
+      <itunes:summary>Class 038</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_38_Taittiriya_Upanishad.mp3" length="7021258" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:30</itunes:duration>
+      <itunes:order>38</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_38_Taittiriya_Upanishad-8fe7b3bb</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_39</title>
+      <itunes:subtitle>Taittiriya_Upanishad_39</itunes:subtitle>
+      <itunes:summary>Class 039</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_39_Taittiriya_Upanishad.mp3" length="6903498" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:31</itunes:duration>
+      <itunes:order>39</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_39_Taittiriya_Upanishad-ba4f9adf</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_40</title>
+      <itunes:subtitle>Taittiriya_Upanishad_40</itunes:subtitle>
+      <itunes:summary>Class 040</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_40_Taittiriya_Upanishad.mp3" length="6861806" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:10</itunes:duration>
+      <itunes:order>40</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_40_Taittiriya_Upanishad-e303626b</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_41</title>
+      <itunes:subtitle>Taittiriya_Upanishad_41</itunes:subtitle>
+      <itunes:summary>Class 041</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_41_Taittiriya_Upanishad.mp3" length="6955534" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:57</itunes:duration>
+      <itunes:order>41</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_41_Taittiriya_Upanishad-97657d27</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_42</title>
+      <itunes:subtitle>Taittiriya_Upanishad_42</itunes:subtitle>
+      <itunes:summary>Class 042</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_42_Taittiriya_Upanishad.mp3" length="7139540" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:29</itunes:duration>
+      <itunes:order>42</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_42_Taittiriya_Upanishad-25eb0f5b</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_43</title>
+      <itunes:subtitle>Taittiriya_Upanishad_43</itunes:subtitle>
+      <itunes:summary>Class 043</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_43_Taittiriya_Upanishad.mp3" length="7062218" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:51</itunes:duration>
+      <itunes:order>43</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_43_Taittiriya_Upanishad-38c46cb3</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_44</title>
+      <itunes:subtitle>Taittiriya_Upanishad_44</itunes:subtitle>
+      <itunes:summary>Class 044</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_44_Taittiriya_Upanishad.mp3" length="6922933" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:41</itunes:duration>
+      <itunes:order>44</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_44_Taittiriya_Upanishad-3874a9ef</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_45</title>
+      <itunes:subtitle>Taittiriya_Upanishad_45</itunes:subtitle>
+      <itunes:summary>Class 045</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_45_Taittiriya_Upanishad.mp3" length="6780409" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:56:30</itunes:duration>
+      <itunes:order>45</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_45_Taittiriya_Upanishad-ebba537e</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_46</title>
+      <itunes:subtitle>Taittiriya_Upanishad_46</itunes:subtitle>
+      <itunes:summary>Class 046</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_46_Taittiriya_Upanishad.mp3" length="6989597" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:14</itunes:duration>
+      <itunes:order>46</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_46_Taittiriya_Upanishad-759867c8</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_47</title>
+      <itunes:subtitle>Taittiriya_Upanishad_47</itunes:subtitle>
+      <itunes:summary>Class 047</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_47_Taittiriya_Upanishad.mp3" length="6953340" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:57:56</itunes:duration>
+      <itunes:order>47</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_47_Taittiriya_Upanishad-0585d4ec</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_48</title>
+      <itunes:subtitle>Taittiriya_Upanishad_48</itunes:subtitle>
+      <itunes:summary>Class 048</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_48_Taittiriya_Upanishad.mp3" length="7188337" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:54</itunes:duration>
+      <itunes:order>48</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_48_Taittiriya_Upanishad-06ac0aee</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_49</title>
+      <itunes:subtitle>Taittiriya_Upanishad_49</itunes:subtitle>
+      <itunes:summary>Class 049</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_49_Taittiriya_Upanishad.mp3" length="7032647" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:36</itunes:duration>
+      <itunes:order>49</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_49_Taittiriya_Upanishad-de1b6ff6</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_50</title>
+      <itunes:subtitle>Taittiriya_Upanishad_50</itunes:subtitle>
+      <itunes:summary>Class 050</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_50_Taittiriya_Upanishad.mp3" length="7018541" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:29</itunes:duration>
+      <itunes:order>50</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_50_Taittiriya_Upanishad-c1afde11</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_51</title>
+      <itunes:subtitle>Taittiriya_Upanishad_51</itunes:subtitle>
+      <itunes:summary>Class 051</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_51_Taittiriya_Upanishad.mp3" length="7157931" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:38</itunes:duration>
+      <itunes:order>51</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_51_Taittiriya_Upanishad-06eb7271</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_52</title>
+      <itunes:subtitle>Taittiriya_Upanishad_52</itunes:subtitle>
+      <itunes:summary>Class 052</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_52_Taittiriya_Upanishad.mp3" length="6983746" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:11</itunes:duration>
+      <itunes:order>52</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_52_Taittiriya_Upanishad-68691b3f</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_53</title>
+      <itunes:subtitle>Taittiriya_Upanishad_53</itunes:subtitle>
+      <itunes:summary>Class 053</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_53_Taittiriya_Upanishad.mp3" length="7134734" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:27</itunes:duration>
+      <itunes:order>53</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_53_Taittiriya_Upanishad-0d298e79</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_54</title>
+      <itunes:subtitle>Taittiriya_Upanishad_54</itunes:subtitle>
+      <itunes:summary>Class 054</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_54_Taittiriya_Upanishad.mp3" length="7128882" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:24</itunes:duration>
+      <itunes:order>54</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_54_Taittiriya_Upanishad-c44ae6c4</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_55</title>
+      <itunes:subtitle>Taittiriya_Upanishad_55</itunes:subtitle>
+      <itunes:summary>Class 055</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_55_Taittiriya_Upanishad.mp3" length="6985627" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:12</itunes:duration>
+      <itunes:order>55</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_55_Taittiriya_Upanishad-d7b0e4ba</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_56</title>
+      <itunes:subtitle>Taittiriya_Upanishad_56</itunes:subtitle>
+      <itunes:summary>Class 056</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_56_Taittiriya_Upanishad.mp3" length="7040380" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:40</itunes:duration>
+      <itunes:order>56</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_56_Taittiriya_Upanishad-5282b33f</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_57</title>
+      <itunes:subtitle>Taittiriya_Upanishad_57</itunes:subtitle>
+      <itunes:summary>Class 057</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_57_Taittiriya_Upanishad.mp3" length="7045813" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:58:42</itunes:duration>
+      <itunes:order>57</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_57_Taittiriya_Upanishad-609c780a</guid>
+    </item>
+    <item>
+      <title>Taittiriya_Upanishad_58</title>
+      <itunes:subtitle>Taittiriya_Upanishad_58</itunes:subtitle>
+      <itunes:summary>Class 058</itunes:summary>
+      <enclosure url="https://archive.org/download/TaittiriyaUpanishad/TU_58_Taittiriya_Upanishad.mp3" length="7119269" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:48 -0000</pubDate>
+      <itunes:duration>0:59:19</itunes:duration>
+      <itunes:order>58</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/TaittiriyaUpanishad/TU_58_Taittiriya_Upanishad-05ffdc06</guid>
+    </item>
+    <description>This Upanishad contains 3 chapters.  The first chapter deals with various forms of Meditation and some values.  The second chapter reveals the true nature of God, World and the individual and their underlying oneness.  The value of dispassion is stressed here.  The third chapter consists of meditation, some values and finally the conclusion.
+            
+            Accompanying text for Taittiriya Upanishad is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

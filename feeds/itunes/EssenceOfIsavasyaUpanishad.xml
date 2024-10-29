@@ -1,83 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Essence of Isavasya Upanishad</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This Upanishad reveals how we are one with God and advocates renunciation as a means to protect this knowledge. The essence of this text is given in this talk.
+  <channel>
+    <title>Essence of Isavasya Upanishad</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This Upanishad reveals how we are one with God and advocates renunciation as a means to protect this knowledge. The essence of this text is given in this talk.
             
             Accompanying text for Isavasya Upanishad is available for download.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Essence of Isavasya Upanishad 01</title>
-            <itunes:subtitle>Essence of Isavasya Upanishad 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/01_Essence_of_Isavasya_Upanishad.mp3" length="6974906" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:07</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Isavasya Upanishad 02</title>
-            <itunes:subtitle>Essence of Isavasya Upanishad 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/02_Essence_of_Isavasya_Upanishad.mp3" length="7059857" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:49</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Isavasya Upanishad 03</title>
-            <itunes:subtitle>Essence of Isavasya Upanishad 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/03_Essence_of_Isavasya_Upanishad.mp3" length="6967488" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:03</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Isavasya Upanishad 04</title>
-            <itunes:subtitle>Essence of Isavasya Upanishad 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/04_Essence_of_Isavasya_Upanishad.mp3" length="7088905" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:59:04</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Isavasya Upanishad 05</title>
-            <itunes:subtitle>Essence of Isavasya Upanishad 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/05_Essence_of_Isavasya_Upanishad.mp3" length="7062155" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:51</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Essence of Isavasya Upanishad 06</title>
-            <itunes:subtitle>Essence of Isavasya Upanishad 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/06_Essence_of_Isavasya_Upanishad.mp3" length="6988908" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
-            <itunes:duration>0:58:14</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Essence of Isavasya Upanishad 01</title>
+      <itunes:subtitle>Essence of Isavasya Upanishad 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/01_Essence_of_Isavasya_Upanishad.mp3" length="6974906" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:07</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfIsavasyaUpanishad/01_Essence_of_Isavasya_Upanishad-6d154d44</guid>
+    </item>
+    <item>
+      <title>Essence of Isavasya Upanishad 02</title>
+      <itunes:subtitle>Essence of Isavasya Upanishad 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/02_Essence_of_Isavasya_Upanishad.mp3" length="7059857" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:49</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfIsavasyaUpanishad/02_Essence_of_Isavasya_Upanishad-77478e79</guid>
+    </item>
+    <item>
+      <title>Essence of Isavasya Upanishad 03</title>
+      <itunes:subtitle>Essence of Isavasya Upanishad 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/03_Essence_of_Isavasya_Upanishad.mp3" length="6967488" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:03</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfIsavasyaUpanishad/03_Essence_of_Isavasya_Upanishad-473f3b84</guid>
+    </item>
+    <item>
+      <title>Essence of Isavasya Upanishad 04</title>
+      <itunes:subtitle>Essence of Isavasya Upanishad 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/04_Essence_of_Isavasya_Upanishad.mp3" length="7088905" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:59:04</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfIsavasyaUpanishad/04_Essence_of_Isavasya_Upanishad-2fca153d</guid>
+    </item>
+    <item>
+      <title>Essence of Isavasya Upanishad 05</title>
+      <itunes:subtitle>Essence of Isavasya Upanishad 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/05_Essence_of_Isavasya_Upanishad.mp3" length="7062155" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:51</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfIsavasyaUpanishad/05_Essence_of_Isavasya_Upanishad-90d4182e</guid>
+    </item>
+    <item>
+      <title>Essence of Isavasya Upanishad 06</title>
+      <itunes:subtitle>Essence of Isavasya Upanishad 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/EssenceOfIsavasyaUpanishad/06_Essence_of_Isavasya_Upanishad.mp3" length="6988908" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:11 -0000</pubDate>
+      <itunes:duration>0:58:14</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/EssenceOfIsavasyaUpanishad/06_Essence_of_Isavasya_Upanishad-883a37df</guid>
+    </item>
+    <description>This Upanishad reveals how we are one with God and advocates renunciation as a means to protect this knowledge. The essence of this text is given in this talk.
+            
+            Accompanying text for Isavasya Upanishad is available for download.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

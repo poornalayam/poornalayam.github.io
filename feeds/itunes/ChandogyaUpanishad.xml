@@ -1,747 +1,831 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Chandogya Upanishad</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>This is a vast Upanishad consisting of 8 chapters.  Various forms of Meditation and Values are discussed in the first five chapters.  The last three chapters form the philosophical portion of this Upanishad and explain the nature of the Lord and Beings from various angles.
+  <channel>
+    <title>Chandogya Upanishad</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>This is a vast Upanishad consisting of 8 chapters.  Various forms of Meditation and Values are discussed in the first five chapters.  The last three chapters form the philosophical portion of this Upanishad and explain the nature of the Lord and Beings from various angles.
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Chandogya_Upanishad_01</title>
-            <itunes:subtitle>Chandogya_Upanishad_01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_01_Chandogya_Upanishad.mp3" length="6900466" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:30</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_02</title>
-            <itunes:subtitle>Chandogya_Upanishad_02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_02_Chandogya_Upanishad.mp3" length="6868387" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:14</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_03</title>
-            <itunes:subtitle>Chandogya_Upanishad_03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_03_Chandogya_Upanishad.mp3" length="6769749" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:24</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_04</title>
-            <itunes:subtitle>Chandogya_Upanishad_04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_04_Chandogya_Upanishad.mp3" length="6777063" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:28</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_05</title>
-            <itunes:subtitle>Chandogya_Upanishad_05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_05_Chandogya_Upanishad.mp3" length="6938500" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:49</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_06</title>
-            <itunes:subtitle>Chandogya_Upanishad_06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_06_Chandogya_Upanishad.mp3" length="6855535" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:07</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_07</title>
-            <itunes:subtitle>Chandogya_Upanishad_07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_07_Chandogya_Upanishad.mp3" length="6845191" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:02</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_08</title>
-            <itunes:subtitle>Chandogya_Upanishad_08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_08_Chandogya_Upanishad.mp3" length="6947904" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:53</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_09</title>
-            <itunes:subtitle>Chandogya_Upanishad_09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_09_Chandogya_Upanishad.mp3" length="6915930" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:37</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_10</title>
-            <itunes:subtitle>Chandogya_Upanishad_10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_10_Chandogya_Upanishad.mp3" length="6888345" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:24</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_11</title>
-            <itunes:subtitle>Chandogya_Upanishad_11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_11_Chandogya_Upanishad.mp3" length="7090742" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:59:05</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_12</title>
-            <itunes:subtitle>Chandogya_Upanishad_12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_12_Chandogya_Upanishad.mp3" length="6886151" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:23</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_13</title>
-            <itunes:subtitle>Chandogya_Upanishad_13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_13_Chandogya_Upanishad.mp3" length="7117282" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:59:18</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_14</title>
-            <itunes:subtitle>Chandogya_Upanishad_14</itunes:subtitle>
-            <itunes:summary>Class 014</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_14_Chandogya_Upanishad.mp3" length="7120730" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:59:20</itunes:duration>
-            <itunes:order>14</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_15</title>
-            <itunes:subtitle>Chandogya_Upanishad_15</itunes:subtitle>
-            <itunes:summary>Class 015</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_15_Chandogya_Upanishad.mp3" length="6925439" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:42</itunes:duration>
-            <itunes:order>15</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_16</title>
-            <itunes:subtitle>Chandogya_Upanishad_16</itunes:subtitle>
-            <itunes:summary>Class 016</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_16_Chandogya_Upanishad.mp3" length="7142046" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:59:31</itunes:duration>
-            <itunes:order>16</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_17</title>
-            <itunes:subtitle>Chandogya_Upanishad_17</itunes:subtitle>
-            <itunes:summary>Class 017</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_17_Chandogya_Upanishad.mp3" length="7093772" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:59:06</itunes:duration>
-            <itunes:order>17</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_18</title>
-            <itunes:subtitle>Chandogya_Upanishad_18</itunes:subtitle>
-            <itunes:summary>Class 018</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_18_Chandogya_Upanishad.mp3" length="6869328" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:14</itunes:duration>
-            <itunes:order>18</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_19</title>
-            <itunes:subtitle>Chandogya_Upanishad_19</itunes:subtitle>
-            <itunes:summary>Class 019</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_19_Chandogya_Upanishad.mp3" length="6927424" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:43</itunes:duration>
-            <itunes:order>19</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_20</title>
-            <itunes:subtitle>Chandogya_Upanishad_20</itunes:subtitle>
-            <itunes:summary>Class 020</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_20_Chandogya_Upanishad.mp3" length="6909974" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:34</itunes:duration>
-            <itunes:order>20</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_21</title>
-            <itunes:subtitle>Chandogya_Upanishad_21</itunes:subtitle>
-            <itunes:summary>Class 021</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_21_Chandogya_Upanishad.mp3" length="6944560" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:52</itunes:duration>
-            <itunes:order>21</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_22</title>
-            <itunes:subtitle>Chandogya_Upanishad_22</itunes:subtitle>
-            <itunes:summary>Class 022</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_22_Chandogya_Upanishad.mp3" length="6969951" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:04</itunes:duration>
-            <itunes:order>22</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_23</title>
-            <itunes:subtitle>Chandogya_Upanishad_23</itunes:subtitle>
-            <itunes:summary>Class 023</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_23_Chandogya_Upanishad.mp3" length="7326157" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>1:01:03</itunes:duration>
-            <itunes:order>23</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_24</title>
-            <itunes:subtitle>Chandogya_Upanishad_24</itunes:subtitle>
-            <itunes:summary>Class 024</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_24_Chandogya_Upanishad.mp3" length="7012479" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:26</itunes:duration>
-            <itunes:order>24</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_25</title>
-            <itunes:subtitle>Chandogya_Upanishad_25</itunes:subtitle>
-            <itunes:summary>Class 025</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_25_Chandogya_Upanishad.mp3" length="7033272" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:36</itunes:duration>
-            <itunes:order>25</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_26</title>
-            <itunes:subtitle>Chandogya_Upanishad_26</itunes:subtitle>
-            <itunes:summary>Class 026</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_26_Chandogya_Upanishad.mp3" length="6843205" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:01</itunes:duration>
-            <itunes:order>26</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_27</title>
-            <itunes:subtitle>Chandogya_Upanishad_27</itunes:subtitle>
-            <itunes:summary>Class 027</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_27_Chandogya_Upanishad.mp3" length="6721266" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:00</itunes:duration>
-            <itunes:order>27</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_28</title>
-            <itunes:subtitle>Chandogya_Upanishad_28</itunes:subtitle>
-            <itunes:summary>Class 028</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_28_Chandogya_Upanishad.mp3" length="7004851" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:22</itunes:duration>
-            <itunes:order>28</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_29</title>
-            <itunes:subtitle>Chandogya_Upanishad_29</itunes:subtitle>
-            <itunes:summary>Class 029</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_29_Chandogya_Upanishad.mp3" length="6886464" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:23</itunes:duration>
-            <itunes:order>29</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_30</title>
-            <itunes:subtitle>Chandogya_Upanishad_30</itunes:subtitle>
-            <itunes:summary>Class 030</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_30_Chandogya_Upanishad.mp3" length="6724923" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:02</itunes:duration>
-            <itunes:order>30</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_31</title>
-            <itunes:subtitle>Chandogya_Upanishad_31</itunes:subtitle>
-            <itunes:summary>Class 031</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_31_Chandogya_Upanishad.mp3" length="6887195" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:23</itunes:duration>
-            <itunes:order>31</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_32</title>
-            <itunes:subtitle>Chandogya_Upanishad_32</itunes:subtitle>
-            <itunes:summary>Class 032</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_32_Chandogya_Upanishad.mp3" length="6807365" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:43</itunes:duration>
-            <itunes:order>32</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_33</title>
-            <itunes:subtitle>Chandogya_Upanishad_33</itunes:subtitle>
-            <itunes:summary>Class 033</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_33_Chandogya_Upanishad.mp3" length="6937664" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:48</itunes:duration>
-            <itunes:order>33</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_34</title>
-            <itunes:subtitle>Chandogya_Upanishad_34</itunes:subtitle>
-            <itunes:summary>Class 034</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_34_Chandogya_Upanishad.mp3" length="6737984" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:08</itunes:duration>
-            <itunes:order>34</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_35</title>
-            <itunes:subtitle>Chandogya_Upanishad_35</itunes:subtitle>
-            <itunes:summary>Class 035</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_35_Chandogya_Upanishad.mp3" length="6727849" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:03</itunes:duration>
-            <itunes:order>35</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_36</title>
-            <itunes:subtitle>Chandogya_Upanishad_36</itunes:subtitle>
-            <itunes:summary>Class 036</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_36_Chandogya_Upanishad.mp3" length="7084786" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:59:02</itunes:duration>
-            <itunes:order>36</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_37</title>
-            <itunes:subtitle>Chandogya_Upanishad_37</itunes:subtitle>
-            <itunes:summary>Class 037</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_37_Chandogya_Upanishad.mp3" length="7092413" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:59:06</itunes:duration>
-            <itunes:order>37</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_38</title>
-            <itunes:subtitle>Chandogya_Upanishad_38</itunes:subtitle>
-            <itunes:summary>Class 038</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_38_Chandogya_Upanishad.mp3" length="6997432" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:18</itunes:duration>
-            <itunes:order>38</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_39</title>
-            <itunes:subtitle>Chandogya_Upanishad_39</itunes:subtitle>
-            <itunes:summary>Class 039</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_39_Chandogya_Upanishad.mp3" length="6872253" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:16</itunes:duration>
-            <itunes:order>39</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_40</title>
-            <itunes:subtitle>Chandogya_Upanishad_40</itunes:subtitle>
-            <itunes:summary>Class 040</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_40_Chandogya_Upanishad.mp3" length="6940799" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:50</itunes:duration>
-            <itunes:order>40</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_41</title>
-            <itunes:subtitle>Chandogya_Upanishad_41</itunes:subtitle>
-            <itunes:summary>Class 041</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_41_Chandogya_Upanishad.mp3" length="6962951" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:01</itunes:duration>
-            <itunes:order>41</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_42</title>
-            <itunes:subtitle>Chandogya_Upanishad_42</itunes:subtitle>
-            <itunes:summary>Class 042</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_42_Chandogya_Upanishad.mp3" length="6863685" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:11</itunes:duration>
-            <itunes:order>42</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_43</title>
-            <itunes:subtitle>Chandogya_Upanishad_43</itunes:subtitle>
-            <itunes:summary>Class 043</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_43_Chandogya_Upanishad.mp3" length="7006000" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:23</itunes:duration>
-            <itunes:order>43</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_44</title>
-            <itunes:subtitle>Chandogya_Upanishad_44</itunes:subtitle>
-            <itunes:summary>Class 044</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_44_Chandogya_Upanishad.mp3" length="6772675" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:26</itunes:duration>
-            <itunes:order>44</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_45</title>
-            <itunes:subtitle>Chandogya_Upanishad_45</itunes:subtitle>
-            <itunes:summary>Class 045</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_45_Chandogya_Upanishad.mp3" length="6815307" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:47</itunes:duration>
-            <itunes:order>45</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_46</title>
-            <itunes:subtitle>Chandogya_Upanishad_46</itunes:subtitle>
-            <itunes:summary>Class 046</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_46_Chandogya_Upanishad.mp3" length="6923976" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:41</itunes:duration>
-            <itunes:order>46</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_47</title>
-            <itunes:subtitle>Chandogya_Upanishad_47</itunes:subtitle>
-            <itunes:summary>Class 047</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_47_Chandogya_Upanishad.mp3" length="6919901" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:39</itunes:duration>
-            <itunes:order>47</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_48</title>
-            <itunes:subtitle>Chandogya_Upanishad_48</itunes:subtitle>
-            <itunes:summary>Class 048</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_48_Chandogya_Upanishad.mp3" length="6860969" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:10</itunes:duration>
-            <itunes:order>48</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_49</title>
-            <itunes:subtitle>Chandogya_Upanishad_49</itunes:subtitle>
-            <itunes:summary>Class 049</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_49_Chandogya_Upanishad.mp3" length="6841847" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:00</itunes:duration>
-            <itunes:order>49</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_50</title>
-            <itunes:subtitle>Chandogya_Upanishad_50</itunes:subtitle>
-            <itunes:summary>Class 050</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_50_Chandogya_Upanishad.mp3" length="6846235" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:03</itunes:duration>
-            <itunes:order>50</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_51</title>
-            <itunes:subtitle>Chandogya_Upanishad_51</itunes:subtitle>
-            <itunes:summary>Class 051</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_51_Chandogya_Upanishad.mp3" length="6805171" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:42</itunes:duration>
-            <itunes:order>51</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_52</title>
-            <itunes:subtitle>Chandogya_Upanishad_52</itunes:subtitle>
-            <itunes:summary>Class 052</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_52_Chandogya_Upanishad.mp3" length="6901406" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:30</itunes:duration>
-            <itunes:order>52</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_53</title>
-            <itunes:subtitle>Chandogya_Upanishad_53</itunes:subtitle>
-            <itunes:summary>Class 053</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_53_Chandogya_Upanishad.mp3" length="6801096" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:40</itunes:duration>
-            <itunes:order>53</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_54</title>
-            <itunes:subtitle>Chandogya_Upanishad_54</itunes:subtitle>
-            <itunes:summary>Class 054</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_54_Chandogya_Upanishad.mp3" length="6837249" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:58</itunes:duration>
-            <itunes:order>54</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_55</title>
-            <itunes:subtitle>Chandogya_Upanishad_55</itunes:subtitle>
-            <itunes:summary>Class 055</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_55_Chandogya_Upanishad.mp3" length="6989491" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:14</itunes:duration>
-            <itunes:order>55</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_56</title>
-            <itunes:subtitle>Chandogya_Upanishad_56</itunes:subtitle>
-            <itunes:summary>Class 056</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_56_Chandogya_Upanishad.mp3" length="6804022" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:42</itunes:duration>
-            <itunes:order>56</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_57</title>
-            <itunes:subtitle>Chandogya_Upanishad_57</itunes:subtitle>
-            <itunes:summary>Class 057</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_57_Chandogya_Upanishad.mp3" length="6996596" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:18</itunes:duration>
-            <itunes:order>57</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_58</title>
-            <itunes:subtitle>Chandogya_Upanishad_58</itunes:subtitle>
-            <itunes:summary>Class 058</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_58_Chandogya_Upanishad.mp3" length="7029406" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:34</itunes:duration>
-            <itunes:order>58</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_59</title>
-            <itunes:subtitle>Chandogya_Upanishad_59</itunes:subtitle>
-            <itunes:summary>Class 059</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_59_Chandogya_Upanishad.mp3" length="6844146" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:02</itunes:duration>
-            <itunes:order>59</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_60</title>
-            <itunes:subtitle>Chandogya_Upanishad_60</itunes:subtitle>
-            <itunes:summary>Class 060</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_60_Chandogya_Upanishad.mp3" length="6948844" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:54</itunes:duration>
-            <itunes:order>60</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_61</title>
-            <itunes:subtitle>Chandogya_Upanishad_61</itunes:subtitle>
-            <itunes:summary>Class 061</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_61_Chandogya_Upanishad.mp3" length="7057305" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:48</itunes:duration>
-            <itunes:order>61</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_62</title>
-            <itunes:subtitle>Chandogya_Upanishad_62</itunes:subtitle>
-            <itunes:summary>Class 062</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_62_Chandogya_Upanishad.mp3" length="6828054" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:54</itunes:duration>
-            <itunes:order>62</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_63</title>
-            <itunes:subtitle>Chandogya_Upanishad_63</itunes:subtitle>
-            <itunes:summary>Class 063</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_63_Chandogya_Upanishad.mp3" length="6933067" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:46</itunes:duration>
-            <itunes:order>63</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_64</title>
-            <itunes:subtitle>Chandogya_Upanishad_64</itunes:subtitle>
-            <itunes:summary>Class 064</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_64_Chandogya_Upanishad.mp3" length="7043303" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:41</itunes:duration>
-            <itunes:order>64</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_65</title>
-            <itunes:subtitle>Chandogya_Upanishad_65</itunes:subtitle>
-            <itunes:summary>Class 065</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_65_Chandogya_Upanishad.mp3" length="6944978" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:52</itunes:duration>
-            <itunes:order>65</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_66</title>
-            <itunes:subtitle>Chandogya_Upanishad_66</itunes:subtitle>
-            <itunes:summary>Class 066</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_66_Chandogya_Upanishad.mp3" length="7108400" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:59:14</itunes:duration>
-            <itunes:order>66</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_67</title>
-            <itunes:subtitle>Chandogya_Upanishad_67</itunes:subtitle>
-            <itunes:summary>Class 067</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_67_Chandogya_Upanishad.mp3" length="6893151" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:26</itunes:duration>
-            <itunes:order>67</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_68</title>
-            <itunes:subtitle>Chandogya_Upanishad_68</itunes:subtitle>
-            <itunes:summary>Class 068</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_68_Chandogya_Upanishad.mp3" length="7058559" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:49</itunes:duration>
-            <itunes:order>68</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_69</title>
-            <itunes:subtitle>Chandogya_Upanishad_69</itunes:subtitle>
-            <itunes:summary>Class 069</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_69_Chandogya_Upanishad.mp3" length="6794095" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:37</itunes:duration>
-            <itunes:order>69</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_70</title>
-            <itunes:subtitle>Chandogya_Upanishad_70</itunes:subtitle>
-            <itunes:summary>Class 070</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_70_Chandogya_Upanishad.mp3" length="6816142" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:48</itunes:duration>
-            <itunes:order>70</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_71</title>
-            <itunes:subtitle>Chandogya_Upanishad_71</itunes:subtitle>
-            <itunes:summary>Class 071</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_71_Chandogya_Upanishad.mp3" length="6958771" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:59</itunes:duration>
-            <itunes:order>71</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_72</title>
-            <itunes:subtitle>Chandogya_Upanishad_72</itunes:subtitle>
-            <itunes:summary>Class 072</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_72_Chandogya_Upanishad.mp3" length="6939440" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:49</itunes:duration>
-            <itunes:order>72</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_73</title>
-            <itunes:subtitle>Chandogya_Upanishad_73</itunes:subtitle>
-            <itunes:summary>Class 073</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_73_Chandogya_Upanishad.mp3" length="7029302" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:34</itunes:duration>
-            <itunes:order>73</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_74</title>
-            <itunes:subtitle>Chandogya_Upanishad_74</itunes:subtitle>
-            <itunes:summary>Class 074</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_74_Chandogya_Upanishad.mp3" length="6649481" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:55:24</itunes:duration>
-            <itunes:order>74</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_75</title>
-            <itunes:subtitle>Chandogya_Upanishad_75</itunes:subtitle>
-            <itunes:summary>Class 075</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_75_Chandogya_Upanishad.mp3" length="7000462" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:58:20</itunes:duration>
-            <itunes:order>75</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_76</title>
-            <itunes:subtitle>Chandogya_Upanishad_76</itunes:subtitle>
-            <itunes:summary>Class 076</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_76_Chandogya_Upanishad.mp3" length="6711862" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:55:55</itunes:duration>
-            <itunes:order>76</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_77</title>
-            <itunes:subtitle>Chandogya_Upanishad_77</itunes:subtitle>
-            <itunes:summary>Class 077</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_77_Chandogya_Upanishad.mp3" length="6856998" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:08</itunes:duration>
-            <itunes:order>77</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_78</title>
-            <itunes:subtitle>Chandogya_Upanishad_78</itunes:subtitle>
-            <itunes:summary>Class 078</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_78_Chandogya_Upanishad.mp3" length="6902347" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:31</itunes:duration>
-            <itunes:order>78</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_79</title>
-            <itunes:subtitle>Chandogya_Upanishad_79</itunes:subtitle>
-            <itunes:summary>Class 079</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_79_Chandogya_Upanishad.mp3" length="6829517" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:56:54</itunes:duration>
-            <itunes:order>79</itunes:order>
-        </item>
-        <item>
-            <title>Chandogya_Upanishad_80</title>
-            <itunes:subtitle>Chandogya_Upanishad_80</itunes:subtitle>
-            <itunes:summary>Class 080</itunes:summary>
-            <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_80_Chandogya_Upanishad.mp3" length="6842578" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
-            <itunes:duration>0:57:01</itunes:duration>
-            <itunes:order>80</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Chandogya_Upanishad_01</title>
+      <itunes:subtitle>Chandogya_Upanishad_01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_01_Chandogya_Upanishad.mp3" length="6900466" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:30</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_01_Chandogya_Upanishad-c821700b</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_02</title>
+      <itunes:subtitle>Chandogya_Upanishad_02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_02_Chandogya_Upanishad.mp3" length="6868387" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:14</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_02_Chandogya_Upanishad-69bf630e</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_03</title>
+      <itunes:subtitle>Chandogya_Upanishad_03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_03_Chandogya_Upanishad.mp3" length="6769749" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:24</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_03_Chandogya_Upanishad-711f67f9</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_04</title>
+      <itunes:subtitle>Chandogya_Upanishad_04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_04_Chandogya_Upanishad.mp3" length="6777063" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:28</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_04_Chandogya_Upanishad-04aaf1aa</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_05</title>
+      <itunes:subtitle>Chandogya_Upanishad_05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_05_Chandogya_Upanishad.mp3" length="6938500" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:49</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_05_Chandogya_Upanishad-eab5129d</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_06</title>
+      <itunes:subtitle>Chandogya_Upanishad_06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_06_Chandogya_Upanishad.mp3" length="6855535" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:07</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_06_Chandogya_Upanishad-f3aed2d7</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_07</title>
+      <itunes:subtitle>Chandogya_Upanishad_07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_07_Chandogya_Upanishad.mp3" length="6845191" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:02</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_07_Chandogya_Upanishad-100183de</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_08</title>
+      <itunes:subtitle>Chandogya_Upanishad_08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_08_Chandogya_Upanishad.mp3" length="6947904" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:53</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_08_Chandogya_Upanishad-3bb57b4c</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_09</title>
+      <itunes:subtitle>Chandogya_Upanishad_09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_09_Chandogya_Upanishad.mp3" length="6915930" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:37</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_09_Chandogya_Upanishad-954e376c</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_10</title>
+      <itunes:subtitle>Chandogya_Upanishad_10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_10_Chandogya_Upanishad.mp3" length="6888345" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:24</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_10_Chandogya_Upanishad-f488e8b2</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_11</title>
+      <itunes:subtitle>Chandogya_Upanishad_11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_11_Chandogya_Upanishad.mp3" length="7090742" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:59:05</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_11_Chandogya_Upanishad-3933614e</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_12</title>
+      <itunes:subtitle>Chandogya_Upanishad_12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_12_Chandogya_Upanishad.mp3" length="6886151" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:23</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_12_Chandogya_Upanishad-bb088b51</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_13</title>
+      <itunes:subtitle>Chandogya_Upanishad_13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_13_Chandogya_Upanishad.mp3" length="7117282" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:59:18</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_13_Chandogya_Upanishad-e6931362</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_14</title>
+      <itunes:subtitle>Chandogya_Upanishad_14</itunes:subtitle>
+      <itunes:summary>Class 014</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_14_Chandogya_Upanishad.mp3" length="7120730" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:59:20</itunes:duration>
+      <itunes:order>14</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_14_Chandogya_Upanishad-c6a896a8</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_15</title>
+      <itunes:subtitle>Chandogya_Upanishad_15</itunes:subtitle>
+      <itunes:summary>Class 015</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_15_Chandogya_Upanishad.mp3" length="6925439" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:42</itunes:duration>
+      <itunes:order>15</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_15_Chandogya_Upanishad-2cca73dc</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_16</title>
+      <itunes:subtitle>Chandogya_Upanishad_16</itunes:subtitle>
+      <itunes:summary>Class 016</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_16_Chandogya_Upanishad.mp3" length="7142046" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:59:31</itunes:duration>
+      <itunes:order>16</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_16_Chandogya_Upanishad-404e991e</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_17</title>
+      <itunes:subtitle>Chandogya_Upanishad_17</itunes:subtitle>
+      <itunes:summary>Class 017</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_17_Chandogya_Upanishad.mp3" length="7093772" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:59:06</itunes:duration>
+      <itunes:order>17</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_17_Chandogya_Upanishad-ec69934c</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_18</title>
+      <itunes:subtitle>Chandogya_Upanishad_18</itunes:subtitle>
+      <itunes:summary>Class 018</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_18_Chandogya_Upanishad.mp3" length="6869328" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:14</itunes:duration>
+      <itunes:order>18</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_18_Chandogya_Upanishad-5d7db928</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_19</title>
+      <itunes:subtitle>Chandogya_Upanishad_19</itunes:subtitle>
+      <itunes:summary>Class 019</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_19_Chandogya_Upanishad.mp3" length="6927424" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:43</itunes:duration>
+      <itunes:order>19</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_19_Chandogya_Upanishad-222d4b1c</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_20</title>
+      <itunes:subtitle>Chandogya_Upanishad_20</itunes:subtitle>
+      <itunes:summary>Class 020</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_20_Chandogya_Upanishad.mp3" length="6909974" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:34</itunes:duration>
+      <itunes:order>20</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_20_Chandogya_Upanishad-4f3c4f62</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_21</title>
+      <itunes:subtitle>Chandogya_Upanishad_21</itunes:subtitle>
+      <itunes:summary>Class 021</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_21_Chandogya_Upanishad.mp3" length="6944560" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:52</itunes:duration>
+      <itunes:order>21</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_21_Chandogya_Upanishad-095c4f6d</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_22</title>
+      <itunes:subtitle>Chandogya_Upanishad_22</itunes:subtitle>
+      <itunes:summary>Class 022</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_22_Chandogya_Upanishad.mp3" length="6969951" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:04</itunes:duration>
+      <itunes:order>22</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_22_Chandogya_Upanishad-e2ca68d4</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_23</title>
+      <itunes:subtitle>Chandogya_Upanishad_23</itunes:subtitle>
+      <itunes:summary>Class 023</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_23_Chandogya_Upanishad.mp3" length="7326157" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>1:01:03</itunes:duration>
+      <itunes:order>23</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_23_Chandogya_Upanishad-44dead66</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_24</title>
+      <itunes:subtitle>Chandogya_Upanishad_24</itunes:subtitle>
+      <itunes:summary>Class 024</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_24_Chandogya_Upanishad.mp3" length="7012479" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:26</itunes:duration>
+      <itunes:order>24</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_24_Chandogya_Upanishad-c80c3042</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_25</title>
+      <itunes:subtitle>Chandogya_Upanishad_25</itunes:subtitle>
+      <itunes:summary>Class 025</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_25_Chandogya_Upanishad.mp3" length="7033272" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:36</itunes:duration>
+      <itunes:order>25</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_25_Chandogya_Upanishad-1c4f0798</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_26</title>
+      <itunes:subtitle>Chandogya_Upanishad_26</itunes:subtitle>
+      <itunes:summary>Class 026</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_26_Chandogya_Upanishad.mp3" length="6843205" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:01</itunes:duration>
+      <itunes:order>26</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_26_Chandogya_Upanishad-c35e1a99</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_27</title>
+      <itunes:subtitle>Chandogya_Upanishad_27</itunes:subtitle>
+      <itunes:summary>Class 027</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_27_Chandogya_Upanishad.mp3" length="6721266" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:00</itunes:duration>
+      <itunes:order>27</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_27_Chandogya_Upanishad-7549eb24</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_28</title>
+      <itunes:subtitle>Chandogya_Upanishad_28</itunes:subtitle>
+      <itunes:summary>Class 028</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_28_Chandogya_Upanishad.mp3" length="7004851" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:22</itunes:duration>
+      <itunes:order>28</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_28_Chandogya_Upanishad-043536e7</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_29</title>
+      <itunes:subtitle>Chandogya_Upanishad_29</itunes:subtitle>
+      <itunes:summary>Class 029</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_29_Chandogya_Upanishad.mp3" length="6886464" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:23</itunes:duration>
+      <itunes:order>29</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_29_Chandogya_Upanishad-1b6fa8ec</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_30</title>
+      <itunes:subtitle>Chandogya_Upanishad_30</itunes:subtitle>
+      <itunes:summary>Class 030</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_30_Chandogya_Upanishad.mp3" length="6724923" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:02</itunes:duration>
+      <itunes:order>30</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_30_Chandogya_Upanishad-1ef17e00</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_31</title>
+      <itunes:subtitle>Chandogya_Upanishad_31</itunes:subtitle>
+      <itunes:summary>Class 031</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_31_Chandogya_Upanishad.mp3" length="6887195" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:23</itunes:duration>
+      <itunes:order>31</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_31_Chandogya_Upanishad-4311237e</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_32</title>
+      <itunes:subtitle>Chandogya_Upanishad_32</itunes:subtitle>
+      <itunes:summary>Class 032</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_32_Chandogya_Upanishad.mp3" length="6807365" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:43</itunes:duration>
+      <itunes:order>32</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_32_Chandogya_Upanishad-1545b571</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_33</title>
+      <itunes:subtitle>Chandogya_Upanishad_33</itunes:subtitle>
+      <itunes:summary>Class 033</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_33_Chandogya_Upanishad.mp3" length="6937664" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:48</itunes:duration>
+      <itunes:order>33</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_33_Chandogya_Upanishad-eeedb8c2</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_34</title>
+      <itunes:subtitle>Chandogya_Upanishad_34</itunes:subtitle>
+      <itunes:summary>Class 034</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_34_Chandogya_Upanishad.mp3" length="6737984" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:08</itunes:duration>
+      <itunes:order>34</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_34_Chandogya_Upanishad-c27e3166</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_35</title>
+      <itunes:subtitle>Chandogya_Upanishad_35</itunes:subtitle>
+      <itunes:summary>Class 035</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_35_Chandogya_Upanishad.mp3" length="6727849" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:03</itunes:duration>
+      <itunes:order>35</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_35_Chandogya_Upanishad-4526894e</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_36</title>
+      <itunes:subtitle>Chandogya_Upanishad_36</itunes:subtitle>
+      <itunes:summary>Class 036</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_36_Chandogya_Upanishad.mp3" length="7084786" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:59:02</itunes:duration>
+      <itunes:order>36</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_36_Chandogya_Upanishad-53013d8e</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_37</title>
+      <itunes:subtitle>Chandogya_Upanishad_37</itunes:subtitle>
+      <itunes:summary>Class 037</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_37_Chandogya_Upanishad.mp3" length="7092413" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:59:06</itunes:duration>
+      <itunes:order>37</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_37_Chandogya_Upanishad-f9cb7178</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_38</title>
+      <itunes:subtitle>Chandogya_Upanishad_38</itunes:subtitle>
+      <itunes:summary>Class 038</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_38_Chandogya_Upanishad.mp3" length="6997432" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:18</itunes:duration>
+      <itunes:order>38</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_38_Chandogya_Upanishad-a944d19c</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_39</title>
+      <itunes:subtitle>Chandogya_Upanishad_39</itunes:subtitle>
+      <itunes:summary>Class 039</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_39_Chandogya_Upanishad.mp3" length="6872253" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:16</itunes:duration>
+      <itunes:order>39</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_39_Chandogya_Upanishad-ec812194</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_40</title>
+      <itunes:subtitle>Chandogya_Upanishad_40</itunes:subtitle>
+      <itunes:summary>Class 040</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_40_Chandogya_Upanishad.mp3" length="6940799" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:50</itunes:duration>
+      <itunes:order>40</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_40_Chandogya_Upanishad-aa4dccdf</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_41</title>
+      <itunes:subtitle>Chandogya_Upanishad_41</itunes:subtitle>
+      <itunes:summary>Class 041</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_41_Chandogya_Upanishad.mp3" length="6962951" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:01</itunes:duration>
+      <itunes:order>41</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_41_Chandogya_Upanishad-04556728</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_42</title>
+      <itunes:subtitle>Chandogya_Upanishad_42</itunes:subtitle>
+      <itunes:summary>Class 042</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_42_Chandogya_Upanishad.mp3" length="6863685" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:11</itunes:duration>
+      <itunes:order>42</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_42_Chandogya_Upanishad-12259ce1</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_43</title>
+      <itunes:subtitle>Chandogya_Upanishad_43</itunes:subtitle>
+      <itunes:summary>Class 043</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_43_Chandogya_Upanishad.mp3" length="7006000" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:23</itunes:duration>
+      <itunes:order>43</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_43_Chandogya_Upanishad-7ebb2259</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_44</title>
+      <itunes:subtitle>Chandogya_Upanishad_44</itunes:subtitle>
+      <itunes:summary>Class 044</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_44_Chandogya_Upanishad.mp3" length="6772675" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:26</itunes:duration>
+      <itunes:order>44</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_44_Chandogya_Upanishad-97d3df41</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_45</title>
+      <itunes:subtitle>Chandogya_Upanishad_45</itunes:subtitle>
+      <itunes:summary>Class 045</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_45_Chandogya_Upanishad.mp3" length="6815307" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:47</itunes:duration>
+      <itunes:order>45</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_45_Chandogya_Upanishad-ffed03eb</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_46</title>
+      <itunes:subtitle>Chandogya_Upanishad_46</itunes:subtitle>
+      <itunes:summary>Class 046</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_46_Chandogya_Upanishad.mp3" length="6923976" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:41</itunes:duration>
+      <itunes:order>46</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_46_Chandogya_Upanishad-e29af0c7</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_47</title>
+      <itunes:subtitle>Chandogya_Upanishad_47</itunes:subtitle>
+      <itunes:summary>Class 047</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_47_Chandogya_Upanishad.mp3" length="6919901" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:39</itunes:duration>
+      <itunes:order>47</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_47_Chandogya_Upanishad-8f451382</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_48</title>
+      <itunes:subtitle>Chandogya_Upanishad_48</itunes:subtitle>
+      <itunes:summary>Class 048</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_48_Chandogya_Upanishad.mp3" length="6860969" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:10</itunes:duration>
+      <itunes:order>48</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_48_Chandogya_Upanishad-b35c9948</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_49</title>
+      <itunes:subtitle>Chandogya_Upanishad_49</itunes:subtitle>
+      <itunes:summary>Class 049</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_49_Chandogya_Upanishad.mp3" length="6841847" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:00</itunes:duration>
+      <itunes:order>49</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_49_Chandogya_Upanishad-06e62643</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_50</title>
+      <itunes:subtitle>Chandogya_Upanishad_50</itunes:subtitle>
+      <itunes:summary>Class 050</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_50_Chandogya_Upanishad.mp3" length="6846235" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:03</itunes:duration>
+      <itunes:order>50</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_50_Chandogya_Upanishad-5334d8bf</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_51</title>
+      <itunes:subtitle>Chandogya_Upanishad_51</itunes:subtitle>
+      <itunes:summary>Class 051</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_51_Chandogya_Upanishad.mp3" length="6805171" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:42</itunes:duration>
+      <itunes:order>51</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_51_Chandogya_Upanishad-5331de5d</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_52</title>
+      <itunes:subtitle>Chandogya_Upanishad_52</itunes:subtitle>
+      <itunes:summary>Class 052</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_52_Chandogya_Upanishad.mp3" length="6901406" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:30</itunes:duration>
+      <itunes:order>52</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_52_Chandogya_Upanishad-29522f42</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_53</title>
+      <itunes:subtitle>Chandogya_Upanishad_53</itunes:subtitle>
+      <itunes:summary>Class 053</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_53_Chandogya_Upanishad.mp3" length="6801096" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:40</itunes:duration>
+      <itunes:order>53</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_53_Chandogya_Upanishad-2aaaf8dc</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_54</title>
+      <itunes:subtitle>Chandogya_Upanishad_54</itunes:subtitle>
+      <itunes:summary>Class 054</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_54_Chandogya_Upanishad.mp3" length="6837249" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:58</itunes:duration>
+      <itunes:order>54</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_54_Chandogya_Upanishad-a486f81d</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_55</title>
+      <itunes:subtitle>Chandogya_Upanishad_55</itunes:subtitle>
+      <itunes:summary>Class 055</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_55_Chandogya_Upanishad.mp3" length="6989491" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:14</itunes:duration>
+      <itunes:order>55</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_55_Chandogya_Upanishad-b9ad5f18</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_56</title>
+      <itunes:subtitle>Chandogya_Upanishad_56</itunes:subtitle>
+      <itunes:summary>Class 056</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_56_Chandogya_Upanishad.mp3" length="6804022" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:42</itunes:duration>
+      <itunes:order>56</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_56_Chandogya_Upanishad-f7697c4f</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_57</title>
+      <itunes:subtitle>Chandogya_Upanishad_57</itunes:subtitle>
+      <itunes:summary>Class 057</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_57_Chandogya_Upanishad.mp3" length="6996596" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:18</itunes:duration>
+      <itunes:order>57</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_57_Chandogya_Upanishad-26ef1331</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_58</title>
+      <itunes:subtitle>Chandogya_Upanishad_58</itunes:subtitle>
+      <itunes:summary>Class 058</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_58_Chandogya_Upanishad.mp3" length="7029406" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:34</itunes:duration>
+      <itunes:order>58</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_58_Chandogya_Upanishad-cae17c03</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_59</title>
+      <itunes:subtitle>Chandogya_Upanishad_59</itunes:subtitle>
+      <itunes:summary>Class 059</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_59_Chandogya_Upanishad.mp3" length="6844146" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:02</itunes:duration>
+      <itunes:order>59</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_59_Chandogya_Upanishad-c228e63e</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_60</title>
+      <itunes:subtitle>Chandogya_Upanishad_60</itunes:subtitle>
+      <itunes:summary>Class 060</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_60_Chandogya_Upanishad.mp3" length="6948844" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:54</itunes:duration>
+      <itunes:order>60</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_60_Chandogya_Upanishad-2c45e947</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_61</title>
+      <itunes:subtitle>Chandogya_Upanishad_61</itunes:subtitle>
+      <itunes:summary>Class 061</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_61_Chandogya_Upanishad.mp3" length="7057305" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:48</itunes:duration>
+      <itunes:order>61</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_61_Chandogya_Upanishad-d91c57ac</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_62</title>
+      <itunes:subtitle>Chandogya_Upanishad_62</itunes:subtitle>
+      <itunes:summary>Class 062</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_62_Chandogya_Upanishad.mp3" length="6828054" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:54</itunes:duration>
+      <itunes:order>62</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_62_Chandogya_Upanishad-27b1757f</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_63</title>
+      <itunes:subtitle>Chandogya_Upanishad_63</itunes:subtitle>
+      <itunes:summary>Class 063</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_63_Chandogya_Upanishad.mp3" length="6933067" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:46</itunes:duration>
+      <itunes:order>63</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_63_Chandogya_Upanishad-5adf6517</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_64</title>
+      <itunes:subtitle>Chandogya_Upanishad_64</itunes:subtitle>
+      <itunes:summary>Class 064</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_64_Chandogya_Upanishad.mp3" length="7043303" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:41</itunes:duration>
+      <itunes:order>64</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_64_Chandogya_Upanishad-d8e0093c</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_65</title>
+      <itunes:subtitle>Chandogya_Upanishad_65</itunes:subtitle>
+      <itunes:summary>Class 065</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_65_Chandogya_Upanishad.mp3" length="6944978" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:52</itunes:duration>
+      <itunes:order>65</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_65_Chandogya_Upanishad-2112ed15</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_66</title>
+      <itunes:subtitle>Chandogya_Upanishad_66</itunes:subtitle>
+      <itunes:summary>Class 066</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_66_Chandogya_Upanishad.mp3" length="7108400" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:59:14</itunes:duration>
+      <itunes:order>66</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_66_Chandogya_Upanishad-24f6514d</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_67</title>
+      <itunes:subtitle>Chandogya_Upanishad_67</itunes:subtitle>
+      <itunes:summary>Class 067</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_67_Chandogya_Upanishad.mp3" length="6893151" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:26</itunes:duration>
+      <itunes:order>67</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_67_Chandogya_Upanishad-043af05e</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_68</title>
+      <itunes:subtitle>Chandogya_Upanishad_68</itunes:subtitle>
+      <itunes:summary>Class 068</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_68_Chandogya_Upanishad.mp3" length="7058559" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:49</itunes:duration>
+      <itunes:order>68</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_68_Chandogya_Upanishad-92927ccf</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_69</title>
+      <itunes:subtitle>Chandogya_Upanishad_69</itunes:subtitle>
+      <itunes:summary>Class 069</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_69_Chandogya_Upanishad.mp3" length="6794095" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:37</itunes:duration>
+      <itunes:order>69</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_69_Chandogya_Upanishad-40fef894</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_70</title>
+      <itunes:subtitle>Chandogya_Upanishad_70</itunes:subtitle>
+      <itunes:summary>Class 070</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_70_Chandogya_Upanishad.mp3" length="6816142" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:48</itunes:duration>
+      <itunes:order>70</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_70_Chandogya_Upanishad-f27d3fe6</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_71</title>
+      <itunes:subtitle>Chandogya_Upanishad_71</itunes:subtitle>
+      <itunes:summary>Class 071</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_71_Chandogya_Upanishad.mp3" length="6958771" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:59</itunes:duration>
+      <itunes:order>71</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_71_Chandogya_Upanishad-b4b2eb06</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_72</title>
+      <itunes:subtitle>Chandogya_Upanishad_72</itunes:subtitle>
+      <itunes:summary>Class 072</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_72_Chandogya_Upanishad.mp3" length="6939440" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:49</itunes:duration>
+      <itunes:order>72</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_72_Chandogya_Upanishad-ff9cd585</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_73</title>
+      <itunes:subtitle>Chandogya_Upanishad_73</itunes:subtitle>
+      <itunes:summary>Class 073</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_73_Chandogya_Upanishad.mp3" length="7029302" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:34</itunes:duration>
+      <itunes:order>73</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_73_Chandogya_Upanishad-db6db786</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_74</title>
+      <itunes:subtitle>Chandogya_Upanishad_74</itunes:subtitle>
+      <itunes:summary>Class 074</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_74_Chandogya_Upanishad.mp3" length="6649481" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:55:24</itunes:duration>
+      <itunes:order>74</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_74_Chandogya_Upanishad-60cdeb91</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_75</title>
+      <itunes:subtitle>Chandogya_Upanishad_75</itunes:subtitle>
+      <itunes:summary>Class 075</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_75_Chandogya_Upanishad.mp3" length="7000462" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:58:20</itunes:duration>
+      <itunes:order>75</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_75_Chandogya_Upanishad-32807a11</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_76</title>
+      <itunes:subtitle>Chandogya_Upanishad_76</itunes:subtitle>
+      <itunes:summary>Class 076</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_76_Chandogya_Upanishad.mp3" length="6711862" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:55:55</itunes:duration>
+      <itunes:order>76</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_76_Chandogya_Upanishad-2a61580c</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_77</title>
+      <itunes:subtitle>Chandogya_Upanishad_77</itunes:subtitle>
+      <itunes:summary>Class 077</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_77_Chandogya_Upanishad.mp3" length="6856998" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:08</itunes:duration>
+      <itunes:order>77</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_77_Chandogya_Upanishad-e10caefd</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_78</title>
+      <itunes:subtitle>Chandogya_Upanishad_78</itunes:subtitle>
+      <itunes:summary>Class 078</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_78_Chandogya_Upanishad.mp3" length="6902347" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:31</itunes:duration>
+      <itunes:order>78</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_78_Chandogya_Upanishad-b21f1c51</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_79</title>
+      <itunes:subtitle>Chandogya_Upanishad_79</itunes:subtitle>
+      <itunes:summary>Class 079</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_79_Chandogya_Upanishad.mp3" length="6829517" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:56:54</itunes:duration>
+      <itunes:order>79</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_79_Chandogya_Upanishad-5d1ce438</guid>
+    </item>
+    <item>
+      <title>Chandogya_Upanishad_80</title>
+      <itunes:subtitle>Chandogya_Upanishad_80</itunes:subtitle>
+      <itunes:summary>Class 080</itunes:summary>
+      <enclosure url="https://archive.org/download/ChandogyaUpanishad/CU_80_Chandogya_Upanishad.mp3" length="6842578" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:02:42 -0000</pubDate>
+      <itunes:duration>0:57:01</itunes:duration>
+      <itunes:order>80</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/ChandogyaUpanishad/CU_80_Chandogya_Upanishad-a36fb12d</guid>
+    </item>
+    <description>This is a vast Upanishad consisting of 8 chapters.  Various forms of Meditation and Values are discussed in the first five chapters.  The last three chapters form the philosophical portion of this Upanishad and explain the nature of the Lord and Beings from various angles.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>

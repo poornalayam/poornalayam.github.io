@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-    <channel>
-        <title>Bhagavad Gita Chapter 15</title>
-        <itunes:author>Swami Guruparananda</itunes:author>
-        <link>https://www.poornalayam.org</link>
-        <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
-        <itunes:summary>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
+  <channel>
+    <title>Bhagavad Gita Chapter 15</title>
+    <itunes:author>Swami Guruparananda</itunes:author>
+    <link>https://www.poornalayam.org</link>
+    <itunes:subtitle>Vedanta talks in Tamil</itunes:subtitle>
+    <itunes:summary>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
             
             In these 322 classes, all the 700 verses of the Bhagavad Gita are explained word by word, in keeping with Shankaracharya's commentary. These classes will help the listener in gaining a thorough knowledge of the Bhagavad Gita.
             
@@ -14,135 +14,156 @@
             
             The entire collection of Swamiji's talks is available at the Poornalayam website.
         </itunes:summary>
-        <language>ta</language>
-        <copyright>&#xA9; 2014 by Poornalayam</copyright>
-        <itunes:owner>
-            <itunes:name>Swami Guruparananda</itunes:name>
-            <itunes:email>poornalayam@gmail.com</itunes:email>
-        </itunes:owner>
-        <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg" />
-        <itunes:category text="Religion &amp; Spirituality">
-            <itunes:category text="Hinduism"/>
-        </itunes:category>
-        <itunes:complete>yes</itunes:complete>
-        <itunes:explicit>no</itunes:explicit>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 01</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 01</itunes:subtitle>
-            <itunes:summary>Class 001</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_01_Gita_Chapter_XV.mp3" length="6859007" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:57:09</itunes:duration>
-            <itunes:order>1</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 02</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 02</itunes:subtitle>
-            <itunes:summary>Class 002</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_02_Gita_Chapter_XV.mp3" length="6858589" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:57:09</itunes:duration>
-            <itunes:order>2</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 03</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 03</itunes:subtitle>
-            <itunes:summary>Class 003</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_03_Gita_Chapter_XV.mp3" length="6914700" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:57:37</itunes:duration>
-            <itunes:order>3</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 04</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 04</itunes:subtitle>
-            <itunes:summary>Class 004</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_04_Gita_Chapter_XV.mp3" length="6827556" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:56:53</itunes:duration>
-            <itunes:order>4</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 05</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 05</itunes:subtitle>
-            <itunes:summary>Class 005</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_05_Gita_Chapter_XV.mp3" length="6882517" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:57:21</itunes:duration>
-            <itunes:order>5</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 06</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 06</itunes:subtitle>
-            <itunes:summary>Class 006</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_06_Gita_Chapter_XV.mp3" length="6894743" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:57:27</itunes:duration>
-            <itunes:order>6</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 07</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 07</itunes:subtitle>
-            <itunes:summary>Class 007</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_07_Gita_Chapter_XV.mp3" length="6834452" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:56:57</itunes:duration>
-            <itunes:order>7</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 08</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 08</itunes:subtitle>
-            <itunes:summary>Class 008</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_08_Gita_Chapter_XV.mp3" length="6943226" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:57:51</itunes:duration>
-            <itunes:order>8</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 09</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 09</itunes:subtitle>
-            <itunes:summary>Class 009</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_09_Gita_Chapter_XV.mp3" length="6934449" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:57:47</itunes:duration>
-            <itunes:order>9</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 10</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 10</itunes:subtitle>
-            <itunes:summary>Class 010</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_10_Gita_Chapter_XV.mp3" length="6966318" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:58:03</itunes:duration>
-            <itunes:order>10</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 11</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 11</itunes:subtitle>
-            <itunes:summary>Class 011</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_11_Gita_Chapter_XV.mp3" length="6839990" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:56:59</itunes:duration>
-            <itunes:order>11</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 12</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 12</itunes:subtitle>
-            <itunes:summary>Class 012</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_12_Gita_Chapter_XV.mp3" length="6900281" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>0:57:30</itunes:duration>
-            <itunes:order>12</itunes:order>
-        </item>
-        <item>
-            <title>Bhagavad Gita Chap 15 Class 13</title>
-            <itunes:subtitle>Bhagavad Gita Chap 15 Class 13</itunes:subtitle>
-            <itunes:summary>Class 013</itunes:summary>
-            <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_13_Gita_Chapter_XV.mp3" length="7302357" type="audio/mpeg" />
-            <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
-            <itunes:duration>1:00:51</itunes:duration>
-            <itunes:order>13</itunes:order>
-        </item>
-        
-    </channel>
+    <language>ta</language>
+    <copyright>&#xA9; 2014 by Poornalayam</copyright>
+    <itunes:owner>
+      <itunes:name>Swami Guruparananda</itunes:name>
+      <itunes:email>poornalayam@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.poornalayam.org/feeds/itunes/itunes-cover-swami-guruparananda.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Hinduism"/>
+    </itunes:category>
+    <itunes:complete>yes</itunes:complete>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 01</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 01</itunes:subtitle>
+      <itunes:summary>Class 001</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_01_Gita_Chapter_XV.mp3" length="6859007" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:57:09</itunes:duration>
+      <itunes:order>1</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_01_Gita_Chapter_XV-a4a8ecb8</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 02</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 02</itunes:subtitle>
+      <itunes:summary>Class 002</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_02_Gita_Chapter_XV.mp3" length="6858589" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:57:09</itunes:duration>
+      <itunes:order>2</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_02_Gita_Chapter_XV-562360b9</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 03</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 03</itunes:subtitle>
+      <itunes:summary>Class 003</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_03_Gita_Chapter_XV.mp3" length="6914700" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:57:37</itunes:duration>
+      <itunes:order>3</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_03_Gita_Chapter_XV-4b756a69</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 04</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 04</itunes:subtitle>
+      <itunes:summary>Class 004</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_04_Gita_Chapter_XV.mp3" length="6827556" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:56:53</itunes:duration>
+      <itunes:order>4</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_04_Gita_Chapter_XV-23d19b12</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 05</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 05</itunes:subtitle>
+      <itunes:summary>Class 005</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_05_Gita_Chapter_XV.mp3" length="6882517" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:57:21</itunes:duration>
+      <itunes:order>5</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_05_Gita_Chapter_XV-4481c4c9</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 06</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 06</itunes:subtitle>
+      <itunes:summary>Class 006</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_06_Gita_Chapter_XV.mp3" length="6894743" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:57:27</itunes:duration>
+      <itunes:order>6</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_06_Gita_Chapter_XV-b6ac14c4</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 07</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 07</itunes:subtitle>
+      <itunes:summary>Class 007</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_07_Gita_Chapter_XV.mp3" length="6834452" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:56:57</itunes:duration>
+      <itunes:order>7</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_07_Gita_Chapter_XV-c79800c5</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 08</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 08</itunes:subtitle>
+      <itunes:summary>Class 008</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_08_Gita_Chapter_XV.mp3" length="6943226" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:57:51</itunes:duration>
+      <itunes:order>8</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_08_Gita_Chapter_XV-23cef9eb</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 09</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 09</itunes:subtitle>
+      <itunes:summary>Class 009</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_09_Gita_Chapter_XV.mp3" length="6934449" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:57:47</itunes:duration>
+      <itunes:order>9</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_09_Gita_Chapter_XV-99219adf</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 10</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 10</itunes:subtitle>
+      <itunes:summary>Class 010</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_10_Gita_Chapter_XV.mp3" length="6966318" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:58:03</itunes:duration>
+      <itunes:order>10</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_10_Gita_Chapter_XV-08bdad55</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 11</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 11</itunes:subtitle>
+      <itunes:summary>Class 011</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_11_Gita_Chapter_XV.mp3" length="6839990" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:56:59</itunes:duration>
+      <itunes:order>11</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_11_Gita_Chapter_XV-393d9a81</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 12</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 12</itunes:subtitle>
+      <itunes:summary>Class 012</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_12_Gita_Chapter_XV.mp3" length="6900281" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>0:57:30</itunes:duration>
+      <itunes:order>12</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_12_Gita_Chapter_XV-e4ad25ad</guid>
+    </item>
+    <item>
+      <title>Bhagavad Gita Chap 15 Class 13</title>
+      <itunes:subtitle>Bhagavad Gita Chap 15 Class 13</itunes:subtitle>
+      <itunes:summary>Class 013</itunes:summary>
+      <enclosure url="https://archive.org/download/BhagavadGitaCh15/BG_13_Gita_Chapter_XV.mp3" length="7302357" type="audio/mpeg"/>
+      <pubDate>Sun, 11 May 2014 16:03:04 -0000</pubDate>
+      <itunes:duration>1:00:51</itunes:duration>
+      <itunes:order>13</itunes:order>
+      <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh15/BG_13_Gita_Chapter_XV-f8f41ba6</guid>
+    </item>
+    <description>Bhagavad Gita is a dialogue between Lord Krishna, the teacher and Arjuna, the student.  The episode of Lord Krishna imparting knowledge to Arjuna occurs in the epic Mahabharata.  There are totally 700 verses classified into 18 chapters.  Krishna gives the essence of the entire Veda in his teaching.   He explains in detail various disciplines like Karma Yoga, Devotion, Values, Meditation, and so on.  Lord Krishna also imparts knowledge about the true nature of God, World and Beings and clearly points out the underlying oneness of God and Beings.
+            
+            In these 322 classes, all the 700 verses of the Bhagavad Gita are explained word by word, in keeping with Shankaracharya's commentary. These classes will help the listener in gaining a thorough knowledge of the Bhagavad Gita.
+            
+            The summary of Bhagavad Gita - Chapter 15, given by Swami Paramarthananda, is available for download.  This chapter is called Purusottama-yoga, since the main topic of this chapter is purusottama.
+            
+            The entire collection of Swamiji's talks is available at the Poornalayam website.
+        </description>
+    <email>poornalayam@gmail.com</email>
+  </channel>
 </rss>
