@@ -1,7 +1,3 @@
-
-Warning: hash_file(../talks/Ontology/ONT_01_Ontology.mp3): Failed to open stream: No such file or directory in /srv/static.rsubr.in/www/poorna/itunes/00-run.php on line 22
-
-Warning: hash_file(../talks/Ontology/ONT_02_Ontology.mp3): Failed to open stream: No such file or directory in /srv/static.rsubr.in/www/poorna/itunes/00-run.php on line 22
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="itunes.xsl"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
@@ -34,7 +30,7 @@ Warning: hash_file(../talks/Ontology/ONT_02_Ontology.mp3): Failed to open stream
       <pubDate>Sun, 21 Apr 2019 10:00:00 -000</pubDate>
       <itunes:duration>01:09:14</itunes:duration>
       <itunes:order>1</itunes:order>
-      <guid isPermaLink="false">poornalayam.org/OntologyClasses/ONT_01_Ontology-</guid>
+      <guid isPermaLink="false">poornalayam.org/OntologyClasses/ONT_01_Ontology-1a5b034e</guid>
     </item>
     <item>
       <title>Ontology Class 02</title>
@@ -44,7 +40,7 @@ Warning: hash_file(../talks/Ontology/ONT_02_Ontology.mp3): Failed to open stream
       <pubDate>Sun, 21 Apr 2019 14:00:00 -000</pubDate>
       <itunes:duration>01:11:50</itunes:duration>
       <itunes:order>2</itunes:order>
-      <guid isPermaLink="false">poornalayam.org/OntologyClasses/ONT_02_Ontology-</guid>
+      <guid isPermaLink="false">poornalayam.org/OntologyClasses/ONT_02_Ontology-8be7f59d</guid>
     </item>
     <description>Epistemology is a subject deals with all aspects of knowledge. This subject is called science of knowledge and comes as a part of philosophy.
             
