@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Essence Of Taittiriya Upanishad 01</title>
       <itunes:subtitle>Essence Of Taittiriya Upanishad 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/01_Essence_of_Taittiriya_Upanishad.mp3" length="7099232" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:09</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/01_Essence_of_Taittiriya_Upanishad-ddd551b4</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/02_Essence_of_Taittiriya_Upanishad.mp3" length="7174679" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:47</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/02_Essence_of_Taittiriya_Upanishad-fa575d2e</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/03_Essence_of_Taittiriya_Upanishad.mp3" length="6991655" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:15</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/03_Essence_of_Taittiriya_Upanishad-b95e58c5</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/04_Essence_of_Taittiriya_Upanishad.mp3" length="6879956" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:19</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/04_Essence_of_Taittiriya_Upanishad-b0cdc41e</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/05_Essence_of_Taittiriya_Upanishad.mp3" length="7137376" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:28</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/05_Essence_of_Taittiriya_Upanishad-4fed1c6a</guid>
@@ -77,7 +77,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/06_Essence_of_Taittiriya_Upanishad.mp3" length="6976148" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:08</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/06_Essence_of_Taittiriya_Upanishad-1dcbd88a</guid>
@@ -87,7 +87,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/07_Essence_of_Taittiriya_Upanishad.mp3" length="7115392" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:05</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/07_Essence_of_Taittiriya_Upanishad-33705e5b</guid>
@@ -97,7 +97,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/08_Essence_of_Taittiriya_Upanishad.mp3" length="7135559" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:15</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/08_Essence_of_Taittiriya_Upanishad-005c1c68</guid>
@@ -107,7 +107,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/09_Essence_of_Taittiriya_Upanishad.mp3" length="7082896" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:49</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/09_Essence_of_Taittiriya_Upanishad-6b8c13d6</guid>
@@ -117,7 +117,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/10_Essence_of_Taittiriya_Upanishad.mp3" length="6973447" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:54</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/10_Essence_of_Taittiriya_Upanishad-2d7235c8</guid>
@@ -127,7 +127,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/11_Essence_of_Taittiriya_Upanishad.mp3" length="7134989" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:15</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/11_Essence_of_Taittiriya_Upanishad-8d3b902c</guid>
@@ -137,7 +137,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/12_Essence_of_Taittiriya_Upanishad.mp3" length="6949061" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:42</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/12_Essence_of_Taittiriya_Upanishad-9e663f1d</guid>
@@ -147,7 +147,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/13_Essence_of_Taittiriya_Upanishad.mp3" length="7123485" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:09</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/13_Essence_of_Taittiriya_Upanishad-4e41bf7f</guid>
@@ -157,7 +157,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/14_Essence_of_Taittiriya_Upanishad.mp3" length="7078659" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:47</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/14_Essence_of_Taittiriya_Upanishad-3a345f20</guid>
@@ -167,7 +167,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/15_Essence_of_Taittiriya_Upanishad.mp3" length="7171759" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:33</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/15_Essence_of_Taittiriya_Upanishad-40020798</guid>
@@ -177,7 +177,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 16</itunes:subtitle>
       <itunes:summary>Class 016</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/16_Essence_of_Taittiriya_Upanishad.mp3" length="7062149" type="audio/mpeg"/>
-      <pubDate>Wed, 16 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:38</itunes:duration>
       <itunes:order>16</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/16_Essence_of_Taittiriya_Upanishad-b93ac21a</guid>
@@ -187,7 +187,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 17</itunes:subtitle>
       <itunes:summary>Class 017</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/17_Essence_of_Taittiriya_Upanishad.mp3" length="7073016" type="audio/mpeg"/>
-      <pubDate>Thu, 17 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:44</itunes:duration>
       <itunes:order>17</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/17_Essence_of_Taittiriya_Upanishad-c1d06649</guid>
@@ -197,7 +197,7 @@
       <itunes:subtitle>Essence Of Taittiriya Upanishad 18</itunes:subtitle>
       <itunes:summary>Class 018</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfTaittiriyaUpanishad/18_Essence_of_Taittiriya_Upanishad.mp3" length="6975945" type="audio/mpeg"/>
-      <pubDate>Fri, 18 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 18 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:55</itunes:duration>
       <itunes:order>18</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfTaittiriyaUpanishad/18_Essence_of_Taittiriya_Upanishad-2a83fe72</guid>

@@ -25,13 +25,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Bhagavad Gita Chap 11 Class 01</title>
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_01_Gita_chapter_XI.mp3" length="6971438" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:05</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_01_Gita_chapter_XI-fe1d1eca</guid>
@@ -41,7 +41,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_02_Gita_chapter_XI.mp3" length="6816689" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:48</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_02_Gita_chapter_XI-dae45bb5</guid>
@@ -51,7 +51,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_03_Gita_chapter_XI.mp3" length="6977081" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:08</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_03_Gita_chapter_XI-644692cd</guid>
@@ -61,7 +61,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_04_Gita_chapter_XI.mp3" length="6956705" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:58</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_04_Gita_chapter_XI-5857b97d</guid>
@@ -71,7 +71,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_05_Gita_chapter_XI.mp3" length="6933717" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:46</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_05_Gita_chapter_XI-d67b586f</guid>
@@ -81,7 +81,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_06_Gita_chapter_XI.mp3" length="6799135" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:39</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_06_Gita_chapter_XI-2cb9aa36</guid>
@@ -91,7 +91,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_07_Gita_chapter_XI.mp3" length="7026504" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:33</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_07_Gita_chapter_XI-ead4b9fc</guid>
@@ -101,7 +101,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_08_Gita_chapter_XI.mp3" length="7043745" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:41</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_08_Gita_chapter_XI-7592f06c</guid>
@@ -111,7 +111,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_09_Gita_chapter_XI.mp3" length="7098916" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:09</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_09_Gita_chapter_XI-d4f4a643</guid>
@@ -121,7 +121,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_10_Gita_chapter_XI.mp3" length="6949809" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:54</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_10_Gita_chapter_XI-3e7b2614</guid>
@@ -131,7 +131,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_11_Gita_chapter_XI.mp3" length="6914491" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:37</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_11_Gita_chapter_XI-507156f1</guid>
@@ -141,7 +141,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 11 Class 12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh11/BG_12_Gita_chapter_XI.mp3" length="7157744" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:38</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh11/BG_12_Gita_chapter_XI-f36d9957</guid>

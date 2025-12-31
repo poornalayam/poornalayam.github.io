@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Mahavakyam Class 01</title>
       <itunes:subtitle>Mahavakyam Class 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/Mahavakyam/Mahavakyam_01.mp3" length="7091717" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:58:47</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/Mahavakyam/Mahavakyam_01-513dfe11</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Mahavakyam Class 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/Mahavakyam/Mahavakyam_02.mp3" length="7180743" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:59:32</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/Mahavakyam/Mahavakyam_02-99761efb</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>Mahavakyam Class 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/Mahavakyam/Mahavakyam_03.mp3" length="7023590" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:58:13</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/Mahavakyam/Mahavakyam_03-c52edd71</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>Mahavakyam Class 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/Mahavakyam/Mahavakyam_04.mp3" length="7125687" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:59:08</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/Mahavakyam/Mahavakyam_04-86e85bd4</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>Mahavakyam Class 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/Mahavakyam/Mahavakyam_05.mp3" length="7003022" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:58:07</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/Mahavakyam/Mahavakyam_05-46b92b10</guid>

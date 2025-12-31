@@ -24,13 +24,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>KENA_UPANISHAD_01</title>
       <itunes:subtitle>KENA_UPANISHAD_01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_01_Kena_Upanishad.mp3" length="6847061" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:03</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_01_Kena_Upanishad-cf9d2da0</guid>
@@ -40,7 +40,7 @@
       <itunes:subtitle>KENA_UPANISHAD_02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_02_Kena_Upanishad.mp3" length="6947999" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:53</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_02_Kena_Upanishad-069d9ba5</guid>
@@ -50,7 +50,7 @@
       <itunes:subtitle>KENA_UPANISHAD_03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_03_Kena_Upanishad.mp3" length="7087910" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:03</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_03_Kena_Upanishad-1fbb81e3</guid>
@@ -60,7 +60,7 @@
       <itunes:subtitle>KENA_UPANISHAD_04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_04_Kena_Upanishad.mp3" length="6845494" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:02</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_04_Kena_Upanishad-94ffeace</guid>
@@ -70,7 +70,7 @@
       <itunes:subtitle>KENA_UPANISHAD_05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_05_Kena_Upanishad.mp3" length="6750619" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:15</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_05_Kena_Upanishad-64ad4977</guid>
@@ -80,7 +80,7 @@
       <itunes:subtitle>KENA_UPANISHAD_06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_06_Kena_Upanishad.mp3" length="6793772" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:36</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_06_Kena_Upanishad-45c1eaec</guid>
@@ -90,7 +90,7 @@
       <itunes:subtitle>KENA_UPANISHAD_07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_07_Kena_Upanishad.mp3" length="6858451" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:09</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_07_Kena_Upanishad-926c41e2</guid>
@@ -100,7 +100,7 @@
       <itunes:subtitle>KENA_UPANISHAD_08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_08_Kena_Upanishad.mp3" length="6779248" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:29</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_08_Kena_Upanishad-9f35befe</guid>
@@ -110,7 +110,7 @@
       <itunes:subtitle>KENA_UPANISHAD_09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_09_Kena_Upanishad.mp3" length="6907352" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:33</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_09_Kena_Upanishad-29092a6f</guid>
@@ -120,7 +120,7 @@
       <itunes:subtitle>KENA_UPANISHAD_10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_10_Kena_Upanishad.mp3" length="6890111" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:25</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_10_Kena_Upanishad-1db5e9f5</guid>
@@ -130,7 +130,7 @@
       <itunes:subtitle>KENA_UPANISHAD_11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_11_Kena_Upanishad.mp3" length="6773187" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:26</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_11_Kena_Upanishad-4e3fd305</guid>
@@ -140,7 +140,7 @@
       <itunes:subtitle>KENA_UPANISHAD_12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_12_Kena_Upanishad.mp3" length="6506320" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:13</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_12_Kena_Upanishad-03e48a87</guid>
@@ -150,7 +150,7 @@
       <itunes:subtitle>KENA_UPANISHAD_13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_13_Kena_Upanishad.mp3" length="6753441" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:16</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_13_Kena_Upanishad-e5782c43</guid>
@@ -160,7 +160,7 @@
       <itunes:subtitle>KENA_UPANISHAD_14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_14_Kena_Upanishad.mp3" length="6865036" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:12</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_14_Kena_Upanishad-0cdb5186</guid>
@@ -170,7 +170,7 @@
       <itunes:subtitle>KENA_UPANISHAD_15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/KenaUpanishad/KN_15_Kena_Upanishad.mp3" length="6732018" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:06</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KenaUpanishad/KN_15_Kena_Upanishad-0bff95a8</guid>

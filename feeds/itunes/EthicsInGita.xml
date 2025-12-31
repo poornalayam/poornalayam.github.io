@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Ethics in Gita</title>
       <itunes:subtitle>Ethics in Gita</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/EthicsInGita/07_Ethics_in_Gita.mp3" length="7219889" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:09</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EthicsInGita/07_Ethics_in_Gita-7eeb8df1</guid>

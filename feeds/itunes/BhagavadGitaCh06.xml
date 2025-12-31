@@ -25,13 +25,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Bhagavad Gita Chap 06 Class 01</title>
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_01_Gita_Chapter_VI.mp3" length="7037894" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:38</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_01_Gita_Chapter_VI-1fe0cf0e</guid>
@@ -41,7 +41,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_02_Gita_Chapter_VI.mp3" length="6759219" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:19</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_02_Gita_Chapter_VI-a0537c91</guid>
@@ -51,7 +51,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_03_Gita_Chapter_VI.mp3" length="6838632" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:59</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_03_Gita_Chapter_VI-d82cf777</guid>
@@ -61,7 +61,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_04_Gita_Chapter_VI.mp3" length="6874367" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:17</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_04_Gita_Chapter_VI-3532932d</guid>
@@ -71,7 +71,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_05_Gita_Chapter_VI.mp3" length="6966945" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:03</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_05_Gita_Chapter_VI-fb6b1966</guid>
@@ -81,7 +81,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_06_Gita_Chapter_VI.mp3" length="6932673" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:46</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_06_Gita_Chapter_VI-1d42e9a6</guid>
@@ -91,7 +91,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_07_Gita_Chapter_VI.mp3" length="6997770" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:18</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_07_Gita_Chapter_VI-0ae75a2b</guid>
@@ -101,7 +101,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_08_Gita_Chapter_VI.mp3" length="6757234" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:18</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_08_Gita_Chapter_VI-c2987351</guid>
@@ -111,7 +111,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_09_Gita_Chapter_VI.mp3" length="6921179" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:40</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_09_Gita_Chapter_VI-99888733</guid>
@@ -121,7 +121,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_10_Gita_Chapter_VI.mp3" length="6862037" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:11</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_10_Gita_Chapter_VI-32b56b89</guid>
@@ -131,7 +131,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_11_Gita_Chapter_VI.mp3" length="6771549" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:25</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_11_Gita_Chapter_VI-fc4460ad</guid>
@@ -141,7 +141,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_12_Gita_Chapter_VI.mp3" length="6814704" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:47</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_12_Gita_Chapter_VI-d32d9302</guid>
@@ -151,7 +151,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_13_Gita_Chapter_VI.mp3" length="6897146" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:28</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_13_Gita_Chapter_VI-c2d23cca</guid>
@@ -161,7 +161,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_14_Gita_Chapter_VI.mp3" length="6837587" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:58</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_14_Gita_Chapter_VI-38b429cc</guid>
@@ -171,7 +171,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_15_Gita_Chapter_VI.mp3" length="6727873" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:03</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_15_Gita_Chapter_VI-fc2f5a5b</guid>
@@ -181,7 +181,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 16</itunes:subtitle>
       <itunes:summary>Class 016</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_16_Gita_Chapter_VI.mp3" length="7070181" type="audio/mpeg"/>
-      <pubDate>Wed, 16 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:55</itunes:duration>
       <itunes:order>16</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_16_Gita_Chapter_VI-5c32ce8c</guid>
@@ -191,7 +191,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 17</itunes:subtitle>
       <itunes:summary>Class 017</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_17_Gita_Chapter_VI.mp3" length="6837900" type="audio/mpeg"/>
-      <pubDate>Thu, 17 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:58</itunes:duration>
       <itunes:order>17</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_17_Gita_Chapter_VI-368e6ab7</guid>
@@ -201,7 +201,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 18</itunes:subtitle>
       <itunes:summary>Class 018</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_18_Gita_Chapter_VI.mp3" length="6926194" type="audio/mpeg"/>
-      <pubDate>Fri, 18 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 18 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:43</itunes:duration>
       <itunes:order>18</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_18_Gita_Chapter_VI-ee684ee2</guid>
@@ -211,7 +211,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 19</itunes:subtitle>
       <itunes:summary>Class 019</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_19_Gita_Chapter_VI.mp3" length="6739889" type="audio/mpeg"/>
-      <pubDate>Sat, 19 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 19 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:09</itunes:duration>
       <itunes:order>19</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_19_Gita_Chapter_VI-dd19a2d4</guid>
@@ -221,7 +221,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 20</itunes:subtitle>
       <itunes:summary>Class 020</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_20_Gita_Chapter_VI.mp3" length="6788163" type="audio/mpeg"/>
-      <pubDate>Sun, 20 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 20 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:34</itunes:duration>
       <itunes:order>20</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_20_Gita_Chapter_VI-c8848cba</guid>
@@ -231,7 +231,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 21</itunes:subtitle>
       <itunes:summary>Class 021</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_21_Gita_Chapter_VI.mp3" length="6641564" type="audio/mpeg"/>
-      <pubDate>Mon, 21 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 21 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:20</itunes:duration>
       <itunes:order>21</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_21_Gita_Chapter_VI-364b0161</guid>
@@ -241,7 +241,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 22</itunes:subtitle>
       <itunes:summary>Class 022</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_22_Gita_Chapter_VI.mp3" length="6711363" type="audio/mpeg"/>
-      <pubDate>Tue, 22 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 22 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:55</itunes:duration>
       <itunes:order>22</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_22_Gita_Chapter_VI-290274cf</guid>
@@ -251,7 +251,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 23</itunes:subtitle>
       <itunes:summary>Class 023</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_23_Gita_Chapter_VI.mp3" length="6561420" type="audio/mpeg"/>
-      <pubDate>Wed, 23 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 23 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:40</itunes:duration>
       <itunes:order>23</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_23_Gita_Chapter_VI-97d9a272</guid>
@@ -261,7 +261,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 24</itunes:subtitle>
       <itunes:summary>Class 024</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_24_Gita_Chapter_VI.mp3" length="6675314" type="audio/mpeg"/>
-      <pubDate>Thu, 24 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 24 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:37</itunes:duration>
       <itunes:order>24</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_24_Gita_Chapter_VI-fc680ce7</guid>
@@ -271,7 +271,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 06 Class 25</itunes:subtitle>
       <itunes:summary>Class 025</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh06/BG_25_Gita_Chapter_VI.mp3" length="6723066" type="audio/mpeg"/>
-      <pubDate>Fri, 25 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 25 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:01</itunes:duration>
       <itunes:order>25</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh06/BG_25_Gita_Chapter_VI-8de7ddc9</guid>

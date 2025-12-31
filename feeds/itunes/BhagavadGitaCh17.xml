@@ -25,13 +25,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Bhagavad Gita Chap 17 Class 01</title>
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_01_Gita_Chapter_XVII.mp3" length="6926508" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:43</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_01_Gita_Chapter_XVII-0cac3d51</guid>
@@ -41,7 +41,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_02_Gita_Chapter_XVII.mp3" length="6980215" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:10</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_02_Gita_Chapter_XVII-d2b69742</guid>
@@ -51,7 +51,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_03_Gita_Chapter_XVII.mp3" length="7014906" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:27</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_03_Gita_Chapter_XVII-ce1adb25</guid>
@@ -61,7 +61,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_04_Gita_Chapter_XVII.mp3" length="7136741" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:28</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_04_Gita_Chapter_XVII-9645ff62</guid>
@@ -71,7 +71,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_05_Gita_Chapter_XVII.mp3" length="7097035" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:08</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_05_Gita_Chapter_XVII-3be9d7a5</guid>
@@ -81,7 +81,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_06_Gita_Chapter_XVII.mp3" length="7109992" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:14</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_06_Gita_Chapter_XVII-cbf24411</guid>
@@ -91,7 +91,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_07_Gita_Chapter_XVII.mp3" length="6920343" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:40</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_07_Gita_Chapter_XVII-2a175d0d</guid>
@@ -101,7 +101,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_08_Gita_Chapter_XVII.mp3" length="7067255" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:53</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_08_Gita_Chapter_XVII-26e96b46</guid>
@@ -111,7 +111,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_09_Gita_Chapter_XVII.mp3" length="6821286" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:50</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_09_Gita_Chapter_XVII-176c50db</guid>
@@ -121,7 +121,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_10_Gita_Chapter_XVII.mp3" length="7158579" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:39</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_10_Gita_Chapter_XVII-d1cbb530</guid>
@@ -131,7 +131,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_11_Gita_Chapter_XVII.mp3" length="7092542" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:06</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_11_Gita_Chapter_XVII-ac6b286c</guid>
@@ -141,7 +141,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 17 Class 12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh17/BG_12_Gita_Chapter_XVII.mp3" length="7193479" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:56</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh17/BG_12_Gita_Chapter_XVII-5b5aab22</guid>

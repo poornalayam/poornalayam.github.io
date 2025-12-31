@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Eight Fold Yoga 01</title>
       <itunes:subtitle>Eight Fold Yoga 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/EightFoldYoga/PY_01_Eight_Fold_Yoga_Of_Patanchali.mp3" length="6492538" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:06</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EightFoldYoga/PY_01_Eight_Fold_Yoga_Of_Patanchali-7287cbdb</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Eight Fold Yoga 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/EightFoldYoga/PY_02_Eight_Fold_Yoga_Of_Patanchali.mp3" length="7082278" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:01</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EightFoldYoga/PY_02_Eight_Fold_Yoga_Of_Patanchali-1087abda</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>Eight Fold Yoga 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/EightFoldYoga/PY_03_Eight_Fold_Yoga_Of_Patanchali.mp3" length="6981863" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:10</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EightFoldYoga/PY_03_Eight_Fold_Yoga_Of_Patanchali-329f31dc</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>Eight Fold Yoga 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/EightFoldYoga/PY_04_Eight_Fold_Yoga_Of_Patanchali.mp3" length="6876747" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:18</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EightFoldYoga/PY_04_Eight_Fold_Yoga_Of_Patanchali-b4417b89</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>Eight Fold Yoga 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/EightFoldYoga/PY_05_Eight_Fold_Yoga_Of_Patanchali.mp3" length="6965772" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:02</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EightFoldYoga/PY_05_Eight_Fold_Yoga_Of_Patanchali-b34dab69</guid>
@@ -77,7 +77,7 @@
       <itunes:subtitle>Eight Fold Yoga 06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/EightFoldYoga/PY_06_Eight_Fold_Yoga_Of_Patanchali.mp3" length="7114461" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:17</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EightFoldYoga/PY_06_Eight_Fold_Yoga_Of_Patanchali-fc6d8265</guid>

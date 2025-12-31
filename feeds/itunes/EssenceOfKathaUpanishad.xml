@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>ESSENCE_OF_KATHA_UPA_01</title>
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/01_Essence_of_Katha_Upanishad.mp3" length="6725134" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:02</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/01_Essence_of_Katha_Upanishad-778a616d</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/02_Essence_of_Katha_Upanishad.mp3" length="6944562" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:52</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/02_Essence_of_Katha_Upanishad-8ffe6480</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/03_Essence_of_Katha_Upanishad.mp3" length="6813950" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:46</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/03_Essence_of_Katha_Upanishad-15c023c7</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/04_Essence_of_Katha_Upanishad.mp3" length="6731926" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:05</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/04_Essence_of_Katha_Upanishad-a3d91df9</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/05_Essence_of_Katha_Upanishad.mp3" length="6893571" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:26</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/05_Essence_of_Katha_Upanishad-5fcd779a</guid>
@@ -77,7 +77,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/06_Essence_of_Katha_Upanishad.mp3" length="6859821" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:09</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/06_Essence_of_Katha_Upanishad-6ac5dd66</guid>
@@ -87,7 +87,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/07_Essence_of_Katha_Upanishad.mp3" length="6880928" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:20</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/07_Essence_of_Katha_Upanishad-3df8fcd8</guid>
@@ -97,7 +97,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/08_Essence_of_Katha_Upanishad.mp3" length="6819488" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:49</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/08_Essence_of_Katha_Upanishad-ea1f36b2</guid>
@@ -107,7 +107,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/09_Essence_of_Katha_Upanishad.mp3" length="6867240" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:13</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/09_Essence_of_Katha_Upanishad-5f13d7bd</guid>
@@ -117,7 +117,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/10_Essence_of_Katha_Upanishad.mp3" length="6947697" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:53</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/10_Essence_of_Katha_Upanishad-83c171e0</guid>
@@ -127,7 +127,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/11_Essence_of_Katha_Upanishad.mp3" length="6900677" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:30</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/11_Essence_of_Katha_Upanishad-a98ce2b6</guid>
@@ -137,7 +137,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/12_Essence_of_Katha_Upanishad.mp3" length="6971621" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:05</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/12_Essence_of_Katha_Upanishad-757c66d0</guid>
@@ -147,7 +147,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/13_Essence_of_Katha_Upanishad.mp3" length="7079354" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:59</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/13_Essence_of_Katha_Upanishad-5e2fa4b3</guid>
@@ -157,7 +157,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/14_Essence_of_Katha_Upanishad.mp3" length="6974760" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:07</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/14_Essence_of_Katha_Upanishad-db2b7f27</guid>
@@ -167,7 +167,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/15_Essence_of_Katha_Upanishad.mp3" length="7032543" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:36</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/15_Essence_of_Katha_Upanishad-b156da02</guid>
@@ -177,7 +177,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_16</itunes:subtitle>
       <itunes:summary>Class 016</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/16_Essence_of_Katha_Upanishad.mp3" length="6791694" type="audio/mpeg"/>
-      <pubDate>Wed, 16 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:35</itunes:duration>
       <itunes:order>16</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/16_Essence_of_Katha_Upanishad-f4ea958c</guid>
@@ -187,7 +187,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_17</itunes:subtitle>
       <itunes:summary>Class 017</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/17_Essence_of_Katha_Upanishad.mp3" length="6975805" type="audio/mpeg"/>
-      <pubDate>Thu, 17 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:07</itunes:duration>
       <itunes:order>17</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/17_Essence_of_Katha_Upanishad-4c14ebd7</guid>
@@ -197,7 +197,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_18</itunes:subtitle>
       <itunes:summary>Class 018</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/18_Essence_of_Katha_Upanishad.mp3" length="6788350" type="audio/mpeg"/>
-      <pubDate>Fri, 18 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 18 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:34</itunes:duration>
       <itunes:order>18</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/18_Essence_of_Katha_Upanishad-609d60e1</guid>
@@ -207,7 +207,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_19</itunes:subtitle>
       <itunes:summary>Class 019</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/19_Essence_of_Katha_Upanishad.mp3" length="6986567" type="audio/mpeg"/>
-      <pubDate>Sat, 19 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 19 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:13</itunes:duration>
       <itunes:order>19</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/19_Essence_of_Katha_Upanishad-dc962dd3</guid>
@@ -217,7 +217,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_20</itunes:subtitle>
       <itunes:summary>Class 020</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/20_Essence_of_Katha_Upanishad.mp3" length="7048425" type="audio/mpeg"/>
-      <pubDate>Sun, 20 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 20 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:44</itunes:duration>
       <itunes:order>20</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/20_Essence_of_Katha_Upanishad-6191f6cd</guid>
@@ -227,7 +227,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_21</itunes:subtitle>
       <itunes:summary>Class 021</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/21_Essence_of_Katha_Upanishad.mp3" length="7077473" type="audio/mpeg"/>
-      <pubDate>Mon, 21 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 21 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:58</itunes:duration>
       <itunes:order>21</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/21_Essence_of_Katha_Upanishad-27f28a31</guid>
@@ -237,7 +237,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_22</itunes:subtitle>
       <itunes:summary>Class 022</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/22_Essence_of_Katha_Upanishad.mp3" length="7082489" type="audio/mpeg"/>
-      <pubDate>Tue, 22 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 22 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:01</itunes:duration>
       <itunes:order>22</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/22_Essence_of_Katha_Upanishad-3bc503ef</guid>
@@ -247,7 +247,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_23</itunes:subtitle>
       <itunes:summary>Class 023</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/23_Essence_of_Katha_Upanishad.mp3" length="7073294" type="audio/mpeg"/>
-      <pubDate>Wed, 23 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 23 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:56</itunes:duration>
       <itunes:order>23</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/23_Essence_of_Katha_Upanishad-72474c98</guid>
@@ -257,7 +257,7 @@
       <itunes:subtitle>ESSENCE_OF_KATHA_UPA_24</itunes:subtitle>
       <itunes:summary>Class 024</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfKathaUpanishad/24_Essence_of_Katha_Upanishad.mp3" length="6946339" type="audio/mpeg"/>
-      <pubDate>Thu, 24 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 24 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:53</itunes:duration>
       <itunes:order>24</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfKathaUpanishad/24_Essence_of_Katha_Upanishad-4f32af15</guid>

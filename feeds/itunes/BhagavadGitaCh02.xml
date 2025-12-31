@@ -25,13 +25,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Bhagavad Gita Chap 02 Class 01</title>
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_01_Gita_Chapter_II.mp3" length="7091602" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:05</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_01_Gita_Chapter_II-0c163433</guid>
@@ -41,7 +41,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_02_Gita_Chapter_II.mp3" length="7278952" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:39</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_02_Gita_Chapter_II-2acb3e57</guid>
@@ -51,7 +51,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_03_Gita_Chapter_II.mp3" length="7291386" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:45</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_03_Gita_Chapter_II-80924df3</guid>
@@ -61,7 +61,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_04_Gita_Chapter_II.mp3" length="7265473" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:32</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_04_Gita_Chapter_II-c622da29</guid>
@@ -71,7 +71,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_05_Gita_Chapter_II.mp3" length="7337362" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:01:08</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_05_Gita_Chapter_II-8b8619b6</guid>
@@ -81,7 +81,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_06_Gita_Chapter_II.mp3" length="7329943" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:01:04</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_06_Gita_Chapter_II-6f8738b7</guid>
@@ -91,7 +91,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_07_Gita_Chapter_II.mp3" length="7322419" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:01:01</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_07_Gita_Chapter_II-8592ad12</guid>
@@ -101,7 +101,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_08_Gita_Chapter_II.mp3" length="7187314" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:53</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_08_Gita_Chapter_II-a2131ead</guid>
@@ -111,7 +111,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_09_Gita_Chapter_II.mp3" length="7319180" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:59</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_09_Gita_Chapter_II-989efb23</guid>
@@ -121,7 +121,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_10_Gita_Chapter_II.mp3" length="7273832" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:36</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_10_Gita_Chapter_II-559f0e9f</guid>
@@ -131,7 +131,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_11_Gita_Chapter_II.mp3" length="7207063" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:03</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_11_Gita_Chapter_II-2a53f3f6</guid>
@@ -141,7 +141,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_12_Gita_Chapter_II.mp3" length="7202674" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:01</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_12_Gita_Chapter_II-b04651cd</guid>
@@ -151,7 +151,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_13_Gita_Chapter_II.mp3" length="7144264" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:32</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_13_Gita_Chapter_II-bb826551</guid>
@@ -161,7 +161,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_14_Gita_Chapter_II.mp3" length="7097662" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:08</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_14_Gita_Chapter_II-56b5a964</guid>
@@ -171,7 +171,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_15_Gita_Chapter_II.mp3" length="7215735" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:07</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_15_Gita_Chapter_II-6a63ebce</guid>
@@ -181,7 +181,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 16</itunes:subtitle>
       <itunes:summary>Class 016</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_16_Gita_Chapter_II.mp3" length="7186165" type="audio/mpeg"/>
-      <pubDate>Wed, 16 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:53</itunes:duration>
       <itunes:order>16</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_16_Gita_Chapter_II-05035bdd</guid>
@@ -191,7 +191,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 17</itunes:subtitle>
       <itunes:summary>Class 017</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_17_Gita_Chapter_II.mp3" length="7164953" type="audio/mpeg"/>
-      <pubDate>Thu, 17 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:42</itunes:duration>
       <itunes:order>17</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_17_Gita_Chapter_II-ff9337ff</guid>
@@ -201,7 +201,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 18</itunes:subtitle>
       <itunes:summary>Class 018</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_18_Gita_Chapter_II.mp3" length="7153355" type="audio/mpeg"/>
-      <pubDate>Fri, 18 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 18 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:36</itunes:duration>
       <itunes:order>18</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_18_Gita_Chapter_II-0bbe2682</guid>
@@ -211,7 +211,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 19</itunes:subtitle>
       <itunes:summary>Class 019</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_19_Gita_Chapter_II.mp3" length="7128904" type="audio/mpeg"/>
-      <pubDate>Sat, 19 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 19 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:24</itunes:duration>
       <itunes:order>19</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_19_Gita_Chapter_II-be04be8f</guid>
@@ -221,7 +221,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 20</itunes:subtitle>
       <itunes:summary>Class 020</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_20_Gita_Chapter_II.mp3" length="7034655" type="audio/mpeg"/>
-      <pubDate>Sun, 20 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 20 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:37</itunes:duration>
       <itunes:order>20</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_20_Gita_Chapter_II-2fb4b888</guid>
@@ -231,7 +231,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 21</itunes:subtitle>
       <itunes:summary>Class 021</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_21_Gita_Chapter_II.mp3" length="7217303" type="audio/mpeg"/>
-      <pubDate>Mon, 21 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 21 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:08</itunes:duration>
       <itunes:order>21</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_21_Gita_Chapter_II-ed3720e5</guid>
@@ -241,7 +241,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 22</itunes:subtitle>
       <itunes:summary>Class 022</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_22_Gita_Chapter_II.mp3" length="7038103" type="audio/mpeg"/>
-      <pubDate>Tue, 22 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 22 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:39</itunes:duration>
       <itunes:order>22</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_22_Gita_Chapter_II-89e19a9e</guid>
@@ -251,7 +251,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 23</itunes:subtitle>
       <itunes:summary>Class 023</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_23_Gita_Chapter_II.mp3" length="7097139" type="audio/mpeg"/>
-      <pubDate>Wed, 23 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 23 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:08</itunes:duration>
       <itunes:order>23</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_23_Gita_Chapter_II-bcd91792</guid>
@@ -261,7 +261,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 24</itunes:subtitle>
       <itunes:summary>Class 024</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_24_Gita_Chapter_II.mp3" length="6975618" type="audio/mpeg"/>
-      <pubDate>Thu, 24 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 24 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:07</itunes:duration>
       <itunes:order>24</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_24_Gita_Chapter_II-d86661c4</guid>
@@ -271,7 +271,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 25</itunes:subtitle>
       <itunes:summary>Class 025</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_25_Gita_Chapter_II.mp3" length="7207899" type="audio/mpeg"/>
-      <pubDate>Fri, 25 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 25 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:03</itunes:duration>
       <itunes:order>25</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_25_Gita_Chapter_II-bd922a95</guid>
@@ -281,7 +281,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 26</itunes:subtitle>
       <itunes:summary>Class 026</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_26_Gita_Chapter_II.mp3" length="7215108" type="audio/mpeg"/>
-      <pubDate>Sat, 26 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 26 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:07</itunes:duration>
       <itunes:order>26</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_26_Gita_Chapter_II-bd707c10</guid>
@@ -291,7 +291,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 27</itunes:subtitle>
       <itunes:summary>Class 027</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_27_Gita_Chapter_II.mp3" length="6977917" type="audio/mpeg"/>
-      <pubDate>Sun, 27 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 27 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:08</itunes:duration>
       <itunes:order>27</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_27_Gita_Chapter_II-78f5ca9b</guid>
@@ -301,7 +301,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 28</itunes:subtitle>
       <itunes:summary>Class 028</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_28_Gita_Chapter_II.mp3" length="7122113" type="audio/mpeg"/>
-      <pubDate>Mon, 28 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 28 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:21</itunes:duration>
       <itunes:order>28</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_28_Gita_Chapter_II-ca59685f</guid>
@@ -311,7 +311,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 29</itunes:subtitle>
       <itunes:summary>Class 029</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_29_Gita_Chapter_II.mp3" length="7218243" type="audio/mpeg"/>
-      <pubDate>Tue, 29 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 29 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:09</itunes:duration>
       <itunes:order>29</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_29_Gita_Chapter_II-5fd6400a</guid>
@@ -321,7 +321,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 30</itunes:subtitle>
       <itunes:summary>Class 030</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_30_Gita_Chapter_II.mp3" length="6894011" type="audio/mpeg"/>
-      <pubDate>Wed, 30 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 30 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:27</itunes:duration>
       <itunes:order>30</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_30_Gita_Chapter_II-62b47a71</guid>
@@ -331,7 +331,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 31</itunes:subtitle>
       <itunes:summary>Class 031</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_31_Gita_Chapter_II.mp3" length="7074047" type="audio/mpeg"/>
-      <pubDate>Thu, 31 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 31 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:57</itunes:duration>
       <itunes:order>31</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_31_Gita_Chapter_II-dba29955</guid>
@@ -341,7 +341,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 32</itunes:subtitle>
       <itunes:summary>Class 032</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_32_Gita_Chapter_II.mp3" length="7073420" type="audio/mpeg"/>
-      <pubDate>Fri, 01 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 01 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:56</itunes:duration>
       <itunes:order>32</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_32_Gita_Chapter_II-9062f00e</guid>
@@ -351,7 +351,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 02 Class 33</itunes:subtitle>
       <itunes:summary>Class 033</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh02/BG_33_Gita_Chapter_II.mp3" length="7002576" type="audio/mpeg"/>
-      <pubDate>Sat, 02 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 02 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:21</itunes:duration>
       <itunes:order>33</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh02/BG_33_Gita_Chapter_II-15d00135</guid>

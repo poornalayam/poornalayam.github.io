@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Prasna_Upanishad_01</title>
       <itunes:subtitle>Prasna_Upanishad_01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_01_Prasna_Upanishad.mp3" length="7036296" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:38</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_01_Prasna_Upanishad-b0544dcc</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Prasna_Upanishad_02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_02_Prasna_Upanishad.mp3" length="6927000" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:43</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_02_Prasna_Upanishad-cb662bad</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>Prasna_Upanishad_03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_03_Prasna_Upanishad.mp3" length="7026683" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:33</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_03_Prasna_Upanishad-94c2dcac</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>Prasna_Upanishad_04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_04_Prasna_Upanishad.mp3" length="6818540" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:49</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_04_Prasna_Upanishad-fcd4a825</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>Prasna_Upanishad_05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_05_Prasna_Upanishad.mp3" length="6938494" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:49</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_05_Prasna_Upanishad-4cf1b018</guid>
@@ -77,7 +77,7 @@
       <itunes:subtitle>Prasna_Upanishad_06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_06_Prasna_Upanishad.mp3" length="6784894" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:32</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_06_Prasna_Upanishad-4d279ff0</guid>
@@ -87,7 +87,7 @@
       <itunes:subtitle>Prasna_Upanishad_07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_07_Prasna_Upanishad.mp3" length="7030863" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:35</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_07_Prasna_Upanishad-5eb72cc2</guid>
@@ -97,7 +97,7 @@
       <itunes:subtitle>Prasna_Upanishad_08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_08_Prasna_Upanishad.mp3" length="6886772" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:23</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_08_Prasna_Upanishad-12e3fc22</guid>
@@ -107,7 +107,7 @@
       <itunes:subtitle>Prasna_Upanishad_09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_09_Prasna_Upanishad.mp3" length="6914566" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:37</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_09_Prasna_Upanishad-47502288</guid>
@@ -117,7 +117,7 @@
       <itunes:subtitle>Prasna_Upanishad_10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_10_Prasna_Upanishad.mp3" length="6911536" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:35</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_10_Prasna_Upanishad-aa80aa57</guid>
@@ -127,7 +127,7 @@
       <itunes:subtitle>Prasna_Upanishad_11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_11_Prasna_Upanishad.mp3" length="6888652" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:24</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_11_Prasna_Upanishad-997b43b8</guid>
@@ -137,7 +137,7 @@
       <itunes:subtitle>Prasna_Upanishad_12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_12_Prasna_Upanishad.mp3" length="7006203" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:23</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_12_Prasna_Upanishad-00b35f39</guid>
@@ -147,7 +147,7 @@
       <itunes:subtitle>Prasna_Upanishad_13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_13_Prasna_Upanishad.mp3" length="6951869" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:55</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_13_Prasna_Upanishad-24301d79</guid>
@@ -157,7 +157,7 @@
       <itunes:subtitle>Prasna_Upanishad_14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_14_Prasna_Upanishad.mp3" length="6959287" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:59</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_14_Prasna_Upanishad-90e764cb</guid>
@@ -167,7 +167,7 @@
       <itunes:subtitle>Prasna_Upanishad_15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_15_Prasna_Upanishad.mp3" length="6871934" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:15</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_15_Prasna_Upanishad-83fbf42f</guid>
@@ -177,7 +177,7 @@
       <itunes:subtitle>Prasna_Upanishad_16</itunes:subtitle>
       <itunes:summary>Class 016</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_16_Prasna_Upanishad.mp3" length="7076316" type="audio/mpeg"/>
-      <pubDate>Wed, 16 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:58</itunes:duration>
       <itunes:order>16</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_16_Prasna_Upanishad-b3a2d785</guid>
@@ -187,7 +187,7 @@
       <itunes:subtitle>Prasna_Upanishad_17</itunes:subtitle>
       <itunes:summary>Class 017</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_17_Prasna_Upanishad.mp3" length="7074017" type="audio/mpeg"/>
-      <pubDate>Thu, 17 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:57</itunes:duration>
       <itunes:order>17</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_17_Prasna_Upanishad-79de8a7a</guid>
@@ -197,7 +197,7 @@
       <itunes:subtitle>Prasna_Upanishad_18</itunes:subtitle>
       <itunes:summary>Class 018</itunes:summary>
       <enclosure url="https://archive.org/download/PrasnaUpanishad/PU_18_Prasna_Upanishad.mp3" length="7021668" type="audio/mpeg"/>
-      <pubDate>Fri, 18 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 18 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:30</itunes:duration>
       <itunes:order>18</itunes:order>
       <guid isPermaLink="false">poornalayam.org/PrasnaUpanishad/PU_18_Prasna_Upanishad-5183d20a</guid>

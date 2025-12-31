@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Entry Into Gita 01</title>
       <itunes:subtitle>Entry Into Gita 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/EntryIntoGita/EI_01_Entry_into_Gita.mp3" length="6750949" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:15</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EntryIntoGita/EI_01_Entry_into_Gita-7a88f300</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Entry Into Gita 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/EntryIntoGita/EI_02_Entry_into_Gita.mp3" length="6835170" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:57</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EntryIntoGita/EI_02_Entry_into_Gita-f08b82a9</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>Entry Into Gita 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/EntryIntoGita/EI_03_Entry_into_Gita.mp3" length="7025339" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:32</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EntryIntoGita/EI_03_Entry_into_Gita-0413209a</guid>

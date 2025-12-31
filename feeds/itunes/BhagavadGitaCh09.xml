@@ -25,13 +25,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Bhagavad Gita Chap 09 Class 01</title>
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_01_Gita_Chapter_IX.mp3" length="7250113" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:25</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_01_Gita_Chapter_IX-a97a9d66</guid>
@@ -41,7 +41,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_02_Gita_Chapter_IX.mp3" length="7172268" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:46</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_02_Gita_Chapter_IX-62c77372</guid>
@@ -51,7 +51,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_03_Gita_Chapter_IX.mp3" length="7180836" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:50</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_03_Gita_Chapter_IX-cb114ebd</guid>
@@ -61,7 +61,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_04_Gita_Chapter_IX.mp3" length="7489499" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:02:24</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_04_Gita_Chapter_IX-d18e3754</guid>
@@ -71,7 +71,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_05_Gita_Chapter_IX.mp3" length="7372366" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:01:26</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_05_Gita_Chapter_IX-923932c1</guid>
@@ -81,7 +81,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_06_Gita_Chapter_IX.mp3" length="7179477" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:49</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_06_Gita_Chapter_IX-de90ee48</guid>
@@ -91,7 +91,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_07_Gita_Chapter_IX.mp3" length="7265682" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:32</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_07_Gita_Chapter_IX-b41ef907</guid>
@@ -101,7 +101,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_08_Gita_Chapter_IX.mp3" length="7467556" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:02:13</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_08_Gita_Chapter_IX-edef5d0b</guid>
@@ -111,7 +111,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_09_Gita_Chapter_IX.mp3" length="7377590" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:01:28</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_09_Gita_Chapter_IX-aa3b796d</guid>
@@ -121,7 +121,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_10_Gita_Chapter_IX.mp3" length="7270070" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:35</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_10_Gita_Chapter_IX-e0639ad6</guid>
@@ -131,7 +131,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_11_Gita_Chapter_IX.mp3" length="7267144" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:33</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_11_Gita_Chapter_IX-d63b43bc</guid>
@@ -141,7 +141,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_12_Gita_Chapter_IX.mp3" length="7406011" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:01:43</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_12_Gita_Chapter_IX-9fbc743e</guid>
@@ -151,7 +151,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_13_Gita_Chapter_IX.mp3" length="7296506" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:48</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_13_Gita_Chapter_IX-c99b8519</guid>
@@ -161,7 +161,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 09 Class 14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh09/BG_14_Gita_Chapter_IX.mp3" length="7282295" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:41</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh09/BG_14_Gita_Chapter_IX-05b0bf27</guid>

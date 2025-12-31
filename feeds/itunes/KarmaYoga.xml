@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Karma Yoga 01</title>
       <itunes:subtitle>Karma Yoga 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/KarmaYoga/KY_01_Karma_Yoga.mp3" length="6830032" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:55</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KarmaYoga/KY_01_Karma_Yoga-2518b488</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Karma Yoga 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/KarmaYoga/KY_02_Karma_Yoga.mp3" length="7065134" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:52</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KarmaYoga/KY_02_Karma_Yoga-cf6c2392</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>Karma Yoga 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/KarmaYoga/KY_03_Karma_Yoga.mp3" length="6920415" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:40</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KarmaYoga/KY_03_Karma_Yoga-00f2ea89</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>Karma Yoga 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/KarmaYoga/KY_04_Karma_Yoga.mp3" length="7073911" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:56</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KarmaYoga/KY_04_Karma_Yoga-5b68ca50</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>Karma Yoga 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/KarmaYoga/KY_05_Karma_Yoga.mp3" length="6964301" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:02</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KarmaYoga/KY_05_Karma_Yoga-c5daa69e</guid>

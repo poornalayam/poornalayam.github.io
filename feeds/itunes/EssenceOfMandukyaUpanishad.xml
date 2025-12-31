@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>01_Essence_of_Mandukya_Upanishad</title>
       <itunes:subtitle>01_Essence_of_Mandukya_Upanishad</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/01_Essence_of_Mandukya_Upanishad.mp3" length="7125187" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:11</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfMandukyaUpanishad/01_Essence_of_Mandukya_Upanishad-c86ecc8a</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>02_Essence_of_Mandukya_Upanishad</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/02_Essence_of_Mandukya_Upanishad.mp3" length="7089289" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:53</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfMandukyaUpanishad/02_Essence_of_Mandukya_Upanishad-8c7ddb2f</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>03_Essence_of_Mandukya_Upanishad</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/03_Essence_of_Mandukya_Upanishad.mp3" length="6984694" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:01</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfMandukyaUpanishad/03_Essence_of_Mandukya_Upanishad-98f46ea2</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>04_Essence_of_Mandukya_Upanishad</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/04_Essence_of_Mandukya_Upanishad.mp3" length="7024296" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:20</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfMandukyaUpanishad/04_Essence_of_Mandukya_Upanishad-8d79694b</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>05_Essence_of_Mandukya_Upanishad</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/05_Essence_of_Mandukya_Upanishad.mp3" length="6992009" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:04</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfMandukyaUpanishad/05_Essence_of_Mandukya_Upanishad-15234884</guid>
@@ -77,7 +77,7 @@
       <itunes:subtitle>06_Essence_of_Mandukya_Upanishad</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/EssenceOfMandukyaUpanishad/06_Essence_of_Mandukya_Upanishad.mp3" length="7101200" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:59</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/EssenceOfMandukyaUpanishad/06_Essence_of_Mandukya_Upanishad-acf27c42</guid>

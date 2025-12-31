@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Gate Way To Liberation 01</title>
       <itunes:subtitle>Gate Way To Liberation 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/GatewayToLiberation/GL_01_Gate_Way_To_Liberation.mp3" length="6631627" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:15</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/GatewayToLiberation/GL_01_Gate_Way_To_Liberation-59f70ba2</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Gate Way To Liberation 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/GatewayToLiberation/GL_02_Gate_Way_To_Liberation.mp3" length="6932036" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:46</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/GatewayToLiberation/GL_02_Gate_Way_To_Liberation-5f390766</guid>

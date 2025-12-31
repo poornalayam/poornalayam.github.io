@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Uddhava_Gita_01</title>
       <itunes:subtitle>Uddhava_Gita_01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_01_Uddhava_Gita.mp3" length="6704332" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:52</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_01_Uddhava_Gita-f78f9f78</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Uddhava_Gita_02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_02_Uddhava_Gita.mp3" length="6773191" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:26</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_02_Uddhava_Gita-236cf5b4</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>Uddhava_Gita_03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_03_Uddhava_Gita.mp3" length="6668179" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:34</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_03_Uddhava_Gita-b7c684ca</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>Uddhava_Gita_04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_04_Uddhava_Gita.mp3" length="6635578" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:17</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_04_Uddhava_Gita-c9c5ef2c</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>Uddhava_Gita_05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_05_Uddhava_Gita.mp3" length="6751039" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:15</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_05_Uddhava_Gita-4d4c8db3</guid>
@@ -77,7 +77,7 @@
       <itunes:subtitle>Uddhava_Gita_06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_06_Uddhava_Gita.mp3" length="6489815" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:04</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_06_Uddhava_Gita-c5e8e79c</guid>
@@ -87,7 +87,7 @@
       <itunes:subtitle>Uddhava_Gita_07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_07_Uddhava_Gita.mp3" length="6490651" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:05</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_07_Uddhava_Gita-83c375ee</guid>
@@ -97,7 +97,7 @@
       <itunes:subtitle>Uddhava_Gita_08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_08_Uddhava_Gita.mp3" length="6431509" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:35</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_08_Uddhava_Gita-f639bc5a</guid>
@@ -107,7 +107,7 @@
       <itunes:subtitle>Uddhava_Gita_09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_09_Uddhava_Gita.mp3" length="6685838" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:42</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_09_Uddhava_Gita-7137bd5e</guid>
@@ -117,7 +117,7 @@
       <itunes:subtitle>Uddhava_Gita_10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_10_Uddhava_Gita.mp3" length="6431823" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:35</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_10_Uddhava_Gita-93bb46b8</guid>
@@ -127,7 +127,7 @@
       <itunes:subtitle>Uddhava_Gita_11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_11_Uddhava_Gita.mp3" length="6417090" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:28</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_11_Uddhava_Gita-92958504</guid>
@@ -137,7 +137,7 @@
       <itunes:subtitle>Uddhava_Gita_12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_12_Uddhava_Gita.mp3" length="6561808" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:40</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_12_Uddhava_Gita-e3689fe8</guid>
@@ -147,7 +147,7 @@
       <itunes:subtitle>Uddhava_Gita_13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_13_Uddhava_Gita.mp3" length="6584065" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:52</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_13_Uddhava_Gita-960a32aa</guid>
@@ -157,7 +157,7 @@
       <itunes:subtitle>Uddhava_Gita_14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_14_Uddhava_Gita.mp3" length="6490860" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:05</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_14_Uddhava_Gita-8b6527f3</guid>
@@ -167,7 +167,7 @@
       <itunes:subtitle>Uddhava_Gita_15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_15_Uddhava_Gita.mp3" length="6723245" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:01</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_15_Uddhava_Gita-77fab1cc</guid>
@@ -177,7 +177,7 @@
       <itunes:subtitle>Uddhava_Gita_16</itunes:subtitle>
       <itunes:summary>Class 016</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_16_Uddhava_Gita.mp3" length="6638086" type="audio/mpeg"/>
-      <pubDate>Wed, 16 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:19</itunes:duration>
       <itunes:order>16</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_16_Uddhava_Gita-3bb63c31</guid>
@@ -187,7 +187,7 @@
       <itunes:subtitle>Uddhava_Gita_17</itunes:subtitle>
       <itunes:summary>Class 017</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_17_Uddhava_Gita.mp3" length="6554285" type="audio/mpeg"/>
-      <pubDate>Thu, 17 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:37</itunes:duration>
       <itunes:order>17</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_17_Uddhava_Gita-315193c5</guid>
@@ -197,7 +197,7 @@
       <itunes:subtitle>Uddhava_Gita_18</itunes:subtitle>
       <itunes:summary>Class 018</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_18_Uddhava_Gita.mp3" length="6723454" type="audio/mpeg"/>
-      <pubDate>Fri, 18 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 18 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:01</itunes:duration>
       <itunes:order>18</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_18_Uddhava_Gita-652118cc</guid>
@@ -207,7 +207,7 @@
       <itunes:subtitle>Uddhava_Gita_19</itunes:subtitle>
       <itunes:summary>Class 019</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_19_Uddhava_Gita.mp3" length="6856783" type="audio/mpeg"/>
-      <pubDate>Sat, 19 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 19 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:08</itunes:duration>
       <itunes:order>19</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_19_Uddhava_Gita-5c08af46</guid>
@@ -217,7 +217,7 @@
       <itunes:subtitle>Uddhava_Gita_20</itunes:subtitle>
       <itunes:summary>Class 020</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_20_Uddhava_Gita.mp3" length="6683852" type="audio/mpeg"/>
-      <pubDate>Sun, 20 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 20 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:41</itunes:duration>
       <itunes:order>20</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_20_Uddhava_Gita-31aa5e4f</guid>
@@ -227,7 +227,7 @@
       <itunes:subtitle>Uddhava_GIta_21</itunes:subtitle>
       <itunes:summary>Class 021</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_21_Uddhava_Gita.mp3" length="6523043" type="audio/mpeg"/>
-      <pubDate>Mon, 21 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 21 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:21</itunes:duration>
       <itunes:order>21</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_21_Uddhava_Gita-01cc88ac</guid>
@@ -237,7 +237,7 @@
       <itunes:subtitle>Uddhava_Gita_22</itunes:subtitle>
       <itunes:summary>Class 022</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_22_Uddhava_Gita.mp3" length="6624607" type="audio/mpeg"/>
-      <pubDate>Tue, 22 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 22 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:12</itunes:duration>
       <itunes:order>22</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_22_Uddhava_Gita-8e7c16be</guid>
@@ -247,7 +247,7 @@
       <itunes:subtitle>Uddhava_Gita_23</itunes:subtitle>
       <itunes:summary>Class 023</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_23_Uddhava_Gita.mp3" length="6490651" type="audio/mpeg"/>
-      <pubDate>Wed, 23 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 23 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:05</itunes:duration>
       <itunes:order>23</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_23_Uddhava_Gita-108ccc71</guid>
@@ -257,7 +257,7 @@
       <itunes:subtitle>Uddhava_Gita_24</itunes:subtitle>
       <itunes:summary>Class 024</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_24_Uddhava_Gita.mp3" length="6615203" type="audio/mpeg"/>
-      <pubDate>Thu, 24 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 24 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:07</itunes:duration>
       <itunes:order>24</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_24_Uddhava_Gita-34d58d1e</guid>
@@ -267,7 +267,7 @@
       <itunes:subtitle>Uddhava_Gita_25</itunes:subtitle>
       <itunes:summary>Class 025</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_25_Uddhava_Gita.mp3" length="6547493" type="audio/mpeg"/>
-      <pubDate>Fri, 25 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 25 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:33</itunes:duration>
       <itunes:order>25</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_25_Uddhava_Gita-314a4b71</guid>
@@ -277,7 +277,7 @@
       <itunes:subtitle>Uddhava_Gita_26</itunes:subtitle>
       <itunes:summary>Class 026</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_26_Uddhava_Gita.mp3" length="6649580" type="audio/mpeg"/>
-      <pubDate>Sat, 26 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 26 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:24</itunes:duration>
       <itunes:order>26</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_26_Uddhava_Gita-9c8f9f98</guid>
@@ -287,7 +287,7 @@
       <itunes:subtitle>Uddhava_Gita_27</itunes:subtitle>
       <itunes:summary>Class 027</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_27_Uddhava_Gita.mp3" length="6545508" type="audio/mpeg"/>
-      <pubDate>Sun, 27 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 27 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:32</itunes:duration>
       <itunes:order>27</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_27_Uddhava_Gita-fe4384c8</guid>
@@ -297,7 +297,7 @@
       <itunes:subtitle>Uddhava_Gita_28</itunes:subtitle>
       <itunes:summary>Class 028</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_28_Uddhava_Gita.mp3" length="6704855" type="audio/mpeg"/>
-      <pubDate>Mon, 28 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 28 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:52</itunes:duration>
       <itunes:order>28</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_28_Uddhava_Gita-65fc3adf</guid>
@@ -307,7 +307,7 @@
       <itunes:subtitle>Uddhava_Gita_29</itunes:subtitle>
       <itunes:summary>Class 029</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_29_Uddhava_Gita.mp3" length="6679986" type="audio/mpeg"/>
-      <pubDate>Tue, 29 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 29 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:39</itunes:duration>
       <itunes:order>29</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_29_Uddhava_Gita-eddf5b62</guid>
@@ -317,7 +317,7 @@
       <itunes:subtitle>Uddhava_Gita_30</itunes:subtitle>
       <itunes:summary>Class 030</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_30_Uddhava_Gita.mp3" length="6565465" type="audio/mpeg"/>
-      <pubDate>Wed, 30 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 30 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:42</itunes:duration>
       <itunes:order>30</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_30_Uddhava_Gita-8273b075</guid>
@@ -327,7 +327,7 @@
       <itunes:subtitle>Uddhava_Gita_31</itunes:subtitle>
       <itunes:summary>Class 031</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_31_Uddhava_Gita.mp3" length="6682389" type="audio/mpeg"/>
-      <pubDate>Thu, 31 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 31 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:41</itunes:duration>
       <itunes:order>31</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_31_Uddhava_Gita-a5354f59</guid>
@@ -337,7 +337,7 @@
       <itunes:subtitle>Uddhava_Gita_32</itunes:subtitle>
       <itunes:summary>Class 032</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_32_Uddhava_Gita.mp3" length="6749158" type="audio/mpeg"/>
-      <pubDate>Fri, 01 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 01 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:14</itunes:duration>
       <itunes:order>32</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_32_Uddhava_Gita-1f8efbc8</guid>
@@ -347,7 +347,7 @@
       <itunes:subtitle>Uddhava_Gita_33</itunes:subtitle>
       <itunes:summary>Class 033</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_33_Uddhava_Gita.mp3" length="6855634" type="audio/mpeg"/>
-      <pubDate>Sat, 02 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 02 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:07</itunes:duration>
       <itunes:order>33</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_33_Uddhava_Gita-08a85e1c</guid>
@@ -357,7 +357,7 @@
       <itunes:subtitle>Uddhava_Gita_34</itunes:subtitle>
       <itunes:summary>Class 034</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_34_Uddhava_Gita.mp3" length="6847379" type="audio/mpeg"/>
-      <pubDate>Sun, 03 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 03 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:03</itunes:duration>
       <itunes:order>34</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_34_Uddhava_Gita-d1909651</guid>
@@ -367,7 +367,7 @@
       <itunes:subtitle>Uddhava_Gita_35</itunes:subtitle>
       <itunes:summary>Class 035</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_35_Uddhava_Gita.mp3" length="6711124" type="audio/mpeg"/>
-      <pubDate>Mon, 04 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 04 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:55</itunes:duration>
       <itunes:order>35</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_35_Uddhava_Gita-e838e90e</guid>
@@ -377,7 +377,7 @@
       <itunes:subtitle>Uddhava_Gita_36</itunes:subtitle>
       <itunes:summary>Class 036</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_36_Uddhava_Gita.mp3" length="6638608" type="audio/mpeg"/>
-      <pubDate>Tue, 05 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 05 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:19</itunes:duration>
       <itunes:order>36</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_36_Uddhava_Gita-9c92145a</guid>
@@ -387,7 +387,7 @@
       <itunes:subtitle>Uddhava_Gita_37</itunes:subtitle>
       <itunes:summary>Class 037</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_37_Uddhava_Gita.mp3" length="6792835" type="audio/mpeg"/>
-      <pubDate>Wed, 06 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 06 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:36</itunes:duration>
       <itunes:order>37</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_37_Uddhava_Gita-b6f31bcd</guid>
@@ -397,7 +397,7 @@
       <itunes:subtitle>Uddhava_Gita_38</itunes:subtitle>
       <itunes:summary>Class 038</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_38_Uddhava_Gita.mp3" length="6614262" type="audio/mpeg"/>
-      <pubDate>Thu, 07 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 07 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:07</itunes:duration>
       <itunes:order>38</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_38_Uddhava_Gita-ac21bfc7</guid>
@@ -407,7 +407,7 @@
       <itunes:subtitle>Uddhava_Gita_39</itunes:subtitle>
       <itunes:summary>Class 039</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_39_Uddhava_Gita.mp3" length="6735157" type="audio/mpeg"/>
-      <pubDate>Fri, 08 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 08 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:07</itunes:duration>
       <itunes:order>39</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_39_Uddhava_Gita-a88334b7</guid>
@@ -417,7 +417,7 @@
       <itunes:subtitle>Uddhava_Gita_40</itunes:subtitle>
       <itunes:summary>Class 040</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_40_Uddhava_Gita.mp3" length="6658043" type="audio/mpeg"/>
-      <pubDate>Sat, 09 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 09 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:29</itunes:duration>
       <itunes:order>40</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_40_Uddhava_Gita-59ffd961</guid>
@@ -427,7 +427,7 @@
       <itunes:subtitle>Uddhava_Gita_41</itunes:subtitle>
       <itunes:summary>Class 041</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_41_Uddhava_Gita.mp3" length="6652714" type="audio/mpeg"/>
-      <pubDate>Sun, 10 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 10 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:26</itunes:duration>
       <itunes:order>41</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_41_Uddhava_Gita-42e9c23c</guid>
@@ -437,7 +437,7 @@
       <itunes:subtitle>Uddhava_Gita_42</itunes:subtitle>
       <itunes:summary>Class 042</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_42_Uddhava_Gita.mp3" length="6623980" type="audio/mpeg"/>
-      <pubDate>Mon, 11 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 11 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:11</itunes:duration>
       <itunes:order>42</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_42_Uddhava_Gita-aad2ef32</guid>
@@ -447,7 +447,7 @@
       <itunes:subtitle>Uddhava_Gita_43</itunes:subtitle>
       <itunes:summary>Class 043</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_43_Uddhava_Gita.mp3" length="6537358" type="audio/mpeg"/>
-      <pubDate>Tue, 12 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 12 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:28</itunes:duration>
       <itunes:order>43</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_43_Uddhava_Gita-4d2778d2</guid>
@@ -457,7 +457,7 @@
       <itunes:subtitle>Uddhava_Gita_44</itunes:subtitle>
       <itunes:summary>Class 044</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_44_Uddhava_Gita.mp3" length="6749681" type="audio/mpeg"/>
-      <pubDate>Wed, 13 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 13 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:14</itunes:duration>
       <itunes:order>44</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_44_Uddhava_Gita-431c7797</guid>
@@ -467,7 +467,7 @@
       <itunes:subtitle>Uddhava_Gita_45</itunes:subtitle>
       <itunes:summary>Class 045</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_45_Uddhava_Gita.mp3" length="6601619" type="audio/mpeg"/>
-      <pubDate>Thu, 14 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 14 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:00</itunes:duration>
       <itunes:order>45</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_45_Uddhava_Gita-4572f028</guid>
@@ -477,7 +477,7 @@
       <itunes:subtitle>Uddhava_Gita_46</itunes:subtitle>
       <itunes:summary>Class 046</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_46_Uddhava_Gita.mp3" length="6694615" type="audio/mpeg"/>
-      <pubDate>Fri, 15 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 15 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:47</itunes:duration>
       <itunes:order>46</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_46_Uddhava_Gita-893e07f4</guid>
@@ -487,7 +487,7 @@
       <itunes:subtitle>Uddhava_Gita_47</itunes:subtitle>
       <itunes:summary>Class 047</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_47_Uddhava_Gita.mp3" length="6712065" type="audio/mpeg"/>
-      <pubDate>Sat, 16 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 16 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:56</itunes:duration>
       <itunes:order>47</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_47_Uddhava_Gita-b4d1e8a9</guid>
@@ -497,7 +497,7 @@
       <itunes:subtitle>Uddhava_Gita_48</itunes:subtitle>
       <itunes:summary>Class 048</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_48_Uddhava_Gita.mp3" length="6788656" type="audio/mpeg"/>
-      <pubDate>Sun, 17 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 17 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:34</itunes:duration>
       <itunes:order>48</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_48_Uddhava_Gita-c891978f</guid>
@@ -507,7 +507,7 @@
       <itunes:subtitle>Uddhava_Gita_49</itunes:subtitle>
       <itunes:summary>Class 049</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_49_Uddhava_Gita.mp3" length="6491487" type="audio/mpeg"/>
-      <pubDate>Mon, 18 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 18 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:05</itunes:duration>
       <itunes:order>49</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_49_Uddhava_Gita-2d74d0f7</guid>
@@ -517,7 +517,7 @@
       <itunes:subtitle>Uddhava_Gita_50</itunes:subtitle>
       <itunes:summary>Class 050</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_50_Uddhava_Gita.mp3" length="6738918" type="audio/mpeg"/>
-      <pubDate>Tue, 19 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 19 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:09</itunes:duration>
       <itunes:order>50</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_50_Uddhava_Gita-18165766</guid>
@@ -527,7 +527,7 @@
       <itunes:subtitle>Uddhava_Gita_51</itunes:subtitle>
       <itunes:summary>Class 051</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_51_Uddhava_Gita.mp3" length="6502354" type="audio/mpeg"/>
-      <pubDate>Wed, 20 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 20 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:11</itunes:duration>
       <itunes:order>51</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_51_Uddhava_Gita-ed3ace28</guid>
@@ -537,7 +537,7 @@
       <itunes:subtitle>Uddhava_Gita_52</itunes:subtitle>
       <itunes:summary>Class 052</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_52_Uddhava_Gita.mp3" length="6632548" type="audio/mpeg"/>
-      <pubDate>Thu, 21 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 21 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:16</itunes:duration>
       <itunes:order>52</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_52_Uddhava_Gita-575efcfa</guid>
@@ -547,7 +547,7 @@
       <itunes:subtitle>Uddhava_Gita_53</itunes:subtitle>
       <itunes:summary>Class 053</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_53_Uddhava_Gita.mp3" length="6656685" type="audio/mpeg"/>
-      <pubDate>Fri, 22 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 22 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:28</itunes:duration>
       <itunes:order>53</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_53_Uddhava_Gita-d2c20e9e</guid>
@@ -557,7 +557,7 @@
       <itunes:subtitle>Uddhava_Gita_54</itunes:subtitle>
       <itunes:summary>Class 054</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_54_Uddhava_Gita.mp3" length="6814883" type="audio/mpeg"/>
-      <pubDate>Sat, 23 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 23 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:47</itunes:duration>
       <itunes:order>54</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_54_Uddhava_Gita-b6ff6100</guid>
@@ -567,7 +567,7 @@
       <itunes:subtitle>Uddhava_Gita_55</itunes:subtitle>
       <itunes:summary>Class 055</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_55_Uddhava_Gita.mp3" length="6703183" type="audio/mpeg"/>
-      <pubDate>Sun, 24 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 24 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:51</itunes:duration>
       <itunes:order>55</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_55_Uddhava_Gita-aecba635</guid>
@@ -577,7 +577,7 @@
       <itunes:subtitle>Uddhava_Gita_56</itunes:subtitle>
       <itunes:summary>Class 056</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_56_Uddhava_Gita.mp3" length="6770265" type="audio/mpeg"/>
-      <pubDate>Mon, 25 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 25 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:25</itunes:duration>
       <itunes:order>56</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_56_Uddhava_Gita-20fe8c25</guid>
@@ -587,7 +587,7 @@
       <itunes:subtitle>Uddhava_Gita_57</itunes:subtitle>
       <itunes:summary>Class 057</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_57_Uddhava_Gita.mp3" length="6776639" type="audio/mpeg"/>
-      <pubDate>Tue, 26 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 26 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:28</itunes:duration>
       <itunes:order>57</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_57_Uddhava_Gita-13d41370</guid>
@@ -597,7 +597,7 @@
       <itunes:subtitle>Uddhava_Gita_58</itunes:subtitle>
       <itunes:summary>Class 058</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_58_Uddhava_Gita.mp3" length="6876114" type="audio/mpeg"/>
-      <pubDate>Wed, 27 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 27 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:18</itunes:duration>
       <itunes:order>58</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_58_Uddhava_Gita-e69d8e9a</guid>
@@ -607,7 +607,7 @@
       <itunes:subtitle>Uddhava_Gita_59</itunes:subtitle>
       <itunes:summary>Class 059</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_59_Uddhava_Gita.mp3" length="6573302" type="audio/mpeg"/>
-      <pubDate>Thu, 28 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 28 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:46</itunes:duration>
       <itunes:order>59</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_59_Uddhava_Gita-9bad255b</guid>
@@ -617,7 +617,7 @@
       <itunes:subtitle>Uddhava_Gita_60</itunes:subtitle>
       <itunes:summary>Class 060</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_60_Uddhava_Gita.mp3" length="6697436" type="audio/mpeg"/>
-      <pubDate>Fri, 01 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 01 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:48</itunes:duration>
       <itunes:order>60</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_60_Uddhava_Gita-defdb1f5</guid>
@@ -627,7 +627,7 @@
       <itunes:subtitle>Uddhava_Gita_61</itunes:subtitle>
       <itunes:summary>Class 061</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_61_Uddhava_Gita.mp3" length="6693256" type="audio/mpeg"/>
-      <pubDate>Sat, 02 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 02 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:46</itunes:duration>
       <itunes:order>61</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_61_Uddhava_Gita-34a1fcfe</guid>
@@ -637,7 +637,7 @@
       <itunes:subtitle>Uddhava_Gita_62</itunes:subtitle>
       <itunes:summary>Class 062</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_62_Uddhava_Gita.mp3" length="6822719" type="audio/mpeg"/>
-      <pubDate>Sun, 03 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 03 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:51</itunes:duration>
       <itunes:order>62</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_62_Uddhava_Gita-76b30a02</guid>
@@ -647,7 +647,7 @@
       <itunes:subtitle>Uddhava_Gita_63</itunes:subtitle>
       <itunes:summary>Class 063</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_63_Uddhava_Gita.mp3" length="6800254" type="audio/mpeg"/>
-      <pubDate>Mon, 04 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 04 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:40</itunes:duration>
       <itunes:order>63</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_63_Uddhava_Gita-e110e34c</guid>
@@ -657,7 +657,7 @@
       <itunes:subtitle>Uddhava_Gita_64</itunes:subtitle>
       <itunes:summary>Class 064</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_64_Uddhava_Gita.mp3" length="6742471" type="audio/mpeg"/>
-      <pubDate>Tue, 05 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 05 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:11</itunes:duration>
       <itunes:order>64</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_64_Uddhava_Gita-3a8760c9</guid>
@@ -667,7 +667,7 @@
       <itunes:subtitle>Uddhava_Gita_65</itunes:subtitle>
       <itunes:summary>Class 065</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_65_Uddhava_Gita.mp3" length="6832123" type="audio/mpeg"/>
-      <pubDate>Wed, 06 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 06 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:56</itunes:duration>
       <itunes:order>65</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_65_Uddhava_Gita-4404eebc</guid>
@@ -677,7 +677,7 @@
       <itunes:subtitle>Uddhava_Gita_66</itunes:subtitle>
       <itunes:summary>Class 066</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_66_Uddhava_Gita.mp3" length="6608933" type="audio/mpeg"/>
-      <pubDate>Thu, 07 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 07 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:04</itunes:duration>
       <itunes:order>66</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_66_Uddhava_Gita-0e35a467</guid>
@@ -687,7 +687,7 @@
       <itunes:subtitle>Uddhava_Gita_67</itunes:subtitle>
       <itunes:summary>Class 067</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_67_Uddhava_Gita.mp3" length="6587408" type="audio/mpeg"/>
-      <pubDate>Fri, 08 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 08 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:53</itunes:duration>
       <itunes:order>67</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_67_Uddhava_Gita-0f5649e6</guid>
@@ -697,7 +697,7 @@
       <itunes:subtitle>Uddhava_Gita_68</itunes:subtitle>
       <itunes:summary>Class 068</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_68_Uddhava_Gita.mp3" length="6490755" type="audio/mpeg"/>
-      <pubDate>Sat, 09 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 09 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:05</itunes:duration>
       <itunes:order>68</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_68_Uddhava_Gita-0adc780d</guid>
@@ -707,7 +707,7 @@
       <itunes:subtitle>Uddhava_Gita_69</itunes:subtitle>
       <itunes:summary>Class 069</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_69_Uddhava_Gita.mp3" length="6506115" type="audio/mpeg"/>
-      <pubDate>Sun, 10 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 10 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:13</itunes:duration>
       <itunes:order>69</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_69_Uddhava_Gita-684e1caa</guid>
@@ -717,7 +717,7 @@
       <itunes:subtitle>Uddhava_Gita_70</itunes:subtitle>
       <itunes:summary>Class 070</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_70_Uddhava_Gita.mp3" length="6816241" type="audio/mpeg"/>
-      <pubDate>Mon, 11 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 11 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:48</itunes:duration>
       <itunes:order>70</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_70_Uddhava_Gita-b1b56710</guid>
@@ -727,7 +727,7 @@
       <itunes:subtitle>Uddhava_Gita_71</itunes:subtitle>
       <itunes:summary>Class 071</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_71_Uddhava_Gita.mp3" length="6623205" type="audio/mpeg"/>
-      <pubDate>Tue, 12 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 12 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:11</itunes:duration>
       <itunes:order>71</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_71_Uddhava_Gita-2ed97b04</guid>
@@ -737,7 +737,7 @@
       <itunes:subtitle>Uddhava_Gita_72</itunes:subtitle>
       <itunes:summary>Class 072</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_72_Uddhava_Gita.mp3" length="6759921" type="audio/mpeg"/>
-      <pubDate>Wed, 13 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 13 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:19</itunes:duration>
       <itunes:order>72</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_72_Uddhava_Gita-35e13aaa</guid>
@@ -747,7 +747,7 @@
       <itunes:subtitle>Uddhava_Gita_73</itunes:subtitle>
       <itunes:summary>Class 073</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_73_Uddhava_Gita.mp3" length="6556118" type="audio/mpeg"/>
-      <pubDate>Thu, 14 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 14 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:38</itunes:duration>
       <itunes:order>73</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_73_Uddhava_Gita-0ccc5667</guid>
@@ -757,7 +757,7 @@
       <itunes:subtitle>Uddhava_Gita_74</itunes:subtitle>
       <itunes:summary>Class 074</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_74_Uddhava_Gita.mp3" length="6810028" type="audio/mpeg"/>
-      <pubDate>Fri, 15 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 15 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:45</itunes:duration>
       <itunes:order>74</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_74_Uddhava_Gita-fea61d33</guid>
@@ -767,7 +767,7 @@
       <itunes:subtitle>Uddhava_Gita_75</itunes:subtitle>
       <itunes:summary>Class 075</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_75_Uddhava_Gita.mp3" length="6480515" type="audio/mpeg"/>
-      <pubDate>Sat, 16 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 16 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:00</itunes:duration>
       <itunes:order>75</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_75_Uddhava_Gita-dad769ce</guid>
@@ -777,7 +777,7 @@
       <itunes:subtitle>Uddhava_Gita_76</itunes:subtitle>
       <itunes:summary>Class 076</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_76_Uddhava_Gita.mp3" length="6437779" type="audio/mpeg"/>
-      <pubDate>Sun, 17 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 17 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:38</itunes:duration>
       <itunes:order>76</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_76_Uddhava_Gita-b38597f0</guid>
@@ -787,7 +787,7 @@
       <itunes:subtitle>Uddhava_Gita_77</itunes:subtitle>
       <itunes:summary>Class 077</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_77_Uddhava_Gita.mp3" length="6625443" type="audio/mpeg"/>
-      <pubDate>Mon, 18 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 18 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:12</itunes:duration>
       <itunes:order>77</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_77_Uddhava_Gita-1731f9a8</guid>
@@ -797,7 +797,7 @@
       <itunes:subtitle>Uddhava_Gita_78</itunes:subtitle>
       <itunes:summary>Class 078</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_78_Uddhava_Gita.mp3" length="6577586" type="audio/mpeg"/>
-      <pubDate>Tue, 19 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 19 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:48</itunes:duration>
       <itunes:order>78</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_78_Uddhava_Gita-81c8eb2f</guid>
@@ -807,7 +807,7 @@
       <itunes:subtitle>Uddhava_Gita_79</itunes:subtitle>
       <itunes:summary>Class 079</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_79_Uddhava_Gita.mp3" length="6667447" type="audio/mpeg"/>
-      <pubDate>Wed, 20 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 20 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:33</itunes:duration>
       <itunes:order>79</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_79_Uddhava_Gita-773c21e6</guid>
@@ -817,7 +817,7 @@
       <itunes:subtitle>Uddhava_Gita_80</itunes:subtitle>
       <itunes:summary>Class 080</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_80_Uddhava_Gita.mp3" length="6348231" type="audio/mpeg"/>
-      <pubDate>Thu, 21 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 21 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:52:54</itunes:duration>
       <itunes:order>80</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_80_Uddhava_Gita-fe4b8d83</guid>
@@ -827,7 +827,7 @@
       <itunes:subtitle>Uddhava_Gita_81</itunes:subtitle>
       <itunes:summary>Class 081</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_81_Uddhava_Gita.mp3" length="6524855" type="audio/mpeg"/>
-      <pubDate>Fri, 22 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 22 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:22</itunes:duration>
       <itunes:order>81</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_81_Uddhava_Gita-9456c401</guid>
@@ -837,7 +837,7 @@
       <itunes:subtitle>Uddhava_Gita_82</itunes:subtitle>
       <itunes:summary>Class 082</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_82_Uddhava_Gita.mp3" length="6719483" type="audio/mpeg"/>
-      <pubDate>Sat, 23 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 23 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:59</itunes:duration>
       <itunes:order>82</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_82_Uddhava_Gita-84c6671a</guid>
@@ -847,7 +847,7 @@
       <itunes:subtitle>Uddhava_Gita_83</itunes:subtitle>
       <itunes:summary>Class 083</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_83_Uddhava_Gita.mp3" length="6639549" type="audio/mpeg"/>
-      <pubDate>Sun, 24 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 24 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:19</itunes:duration>
       <itunes:order>83</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_83_Uddhava_Gita-b04afe2a</guid>
@@ -857,7 +857,7 @@
       <itunes:subtitle>Uddhava_Gita_84</itunes:subtitle>
       <itunes:summary>Class 084</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_84_Uddhava_Gita.mp3" length="6762638" type="audio/mpeg"/>
-      <pubDate>Mon, 25 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 25 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:21</itunes:duration>
       <itunes:order>84</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_84_Uddhava_Gita-757da57b</guid>
@@ -867,7 +867,7 @@
       <itunes:subtitle>Uddhava_Gita_85</itunes:subtitle>
       <itunes:summary>Class 085</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_85_Uddhava_Gita.mp3" length="6586007" type="audio/mpeg"/>
-      <pubDate>Tue, 26 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 26 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:53</itunes:duration>
       <itunes:order>85</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_85_Uddhava_Gita-ea2b4a52</guid>
@@ -877,7 +877,7 @@
       <itunes:subtitle>Uddhava_Gita_86</itunes:subtitle>
       <itunes:summary>Class 086</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_86_Uddhava_Gita.mp3" length="6671209" type="audio/mpeg"/>
-      <pubDate>Wed, 27 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 27 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:35</itunes:duration>
       <itunes:order>86</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_86_Uddhava_Gita-4f72e520</guid>
@@ -887,7 +887,7 @@
       <itunes:subtitle>Uddhava_Gita_87</itunes:subtitle>
       <itunes:summary>Class 087</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_87_Uddhava_Gita.mp3" length="6251996" type="audio/mpeg"/>
-      <pubDate>Thu, 28 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 28 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:52:05</itunes:duration>
       <itunes:order>87</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_87_Uddhava_Gita-279fc91f</guid>
@@ -897,7 +897,7 @@
       <itunes:subtitle>Uddhava_Gita_88</itunes:subtitle>
       <itunes:summary>Class 088</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_88_Uddhava_Gita.mp3" length="6814569" type="audio/mpeg"/>
-      <pubDate>Fri, 29 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 29 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:47</itunes:duration>
       <itunes:order>88</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_88_Uddhava_Gita-ce935743</guid>
@@ -907,7 +907,7 @@
       <itunes:subtitle>Uddhava_Gita_89</itunes:subtitle>
       <itunes:summary>Class 089</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_89_Uddhava_Gita.mp3" length="6671627" type="audio/mpeg"/>
-      <pubDate>Sat, 30 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 30 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:35</itunes:duration>
       <itunes:order>89</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_89_Uddhava_Gita-040398a0</guid>
@@ -917,7 +917,7 @@
       <itunes:subtitle>Uddhava_Gita_90</itunes:subtitle>
       <itunes:summary>Class 090</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_90_Uddhava_Gita.mp3" length="6854798" type="audio/mpeg"/>
-      <pubDate>Sun, 31 March 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 31 Mar 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:07</itunes:duration>
       <itunes:order>90</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_90_Uddhava_Gita-cd1574e4</guid>
@@ -927,7 +927,7 @@
       <itunes:subtitle>Uddhava_Gita_91</itunes:subtitle>
       <itunes:summary>Class 091</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_91_Uddhava_Gita.mp3" length="6811804" type="audio/mpeg"/>
-      <pubDate>Mon, 01 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 01 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:45</itunes:duration>
       <itunes:order>91</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_91_Uddhava_Gita-35db0aaa</guid>
@@ -937,7 +937,7 @@
       <itunes:subtitle>Uddhava_Gita_92</itunes:subtitle>
       <itunes:summary>Class 092</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_92_Uddhava_Gita.mp3" length="6849128" type="audio/mpeg"/>
-      <pubDate>Tue, 02 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 02 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:04</itunes:duration>
       <itunes:order>92</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_92_Uddhava_Gita-f9f74e3a</guid>
@@ -947,7 +947,7 @@
       <itunes:subtitle>Uddhava_Gita_93</itunes:subtitle>
       <itunes:summary>Class 093</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_93_Uddhava_Gita.mp3" length="6692791" type="audio/mpeg"/>
-      <pubDate>Wed, 03 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 03 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:46</itunes:duration>
       <itunes:order>93</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_93_Uddhava_Gita-ca16dd09</guid>
@@ -957,7 +957,7 @@
       <itunes:subtitle>Uddhava_Gita_94</itunes:subtitle>
       <itunes:summary>Class 094</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_94_Uddhava_Gita.mp3" length="6708512" type="audio/mpeg"/>
-      <pubDate>Thu, 04 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 04 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:54</itunes:duration>
       <itunes:order>94</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_94_Uddhava_Gita-123c710e</guid>
@@ -967,7 +967,7 @@
       <itunes:subtitle>Uddhava_Gita_95</itunes:subtitle>
       <itunes:summary>Class 095</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_95_Uddhava_Gita.mp3" length="6695242" type="audio/mpeg"/>
-      <pubDate>Fri, 05 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 05 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:47</itunes:duration>
       <itunes:order>95</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_95_Uddhava_Gita-801756b3</guid>
@@ -977,7 +977,7 @@
       <itunes:subtitle>Uddhava_Gita_96</itunes:subtitle>
       <itunes:summary>Class 096</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_96_Uddhava_Gita.mp3" length="6512232" type="audio/mpeg"/>
-      <pubDate>Sat, 06 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 06 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:16</itunes:duration>
       <itunes:order>96</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_96_Uddhava_Gita-cd98801e</guid>
@@ -987,7 +987,7 @@
       <itunes:subtitle>Uddhava_Gita_97</itunes:subtitle>
       <itunes:summary>Class 097</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_97_Uddhava_Gita.mp3" length="6637981" type="audio/mpeg"/>
-      <pubDate>Sun, 07 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 07 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:18</itunes:duration>
       <itunes:order>97</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_97_Uddhava_Gita-c4fc0ed6</guid>
@@ -997,7 +997,7 @@
       <itunes:subtitle>Uddhava_Gita_98</itunes:subtitle>
       <itunes:summary>Class 098</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_98_Uddhava_Gita.mp3" length="6527536" type="audio/mpeg"/>
-      <pubDate>Mon, 08 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 08 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:23</itunes:duration>
       <itunes:order>98</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_98_Uddhava_Gita-75c9ff3f</guid>
@@ -1007,7 +1007,7 @@
       <itunes:subtitle>Uddhava_Gita_99</itunes:subtitle>
       <itunes:summary>Class 099</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_99_Uddhava_Gita.mp3" length="6621994" type="audio/mpeg"/>
-      <pubDate>Tue, 09 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 09 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:10</itunes:duration>
       <itunes:order>99</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_99_Uddhava_Gita-66b7c89a</guid>
@@ -1017,7 +1017,7 @@
       <itunes:subtitle>Uddhava_Gita_100</itunes:subtitle>
       <itunes:summary>Class 100</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_100_Uddhava_Gita.mp3" length="6449066" type="audio/mpeg"/>
-      <pubDate>Wed, 10 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 10 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:44</itunes:duration>
       <itunes:order>100</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_100_Uddhava_Gita-cc6047c1</guid>
@@ -1027,7 +1027,7 @@
       <itunes:subtitle>Uddhava_Gita_101</itunes:subtitle>
       <itunes:summary>Class 101</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_101_Uddhava_Gita.mp3" length="6613797" type="audio/mpeg"/>
-      <pubDate>Thu, 11 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 11 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:06</itunes:duration>
       <itunes:order>101</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_101_Uddhava_Gita-50ee7195</guid>
@@ -1037,7 +1037,7 @@
       <itunes:subtitle>Uddhava_Gita_102</itunes:subtitle>
       <itunes:summary>Class 102</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_102_Uddhava_Gita.mp3" length="6245415" type="audio/mpeg"/>
-      <pubDate>Fri, 12 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 12 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:52:02</itunes:duration>
       <itunes:order>102</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_102_Uddhava_Gita-a5e5f605</guid>
@@ -1047,7 +1047,7 @@
       <itunes:subtitle>Uddhava_Gita_103</itunes:subtitle>
       <itunes:summary>Class 103</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_103_Uddhava_Gita.mp3" length="6547495" type="audio/mpeg"/>
-      <pubDate>Sat, 13 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 13 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:33</itunes:duration>
       <itunes:order>103</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_103_Uddhava_Gita-3b0c2c21</guid>
@@ -1057,7 +1057,7 @@
       <itunes:subtitle>Uddhava_Gita_104</itunes:subtitle>
       <itunes:summary>Class 104</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_104_Uddhava_Gita.mp3" length="6823244" type="audio/mpeg"/>
-      <pubDate>Sun, 14 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 14 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:51</itunes:duration>
       <itunes:order>104</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_104_Uddhava_Gita-f7a20713</guid>
@@ -1067,7 +1067,7 @@
       <itunes:subtitle>Uddhava_Gita_105</itunes:subtitle>
       <itunes:summary>Class 105</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_105_Uddhava_Gita.mp3" length="6685735" type="audio/mpeg"/>
-      <pubDate>Mon, 15 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 15 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:42</itunes:duration>
       <itunes:order>105</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_105_Uddhava_Gita-0f76d676</guid>
@@ -1077,7 +1077,7 @@
       <itunes:subtitle>Uddhava_Gita_106</itunes:subtitle>
       <itunes:summary>Class 106</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_106_Uddhava_Gita.mp3" length="6514894" type="audio/mpeg"/>
-      <pubDate>Tue, 16 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 16 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:17</itunes:duration>
       <itunes:order>106</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_106_Uddhava_Gita-056a92e7</guid>
@@ -1087,7 +1087,7 @@
       <itunes:subtitle>Uddhava_Gita_107</itunes:subtitle>
       <itunes:summary>Class 107</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_107_Uddhava_Gita.mp3" length="6776746" type="audio/mpeg"/>
-      <pubDate>Wed, 17 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 17 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:28</itunes:duration>
       <itunes:order>107</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_107_Uddhava_Gita-13050e5a</guid>
@@ -1097,7 +1097,7 @@
       <itunes:subtitle>Uddhava_Gita_108</itunes:subtitle>
       <itunes:summary>Class 108</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_108_Uddhava_Gita.mp3" length="6485115" type="audio/mpeg"/>
-      <pubDate>Thu, 18 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 18 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:02</itunes:duration>
       <itunes:order>108</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_108_Uddhava_Gita-7984c457</guid>
@@ -1107,7 +1107,7 @@
       <itunes:subtitle>Uddhava_Gita_109</itunes:subtitle>
       <itunes:summary>Class 109</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_109_Uddhava_Gita.mp3" length="6630878" type="audio/mpeg"/>
-      <pubDate>Fri, 19 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 19 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:15</itunes:duration>
       <itunes:order>109</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_109_Uddhava_Gita-c18a9f52</guid>
@@ -1117,7 +1117,7 @@
       <itunes:subtitle>Uddhava_Gita_110</itunes:subtitle>
       <itunes:summary>Class 110</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_110_Uddhava_Gita.mp3" length="6464635" type="audio/mpeg"/>
-      <pubDate>Sat, 20 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 20 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:52</itunes:duration>
       <itunes:order>110</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_110_Uddhava_Gita-d2fbf689</guid>
@@ -1127,7 +1127,7 @@
       <itunes:subtitle>Uddhava_Gita_111</itunes:subtitle>
       <itunes:summary>Class 111</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_111_Uddhava_Gita.mp3" length="6321902" type="audio/mpeg"/>
-      <pubDate>Sun, 21 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 21 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:52:40</itunes:duration>
       <itunes:order>111</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_111_Uddhava_Gita-97d7b217</guid>
@@ -1137,7 +1137,7 @@
       <itunes:subtitle>Uddhava_Gita_112</itunes:subtitle>
       <itunes:summary>Class 112</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_112_Uddhava_Gita.mp3" length="6504341" type="audio/mpeg"/>
-      <pubDate>Mon, 22 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 22 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:12</itunes:duration>
       <itunes:order>112</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_112_Uddhava_Gita-aaa6c467</guid>
@@ -1147,7 +1147,7 @@
       <itunes:subtitle>Uddhava_Gita_113</itunes:subtitle>
       <itunes:summary>Class 113</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_113_Uddhava_Gita.mp3" length="6550525" type="audio/mpeg"/>
-      <pubDate>Tue, 23 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 23 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:35</itunes:duration>
       <itunes:order>113</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_113_Uddhava_Gita-ee7686e2</guid>
@@ -1157,7 +1157,7 @@
       <itunes:subtitle>Uddhava_Gita_114</itunes:subtitle>
       <itunes:summary>Class 114</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_114_Uddhava_Gita.mp3" length="6591067" type="audio/mpeg"/>
-      <pubDate>Wed, 24 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 24 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:55</itunes:duration>
       <itunes:order>114</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_114_Uddhava_Gita-e2471fd3</guid>
@@ -1167,7 +1167,7 @@
       <itunes:subtitle>Uddhava_Gita_115</itunes:subtitle>
       <itunes:summary>Class 115</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_115_Uddhava_Gita.mp3" length="6605278" type="audio/mpeg"/>
-      <pubDate>Thu, 25 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 25 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:02</itunes:duration>
       <itunes:order>115</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_115_Uddhava_Gita-afd0b83d</guid>
@@ -1177,7 +1177,7 @@
       <itunes:subtitle>Uddhava_Gita_116</itunes:subtitle>
       <itunes:summary>Class 116</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_116_Uddhava_Gita.mp3" length="6194320" type="audio/mpeg"/>
-      <pubDate>Fri, 26 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 26 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:51:37</itunes:duration>
       <itunes:order>116</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_116_Uddhava_Gita-aecbcf8a</guid>
@@ -1187,7 +1187,7 @@
       <itunes:subtitle>Uddhava_Gita_117</itunes:subtitle>
       <itunes:summary>Class 117</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_117_Uddhava_Gita.mp3" length="6684690" type="audio/mpeg"/>
-      <pubDate>Sat, 27 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 27 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:42</itunes:duration>
       <itunes:order>117</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_117_Uddhava_Gita-59898261</guid>
@@ -1197,7 +1197,7 @@
       <itunes:subtitle>Uddhava_Gita_118</itunes:subtitle>
       <itunes:summary>Class 118</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_118_Uddhava_Gita.mp3" length="6719381" type="audio/mpeg"/>
-      <pubDate>Sun, 28 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 28 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:59</itunes:duration>
       <itunes:order>118</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_118_Uddhava_Gita-9607f16d</guid>
@@ -1207,7 +1207,7 @@
       <itunes:subtitle>Uddhava_Gita_119</itunes:subtitle>
       <itunes:summary>Class 119</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_119_Uddhava_Gita.mp3" length="6180631" type="audio/mpeg"/>
-      <pubDate>Mon, 29 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 29 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:51:30</itunes:duration>
       <itunes:order>119</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_119_Uddhava_Gita-82fb4fbe</guid>
@@ -1217,7 +1217,7 @@
       <itunes:subtitle>Uddhava_Gita_120</itunes:subtitle>
       <itunes:summary>Class 120</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_120_Uddhava_Gita.mp3" length="6256073" type="audio/mpeg"/>
-      <pubDate>Tue, 30 April 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 30 Apr 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:52:08</itunes:duration>
       <itunes:order>120</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_120_Uddhava_Gita-9f3559dd</guid>
@@ -1227,7 +1227,7 @@
       <itunes:subtitle>Uddhava_Gita_121</itunes:subtitle>
       <itunes:summary>Class 121</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_121_Uddhava_Gita.mp3" length="6172063" type="audio/mpeg"/>
-      <pubDate>Wed, 01 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 01 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:51:26</itunes:duration>
       <itunes:order>121</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_121_Uddhava_Gita-cc099d74</guid>
@@ -1237,7 +1237,7 @@
       <itunes:subtitle>Uddhava_Gita_122</itunes:subtitle>
       <itunes:summary>Class 122</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_122_Uddhava_Gita.mp3" length="6754489" type="audio/mpeg"/>
-      <pubDate>Thu, 02 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 02 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:17</itunes:duration>
       <itunes:order>122</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_122_Uddhava_Gita-0b4a2776</guid>
@@ -1247,7 +1247,7 @@
       <itunes:subtitle>Uddhava_Gita_123</itunes:subtitle>
       <itunes:summary>Class 123</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_123_Uddhava_Gita.mp3" length="6683645" type="audio/mpeg"/>
-      <pubDate>Fri, 03 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 03 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:41</itunes:duration>
       <itunes:order>123</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_123_Uddhava_Gita-eb5ee1a9</guid>
@@ -1257,7 +1257,7 @@
       <itunes:subtitle>Uddhava_Gita_124</itunes:subtitle>
       <itunes:summary>Class 124</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_124_Uddhava_Gita.mp3" length="6519910" type="audio/mpeg"/>
-      <pubDate>Sat, 04 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 04 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:19</itunes:duration>
       <itunes:order>124</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_124_Uddhava_Gita-b7d94529</guid>
@@ -1267,7 +1267,7 @@
       <itunes:subtitle>Uddhava_Gita_125</itunes:subtitle>
       <itunes:summary>Class 125</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_125_Uddhava_Gita.mp3" length="6516671" type="audio/mpeg"/>
-      <pubDate>Sun, 05 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 05 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:18</itunes:duration>
       <itunes:order>125</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_125_Uddhava_Gita-c277b00a</guid>
@@ -1277,7 +1277,7 @@
       <itunes:subtitle>Uddhava_Gita_126</itunes:subtitle>
       <itunes:summary>Class 126</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_126_Uddhava_Gita.mp3" length="6447498" type="audio/mpeg"/>
-      <pubDate>Mon, 06 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 06 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:43</itunes:duration>
       <itunes:order>126</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_126_Uddhava_Gita-7ce0f74e</guid>
@@ -1287,7 +1287,7 @@
       <itunes:subtitle>Uddhava_Gita_127</itunes:subtitle>
       <itunes:summary>Class 127</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_127_Uddhava_Gita.mp3" length="6524298" type="audio/mpeg"/>
-      <pubDate>Tue, 07 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 07 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:22</itunes:duration>
       <itunes:order>127</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_127_Uddhava_Gita-af5b7d5a</guid>
@@ -1297,7 +1297,7 @@
       <itunes:subtitle>Uddhava_Gita_128</itunes:subtitle>
       <itunes:summary>Class 128</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_128_Uddhava_Gita.mp3" length="6654597" type="audio/mpeg"/>
-      <pubDate>Wed, 08 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 08 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:27</itunes:duration>
       <itunes:order>128</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_128_Uddhava_Gita-fbd53d65</guid>
@@ -1307,7 +1307,7 @@
       <itunes:subtitle>Uddhava_Gita_129</itunes:subtitle>
       <itunes:summary>Class 129</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_129_Uddhava_Gita.mp3" length="6630878" type="audio/mpeg"/>
-      <pubDate>Thu, 09 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 09 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:15</itunes:duration>
       <itunes:order>129</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_129_Uddhava_Gita-229af852</guid>
@@ -1317,7 +1317,7 @@
       <itunes:subtitle>Uddhava_Gita_130</itunes:subtitle>
       <itunes:summary>Class 130</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_130_Uddhava_Gita.mp3" length="6562437" type="audio/mpeg"/>
-      <pubDate>Fri, 10 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 10 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:41</itunes:duration>
       <itunes:order>130</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_130_Uddhava_Gita-273e6cb6</guid>
@@ -1327,7 +1327,7 @@
       <itunes:subtitle>Uddhava_Gita_131</itunes:subtitle>
       <itunes:summary>Class 131</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_131_Uddhava_Gita.mp3" length="6556377" type="audio/mpeg"/>
-      <pubDate>Sat, 11 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 11 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:38</itunes:duration>
       <itunes:order>131</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_131_Uddhava_Gita-987b8437</guid>
@@ -1337,7 +1337,7 @@
       <itunes:subtitle>Uddhava_Gita_132</itunes:subtitle>
       <itunes:summary>Class 132</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_132_Uddhava_Gita.mp3" length="6454917" type="audio/mpeg"/>
-      <pubDate>Sun, 12 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 12 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:47</itunes:duration>
       <itunes:order>132</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_132_Uddhava_Gita-3b330171</guid>
@@ -1347,7 +1347,7 @@
       <itunes:subtitle>Uddhava_Gita_133</itunes:subtitle>
       <itunes:summary>Class 133</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_133_Uddhava_Gita.mp3" length="6640212" type="audio/mpeg"/>
-      <pubDate>Mon, 13 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 13 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:20</itunes:duration>
       <itunes:order>133</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_133_Uddhava_Gita-fbe03e34</guid>
@@ -1357,7 +1357,7 @@
       <itunes:subtitle>Uddhava_Gita_134</itunes:subtitle>
       <itunes:summary>Class 134</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_134_Uddhava_Gita.mp3" length="6455788" type="audio/mpeg"/>
-      <pubDate>Tue, 14 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 14 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:47</itunes:duration>
       <itunes:order>134</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_134_Uddhava_Gita-f6ab6d4a</guid>
@@ -1367,7 +1367,7 @@
       <itunes:subtitle>Uddhava_Gita_135</itunes:subtitle>
       <itunes:summary>Class 135</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_135_Uddhava_Gita.mp3" length="6553558" type="audio/mpeg"/>
-      <pubDate>Wed, 15 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 15 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:36</itunes:duration>
       <itunes:order>135</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_135_Uddhava_Gita-0336b08f</guid>
@@ -1377,7 +1377,7 @@
       <itunes:subtitle>Uddhava_Gita_136</itunes:subtitle>
       <itunes:summary>Class 136</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_136_Uddhava_Gita.mp3" length="6842992" type="audio/mpeg"/>
-      <pubDate>Thu, 16 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 16 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:01</itunes:duration>
       <itunes:order>136</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_136_Uddhava_Gita-2df5dee1</guid>
@@ -1387,7 +1387,7 @@
       <itunes:subtitle>Uddhava_Gita_137</itunes:subtitle>
       <itunes:summary>Class 137</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_137_Uddhava_Gita.mp3" length="6539742" type="audio/mpeg"/>
-      <pubDate>Fri, 17 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 17 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:29</itunes:duration>
       <itunes:order>137</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_137_Uddhava_Gita-c5e79c3b</guid>
@@ -1397,7 +1397,7 @@
       <itunes:subtitle>Uddhava_Gita_138</itunes:subtitle>
       <itunes:summary>Class 138</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_138_Uddhava_Gita.mp3" length="6614661" type="audio/mpeg"/>
-      <pubDate>Sat, 18 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 18 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:07</itunes:duration>
       <itunes:order>138</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_138_Uddhava_Gita-83c87419</guid>
@@ -1407,7 +1407,7 @@
       <itunes:subtitle>Uddhava_Gita_139</itunes:subtitle>
       <itunes:summary>Class 139</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_139_Uddhava_Gita.mp3" length="6644545" type="audio/mpeg"/>
-      <pubDate>Sun, 19 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 19 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:22</itunes:duration>
       <itunes:order>139</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_139_Uddhava_Gita-d4e43dae</guid>
@@ -1417,7 +1417,7 @@
       <itunes:subtitle>Uddhava_Gita_140</itunes:subtitle>
       <itunes:summary>Class 140</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_140_Uddhava_Gita.mp3" length="6691779" type="audio/mpeg"/>
-      <pubDate>Mon, 20 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 20 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:45</itunes:duration>
       <itunes:order>140</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_140_Uddhava_Gita-7a999fbb</guid>
@@ -1427,7 +1427,7 @@
       <itunes:subtitle>Uddhava_Gita_141</itunes:subtitle>
       <itunes:summary>Class 141</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_141_Uddhava_Gita.mp3" length="6581016" type="audio/mpeg"/>
-      <pubDate>Tue, 21 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 21 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:50</itunes:duration>
       <itunes:order>141</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_141_Uddhava_Gita-e6f8e4c0</guid>
@@ -1437,7 +1437,7 @@
       <itunes:subtitle>Uddhava_Gita_142</itunes:subtitle>
       <itunes:summary>Class 142</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_142_Uddhava_Gita.mp3" length="6904203" type="audio/mpeg"/>
-      <pubDate>Wed, 22 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 22 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:32</itunes:duration>
       <itunes:order>142</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_142_Uddhava_Gita-a5b93bcd</guid>
@@ -1447,7 +1447,7 @@
       <itunes:subtitle>Uddhava_Gita_143</itunes:subtitle>
       <itunes:summary>Class 143</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_143_Uddhava_Gita.mp3" length="6694178" type="audio/mpeg"/>
-      <pubDate>Thu, 23 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 23 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:47</itunes:duration>
       <itunes:order>143</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_143_Uddhava_Gita-4ec99401</guid>
@@ -1457,7 +1457,7 @@
       <itunes:subtitle>Uddhava_Gita_144</itunes:subtitle>
       <itunes:summary>Class 144</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_144_Uddhava_Gita.mp3" length="6942973" type="audio/mpeg"/>
-      <pubDate>Fri, 24 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 24 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:51</itunes:duration>
       <itunes:order>144</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_144_Uddhava_Gita-60d5d99e</guid>
@@ -1467,7 +1467,7 @@
       <itunes:subtitle>Uddhava_Gita_145</itunes:subtitle>
       <itunes:summary>Class 145</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_145_Uddhava_Gita.mp3" length="6833510" type="audio/mpeg"/>
-      <pubDate>Sat, 25 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 25 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:56</itunes:duration>
       <itunes:order>145</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_145_Uddhava_Gita-329ed50a</guid>
@@ -1477,7 +1477,7 @@
       <itunes:subtitle>Uddhava_Gita_146</itunes:subtitle>
       <itunes:summary>Class 146</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_146_Uddhava_Gita.mp3" length="6998604" type="audio/mpeg"/>
-      <pubDate>Sun, 26 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 26 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:19</itunes:duration>
       <itunes:order>146</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_146_Uddhava_Gita-24814324</guid>
@@ -1487,7 +1487,7 @@
       <itunes:subtitle>Uddhava_Gita_147</itunes:subtitle>
       <itunes:summary>Class 147</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_147_Uddhava_Gita.mp3" length="6899521" type="audio/mpeg"/>
-      <pubDate>Mon, 27 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 27 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:29</itunes:duration>
       <itunes:order>147</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_147_Uddhava_Gita-a0fe3d82</guid>
@@ -1497,7 +1497,7 @@
       <itunes:subtitle>Uddhava_Gita_148</itunes:subtitle>
       <itunes:summary>Class 148</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_148_Uddhava_Gita.mp3" length="6751942" type="audio/mpeg"/>
-      <pubDate>Tue, 28 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 28 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:15</itunes:duration>
       <itunes:order>148</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_148_Uddhava_Gita-c5c19652</guid>
@@ -1507,7 +1507,7 @@
       <itunes:subtitle>Uddhava_Gita_149</itunes:subtitle>
       <itunes:summary>Class 149</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_149_Uddhava_Gita.mp3" length="6853137" type="audio/mpeg"/>
-      <pubDate>Wed, 29 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 29 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:06</itunes:duration>
       <itunes:order>149</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_149_Uddhava_Gita-e418756c</guid>
@@ -1517,7 +1517,7 @@
       <itunes:subtitle>Uddhava_Gita_150</itunes:subtitle>
       <itunes:summary>Class 150</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_150_Uddhava_Gita.mp3" length="6770172" type="audio/mpeg"/>
-      <pubDate>Thu, 30 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 30 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:25</itunes:duration>
       <itunes:order>150</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_150_Uddhava_Gita-53868377</guid>
@@ -1527,7 +1527,7 @@
       <itunes:subtitle>Uddhava_Gita_151</itunes:subtitle>
       <itunes:summary>Class 151</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_151_Uddhava_Gita.mp3" length="6662209" type="audio/mpeg"/>
-      <pubDate>Fri, 31 May 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 31 May 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:31</itunes:duration>
       <itunes:order>151</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_151_Uddhava_Gita-54e437d2</guid>
@@ -1537,7 +1537,7 @@
       <itunes:subtitle>Uddhava_Gita_152</itunes:subtitle>
       <itunes:summary>Class 152</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_152_Uddhava_Gita.mp3" length="6599197" type="audio/mpeg"/>
-      <pubDate>Sat, 01 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 01 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:59</itunes:duration>
       <itunes:order>152</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_152_Uddhava_Gita-9266312f</guid>
@@ -1547,7 +1547,7 @@
       <itunes:subtitle>Uddhava_Gita_153</itunes:subtitle>
       <itunes:summary>Class 153</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_153_Uddhava_Gita.mp3" length="6755205" type="audio/mpeg"/>
-      <pubDate>Sun, 02 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 02 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:17</itunes:duration>
       <itunes:order>153</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_153_Uddhava_Gita-40d5e183</guid>
@@ -1557,7 +1557,7 @@
       <itunes:subtitle>Uddhava_Gita_154</itunes:subtitle>
       <itunes:summary>Class 154</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_154_Uddhava_Gita.mp3" length="6750082" type="audio/mpeg"/>
-      <pubDate>Mon, 03 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 03 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:15</itunes:duration>
       <itunes:order>154</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_154_Uddhava_Gita-794ea118</guid>
@@ -1567,7 +1567,7 @@
       <itunes:subtitle>Uddhava_Gita_155</itunes:subtitle>
       <itunes:summary>Class 155</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_155_Uddhava_Gita.mp3" length="6861513" type="audio/mpeg"/>
-      <pubDate>Tue, 04 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 04 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:10</itunes:duration>
       <itunes:order>155</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_155_Uddhava_Gita-decfdc19</guid>
@@ -1577,7 +1577,7 @@
       <itunes:subtitle>Uddhava_Gita_156</itunes:subtitle>
       <itunes:summary>Class 156</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_156_Uddhava_Gita.mp3" length="6741350" type="audio/mpeg"/>
-      <pubDate>Wed, 05 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 05 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:10</itunes:duration>
       <itunes:order>156</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_156_Uddhava_Gita-63e20e28</guid>
@@ -1587,7 +1587,7 @@
       <itunes:subtitle>Uddhava_Gita_157</itunes:subtitle>
       <itunes:summary>Class 157</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_157_Uddhava_Gita.mp3" length="6714183" type="audio/mpeg"/>
-      <pubDate>Thu, 06 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 06 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:57</itunes:duration>
       <itunes:order>157</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_157_Uddhava_Gita-349f3020</guid>
@@ -1597,7 +1597,7 @@
       <itunes:subtitle>Uddhava_Gita_158</itunes:subtitle>
       <itunes:summary>Class 158</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_158_Uddhava_Gita.mp3" length="6953856" type="audio/mpeg"/>
-      <pubDate>Fri, 07 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 07 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:56</itunes:duration>
       <itunes:order>158</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_158_Uddhava_Gita-38b3770e</guid>
@@ -1607,7 +1607,7 @@
       <itunes:subtitle>Uddhava_Gita_159</itunes:subtitle>
       <itunes:summary>Class 159</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_159_Uddhava_Gita.mp3" length="6930410" type="audio/mpeg"/>
-      <pubDate>Sat, 08 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 08 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:45</itunes:duration>
       <itunes:order>159</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_159_Uddhava_Gita-aaf452be</guid>
@@ -1617,7 +1617,7 @@
       <itunes:subtitle>Uddhava_Gita_160</itunes:subtitle>
       <itunes:summary>Class 160</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_160_Uddhava_Gita.mp3" length="6956219" type="audio/mpeg"/>
-      <pubDate>Sun, 09 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 09 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:58</itunes:duration>
       <itunes:order>160</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_160_Uddhava_Gita-75bbeb9f</guid>
@@ -1627,7 +1627,7 @@
       <itunes:subtitle>Uddhava_Gita_161</itunes:subtitle>
       <itunes:summary>Class 161</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_161_Uddhava_Gita.mp3" length="6787058" type="audio/mpeg"/>
-      <pubDate>Mon, 10 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 10 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:33</itunes:duration>
       <itunes:order>161</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_161_Uddhava_Gita-d0ef706a</guid>
@@ -1637,7 +1637,7 @@
       <itunes:subtitle>Uddhava_Gita_162</itunes:subtitle>
       <itunes:summary>Class 162</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_162_Uddhava_Gita.mp3" length="7005378" type="audio/mpeg"/>
-      <pubDate>Tue, 11 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 11 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:22</itunes:duration>
       <itunes:order>162</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_162_Uddhava_Gita-14340ac8</guid>
@@ -1647,7 +1647,7 @@
       <itunes:subtitle>Uddhava_Gita_163</itunes:subtitle>
       <itunes:summary>Class 163</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_163_Uddhava_Gita.mp3" length="6871936" type="audio/mpeg"/>
-      <pubDate>Wed, 12 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 12 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:15</itunes:duration>
       <itunes:order>163</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_163_Uddhava_Gita-0a2d714c</guid>
@@ -1657,7 +1657,7 @@
       <itunes:subtitle>Uddhava_Gita_164</itunes:subtitle>
       <itunes:summary>Class 164</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_164_Uddhava_Gita.mp3" length="6841618" type="audio/mpeg"/>
-      <pubDate>Thu, 13 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 13 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:00</itunes:duration>
       <itunes:order>164</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_164_Uddhava_Gita-9f4bd4d0</guid>
@@ -1667,7 +1667,7 @@
       <itunes:subtitle>Uddhava_Gita_165</itunes:subtitle>
       <itunes:summary>Class 165</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_165_Uddhava_Gita.mp3" length="6922323" type="audio/mpeg"/>
-      <pubDate>Fri, 14 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 14 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:41</itunes:duration>
       <itunes:order>165</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_165_Uddhava_Gita-8dda77f9</guid>
@@ -1677,7 +1677,7 @@
       <itunes:subtitle>Uddhava_Gita_166</itunes:subtitle>
       <itunes:summary>Class 166</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_166_Uddhava_Gita.mp3" length="6915545" type="audio/mpeg"/>
-      <pubDate>Sat, 15 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 15 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:37</itunes:duration>
       <itunes:order>166</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_166_Uddhava_Gita-6311c887</guid>
@@ -1687,7 +1687,7 @@
       <itunes:subtitle>Uddhava_Gita_167</itunes:subtitle>
       <itunes:summary>Class 167</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_167_Uddhava_Gita.mp3" length="6892708" type="audio/mpeg"/>
-      <pubDate>Sun, 16 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 16 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:26</itunes:duration>
       <itunes:order>167</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_167_Uddhava_Gita-8a4b85dc</guid>
@@ -1697,7 +1697,7 @@
       <itunes:subtitle>Uddhava_Gita_168</itunes:subtitle>
       <itunes:summary>Class 168</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_168_Uddhava_Gita.mp3" length="6853905" type="audio/mpeg"/>
-      <pubDate>Mon, 17 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 17 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:06</itunes:duration>
       <itunes:order>168</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_168_Uddhava_Gita-eef88139</guid>
@@ -1707,7 +1707,7 @@
       <itunes:subtitle>Uddhava_Gita_169</itunes:subtitle>
       <itunes:summary>Class 169</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_169_Uddhava_Gita.mp3" length="6902661" type="audio/mpeg"/>
-      <pubDate>Tue, 18 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 18 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:31</itunes:duration>
       <itunes:order>169</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_169_Uddhava_Gita-ea8e4845</guid>
@@ -1717,7 +1717,7 @@
       <itunes:subtitle>Uddhava_Gita_170</itunes:subtitle>
       <itunes:summary>Class 170</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_170_Uddhava_Gita.mp3" length="6910059" type="audio/mpeg"/>
-      <pubDate>Wed, 19 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 19 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:35</itunes:duration>
       <itunes:order>170</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_170_Uddhava_Gita-592447b4</guid>
@@ -1727,7 +1727,7 @@
       <itunes:subtitle>Uddhava_Gita_171</itunes:subtitle>
       <itunes:summary>Class 171</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_171_Uddhava_Gita.mp3" length="6896883" type="audio/mpeg"/>
-      <pubDate>Thu, 20 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 20 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:28</itunes:duration>
       <itunes:order>171</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_171_Uddhava_Gita-089c79c2</guid>
@@ -1737,7 +1737,7 @@
       <itunes:subtitle>Uddhava_Gita_172</itunes:subtitle>
       <itunes:summary>Class 172</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_172_Uddhava_Gita.mp3" length="6949546" type="audio/mpeg"/>
-      <pubDate>Fri, 21 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 21 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:54</itunes:duration>
       <itunes:order>172</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_172_Uddhava_Gita-8f3d742d</guid>
@@ -1747,7 +1747,7 @@
       <itunes:subtitle>Uddhava_Gita_173</itunes:subtitle>
       <itunes:summary>Class 173</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_173_Uddhava_Gita.mp3" length="6894914" type="audio/mpeg"/>
-      <pubDate>Sat, 22 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 22 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:27</itunes:duration>
       <itunes:order>173</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_173_Uddhava_Gita-c46d0b3c</guid>
@@ -1757,7 +1757,7 @@
       <itunes:subtitle>Uddhava_Gita_174</itunes:subtitle>
       <itunes:summary>Class 174</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_174_Uddhava_Gita.mp3" length="6829184" type="audio/mpeg"/>
-      <pubDate>Sun, 23 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 23 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:54</itunes:duration>
       <itunes:order>174</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_174_Uddhava_Gita-544b5a6c</guid>
@@ -1767,7 +1767,7 @@
       <itunes:subtitle>Uddhava_Gita_175</itunes:subtitle>
       <itunes:summary>Class 175</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_175_Uddhava_Gita.mp3" length="6956352" type="audio/mpeg"/>
-      <pubDate>Mon, 24 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 24 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:58</itunes:duration>
       <itunes:order>175</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_175_Uddhava_Gita-47916c19</guid>
@@ -1777,7 +1777,7 @@
       <itunes:subtitle>Uddhava_Gita_176</itunes:subtitle>
       <itunes:summary>Class 176</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_176_Uddhava_Gita.mp3" length="6883607" type="audio/mpeg"/>
-      <pubDate>Tue, 25 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 25 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:21</itunes:duration>
       <itunes:order>176</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_176_Uddhava_Gita-8dc80a58</guid>
@@ -1787,7 +1787,7 @@
       <itunes:subtitle>Uddhava_Gita_177</itunes:subtitle>
       <itunes:summary>Class 177</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_177_Uddhava_Gita.mp3" length="6814797" type="audio/mpeg"/>
-      <pubDate>Wed, 26 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 26 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:47</itunes:duration>
       <itunes:order>177</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_177_Uddhava_Gita-9fa39371</guid>
@@ -1797,7 +1797,7 @@
       <itunes:subtitle>Uddhava_Gita_178</itunes:subtitle>
       <itunes:summary>Class 178</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_178_Uddhava_Gita.mp3" length="6571186" type="audio/mpeg"/>
-      <pubDate>Thu, 27 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 27 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:33</itunes:duration>
       <itunes:order>178</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_178_Uddhava_Gita-e73c50d8</guid>
@@ -1807,7 +1807,7 @@
       <itunes:subtitle>Uddhava_Gita_179</itunes:subtitle>
       <itunes:summary>Class 179</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_179_Uddhava_Gita.mp3" length="6561657" type="audio/mpeg"/>
-      <pubDate>Fri, 28 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 28 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:28</itunes:duration>
       <itunes:order>179</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_179_Uddhava_Gita-61f76c24</guid>
@@ -1817,7 +1817,7 @@
       <itunes:subtitle>Uddhava_Gita_180</itunes:subtitle>
       <itunes:summary>Class 180</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_180_Uddhava_Gita.mp3" length="6965543" type="audio/mpeg"/>
-      <pubDate>Sat, 29 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 29 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:50</itunes:duration>
       <itunes:order>180</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_180_Uddhava_Gita-0d1b9694</guid>
@@ -1827,7 +1827,7 @@
       <itunes:subtitle>Uddhava_Gita_181</itunes:subtitle>
       <itunes:summary>Class 181</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_181_Uddhava_Gita.mp3" length="6961401" type="audio/mpeg"/>
-      <pubDate>Sun, 30 June 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 30 Jun 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:48</itunes:duration>
       <itunes:order>181</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_181_Uddhava_Gita-3072fa62</guid>
@@ -1837,7 +1837,7 @@
       <itunes:subtitle>Uddhava_Gita_182</itunes:subtitle>
       <itunes:summary>Class 182</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_182_Uddhava_Gita.mp3" length="6480503" type="audio/mpeg"/>
-      <pubDate>Mon, 01 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 01 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:48</itunes:duration>
       <itunes:order>182</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_182_Uddhava_Gita-b5aec7b6</guid>
@@ -1847,7 +1847,7 @@
       <itunes:subtitle>Uddhava_Gita_183</itunes:subtitle>
       <itunes:summary>Class 183</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_183_Uddhava_Gita.mp3" length="6755362" type="audio/mpeg"/>
-      <pubDate>Tue, 02 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 02 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:05</itunes:duration>
       <itunes:order>183</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_183_Uddhava_Gita-d79b3a45</guid>
@@ -1857,7 +1857,7 @@
       <itunes:subtitle>Uddhava_Gita_184</itunes:subtitle>
       <itunes:summary>Class 184</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_184_Uddhava_Gita.mp3" length="6995245" type="audio/mpeg"/>
-      <pubDate>Wed, 03 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 03 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:05</itunes:duration>
       <itunes:order>184</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_184_Uddhava_Gita-4295cb87</guid>
@@ -1867,7 +1867,7 @@
       <itunes:subtitle>Uddhava_Gita_185</itunes:subtitle>
       <itunes:summary>Class 185</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_185_Uddhava_Gita.mp3" length="6686173" type="audio/mpeg"/>
-      <pubDate>Thu, 04 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 04 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:30</itunes:duration>
       <itunes:order>185</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_185_Uddhava_Gita-ea55cf64</guid>
@@ -1877,7 +1877,7 @@
       <itunes:subtitle>Uddhava_Gita_186</itunes:subtitle>
       <itunes:summary>Class 186</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_186_Uddhava_Gita.mp3" length="6233966" type="audio/mpeg"/>
-      <pubDate>Fri, 05 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 05 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:51:44</itunes:duration>
       <itunes:order>186</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_186_Uddhava_Gita-1e817d38</guid>
@@ -1887,7 +1887,7 @@
       <itunes:subtitle>Uddhava_Gita_187</itunes:subtitle>
       <itunes:summary>Class 187</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_187_Uddhava_Gita.mp3" length="6205808" type="audio/mpeg"/>
-      <pubDate>Sat, 06 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 06 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:51:43</itunes:duration>
       <itunes:order>187</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_187_Uddhava_Gita-e2816acf</guid>
@@ -1897,7 +1897,7 @@
       <itunes:subtitle>Uddhava_Gita_188</itunes:subtitle>
       <itunes:summary>Class 188</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_188_Uddhava_Gita.mp3" length="6483318" type="audio/mpeg"/>
-      <pubDate>Sun, 07 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 07 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:49</itunes:duration>
       <itunes:order>188</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_188_Uddhava_Gita-85f0c8f7</guid>
@@ -1907,7 +1907,7 @@
       <itunes:subtitle>Uddhava_Gita_189</itunes:subtitle>
       <itunes:summary>Class 189</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_189_Uddhava_Gita.mp3" length="6633348" type="audio/mpeg"/>
-      <pubDate>Mon, 08 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 08 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:04</itunes:duration>
       <itunes:order>189</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_189_Uddhava_Gita-e37b8fad</guid>
@@ -1917,7 +1917,7 @@
       <itunes:subtitle>Uddhava_Gita_190</itunes:subtitle>
       <itunes:summary>Class 190</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_190_Uddhava_Gita.mp3" length="6669842" type="audio/mpeg"/>
-      <pubDate>Tue, 09 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 09 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:22</itunes:duration>
       <itunes:order>190</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_190_Uddhava_Gita-285306a8</guid>
@@ -1927,7 +1927,7 @@
       <itunes:subtitle>Uddhava_Gita_191</itunes:subtitle>
       <itunes:summary>Class 191</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_191_Uddhava_Gita.mp3" length="6613303" type="audio/mpeg"/>
-      <pubDate>Wed, 10 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 10 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:06</itunes:duration>
       <itunes:order>191</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_191_Uddhava_Gita-34bbc881</guid>
@@ -1937,7 +1937,7 @@
       <itunes:subtitle>Uddhava_Gita_192</itunes:subtitle>
       <itunes:summary>Class 192</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_192_Uddhava_Gita.mp3" length="6573492" type="audio/mpeg"/>
-      <pubDate>Thu, 11 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 11 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:34</itunes:duration>
       <itunes:order>192</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_192_Uddhava_Gita-dbf1540d</guid>
@@ -1947,7 +1947,7 @@
       <itunes:subtitle>Uddhava_Gita_193</itunes:subtitle>
       <itunes:summary>Class 193</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_193_Uddhava_Gita.mp3" length="6831595" type="audio/mpeg"/>
-      <pubDate>Fri, 12 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 12 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:43</itunes:duration>
       <itunes:order>193</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_193_Uddhava_Gita-03a6ba4b</guid>
@@ -1957,7 +1957,7 @@
       <itunes:subtitle>Uddhava_Gita_194</itunes:subtitle>
       <itunes:summary>Class 194</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_194_Uddhava_Gita.mp3" length="6620446" type="audio/mpeg"/>
-      <pubDate>Sat, 13 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 13 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:58</itunes:duration>
       <itunes:order>194</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_194_Uddhava_Gita-32411200</guid>
@@ -1967,7 +1967,7 @@
       <itunes:subtitle>Uddhava_Gita_195</itunes:subtitle>
       <itunes:summary>Class 195</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_195_Uddhava_Gita.mp3" length="6653147" type="audio/mpeg"/>
-      <pubDate>Sun, 14 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 14 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:14</itunes:duration>
       <itunes:order>195</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_195_Uddhava_Gita-08d597fb</guid>
@@ -1977,7 +1977,7 @@
       <itunes:subtitle>Uddhava_Gita_196</itunes:subtitle>
       <itunes:summary>Class 196</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_196_Uddhava_Gita.mp3" length="6716879" type="audio/mpeg"/>
-      <pubDate>Mon, 15 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 15 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:46</itunes:duration>
       <itunes:order>196</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_196_Uddhava_Gita-81827463</guid>
@@ -1987,7 +1987,7 @@
       <itunes:subtitle>Uddhava_Gita_197</itunes:subtitle>
       <itunes:summary>Class 197</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_197_Uddhava_Gita.mp3" length="6609351" type="audio/mpeg"/>
-      <pubDate>Tue, 16 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 16 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:52</itunes:duration>
       <itunes:order>197</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_197_Uddhava_Gita-4402091b</guid>
@@ -1997,7 +1997,7 @@
       <itunes:subtitle>Uddhava_Gita_198</itunes:subtitle>
       <itunes:summary>Class 198</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_198_Uddhava_Gita.mp3" length="6958634" type="audio/mpeg"/>
-      <pubDate>Wed, 17 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 17 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:47</itunes:duration>
       <itunes:order>198</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_198_Uddhava_Gita-60b5a665</guid>
@@ -2007,7 +2007,7 @@
       <itunes:subtitle>Uddhava_Gita_199</itunes:subtitle>
       <itunes:summary>Class 199</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_199_Uddhava_Gita.mp3" length="6923131" type="audio/mpeg"/>
-      <pubDate>Thu, 18 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 18 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:29</itunes:duration>
       <itunes:order>199</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_199_Uddhava_Gita-be8969be</guid>
@@ -2017,7 +2017,7 @@
       <itunes:subtitle>Uddhava_Gita_200</itunes:subtitle>
       <itunes:summary>Class 200</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_200_Uddhava_Gita.mp3" length="6784400" type="audio/mpeg"/>
-      <pubDate>Fri, 19 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 19 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:32</itunes:duration>
       <itunes:order>200</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_200_Uddhava_Gita-0e3578ad</guid>
@@ -2027,7 +2027,7 @@
       <itunes:subtitle>Uddhava_Gita_201</itunes:subtitle>
       <itunes:summary>Class 201</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_201_Uddhava_Gita.mp3" length="6827841" type="audio/mpeg"/>
-      <pubDate>Sat, 20 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 20 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:41</itunes:duration>
       <itunes:order>201</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_201_Uddhava_Gita-c9cb454a</guid>
@@ -2037,7 +2037,7 @@
       <itunes:subtitle>Uddhava_Gita_202</itunes:subtitle>
       <itunes:summary>Class 202</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_202_Uddhava_Gita.mp3" length="6867925" type="audio/mpeg"/>
-      <pubDate>Sun, 21 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 21 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:01</itunes:duration>
       <itunes:order>202</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_202_Uddhava_Gita-a63463cb</guid>
@@ -2047,7 +2047,7 @@
       <itunes:subtitle>Uddhava_Gita_203</itunes:subtitle>
       <itunes:summary>Class 203</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_203_Uddhava_Gita.mp3" length="6808687" type="audio/mpeg"/>
-      <pubDate>Mon, 22 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 22 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:32</itunes:duration>
       <itunes:order>203</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_203_Uddhava_Gita-f383ff73</guid>
@@ -2057,7 +2057,7 @@
       <itunes:subtitle>Uddhava_Gita_204</itunes:subtitle>
       <itunes:summary>Class 204</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_204_Uddhava_Gita.mp3" length="6886051" type="audio/mpeg"/>
-      <pubDate>Tue, 23 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 23 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:10</itunes:duration>
       <itunes:order>204</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_204_Uddhava_Gita-4cbcfba2</guid>
@@ -2067,7 +2067,7 @@
       <itunes:subtitle>Uddhava_Gita_205</itunes:subtitle>
       <itunes:summary>Class 205</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_205_Uddhava_Gita.mp3" length="7046209" type="audio/mpeg"/>
-      <pubDate>Wed, 24 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 24 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:30</itunes:duration>
       <itunes:order>205</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_205_Uddhava_Gita-f47da2ab</guid>
@@ -2077,7 +2077,7 @@
       <itunes:subtitle>Uddhava_Gita_206</itunes:subtitle>
       <itunes:summary>Class 206</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_206_Uddhava_Gita.mp3" length="6697252" type="audio/mpeg"/>
-      <pubDate>Thu, 25 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 25 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:36</itunes:duration>
       <itunes:order>206</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_206_Uddhava_Gita-6c12197e</guid>
@@ -2087,7 +2087,7 @@
       <itunes:subtitle>Uddhava_Gita_207</itunes:subtitle>
       <itunes:summary>Class 207</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_207_Uddhava_Gita.mp3" length="6879078" type="audio/mpeg"/>
-      <pubDate>Fri, 26 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 26 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:07</itunes:duration>
       <itunes:order>207</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_207_Uddhava_Gita-a44af6bd</guid>
@@ -2097,7 +2097,7 @@
       <itunes:subtitle>Uddhava_Gita_208</itunes:subtitle>
       <itunes:summary>Class 208</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_208_Uddhava_Gita.mp3" length="6772336" type="audio/mpeg"/>
-      <pubDate>Sat, 27 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 27 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:13</itunes:duration>
       <itunes:order>208</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_208_Uddhava_Gita-f4e876de</guid>
@@ -2107,7 +2107,7 @@
       <itunes:subtitle>Uddhava_Gita_209</itunes:subtitle>
       <itunes:summary>Class 209</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_209_Uddhava_Gita.mp3" length="6763835" type="audio/mpeg"/>
-      <pubDate>Sun, 28 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 28 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:09</itunes:duration>
       <itunes:order>209</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_209_Uddhava_Gita-63d60608</guid>
@@ -2117,7 +2117,7 @@
       <itunes:subtitle>Uddhava_Gita_210</itunes:subtitle>
       <itunes:summary>Class 210</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_210_Uddhava_Gita.mp3" length="6782393" type="audio/mpeg"/>
-      <pubDate>Mon, 29 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 29 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:18</itunes:duration>
       <itunes:order>210</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_210_Uddhava_Gita-42f5597e</guid>
@@ -2127,7 +2127,7 @@
       <itunes:subtitle>Uddhava_Gita_211</itunes:subtitle>
       <itunes:summary>Class 211</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_211_Uddhava_Gita.mp3" length="6875786" type="audio/mpeg"/>
-      <pubDate>Tue, 30 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 30 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:05</itunes:duration>
       <itunes:order>211</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_211_Uddhava_Gita-f5a1c230</guid>
@@ -2137,7 +2137,7 @@
       <itunes:subtitle>Uddhava_Gita_212</itunes:subtitle>
       <itunes:summary>Class 212</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_212_Uddhava_Gita.mp3" length="6663035" type="audio/mpeg"/>
-      <pubDate>Wed, 31 July 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 31 Jul 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:19</itunes:duration>
       <itunes:order>212</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_212_Uddhava_Gita-8c78c0c3</guid>
@@ -2147,7 +2147,7 @@
       <itunes:subtitle>Uddhava_Gita_213</itunes:subtitle>
       <itunes:summary>Class 213</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_213_Uddhava_Gita.mp3" length="6637853" type="audio/mpeg"/>
-      <pubDate>Thu, 01 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 01 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:06</itunes:duration>
       <itunes:order>213</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_213_Uddhava_Gita-062ee7fc</guid>
@@ -2157,7 +2157,7 @@
       <itunes:subtitle>Uddhava_Gita_214</itunes:subtitle>
       <itunes:summary>Class 214</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_214_Uddhava_Gita.mp3" length="6283439" type="audio/mpeg"/>
-      <pubDate>Fri, 02 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 02 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:52:09</itunes:duration>
       <itunes:order>214</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_214_Uddhava_Gita-796d881f</guid>
@@ -2167,7 +2167,7 @@
       <itunes:subtitle>Uddhava_Gita_215</itunes:subtitle>
       <itunes:summary>Class 215</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_215_Uddhava_Gita.mp3" length="6745384" type="audio/mpeg"/>
-      <pubDate>Sat, 03 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 03 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:00</itunes:duration>
       <itunes:order>215</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_215_Uddhava_Gita-edaf16ff</guid>
@@ -2177,7 +2177,7 @@
       <itunes:subtitle>Uddhava_Gita_216</itunes:subtitle>
       <itunes:summary>Class 216</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_216_Uddhava_Gita.mp3" length="6767434" type="audio/mpeg"/>
-      <pubDate>Sun, 04 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 04 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:11</itunes:duration>
       <itunes:order>216</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_216_Uddhava_Gita-f3cb695c</guid>
@@ -2187,7 +2187,7 @@
       <itunes:subtitle>Uddhava_Gita_217</itunes:subtitle>
       <itunes:summary>Class 217</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_217_Uddhava_Gita.mp3" length="6756129" type="audio/mpeg"/>
-      <pubDate>Mon, 05 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 05 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:05</itunes:duration>
       <itunes:order>217</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_217_Uddhava_Gita-5602c7d6</guid>
@@ -2197,7 +2197,7 @@
       <itunes:subtitle>Uddhava_Gita_218</itunes:subtitle>
       <itunes:summary>Class 218</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_218_Uddhava_Gita.mp3" length="6812449" type="audio/mpeg"/>
-      <pubDate>Tue, 06 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 06 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:34</itunes:duration>
       <itunes:order>218</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_218_Uddhava_Gita-b2ea3f52</guid>
@@ -2207,7 +2207,7 @@
       <itunes:subtitle>Uddhava_Gita_219</itunes:subtitle>
       <itunes:summary>Class 219</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_219_Uddhava_Gita.mp3" length="6796407" type="audio/mpeg"/>
-      <pubDate>Wed, 07 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 07 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:25</itunes:duration>
       <itunes:order>219</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_219_Uddhava_Gita-88716ae0</guid>
@@ -2217,7 +2217,7 @@
       <itunes:subtitle>Uddhava_Gita_220</itunes:subtitle>
       <itunes:summary>Class 220</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_220_Uddhava_Gita.mp3" length="6705083" type="audio/mpeg"/>
-      <pubDate>Thu, 08 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 08 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:40</itunes:duration>
       <itunes:order>220</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_220_Uddhava_Gita-c444b36e</guid>
@@ -2227,7 +2227,7 @@
       <itunes:subtitle>Uddhava_Gita_221</itunes:subtitle>
       <itunes:summary>Class 221</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_221_Uddhava_Gita.mp3" length="6935497" type="audio/mpeg"/>
-      <pubDate>Fri, 09 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 09 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:35</itunes:duration>
       <itunes:order>221</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_221_Uddhava_Gita-bfbd2db8</guid>
@@ -2237,7 +2237,7 @@
       <itunes:subtitle>Uddhava_Gita_222</itunes:subtitle>
       <itunes:summary>Class 222</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_222_Uddhava_Gita.mp3" length="6841352" type="audio/mpeg"/>
-      <pubDate>Sat, 10 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 10 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:48</itunes:duration>
       <itunes:order>222</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_222_Uddhava_Gita-ec86337f</guid>
@@ -2247,7 +2247,7 @@
       <itunes:subtitle>Uddhava_Gita_223</itunes:subtitle>
       <itunes:summary>Class 223</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_223_Uddhava_Gita.mp3" length="6978362" type="audio/mpeg"/>
-      <pubDate>Sun, 11 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 11 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:57</itunes:duration>
       <itunes:order>223</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_223_Uddhava_Gita-feb99c42</guid>
@@ -2257,7 +2257,7 @@
       <itunes:subtitle>Uddhava_Gita_224</itunes:subtitle>
       <itunes:summary>Class 224</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_224_Uddhava_Gita.mp3" length="6895698" type="audio/mpeg"/>
-      <pubDate>Mon, 12 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 12 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:15</itunes:duration>
       <itunes:order>224</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_224_Uddhava_Gita-a0da4462</guid>
@@ -2267,7 +2267,7 @@
       <itunes:subtitle>Uddhava_Gita_225</itunes:subtitle>
       <itunes:summary>Class 225</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_225_Uddhava_Gita.mp3" length="7001965" type="audio/mpeg"/>
-      <pubDate>Tue, 13 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 13 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:08</itunes:duration>
       <itunes:order>225</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_225_Uddhava_Gita-19a9a42c</guid>
@@ -2277,7 +2277,7 @@
       <itunes:subtitle>Uddhava_Gita_226</itunes:subtitle>
       <itunes:summary>Class 226</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_226_Uddhava_Gita.mp3" length="7001965" type="audio/mpeg"/>
-      <pubDate>Wed, 14 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 14 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:15</itunes:duration>
       <itunes:order>226</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_226_Uddhava_Gita-994552b8</guid>
@@ -2287,7 +2287,7 @@
       <itunes:subtitle>Uddhava_Gita_227</itunes:subtitle>
       <itunes:summary>Class 227</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_227_Uddhava_Gita.mp3" length="6976990" type="audio/mpeg"/>
-      <pubDate>Thu, 15 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 15 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:56</itunes:duration>
       <itunes:order>227</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_227_Uddhava_Gita-3ac2f25d</guid>
@@ -2297,7 +2297,7 @@
       <itunes:subtitle>Uddhava_Gita_228</itunes:subtitle>
       <itunes:summary>Class 228</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_228_Uddhava_Gita.mp3" length="6990156" type="audio/mpeg"/>
-      <pubDate>Fri, 16 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 16 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:02</itunes:duration>
       <itunes:order>228</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_228_Uddhava_Gita-08dfcf28</guid>
@@ -2307,7 +2307,7 @@
       <itunes:subtitle>Uddhava_Gita_229</itunes:subtitle>
       <itunes:summary>Class 229</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_229_Uddhava_Gita.mp3" length="6797895" type="audio/mpeg"/>
-      <pubDate>Sat, 17 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 17 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:26</itunes:duration>
       <itunes:order>229</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_229_Uddhava_Gita-06249263</guid>
@@ -2317,7 +2317,7 @@
       <itunes:subtitle>Uddhava_Gita_230</itunes:subtitle>
       <itunes:summary>Class 230</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_230_Uddhava_Gita.mp3" length="6818583" type="audio/mpeg"/>
-      <pubDate>Sun, 18 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 18 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:37</itunes:duration>
       <itunes:order>230</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_230_Uddhava_Gita-1629c7a1</guid>
@@ -2327,7 +2327,7 @@
       <itunes:subtitle>Uddhava_Gita_231</itunes:subtitle>
       <itunes:summary>Class 231</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_231_Uddhava_Gita.mp3" length="6743318" type="audio/mpeg"/>
-      <pubDate>Mon, 19 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 19 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:59</itunes:duration>
       <itunes:order>231</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_231_Uddhava_Gita-b7271825</guid>
@@ -2337,7 +2337,7 @@
       <itunes:subtitle>Uddhava_Gita_232</itunes:subtitle>
       <itunes:summary>Class 232</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_232_Uddhava_Gita.mp3" length="6837111" type="audio/mpeg"/>
-      <pubDate>Tue, 20 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 20 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:46</itunes:duration>
       <itunes:order>232</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_232_Uddhava_Gita-0a6730d3</guid>
@@ -2347,7 +2347,7 @@
       <itunes:subtitle>Uddhava_Gita_233</itunes:subtitle>
       <itunes:summary>Class 233</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_233_Uddhava_Gita.mp3" length="6757072" type="audio/mpeg"/>
-      <pubDate>Wed, 21 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 21 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:06</itunes:duration>
       <itunes:order>233</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_233_Uddhava_Gita-d1d12a57</guid>
@@ -2357,7 +2357,7 @@
       <itunes:subtitle>Uddhava_Gita_234</itunes:subtitle>
       <itunes:summary>Class 234</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_234_Uddhava_Gita.mp3" length="6814973" type="audio/mpeg"/>
-      <pubDate>Thu, 22 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 22 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:35</itunes:duration>
       <itunes:order>234</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_234_Uddhava_Gita-51387d98</guid>
@@ -2367,7 +2367,7 @@
       <itunes:subtitle>Uddhava_Gita_235</itunes:subtitle>
       <itunes:summary>Class 235</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_235_Uddhava_Gita.mp3" length="6839423" type="audio/mpeg"/>
-      <pubDate>Fri, 23 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 23 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:47</itunes:duration>
       <itunes:order>235</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_235_Uddhava_Gita-884ebab6</guid>
@@ -2377,7 +2377,7 @@
       <itunes:subtitle>Uddhava_Gita_236</itunes:subtitle>
       <itunes:summary>Class 236</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_236_Uddhava_Gita.mp3" length="6738068" type="audio/mpeg"/>
-      <pubDate>Sat, 24 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 24 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:56</itunes:duration>
       <itunes:order>236</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_236_Uddhava_Gita-82b228bc</guid>
@@ -2387,7 +2387,7 @@
       <itunes:subtitle>Uddhava_Gita_237</itunes:subtitle>
       <itunes:summary>Class 237</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_237_Uddhava_Gita.mp3" length="6895469" type="audio/mpeg"/>
-      <pubDate>Sun, 25 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 25 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:15</itunes:duration>
       <itunes:order>237</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_237_Uddhava_Gita-e102f7dd</guid>
@@ -2397,7 +2397,7 @@
       <itunes:subtitle>Uddhava_Gita_238</itunes:subtitle>
       <itunes:summary>Class 238</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_238_Uddhava_Gita.mp3" length="6753377" type="audio/mpeg"/>
-      <pubDate>Mon, 26 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 26 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:04</itunes:duration>
       <itunes:order>238</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_238_Uddhava_Gita-6135901c</guid>
@@ -2407,7 +2407,7 @@
       <itunes:subtitle>Uddhava_Gita_239</itunes:subtitle>
       <itunes:summary>Class 239</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_239_Uddhava_Gita.mp3" length="6953997" type="audio/mpeg"/>
-      <pubDate>Tue, 27 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 27 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:44</itunes:duration>
       <itunes:order>239</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_239_Uddhava_Gita-e1014065</guid>
@@ -2417,7 +2417,7 @@
       <itunes:subtitle>Uddhava_Gita_240</itunes:subtitle>
       <itunes:summary>Class 240</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_240_Uddhava_Gita.mp3" length="6902948" type="audio/mpeg"/>
-      <pubDate>Wed, 28 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 28 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:19</itunes:duration>
       <itunes:order>240</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_240_Uddhava_Gita-796f3608</guid>
@@ -2427,7 +2427,7 @@
       <itunes:subtitle>Uddhava_Gita_241</itunes:subtitle>
       <itunes:summary>Class 241</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_241_Uddhava_Gita.mp3" length="6888073" type="audio/mpeg"/>
-      <pubDate>Thu, 29 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 29 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:11</itunes:duration>
       <itunes:order>241</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_241_Uddhava_Gita-4ae34398</guid>
@@ -2437,7 +2437,7 @@
       <itunes:subtitle>Uddhava_Gita_242</itunes:subtitle>
       <itunes:summary>Class 242</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_242_Uddhava_Gita.mp3" length="6853143" type="audio/mpeg"/>
-      <pubDate>Fri, 30 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 30 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:56:54</itunes:duration>
       <itunes:order>242</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_242_Uddhava_Gita-0c3daaca</guid>
@@ -2447,7 +2447,7 @@
       <itunes:subtitle>Uddhava_Gita_243</itunes:subtitle>
       <itunes:summary>Class 243</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_243_Uddhava_Gita.mp3" length="6807262" type="audio/mpeg"/>
-      <pubDate>Sat, 31 August 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 31 Aug 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:56:31</itunes:duration>
       <itunes:order>243</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_243_Uddhava_Gita-55c652c1</guid>
@@ -2457,7 +2457,7 @@
       <itunes:subtitle>Uddhava_Gita_244</itunes:subtitle>
       <itunes:summary>Class 244</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_244_Uddhava_Gita.mp3" length="6928762" type="audio/mpeg"/>
-      <pubDate>Sun, 01 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 01 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:32</itunes:duration>
       <itunes:order>244</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_244_Uddhava_Gita-23bf8121</guid>
@@ -2467,7 +2467,7 @@
       <itunes:subtitle>Uddhava_Gita_245</itunes:subtitle>
       <itunes:summary>Class 245</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_245_Uddhava_Gita.mp3" length="6805245" type="audio/mpeg"/>
-      <pubDate>Mon, 02 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 02 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:56:30</itunes:duration>
       <itunes:order>245</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_245_Uddhava_Gita-40259f2c</guid>
@@ -2477,7 +2477,7 @@
       <itunes:subtitle>Uddhava_Gita_246</itunes:subtitle>
       <itunes:summary>Class 246</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_246_Uddhava_Gita.mp3" length="6922169" type="audio/mpeg"/>
-      <pubDate>Tue, 03 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 03 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:28</itunes:duration>
       <itunes:order>246</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_246_Uddhava_Gita-b5389644</guid>
@@ -2487,7 +2487,7 @@
       <itunes:subtitle>Uddhava_Gita_247</itunes:subtitle>
       <itunes:summary>Class 247</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_247_Uddhava_Gita.mp3" length="6862192" type="audio/mpeg"/>
-      <pubDate>Wed, 04 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 04 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:56:58</itunes:duration>
       <itunes:order>247</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_247_Uddhava_Gita-bc7c658a</guid>
@@ -2497,7 +2497,7 @@
       <itunes:subtitle>Uddhava_Gita_248</itunes:subtitle>
       <itunes:summary>Class 248</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_248_Uddhava_Gita.mp3" length="6865536" type="audio/mpeg"/>
-      <pubDate>Thu, 05 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 05 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:00</itunes:duration>
       <itunes:order>248</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_248_Uddhava_Gita-a6480d02</guid>
@@ -2507,7 +2507,7 @@
       <itunes:subtitle>Uddhava_Gita_249</itunes:subtitle>
       <itunes:summary>Class 249</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_249_Uddhava_Gita.mp3" length="6853327" type="audio/mpeg"/>
-      <pubDate>Fri, 06 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 06 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:56:54</itunes:duration>
       <itunes:order>249</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_249_Uddhava_Gita-a92d347c</guid>
@@ -2517,7 +2517,7 @@
       <itunes:subtitle>Uddhava_Gita_250</itunes:subtitle>
       <itunes:summary>Class 250</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_250_Uddhava_Gita.mp3" length="6752807" type="audio/mpeg"/>
-      <pubDate>Sat, 07 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 07 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:56:04</itunes:duration>
       <itunes:order>250</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_250_Uddhava_Gita-1ae51b08</guid>
@@ -2527,7 +2527,7 @@
       <itunes:subtitle>Uddhava_Gita_251</itunes:subtitle>
       <itunes:summary>Class 251</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_251_Uddhava_Gita.mp3" length="6881325" type="audio/mpeg"/>
-      <pubDate>Sun, 08 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 08 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:08</itunes:duration>
       <itunes:order>251</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_251_Uddhava_Gita-86a1681d</guid>
@@ -2537,7 +2537,7 @@
       <itunes:subtitle>Uddhava_Gita_252</itunes:subtitle>
       <itunes:summary>Class 252</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_252_Uddhava_Gita.mp3" length="7000760" type="audio/mpeg"/>
-      <pubDate>Mon, 09 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 09 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:58:08</itunes:duration>
       <itunes:order>252</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_252_Uddhava_Gita-1bd10092</guid>
@@ -2547,7 +2547,7 @@
       <itunes:subtitle>Uddhava_Gita_253</itunes:subtitle>
       <itunes:summary>Class 253</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_253_Uddhava_Gita.mp3" length="6821455" type="audio/mpeg"/>
-      <pubDate>Tue, 10 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 10 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:56:38</itunes:duration>
       <itunes:order>253</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_253_Uddhava_Gita-c01feee6</guid>
@@ -2557,7 +2557,7 @@
       <itunes:subtitle>Uddhava_Gita_254</itunes:subtitle>
       <itunes:summary>Class 254</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_254_Uddhava_Gita.mp3" length="6818927" type="audio/mpeg"/>
-      <pubDate>Wed, 11 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 11 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:56:37</itunes:duration>
       <itunes:order>254</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_254_Uddhava_Gita-54b17663</guid>
@@ -2567,7 +2567,7 @@
       <itunes:subtitle>Uddhava_Gita_255</itunes:subtitle>
       <itunes:summary>Class 255</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_255_Uddhava_Gita.mp3" length="6744684" type="audio/mpeg"/>
-      <pubDate>Thu, 12 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 12 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:56:00</itunes:duration>
       <itunes:order>255</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_255_Uddhava_Gita-4141866a</guid>
@@ -2577,7 +2577,7 @@
       <itunes:subtitle>Uddhava_Gita_256</itunes:subtitle>
       <itunes:summary>Class 256</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_256_Uddhava_Gita.mp3" length="6901165" type="audio/mpeg"/>
-      <pubDate>Fri, 13 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 13 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:18</itunes:duration>
       <itunes:order>256</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_256_Uddhava_Gita-38c1db89</guid>
@@ -2587,7 +2587,7 @@
       <itunes:subtitle>Uddhava_Gita_257</itunes:subtitle>
       <itunes:summary>Class 257</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_257_Uddhava_Gita.mp3" length="6938133" type="audio/mpeg"/>
-      <pubDate>Sat, 14 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 14 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:36</itunes:duration>
       <itunes:order>257</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_257_Uddhava_Gita-aa2ca2cf</guid>
@@ -2597,7 +2597,7 @@
       <itunes:subtitle>Uddhava_Gita_258</itunes:subtitle>
       <itunes:summary>Class 258</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_258_Uddhava_Gita.mp3" length="6992606" type="audio/mpeg"/>
-      <pubDate>Sun, 15 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 15 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:58:04</itunes:duration>
       <itunes:order>258</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_258_Uddhava_Gita-19485ba6</guid>
@@ -2607,7 +2607,7 @@
       <itunes:subtitle>Uddhava_Gita_259</itunes:subtitle>
       <itunes:summary>Class 259</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_259_Uddhava_Gita.mp3" length="6868196" type="audio/mpeg"/>
-      <pubDate>Mon, 16 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 16 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:01</itunes:duration>
       <itunes:order>259</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_259_Uddhava_Gita-a0b1bb0f</guid>
@@ -2617,7 +2617,7 @@
       <itunes:subtitle>Uddhava_Gita_260</itunes:subtitle>
       <itunes:summary>Class 260</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_260_Uddhava_Gita.mp3" length="6928905" type="audio/mpeg"/>
-      <pubDate>Tue, 17 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 17 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:32</itunes:duration>
       <itunes:order>260</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_260_Uddhava_Gita-1983e38a</guid>
@@ -2627,7 +2627,7 @@
       <itunes:subtitle>Uddhava_Gita_261</itunes:subtitle>
       <itunes:summary>Class 261</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_261_Uddhava_Gita.mp3" length="6913404" type="audio/mpeg"/>
-      <pubDate>Wed, 18 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 18 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:24</itunes:duration>
       <itunes:order>261</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_261_Uddhava_Gita-3e9fe3ca</guid>
@@ -2637,7 +2637,7 @@
       <itunes:subtitle>Uddhava_Gita_262</itunes:subtitle>
       <itunes:summary>Class 262</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_262_Uddhava_Gita.mp3" length="6962096" type="audio/mpeg"/>
-      <pubDate>Thu, 19 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 19 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:57:48</itunes:duration>
       <itunes:order>262</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_262_Uddhava_Gita-60a0d60b</guid>
@@ -2647,7 +2647,7 @@
       <itunes:subtitle>Uddhava_Gita_263</itunes:subtitle>
       <itunes:summary>Class 263</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_263_Uddhava_Gita.mp3" length="6987643" type="audio/mpeg"/>
-      <pubDate>Fri, 20 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 20 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:58:01</itunes:duration>
       <itunes:order>263</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_263_Uddhava_Gita-afc72d99</guid>
@@ -2657,7 +2657,7 @@
       <itunes:subtitle>Uddhava_Gita_264</itunes:subtitle>
       <itunes:summary>Class 264</itunes:summary>
       <enclosure url="https://archive.org/download/UddhavaGita/UG_264_Uddhava_Gita.mp3" length="7097122" type="audio/mpeg"/>
-      <pubDate>Sat, 21 September 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 21 Sep 2019 06:00:00 +0530</pubDate>
       <itunes:duration>00:58:56</itunes:duration>
       <itunes:order>264</itunes:order>
       <guid isPermaLink="false">poornalayam.org/UddhavaGita/UG_264_Uddhava_Gita-9ca369ec</guid>

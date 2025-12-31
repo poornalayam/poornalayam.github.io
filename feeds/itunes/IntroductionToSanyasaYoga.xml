@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Introduction_To_Sanyasa_Yoga_1</title>
       <itunes:subtitle>Introduction_To_Sanyasa_Yoga_1</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_1.mp3" length="6310793" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:52:35</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_1-79581b45</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Introduction_To_Sanyasa_Yoga_2</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_2.mp3" length="6514443" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:17</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/IntroductionToSanyasaYoga/INTRODUCTION_TO_SANYASA_YOGA_2-8f0ecfc4</guid>

@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Vivekachudamani 01</title>
       <itunes:subtitle>Vivekachudamani 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_01_Vivekachudamani.mp3" length="6818546" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:49</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_01_Vivekachudamani-a22976c5</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>Vivekachudamani 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_02_Vivekachudamani.mp3" length="6998895" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:19</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_02_Vivekachudamani-ab730b63</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>Vivekachudamani 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_03_Vivekachudamani.mp3" length="6956995" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:58</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_03_Vivekachudamani-5dd88618</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>Vivekachudamani 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_04_Vivekachudamani.mp3" length="6744880" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:12</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_04_Vivekachudamani-61b8c4ca</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>Vivekachudamani 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_05_Vivekachudamani.mp3" length="6928469" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:44</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_05_Vivekachudamani-e48395fe</guid>
@@ -77,7 +77,7 @@
       <itunes:subtitle>Vivekachudamani 06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_06_Vivekachudamani.mp3" length="6948531" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:54</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_06_Vivekachudamani-125f32e1</guid>
@@ -87,7 +87,7 @@
       <itunes:subtitle>Vivekachudamani 07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_07_Vivekachudamani.mp3" length="7004329" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:22</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_07_Vivekachudamani-1a46d7e7</guid>
@@ -97,7 +97,7 @@
       <itunes:subtitle>Vivekachudamani 08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_08_Vivekachudamani.mp3" length="6890644" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:25</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_08_Vivekachudamani-091963f6</guid>
@@ -107,7 +107,7 @@
       <itunes:subtitle>Vivekachudamani 09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_09_Vivekachudamani.mp3" length="6787721" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:33</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_09_Vivekachudamani-47a8829c</guid>
@@ -117,7 +117,7 @@
       <itunes:subtitle>Vivekachudamani 10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_10_Vivekachudamani.mp3" length="7054797" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:47</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_10_Vivekachudamani-47e2e226</guid>
@@ -127,7 +127,7 @@
       <itunes:subtitle>Vivekachudamani 11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_11_Vivekachudamani.mp3" length="6679261" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:39</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_11_Vivekachudamani-a65d075a</guid>
@@ -137,7 +137,7 @@
       <itunes:subtitle>Vivekachudamani 12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_12_Vivekachudamani.mp3" length="7004224" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:22</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_12_Vivekachudamani-0427dcf3</guid>
@@ -147,7 +147,7 @@
       <itunes:subtitle>Vivekachudamani 13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_13_Vivekachudamani.mp3" length="7028048" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:34</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_13_Vivekachudamani-1c721f3a</guid>
@@ -157,7 +157,7 @@
       <itunes:subtitle>Vivekachudamani 14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_14_Vivekachudamani.mp3" length="6964622" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:02</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_14_Vivekachudamani-1bcf5b46</guid>
@@ -167,7 +167,7 @@
       <itunes:subtitle>Vivekachudamani 15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_15_Vivekachudamani.mp3" length="5956818" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:49:38</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_15_Vivekachudamani-4c0b2a85</guid>
@@ -177,7 +177,7 @@
       <itunes:subtitle>Vivekachudamani 16</itunes:subtitle>
       <itunes:summary>Class 016</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_16_Vivekachudamani.mp3" length="7227519" type="audio/mpeg"/>
-      <pubDate>Wed, 16 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:13</itunes:duration>
       <itunes:order>16</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_16_Vivekachudamani-c27ca929</guid>
@@ -187,7 +187,7 @@
       <itunes:subtitle>Vivekachudamani 17</itunes:subtitle>
       <itunes:summary>Class 017</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_17_Vivekachudamani.mp3" length="7069426" type="audio/mpeg"/>
-      <pubDate>Thu, 17 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:54</itunes:duration>
       <itunes:order>17</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_17_Vivekachudamani-5eb5713f</guid>
@@ -197,7 +197,7 @@
       <itunes:subtitle>Vivekachudamani 18</itunes:subtitle>
       <itunes:summary>Class 018</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_18_Vivekachudamani.mp3" length="7072978" type="audio/mpeg"/>
-      <pubDate>Fri, 18 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 18 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:56</itunes:duration>
       <itunes:order>18</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_18_Vivekachudamani-08968c0a</guid>
@@ -207,7 +207,7 @@
       <itunes:subtitle>Vivekachudamani 19</itunes:subtitle>
       <itunes:summary>Class 019</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_19_Vivekachudamani.mp3" length="6952502" type="audio/mpeg"/>
-      <pubDate>Sat, 19 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 19 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:56</itunes:duration>
       <itunes:order>19</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_19_Vivekachudamani-28c60b84</guid>
@@ -217,7 +217,7 @@
       <itunes:subtitle>Vivekachudamani 20</itunes:subtitle>
       <itunes:summary>Class 020</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_20_Vivekachudamani.mp3" length="6928887" type="audio/mpeg"/>
-      <pubDate>Sun, 20 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 20 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:44</itunes:duration>
       <itunes:order>20</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_20_Vivekachudamani-94845c2b</guid>
@@ -227,7 +227,7 @@
       <itunes:subtitle>Vivekachudamani 21</itunes:subtitle>
       <itunes:summary>Class 021</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_21_Vivekachudamani.mp3" length="7061798" type="audio/mpeg"/>
-      <pubDate>Mon, 21 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 21 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:50</itunes:duration>
       <itunes:order>21</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_21_Vivekachudamani-99b4e88b</guid>
@@ -237,7 +237,7 @@
       <itunes:subtitle>Vivekachudamani 22</itunes:subtitle>
       <itunes:summary>Class 022</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_22_Vivekachudamani.mp3" length="6599222" type="audio/mpeg"/>
-      <pubDate>Tue, 22 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 22 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:59</itunes:duration>
       <itunes:order>22</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_22_Vivekachudamani-6d542fee</guid>
@@ -247,7 +247,7 @@
       <itunes:subtitle>Vivekachudamani 23</itunes:subtitle>
       <itunes:summary>Class 023</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_23_Vivekachudamani.mp3" length="6951979" type="audio/mpeg"/>
-      <pubDate>Wed, 23 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 23 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:55</itunes:duration>
       <itunes:order>23</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_23_Vivekachudamani-e639928a</guid>
@@ -257,7 +257,7 @@
       <itunes:subtitle>Vivekachudamani 24</itunes:subtitle>
       <itunes:summary>Class 024</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_24_Vivekachudamani.mp3" length="6640286" type="audio/mpeg"/>
-      <pubDate>Thu, 24 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 24 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:20</itunes:duration>
       <itunes:order>24</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_24_Vivekachudamani-fb661995</guid>
@@ -267,7 +267,7 @@
       <itunes:subtitle>Vivekachudamani 25</itunes:subtitle>
       <itunes:summary>Class 025</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_25_Vivekachudamani.mp3" length="6920632" type="audio/mpeg"/>
-      <pubDate>Fri, 25 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 25 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:40</itunes:duration>
       <itunes:order>25</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_25_Vivekachudamani-4d3f0826</guid>
@@ -277,7 +277,7 @@
       <itunes:subtitle>Vivekachudamani 26</itunes:subtitle>
       <itunes:summary>Class 026</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_26_Vivekachudamani.mp3" length="6743940" type="audio/mpeg"/>
-      <pubDate>Sat, 26 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 26 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:11</itunes:duration>
       <itunes:order>26</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_26_Vivekachudamani-357433d9</guid>
@@ -287,7 +287,7 @@
       <itunes:subtitle>Vivekachudamani 27</itunes:subtitle>
       <itunes:summary>Class 027</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_27_Vivekachudamani.mp3" length="6874866" type="audio/mpeg"/>
-      <pubDate>Sun, 27 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 27 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:17</itunes:duration>
       <itunes:order>27</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_27_Vivekachudamani-a9272b5b</guid>
@@ -297,7 +297,7 @@
       <itunes:subtitle>Vivekachudamani 28</itunes:subtitle>
       <itunes:summary>Class 028</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_28_Vivekachudamani.mp3" length="6613850" type="audio/mpeg"/>
-      <pubDate>Mon, 28 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 28 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:06</itunes:duration>
       <itunes:order>28</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_28_Vivekachudamani-03e81cf1</guid>
@@ -307,7 +307,7 @@
       <itunes:subtitle>Vivekachudamani 29</itunes:subtitle>
       <itunes:summary>Class 029</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_29_Vivekachudamani.mp3" length="6883956" type="audio/mpeg"/>
-      <pubDate>Tue, 29 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 29 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:21</itunes:duration>
       <itunes:order>29</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_29_Vivekachudamani-78ae9f44</guid>
@@ -317,7 +317,7 @@
       <itunes:subtitle>Vivekachudamani 30</itunes:subtitle>
       <itunes:summary>Class 030</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_30_Vivekachudamani.mp3" length="6863581" type="audio/mpeg"/>
-      <pubDate>Wed, 30 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 30 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:11</itunes:duration>
       <itunes:order>30</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_30_Vivekachudamani-2b21b321</guid>
@@ -327,7 +327,7 @@
       <itunes:subtitle>Vivekachudamani 31</itunes:subtitle>
       <itunes:summary>Class 031</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_31_Vivekachudamani.mp3" length="6929514" type="audio/mpeg"/>
-      <pubDate>Thu, 31 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 31 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:44</itunes:duration>
       <itunes:order>31</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_31_Vivekachudamani-c73863e6</guid>
@@ -337,7 +337,7 @@
       <itunes:subtitle>Vivekachudamani 32</itunes:subtitle>
       <itunes:summary>Class 032</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_32_Vivekachudamani.mp3" length="6726386" type="audio/mpeg"/>
-      <pubDate>Fri, 01 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 01 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:03</itunes:duration>
       <itunes:order>32</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_32_Vivekachudamani-63f169bc</guid>
@@ -347,7 +347,7 @@
       <itunes:subtitle>Vivekachudamani 33</itunes:subtitle>
       <itunes:summary>Class 033</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_33_Vivekachudamani.mp3" length="6987401" type="audio/mpeg"/>
-      <pubDate>Sat, 02 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 02 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:13</itunes:duration>
       <itunes:order>33</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_33_Vivekachudamani-ce4b2e60</guid>
@@ -357,7 +357,7 @@
       <itunes:subtitle>Vivekachudamani 34</itunes:subtitle>
       <itunes:summary>Class 034</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_34_Vivekachudamani.mp3" length="6589504" type="audio/mpeg"/>
-      <pubDate>Sun, 03 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 03 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:54</itunes:duration>
       <itunes:order>34</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_34_Vivekachudamani-6b2306b7</guid>
@@ -367,7 +367,7 @@
       <itunes:subtitle>Vivekachudamani 35</itunes:subtitle>
       <itunes:summary>Class 035</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_35_Vivekachudamani.mp3" length="6854177" type="audio/mpeg"/>
-      <pubDate>Mon, 04 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 04 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:07</itunes:duration>
       <itunes:order>35</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_35_Vivekachudamani-b8fd1086</guid>
@@ -377,7 +377,7 @@
       <itunes:subtitle>Vivekachudamani 36</itunes:subtitle>
       <itunes:summary>Class 036</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_36_Vivekachudamani.mp3" length="6927215" type="audio/mpeg"/>
-      <pubDate>Tue, 05 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 05 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:43</itunes:duration>
       <itunes:order>36</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_36_Vivekachudamani-7e2d0016</guid>
@@ -387,7 +387,7 @@
       <itunes:subtitle>Vivekachudamani 37</itunes:subtitle>
       <itunes:summary>Class 037</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_37_Vivekachudamani.mp3" length="6958771" type="audio/mpeg"/>
-      <pubDate>Wed, 06 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 06 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:59</itunes:duration>
       <itunes:order>37</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_37_Vivekachudamani-b1c49410</guid>
@@ -397,7 +397,7 @@
       <itunes:subtitle>Vivekachudamani 38</itunes:subtitle>
       <itunes:summary>Class 038</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_38_Vivekachudamani.mp3" length="7005164" type="audio/mpeg"/>
-      <pubDate>Thu, 07 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 07 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:22</itunes:duration>
       <itunes:order>38</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_38_Vivekachudamani-2e6751fb</guid>
@@ -407,7 +407,7 @@
       <itunes:subtitle>Vivekachudamani 39</itunes:subtitle>
       <itunes:summary>Class 039</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_39_Vivekachudamani.mp3" length="7174960" type="audio/mpeg"/>
-      <pubDate>Fri, 08 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 08 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:47</itunes:duration>
       <itunes:order>39</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_39_Vivekachudamani-64d05cdb</guid>
@@ -417,7 +417,7 @@
       <itunes:subtitle>Vivekachudamani 40</itunes:subtitle>
       <itunes:summary>Class 040</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_40_Vivekachudamani.mp3" length="6934007" type="audio/mpeg"/>
-      <pubDate>Sat, 09 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 09 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:47</itunes:duration>
       <itunes:order>40</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_40_Vivekachudamani-d29a2588</guid>
@@ -427,7 +427,7 @@
       <itunes:subtitle>Vivekachudamani 41</itunes:subtitle>
       <itunes:summary>Class 041</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_41_Vivekachudamani.mp3" length="6920528" type="audio/mpeg"/>
-      <pubDate>Sun, 10 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 10 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:40</itunes:duration>
       <itunes:order>41</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_41_Vivekachudamani-59edea7c</guid>
@@ -437,7 +437,7 @@
       <itunes:subtitle>Vivekachudamani 42</itunes:subtitle>
       <itunes:summary>Class 042</itunes:summary>
       <enclosure url="https://archive.org/download/VivekachudamaniClasses/VC_42_Vivekachudamani.mp3" length="6899839" type="audio/mpeg"/>
-      <pubDate>Mon, 11 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 11 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:29</itunes:duration>
       <itunes:order>42</itunes:order>
       <guid isPermaLink="false">poornalayam.org/VivekachudamaniClasses/VC_42_Vivekachudamani-87cb9745</guid>

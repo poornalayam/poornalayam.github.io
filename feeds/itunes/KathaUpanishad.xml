@@ -23,13 +23,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>KATHA_UPANISHAD_01</title>
       <itunes:subtitle>KATHA_UPANISHAD_01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_01_Katha_Upanishad.mp3" length="7063671" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:51</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_01_Katha_Upanishad-5d6c6466</guid>
@@ -39,7 +39,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_02_Katha_Upanishad.mp3" length="6940686" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:50</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_02_Katha_Upanishad-5c1f9ee3</guid>
@@ -49,7 +49,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_03_Katha_Upanishad.mp3" length="6892621" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:26</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_03_Katha_Upanishad-5d375012</guid>
@@ -59,7 +59,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_04_Katha_Upanishad.mp3" length="7022293" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:31</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_04_Katha_Upanishad-f4d739d1</guid>
@@ -69,7 +69,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_05_Katha_Upanishad.mp3" length="6898890" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:29</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_05_Katha_Upanishad-7d7ba509</guid>
@@ -79,7 +79,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_06_Katha_Upanishad.mp3" length="6928774" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:44</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_06_Katha_Upanishad-6625998a</guid>
@@ -89,7 +89,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_07_Katha_Upanishad.mp3" length="6808193" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:44</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_07_Katha_Upanishad-4e0d2096</guid>
@@ -99,7 +99,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_08_Katha_Upanishad.mp3" length="6942254" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:51</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_08_Katha_Upanishad-767a8936</guid>
@@ -109,7 +109,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_09_Katha_Upanishad.mp3" length="6968272" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:04</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_09_Katha_Upanishad-520c22f7</guid>
@@ -119,7 +119,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_10_Katha_Upanishad.mp3" length="7012366" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:26</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_10_Katha_Upanishad-7910ea43</guid>
@@ -129,7 +129,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_11_Katha_Upanishad.mp3" length="6833898" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:56</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_11_Katha_Upanishad-5393165e</guid>
@@ -139,7 +139,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_12_Katha_Upanishad.mp3" length="6917385" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:38</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_12_Katha_Upanishad-97b567d6</guid>
@@ -149,7 +149,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_13_Katha_Upanishad.mp3" length="6555328" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:37</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_13_Katha_Upanishad-f20224bb</guid>
@@ -159,7 +159,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_14_Katha_Upanishad.mp3" length="6838913" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:59</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_14_Katha_Upanishad-5743c4f2</guid>
@@ -169,7 +169,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_15_Katha_Upanishad.mp3" length="7027204" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:33</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_15_Katha_Upanishad-188ce6ce</guid>
@@ -179,7 +179,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_16</itunes:subtitle>
       <itunes:summary>Class 016</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_16_Katha_Upanishad.mp3" length="7159174" type="audio/mpeg"/>
-      <pubDate>Wed, 16 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:39</itunes:duration>
       <itunes:order>16</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_16_Katha_Upanishad-c88f2397</guid>
@@ -189,7 +189,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_17</itunes:subtitle>
       <itunes:summary>Class 017</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_17_Katha_Upanishad.mp3" length="7001290" type="audio/mpeg"/>
-      <pubDate>Thu, 17 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:20</itunes:duration>
       <itunes:order>17</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_17_Katha_Upanishad-a46d7310</guid>
@@ -199,7 +199,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_18</itunes:subtitle>
       <itunes:summary>Class 018</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_18_Katha_Upanishad.mp3" length="6977258" type="audio/mpeg"/>
-      <pubDate>Fri, 18 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 18 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:08</itunes:duration>
       <itunes:order>18</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_18_Katha_Upanishad-173a1afe</guid>
@@ -209,7 +209,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_19</itunes:subtitle>
       <itunes:summary>Class 019</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_19_Katha_Upanishad.mp3" length="7535442" type="audio/mpeg"/>
-      <pubDate>Sat, 19 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 19 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:02:47</itunes:duration>
       <itunes:order>19</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_19_Katha_Upanishad-3b34d612</guid>
@@ -219,7 +219,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_20</itunes:subtitle>
       <itunes:summary>Class 020</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_20_Katha_Upanishad.mp3" length="7048206" type="audio/mpeg"/>
-      <pubDate>Sun, 20 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 20 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:44</itunes:duration>
       <itunes:order>20</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_20_Katha_Upanishad-082e0791</guid>
@@ -229,7 +229,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_21</itunes:subtitle>
       <itunes:summary>Class 021</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_21_Katha_Upanishad.mp3" length="7090107" type="audio/mpeg"/>
-      <pubDate>Mon, 21 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 21 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:05</itunes:duration>
       <itunes:order>21</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_21_Katha_Upanishad-801b9d26</guid>
@@ -239,7 +239,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_22</itunes:subtitle>
       <itunes:summary>Class 022</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_22_Katha_Upanishad.mp3" length="7104631" type="audio/mpeg"/>
-      <pubDate>Tue, 22 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 22 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:12</itunes:duration>
       <itunes:order>22</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_22_Katha_Upanishad-a3c7b46c</guid>
@@ -249,7 +249,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_23</itunes:subtitle>
       <itunes:summary>Class 023</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_23_Katha_Upanishad.mp3" length="6984259" type="audio/mpeg"/>
-      <pubDate>Wed, 23 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 23 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:12</itunes:duration>
       <itunes:order>23</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_23_Katha_Upanishad-c1b5daf7</guid>
@@ -259,7 +259,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_24</itunes:subtitle>
       <itunes:summary>Class 024</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_24_Katha_Upanishad.mp3" length="7077672" type="audio/mpeg"/>
-      <pubDate>Thu, 24 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 24 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:58</itunes:duration>
       <itunes:order>24</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_24_Katha_Upanishad-eccf326b</guid>
@@ -269,7 +269,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_25</itunes:subtitle>
       <itunes:summary>Class 025</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_25_Katha_Upanishad.mp3" length="6913521" type="audio/mpeg"/>
-      <pubDate>Fri, 25 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 25 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:36</itunes:duration>
       <itunes:order>25</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_25_Katha_Upanishad-1123e02a</guid>
@@ -279,7 +279,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_26</itunes:subtitle>
       <itunes:summary>Class 026</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_26_Katha_Upanishad.mp3" length="7026265" type="audio/mpeg"/>
-      <pubDate>Sat, 26 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 26 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:33</itunes:duration>
       <itunes:order>26</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_26_Katha_Upanishad-9095b548</guid>
@@ -289,7 +289,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_27</itunes:subtitle>
       <itunes:summary>Class 027</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_27_Katha_Upanishad.mp3" length="7066387" type="audio/mpeg"/>
-      <pubDate>Sun, 27 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 27 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:53</itunes:duration>
       <itunes:order>27</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_27_Katha_Upanishad-a4da9c26</guid>
@@ -299,7 +299,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_28</itunes:subtitle>
       <itunes:summary>Class 028</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_28_Katha_Upanishad.mp3" length="7034518" type="audio/mpeg"/>
-      <pubDate>Mon, 28 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 28 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:37</itunes:duration>
       <itunes:order>28</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_28_Katha_Upanishad-f8481492</guid>
@@ -309,7 +309,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_29</itunes:subtitle>
       <itunes:summary>Class 029</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_29_Katha_Upanishad.mp3" length="6938805" type="audio/mpeg"/>
-      <pubDate>Tue, 29 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 29 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:49</itunes:duration>
       <itunes:order>29</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_29_Katha_Upanishad-b44a7a97</guid>
@@ -319,7 +319,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_30</itunes:subtitle>
       <itunes:summary>Class 030</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_30_Katha_Upanishad.mp3" length="7046534" type="audio/mpeg"/>
-      <pubDate>Wed, 30 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 30 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:43</itunes:duration>
       <itunes:order>30</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_30_Katha_Upanishad-61b83ac9</guid>
@@ -329,7 +329,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_31</itunes:subtitle>
       <itunes:summary>Class 031</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_31_Katha_Upanishad.mp3" length="7043922" type="audio/mpeg"/>
-      <pubDate>Thu, 31 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 31 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:41</itunes:duration>
       <itunes:order>31</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_31_Katha_Upanishad-87a22e6e</guid>
@@ -339,7 +339,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_32</itunes:subtitle>
       <itunes:summary>Class 032</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_32_Katha_Upanishad.mp3" length="6894188" type="audio/mpeg"/>
-      <pubDate>Fri, 01 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 01 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:27</itunes:duration>
       <itunes:order>32</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_32_Katha_Upanishad-b3529fc6</guid>
@@ -349,7 +349,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_33</itunes:subtitle>
       <itunes:summary>Class 033</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_33_Katha_Upanishad.mp3" length="6736513" type="audio/mpeg"/>
-      <pubDate>Sat, 02 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 02 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:08</itunes:duration>
       <itunes:order>33</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_33_Katha_Upanishad-ffe416ce</guid>
@@ -359,7 +359,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_34</itunes:subtitle>
       <itunes:summary>Class 034</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_34_Katha_Upanishad.mp3" length="7108810" type="audio/mpeg"/>
-      <pubDate>Sun, 03 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 03 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:14</itunes:duration>
       <itunes:order>34</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_34_Katha_Upanishad-ae2148b4</guid>
@@ -369,7 +369,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_35</itunes:subtitle>
       <itunes:summary>Class 035</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_35_Katha_Upanishad.mp3" length="7067328" type="audio/mpeg"/>
-      <pubDate>Mon, 04 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 04 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:53</itunes:duration>
       <itunes:order>35</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_35_Katha_Upanishad-820008b4</guid>
@@ -379,7 +379,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_36</itunes:subtitle>
       <itunes:summary>Class 036</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_36_Katha_Upanishad.mp3" length="6899204" type="audio/mpeg"/>
-      <pubDate>Tue, 05 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 05 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:29</itunes:duration>
       <itunes:order>36</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_36_Katha_Upanishad-eee065ed</guid>
@@ -389,7 +389,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_37</itunes:subtitle>
       <itunes:summary>Class 037</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_37_Katha_Upanishad.mp3" length="6856885" type="audio/mpeg"/>
-      <pubDate>Wed, 06 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 06 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:08</itunes:duration>
       <itunes:order>37</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_37_Katha_Upanishad-ac8e89e0</guid>
@@ -399,7 +399,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_38</itunes:subtitle>
       <itunes:summary>Class 038</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_38_Katha_Upanishad.mp3" length="6736513" type="audio/mpeg"/>
-      <pubDate>Thu, 07 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 07 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:08</itunes:duration>
       <itunes:order>38</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_38_Katha_Upanishad-4e29a22c</guid>
@@ -409,7 +409,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_39</itunes:subtitle>
       <itunes:summary>Class 039</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_39_Katha_Upanishad.mp3" length="6944030" type="audio/mpeg"/>
-      <pubDate>Fri, 08 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 08 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:52</itunes:duration>
       <itunes:order>39</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_39_Katha_Upanishad-595de66e</guid>
@@ -419,7 +419,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_40</itunes:subtitle>
       <itunes:summary>Class 040</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_40_Katha_Upanishad.mp3" length="7192716" type="audio/mpeg"/>
-      <pubDate>Sat, 09 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 09 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:56</itunes:duration>
       <itunes:order>40</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_40_Katha_Upanishad-573c5271</guid>
@@ -429,7 +429,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_41</itunes:subtitle>
       <itunes:summary>Class 041</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_41_Katha_Upanishad.mp3" length="6931596" type="audio/mpeg"/>
-      <pubDate>Sun, 10 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 10 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:45</itunes:duration>
       <itunes:order>41</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_41_Katha_Upanishad-663c07c4</guid>
@@ -439,7 +439,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_42</itunes:subtitle>
       <itunes:summary>Class 042</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_42_Katha_Upanishad.mp3" length="7186342" type="audio/mpeg"/>
-      <pubDate>Mon, 11 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 11 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:53</itunes:duration>
       <itunes:order>42</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_42_Katha_Upanishad-a6a35ab5</guid>
@@ -449,7 +449,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_43</itunes:subtitle>
       <itunes:summary>Class 043</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_43_Katha_Upanishad.mp3" length="7217480" type="audio/mpeg"/>
-      <pubDate>Tue, 12 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 12 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:08</itunes:duration>
       <itunes:order>43</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_43_Katha_Upanishad-727a0843</guid>
@@ -459,7 +459,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_44</itunes:subtitle>
       <itunes:summary>Class 044</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_44_Katha_Upanishad.mp3" length="7136918" type="audio/mpeg"/>
-      <pubDate>Wed, 13 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 13 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:28</itunes:duration>
       <itunes:order>44</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_44_Katha_Upanishad-30c40848</guid>
@@ -469,7 +469,7 @@
       <itunes:subtitle>KATHA_UPANISHAD_45</itunes:subtitle>
       <itunes:summary>Class 045</itunes:summary>
       <enclosure url="https://archive.org/download/KathaUpanishad/KT_45_Katha_Upanishad.mp3" length="7212151" type="audio/mpeg"/>
-      <pubDate>Thu, 14 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 14 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:06</itunes:duration>
       <itunes:order>45</itunes:order>
       <guid isPermaLink="false">poornalayam.org/KathaUpanishad/KT_45_Katha_Upanishad-cb45401f</guid>

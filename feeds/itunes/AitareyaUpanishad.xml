@@ -21,13 +21,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>AITAREYA_UPANISHAD_01</title>
       <itunes:subtitle>AITAREYA_UPANISHAD_01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_01_Aitareya_Upanishad.mp3" length="6307798" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:52:33</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_01_Aitareya_Upanishad-1e5d7e1a</guid>
@@ -37,7 +37,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_02_Aitareya_Upanishad.mp3" length="6706844" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:53</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_02_Aitareya_Upanishad-58d32cb0</guid>
@@ -47,7 +47,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_03_Aitareya_Upanishad.mp3" length="6503820" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:11</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_03_Aitareya_Upanishad-10de5f7a</guid>
@@ -57,7 +57,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_04_Aitareya_Upanishad.mp3" length="6383971" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:11</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_04_Aitareya_Upanishad-f1cb52a0</guid>
@@ -67,7 +67,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_05_Aitareya_Upanishad.mp3" length="6340921" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:52:50</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_05_Aitareya_Upanishad-a56508ba</guid>
@@ -77,7 +77,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_06_Aitareya_Upanishad.mp3" length="6738922" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:09</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_06_Aitareya_Upanishad-8c3f6d38</guid>
@@ -87,7 +87,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_07_Aitareya_Upanishad.mp3" length="6454919" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:47</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_07_Aitareya_Upanishad-1df31fe1</guid>
@@ -97,7 +97,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_08_Aitareya_Upanishad.mp3" length="6722831" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:01</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_08_Aitareya_Upanishad-7f5ed553</guid>
@@ -107,7 +107,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_09_Aitareya_Upanishad.mp3" length="6699739" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:49</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_09_Aitareya_Upanishad-2ebe4460</guid>
@@ -117,7 +117,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_10_Aitareya_Upanishad.mp3" length="6537571" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:28</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_10_Aitareya_Upanishad-32a881f9</guid>
@@ -127,7 +127,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_11_Aitareya_Upanishad.mp3" length="6699634" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:55:49</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_11_Aitareya_Upanishad-a817771d</guid>
@@ -137,7 +137,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_12_Aitareya_Upanishad.mp3" length="6803393" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:41</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_12_Aitareya_Upanishad-6485403d</guid>
@@ -147,7 +147,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_13_Aitareya_Upanishad.mp3" length="6550109" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:54:35</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_13_Aitareya_Upanishad-8b946227</guid>
@@ -157,7 +157,7 @@
       <itunes:subtitle>AITAREYA_UPANISHAD_14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/AitareyaUpanishad/AU_14_Aitareya_Upanishad.mp3" length="6437365" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:53:38</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/AitareyaUpanishad/AU_14_Aitareya_Upanishad-f04e860f</guid>

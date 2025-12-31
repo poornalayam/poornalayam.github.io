@@ -25,13 +25,13 @@
       <itunes:category text="Hinduism"/>
     </itunes:category>
     <itunes:complete>yes</itunes:complete>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:explicit>false</itunes:explicit>
     <item>
       <title>Bhagavad Gita Chap 13 Class 01</title>
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 01</itunes:subtitle>
       <itunes:summary>Class 001</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_01_Gita_Chapter_XIII.mp3" length="7033401" type="audio/mpeg"/>
-      <pubDate>Tue, 01 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 01 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:36</itunes:duration>
       <itunes:order>1</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_01_Gita_Chapter_XIII-8e0b0925</guid>
@@ -41,7 +41,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 02</itunes:subtitle>
       <itunes:summary>Class 002</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_02_Gita_Chapter_XIII.mp3" length="7124411" type="audio/mpeg"/>
-      <pubDate>Wed, 02 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:22</itunes:duration>
       <itunes:order>2</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_02_Gita_Chapter_XIII-5c6711ea</guid>
@@ -51,7 +51,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 03</itunes:subtitle>
       <itunes:summary>Class 003</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_03_Gita_Chapter_XIII.mp3" length="7140816" type="audio/mpeg"/>
-      <pubDate>Thu, 03 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 03 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:30</itunes:duration>
       <itunes:order>3</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_03_Gita_Chapter_XIII-709c570e</guid>
@@ -61,7 +61,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 04</itunes:subtitle>
       <itunes:summary>Class 004</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_04_Gita_Chapter_XIII.mp3" length="7200375" type="audio/mpeg"/>
-      <pubDate>Fri, 04 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 04 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>1:00:00</itunes:duration>
       <itunes:order>4</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_04_Gita_Chapter_XIII-324d2b54</guid>
@@ -71,7 +71,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 05</itunes:subtitle>
       <itunes:summary>Class 005</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_05_Gita_Chapter_XIII.mp3" length="6849290" type="audio/mpeg"/>
-      <pubDate>Sat, 05 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 05 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:04</itunes:duration>
       <itunes:order>5</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_05_Gita_Chapter_XIII-2c11c76c</guid>
@@ -81,7 +81,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 06</itunes:subtitle>
       <itunes:summary>Class 006</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_06_Gita_Chapter_XIII.mp3" length="6846886" type="audio/mpeg"/>
-      <pubDate>Sun, 06 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:03</itunes:duration>
       <itunes:order>6</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_06_Gita_Chapter_XIII-bcbafde3</guid>
@@ -91,7 +91,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 07</itunes:subtitle>
       <itunes:summary>Class 007</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_07_Gita_Chapter_XIII.mp3" length="6925776" type="audio/mpeg"/>
-      <pubDate>Mon, 07 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 07 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:42</itunes:duration>
       <itunes:order>7</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_07_Gita_Chapter_XIII-6fc00366</guid>
@@ -101,7 +101,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 08</itunes:subtitle>
       <itunes:summary>Class 008</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_08_Gita_Chapter_XIII.mp3" length="6932777" type="audio/mpeg"/>
-      <pubDate>Tue, 08 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 08 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:46</itunes:duration>
       <itunes:order>8</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_08_Gita_Chapter_XIII-87353eeb</guid>
@@ -111,7 +111,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 09</itunes:subtitle>
       <itunes:summary>Class 009</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_09_Gita_Chapter_XIII.mp3" length="6867262" type="audio/mpeg"/>
-      <pubDate>Wed, 09 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:13</itunes:duration>
       <itunes:order>9</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_09_Gita_Chapter_XIII-988fce79</guid>
@@ -121,7 +121,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 10</itunes:subtitle>
       <itunes:summary>Class 010</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_10_Gita_Chapter_XIII.mp3" length="7022220" type="audio/mpeg"/>
-      <pubDate>Thu, 10 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 10 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:31</itunes:duration>
       <itunes:order>10</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_10_Gita_Chapter_XIII-cda64933</guid>
@@ -131,7 +131,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 11</itunes:subtitle>
       <itunes:summary>Class 011</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_11_Gita_Chapter_XIII.mp3" length="6890250" type="audio/mpeg"/>
-      <pubDate>Fri, 11 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 11 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:25</itunes:duration>
       <itunes:order>11</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_11_Gita_Chapter_XIII-4b877828</guid>
@@ -141,7 +141,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 12</itunes:subtitle>
       <itunes:summary>Class 012</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_12_Gita_Chapter_XIII.mp3" length="6919507" type="audio/mpeg"/>
-      <pubDate>Sat, 12 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:39</itunes:duration>
       <itunes:order>12</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_12_Gita_Chapter_XIII-8e890b4b</guid>
@@ -151,7 +151,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 13</itunes:subtitle>
       <itunes:summary>Class 013</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_13_Gita_Chapter_XIII.mp3" length="6811046" type="audio/mpeg"/>
-      <pubDate>Sun, 13 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 13 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:45</itunes:duration>
       <itunes:order>13</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_13_Gita_Chapter_XIII-72217dca</guid>
@@ -161,7 +161,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 14</itunes:subtitle>
       <itunes:summary>Class 014</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_14_Gita_Chapter_XIII.mp3" length="6917313" type="audio/mpeg"/>
-      <pubDate>Mon, 14 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 14 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:38</itunes:duration>
       <itunes:order>14</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_14_Gita_Chapter_XIII-610d25a2</guid>
@@ -171,7 +171,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 15</itunes:subtitle>
       <itunes:summary>Class 015</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_15_Gita_Chapter_XIII.mp3" length="7120232" type="audio/mpeg"/>
-      <pubDate>Tue, 15 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 15 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:20</itunes:duration>
       <itunes:order>15</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_15_Gita_Chapter_XIII-dbb29b0c</guid>
@@ -181,7 +181,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 16</itunes:subtitle>
       <itunes:summary>Class 016</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_16_Gita_Chapter_XIII.mp3" length="6923268" type="audio/mpeg"/>
-      <pubDate>Wed, 16 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:41</itunes:duration>
       <itunes:order>16</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_16_Gita_Chapter_XIII-a5192598</guid>
@@ -191,7 +191,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 17</itunes:subtitle>
       <itunes:summary>Class 017</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_17_Gita_Chapter_XIII.mp3" length="6911043" type="audio/mpeg"/>
-      <pubDate>Thu, 17 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 17 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:35</itunes:duration>
       <itunes:order>17</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_17_Gita_Chapter_XIII-5cdbe312</guid>
@@ -201,7 +201,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 18</itunes:subtitle>
       <itunes:summary>Class 018</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_18_Gita_Chapter_XIII.mp3" length="6950331" type="audio/mpeg"/>
-      <pubDate>Fri, 18 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 18 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:55</itunes:duration>
       <itunes:order>18</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_18_Gita_Chapter_XIII-eeef90b2</guid>
@@ -211,7 +211,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 19</itunes:subtitle>
       <itunes:summary>Class 019</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_19_Gita_Chapter_XIII.mp3" length="6878442" type="audio/mpeg"/>
-      <pubDate>Sat, 19 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 19 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:19</itunes:duration>
       <itunes:order>19</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_19_Gita_Chapter_XIII-8ce6c095</guid>
@@ -221,7 +221,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 20</itunes:subtitle>
       <itunes:summary>Class 020</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_20_Gita_Chapter_XIII.mp3" length="6841035" type="audio/mpeg"/>
-      <pubDate>Sun, 20 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 20 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:00</itunes:duration>
       <itunes:order>20</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_20_Gita_Chapter_XIII-c6fc7e1f</guid>
@@ -231,7 +231,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 21</itunes:subtitle>
       <itunes:summary>Class 021</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_21_Gita_Chapter_XIII.mp3" length="6912402" type="audio/mpeg"/>
-      <pubDate>Mon, 21 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 21 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:36</itunes:duration>
       <itunes:order>21</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_21_Gita_Chapter_XIII-831d3d6c</guid>
@@ -241,7 +241,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 22</itunes:subtitle>
       <itunes:summary>Class 022</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_22_Gita_Chapter_XIII.mp3" length="6894534" type="audio/mpeg"/>
-      <pubDate>Tue, 22 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 22 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:27</itunes:duration>
       <itunes:order>22</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_22_Gita_Chapter_XIII-575c50cf</guid>
@@ -251,7 +251,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 23</itunes:subtitle>
       <itunes:summary>Class 023</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_23_Gita_Chapter_XIII.mp3" length="7006442" type="audio/mpeg"/>
-      <pubDate>Wed, 23 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 23 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:23</itunes:duration>
       <itunes:order>23</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_23_Gita_Chapter_XIII-bde32ecc</guid>
@@ -261,7 +261,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 24</itunes:subtitle>
       <itunes:summary>Class 024</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_24_Gita_Chapter_XIII.mp3" length="6874785" type="audio/mpeg"/>
-      <pubDate>Thu, 24 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 24 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:17</itunes:duration>
       <itunes:order>24</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_24_Gita_Chapter_XIII-dfe2c02d</guid>
@@ -271,7 +271,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 25</itunes:subtitle>
       <itunes:summary>Class 025</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_25_Gita_Chapter_XIII.mp3" length="7084496" type="audio/mpeg"/>
-      <pubDate>Fri, 25 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 25 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:59:02</itunes:duration>
       <itunes:order>25</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_25_Gita_Chapter_XIII-eccc5ae2</guid>
@@ -281,7 +281,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 26</itunes:subtitle>
       <itunes:summary>Class 026</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_26_Gita_Chapter_XIII.mp3" length="7036326" type="audio/mpeg"/>
-      <pubDate>Sat, 26 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 26 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:38</itunes:duration>
       <itunes:order>26</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_26_Gita_Chapter_XIII-d9aa6707</guid>
@@ -291,7 +291,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 27</itunes:subtitle>
       <itunes:summary>Class 027</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_27_Gita_Chapter_XIII.mp3" length="6869456" type="audio/mpeg"/>
-      <pubDate>Sun, 27 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 27 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:14</itunes:duration>
       <itunes:order>27</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_27_Gita_Chapter_XIII-b529ee12</guid>
@@ -301,7 +301,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 28</itunes:subtitle>
       <itunes:summary>Class 028</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_28_Gita_Chapter_XIII.mp3" length="6872277" type="audio/mpeg"/>
-      <pubDate>Mon, 28 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 28 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:16</itunes:duration>
       <itunes:order>28</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_28_Gita_Chapter_XIII-d34c4210</guid>
@@ -311,7 +311,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 29</itunes:subtitle>
       <itunes:summary>Class 029</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_29_Gita_Chapter_XIII.mp3" length="6818988" type="audio/mpeg"/>
-      <pubDate>Tue, 29 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 29 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:49</itunes:duration>
       <itunes:order>29</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_29_Gita_Chapter_XIII-4a7a561e</guid>
@@ -321,7 +321,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 30</itunes:subtitle>
       <itunes:summary>Class 030</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_30_Gita_Chapter_XIII.mp3" length="6789104" type="audio/mpeg"/>
-      <pubDate>Wed, 30 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 30 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:34</itunes:duration>
       <itunes:order>30</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_30_Gita_Chapter_XIII-2258b807</guid>
@@ -331,7 +331,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 31</itunes:subtitle>
       <itunes:summary>Class 031</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_31_Gita_Chapter_XIII.mp3" length="6797149" type="audio/mpeg"/>
-      <pubDate>Thu, 31 January 2019 06:00:00 IST</pubDate>
+      <pubDate>Thu, 31 Jan 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:38</itunes:duration>
       <itunes:order>31</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_31_Gita_Chapter_XIII-9241c68f</guid>
@@ -341,7 +341,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 32</itunes:subtitle>
       <itunes:summary>Class 032</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_32_Gita_Chapter_XIII.mp3" length="6807076" type="audio/mpeg"/>
-      <pubDate>Fri, 01 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Fri, 01 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:56:43</itunes:duration>
       <itunes:order>32</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_32_Gita_Chapter_XIII-1915b4bb</guid>
@@ -351,7 +351,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 33</itunes:subtitle>
       <itunes:summary>Class 033</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_33_Gita_Chapter_XIII.mp3" length="6879696" type="audio/mpeg"/>
-      <pubDate>Sat, 02 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sat, 02 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:19</itunes:duration>
       <itunes:order>33</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_33_Gita_Chapter_XIII-cf948f23</guid>
@@ -361,7 +361,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 34</itunes:subtitle>
       <itunes:summary>Class 034</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_34_Gita_Chapter_XIII.mp3" length="6912819" type="audio/mpeg"/>
-      <pubDate>Sun, 03 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Sun, 03 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:36</itunes:duration>
       <itunes:order>34</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_34_Gita_Chapter_XIII-7d793d49</guid>
@@ -371,7 +371,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 35</itunes:subtitle>
       <itunes:summary>Class 035</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_35_Gita_Chapter_XIII.mp3" length="6882099" type="audio/mpeg"/>
-      <pubDate>Mon, 04 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Mon, 04 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:21</itunes:duration>
       <itunes:order>35</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_35_Gita_Chapter_XIII-059bf13c</guid>
@@ -381,7 +381,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 36</itunes:subtitle>
       <itunes:summary>Class 036</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_36_Gita_Chapter_XIII.mp3" length="6946361" type="audio/mpeg"/>
-      <pubDate>Tue, 05 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Tue, 05 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:57:53</itunes:duration>
       <itunes:order>36</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_36_Gita_Chapter_XIII-be46052a</guid>
@@ -391,7 +391,7 @@
       <itunes:subtitle>Bhagavad Gita Chap 13 Class 37</itunes:subtitle>
       <itunes:summary>Class 037</itunes:summary>
       <enclosure url="https://archive.org/download/BhagavadGitaCh13/BG_37_Gita_Chapter_XIII.mp3" length="6979275" type="audio/mpeg"/>
-      <pubDate>Wed, 06 February 2019 06:00:00 IST</pubDate>
+      <pubDate>Wed, 06 Feb 2019 06:00:00 +0530</pubDate>
       <itunes:duration>0:58:09</itunes:duration>
       <itunes:order>37</itunes:order>
       <guid isPermaLink="false">poornalayam.org/BhagavadGitaCh13/BG_37_Gita_Chapter_XIII-66f0d7e6</guid>
